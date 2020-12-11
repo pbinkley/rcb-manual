@@ -1,6 +1,7 @@
 ---
-section: Chapter I title: The Setting of the Problem of Reproducing
-Research Materials
+section: Chapter I
+title: The Setting of the Problem of Reproducing Research Materials
+layout: narrative
 ---
 
 Research in the social sciences and humanities is unlike research in
@@ -35,10 +36,7 @@ was formed in April, 1932, to grapple with this problem, and the
 American <col 2> Library Association Committee on Bibliography has
 long been working upon it.[^n1]
 
-[^n1]: See "A Restatement of the A.L.A. Plan for the Promotion of
-Research Library Service by Cooperative Methods," made for the A.L.A.
-at the request of the Secretary, by the Chairman, November 3, 1930.
-Washington, D.C., 1930.
+[^n1]: See "A Restatement of the A.L.A. Plan for the Promotion of Research Library Service by Cooperative Methods," made for the A.L.A. at the request of the Secretary, by the Chairman, November 3, 1930. Washington, D.C., 1930.
 
 In dealing with the problem of research materials, three interests
 are to be distinguished: those of the scholar as a producer, of the
