@@ -4,7 +4,7 @@ title: The Setting of the Problem of Reproducing Research Materials
 layout: narrative
 ---
 
-Research in the social sciences and humanities is unlike research in
+{% include pagebreak.html page="1" image="0019"%} Research in the social sciences and humanities is unlike research in
 the natural sciences in that it uses written texts as its principal
 material. The first duty of scholarship is to protect and preserve
 original writings, the loss of which would be irretrievable. Except
@@ -64,8 +64,8 @@ the production and in the distribution of material.
 
 In the production of books the line of technical development has been
 in the direction of lower costs for larger editions. Rotary presses
-and wood-pulp paper, as well as the sales and promotion policies <p
-2> of publishers, emphasize the importance of securing a wide market.
+and wood-pulp paper, as well as the sales and promotion policies {% include pagebreak.html page="2" image="0020"%} of
+publishers, emphasize the importance of securing a wide market.
 But scholarship, with its tendency to increased specialization, has
 been constantly diminishing the number of probable users of any given
 scholarly publication. Publishers' requirements are met with
