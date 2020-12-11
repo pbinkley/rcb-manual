@@ -33,7 +33,7 @@ whole system of research libraries, cooperating with each other and
 allocating responsibilities among themselves, will be able to supply
 the research scholar's needs. The Association of Research Libraries
 was formed in April, 1932, to grapple with this problem, and the
-American <col 2> Library Association Committee on Bibliography has
+American {% include columnbreak.html col="2" page="1" %} Library Association Committee on Bibliography has
 long been working upon it.[^n1]
 
 [^n1]: See "A Restatement of the A.L.A. Plan for the Promotion of Research Library Service by Cooperative Methods," made for the A.L.A. at the request of the Secretary, by the Chairman, November 3, 1930. Washington, D.C., 1930.
@@ -91,7 +91,7 @@ An inquiry into the techniques of reproducing research materials is
 called for at the present time because there are coming to light new
 processes and devices which, taken in their entirety, promise to have
 an impact on the intellectual world comparable with that of the
-invention of printing. The typewriter and the photo~ <col 2> stat
+invention of printing. The typewriter and the photo{% include columnbreak.html col="2" page="2"%}stat
 were the precursors of the array of new devices, among which the
 planograph, or photo-offset, and the miniature film copy have the
 most interesting possible applications. The photo-offset process now
