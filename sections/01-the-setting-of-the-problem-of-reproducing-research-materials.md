@@ -64,7 +64,7 @@ the production and in the distribution of material.
 
 In the production of books the line of technical development has been
 in the direction of lower costs for larger editions. Rotary presses
-and wood-pulp paper, as well as the sales and promotion policies {% include pagebreak.html page="2" image="0020"%} of
+and wood-pulp paper, as well as the sales and promotion policies {% include pagebreak.html page="2" image="0020" %} of
 publishers, emphasize the importance of securing a wide market.
 But scholarship, with its tendency to increased specialization, has
 been constantly diminishing the number of probable users of any given

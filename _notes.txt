@@ -1,0 +1,8 @@
+
+IA item: https://archive.org/details/manualonmethodso00robe
+
+IIIF manifest template: https://iiif.archivelab.org/iiif/<itemid>/manifest.json
+
+So https://iiif.archivelab.org/iiif/manualonmethodso00robe/manifest.json
+
+Info.json: https://iiif.archivelab.org/iiif/manualonmethodso00robe$2/info.json
