@@ -1,19 +1,19 @@
 <script src="https://openseadragon.github.io/openseadragon/openseadragon.min.js"></script>
-<p>Zoomed to 400,400,1000,1000</p>
+<p>Zoomed to 1314, 1171, 1232, 1300</p>
 <div id="osd" class="image-viewer" style="border: 1px solid red; height: 80vh">
 <script>
   var conf = {
-          id:            "osd",
-      prefixUrl:     "https://openseadragon.github.io/openseadragon/images/",
-      sequenceMode: true,
-      tileSources: ["https://iiif.archivelab.org/iiif/manualonmethodso00robe$21/info.json","https://iiif.archivelab.org/iiif/manualonmethodso00robe$22/info.json"]
+    id:           "osd",
+    prefixUrl:    "https://openseadragon.github.io/openseadragon/images/",
+    sequenceMode: true,
+    tileSources:  ["https://iiif.archivelab.org/iiif/manualonmethodso00robe$79/info.json"]
   };
 
   var viewer = OpenSeadragon(conf);
 
   viewer.addHandler('open', function() {
     var tiledImage = viewer.world.getItemAt(0); 
-    var imageRect = new OpenSeadragon.Rect(400, 400, 1000, 1000); 
+    var imageRect = new OpenSeadragon.Rect(1314, 1171, 1232, 1300); 
     var viewportRect = tiledImage.imageToViewportRectangle(imageRect);
     viewer.viewport.fitBounds(viewportRect, true);
   });
