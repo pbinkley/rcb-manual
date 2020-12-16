@@ -1,0 +1,15 @@
+<span class="moderngender">he</span>
+
+<span class="moderngender" data-target="they seek">he seeks</span>
+
+<script>
+  const translations = {
+    "he": "they"
+  }
+
+  var genderspans = document.getElementsByClassName("moderngender");
+  for (var span in genderspans) {
+    var thisspan = genderspans[span]
+    thisspan.innerHTML = (typeof translations[thisspan.innerHTML] !== 'undefined') ? translations[thisspan.innerHTML] : thisspan.dataset.target;
+  }
+</script>
