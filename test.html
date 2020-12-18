@@ -1,15 +1,54 @@
-<span class="moderngender">he</span>
-
-<span class="moderngender" data-target="they seek">he seeks</span>
-
-<script>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <title>Gender language translation test</title>
+  <script>
   const translations = {
     "he": "they"
   }
 
-  var genderspans = document.getElementsByClassName("moderngender");
-  for (var span in genderspans) {
-    var thisspan = genderspans[span]
-    thisspan.innerHTML = (typeof translations[thisspan.innerHTML] !== 'undefined') ? translations[thisspan.innerHTML] : thisspan.dataset.target;
+  function changeLanguage(lang) {
+    var genderspans = document.getElementsByClassName("moderngender");
+    for (var span in genderspans) {
+      var thisspan = genderspans[span]
+      // save 'thenterm' from innerHTML if we are changing to 'now'
+      if ((typeof thisspan.dataset.thenterm === 'undefined') && (lang == 'now')) {
+        thisspan.dataset.thenterm = thisspan.innerHTML;
+      }
+      changeTo = (lang == 'then') ? thisspan.dataset.thenterm : thisspan.dataset.nowterm;
+      thisspan.innerHTML = changeTo;
+    }
   }
 </script>
+
+
+</head> 
+<body>
+
+<style>
+  span {font-weight: bold;}
+  .sample { max-width: 40em; font-size: 16pt; font-family: monospace;}
+  #buttons {background: pink; padding: 5px; border: 1px solid black; width: max-content}
+</style>
+
+<p class="sample">But great importance
+must also be attached to those mechanical impediments which hinder <span class="moderngender" data-nowterm="scholars">a
+scholar</span> whenever <span class="moderngender" data-nowterm="they">he</span> <span class="moderngender" data-nowterm="are">is</span> compelled to alter <span class="moderngender" data-nowterm="their">his</span> plans or suspend <span class="moderngender" data-nowterm="their">his</span>
+work because <span class="moderngender" data-nowterm="they">he</span> can neither go to the material <span class="moderngender" data-nowterm="they">he</span> <span class="moderngender" data-nowterm="need">needs</span> nor have the
+material brought to <span class="moderngender" data-nowterm="them">him</span>.</p>
+
+<p class="sample">Thus the typist who makes a carbon copy makes it customarily while preparing 
+the fair copy. <span class="moderngender" data-nowterm="They">She</span> <span class="moderngender" data-nowterm="do">does</span> not plan to make 
+a fair copy and then retype the whole text 
+in order to make a couple of carbons.</p>
+
+<div id="buttons">
+  Gender language: 
+  <input type="radio" id="then" name="language" value="then" checked onclick="changeLanguage('then')">
+  <label for="then">1930s</label>
+  <input type="radio" id="no" name="language" value="now" onclick="changeLanguage('now')">
+  <label for="now">2020s</label>
+</div>
+
+</body>
+</html>
