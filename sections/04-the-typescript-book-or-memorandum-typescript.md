@@ -258,8 +258,8 @@ This is a specimen of pica type reduced 50 per cent.
 
 FIGURE XV 
 
-{% include pagebreak.html page="32b" image="0078" %}
-{% include pagebreak.html page="32c" image="0079" %}
+{% include pagebreak.html page="32b" image="0078" insert=true %}
+{% include pagebreak.html page="32c" image="0079" insert=true %}
 
 
 THE MOST REVOLUTIONARY INVENTION
@@ -340,15 +340,15 @@ Paper. Books, bulletins, house organs, proceedings of meetings, circulars, these
 lectures are now produced without the expense 
 of type composition and engravings. 
 
-{% include pagebreak.html page="32d" image="0080" %}
+{% include pagebreak.html page="32d" image="0080" insert=true %}
 
 - Vogeltype samples
 
-{% include pagebreak.html page="32e" image="0081" %}
+{% include pagebreak.html page="32e" image="0081" insert=true %}
 
 - blank
 
-{% include pagebreak.html page="32f" image="0082" %}
+{% include pagebreak.html page="32f" image="0082" insert=true %}
 
 FIGURE XVII 
 
@@ -633,7 +633,7 @@ comes back from the typist. Sometimes the
 author prepares his own fair copy; sometimes the so-called fair copy is not very 
 fair. But as a normal stage in the normal 
 
-{% include pagebreak.html page="34a" image="0085" %}
+{% include pagebreak.html page="34a" image="0085" insert=true %}
 
 FIGURE XVIII 
 
@@ -726,7 +726,7 @@ This is ELITE GOTHIC
 
 THIS IS PETITE GOTHIC 
 
-{% include pagebreak.html page="34b" image="0086" %}
+{% include pagebreak.html page="34b" image="0086" insert=true %}
 
 {% include pagebreak.html page="35" image="0087" %}
 
@@ -895,9 +895,9 @@ format.
 The argument in favor of merging 
 the different typing operations is the 
 greater the cheaper the reproduction process. Thus the typist who makes a carbon 
-{% include pagebreak.html page="36a" image="0089" %}
+{% include pagebreak.html page="36a" image="0089" insert=true %}
 
-{% include pagebreak.html page="36b" image="0090" %}
+{% include pagebreak.html page="36b" image="0090" insert=true %}
 
 FIGURE XIX 
 
