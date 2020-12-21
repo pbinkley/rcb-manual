@@ -10,7 +10,7 @@ Experiments toward an online edition of the *Manual*.
 - [Front matter](sections/00-front.html)
 - I. [The Setting of the Problem of Reproducing Research Materials](sections/01-the-setting-of-the-problem-of-reproducing-research-materials.html)
 - II. Publishing and Library Costs: The Book
-- III. Printed Books and Reprints
+- III. [Printed Books and Reprints](sections/03-printed-books.html)
 - IV. [The Typescript Book or Memorandum: The Typewriter and Typescript](sections/04-the-typescript-book-or-memorandum-typescript.html)
 - V. The Typescript Book or Memorandum: Reproduction Techniques
 - VI. Blueprinting, Photostating, and Allied Techniques
