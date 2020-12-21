@@ -7,6 +7,7 @@ layout: default
 
 Experiments toward an online edition of the *Manual*.
 
+- [Front matter](sections/00-front.html)
 - I. [The Setting of the Problem of Reproducing Research Materials](sections/01-the-setting-of-the-problem-of-reproducing-research-materials.html)
 - II. Publishing and Library Costs: The Book
 - III. Printed Books and Reprints
