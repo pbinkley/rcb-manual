@@ -1,1 +1,4 @@
-<span title="Page {{ include.page }}, column {{ include.col }}" style="color: red">||</span>
+{% capture title %}
+  Page {{ include.page }}, column {{ include.col }}
+{% endcapture %}
+<span title="{{ title | strip }}" style="color: red">||</span><span class="marginnote"><img src="{{ site.baseurl }}/assets/columnbreak.png" style="width: 50px " title="{{ title | strip}}"/></span>

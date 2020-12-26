@@ -2,5 +2,5 @@
   {% if include.insert %}n{{ include.image | minus: 1 }}
   {% else %}{{ include.page }}{% endif %}
 {% endcapture %}
-<span title="Page {{ include.page }}, column 1" style="color: red">|</span><span style="display: block; text-align: center; float: left; margin-right: 15px; margin-left: -165px; font-style: italic">
+<span title="Page {{ include.page }}, column 1" style="color: red">|</span><label title="Show page image" style="color: red" for="mn-page-{{ include.page }}" class="margin-toggle">&#128196;</label><input type="checkbox" id="mn-page-{{ include.page }}" class="margin-toggle"/><span class="marginnote">
   <a href="https://archive.org/details/manualonmethodso00robe/page/{{ linkpage | strip }}/mode/1up"><img style="width: 150px; border: 1px solid black; margin-bottom: 0" src="https://ia801400.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/manualonmethodso00robe/manualonmethodso00robe_jp2.zip&file=manualonmethodso00robe_jp2/manualonmethodso00robe_{{ include.image }}.jp2&id=manualonmethodso00robe&scale=11&rotate=0"></a>p.{{ include.page }}</span>
