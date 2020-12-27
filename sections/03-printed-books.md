@@ -41,8 +41,7 @@ costs paramount elements of first cost. Reprint costs are affected in printing b
 storing type (rates running around $.01 per 
 page per month), or by making stereotypes 
 and electrotypes; in photo-offset, by saving the metal sheets; in 
-mimeographing, by {% include columnbreak.html %}
-saving the stencils. 
+mimeographing, by {% include columnbreak.html %} saving the stencils. 
 
 The librarian receives as a book 
 any bound volume, however it may have been 
@@ -167,9 +166,9 @@ printing machine cylinder (called the tym-
 pan sheet) so that even pressure is given 
 on every part on the type. This operation 
 which is a most laborious affair if conscientiously done, is called "make-ready." 
-Without careful make-ready, satisfactory {% include pagebreak.html page="n32" image="0033" %}
+Without careful make-ready, satisfactory {% include pagebreak.html page="n32" image="0033" label="14a" %}
 
-{% include pagebreak.html page="n33" image="0034" %}
+{% include pagebreak.html page="n33" image="0034" label="14b" %}
 
 ## FIGURE I 
 
@@ -243,8 +242,8 @@ masked ball of the most unusual magnificence. It was a voluptuous scene, that ma
 
 342 WORDS 33 LINES 2 POINT LEAD 
 
-{% include pagebreak.html page="n34" image="0035" %}
-{% include pagebreak.html page="n35" image="0036" %}
+{% include pagebreak.html page="n34" image="0035" label="14c" %}
+{% include pagebreak.html page="n35" image="0036" label="14d" %}
 
 Sample Page to Illustrate Letterpress Format on 6¾"x9¼" Page 
 
@@ -293,9 +292,9 @@ This page format has been designed by the R. R. Donnelley & Sons Company of Chic
 
 FIGURE II 
 
-{% include pagebreak.html page="n36" image="0037" %}
+{% include pagebreak.html page="n36" image="0037" label="14e" %}
 
-{% include pagebreak.html page="n37" image="0038" %}
+{% include pagebreak.html page="n37" image="0038" label="14f" %}
 
 Sample Page to Illustrate Letterpress Format on 6¾"x9¼"
 Page 
@@ -594,8 +593,8 @@ to the square inch:
 | 10-point | 21 | 16 |
 | 12-point | 14 | 11 |
 
-{% include pagebreak.html page="n40" image="0041" %}
-{% include pagebreak.html page="n41" image="0042" %}
+{% include pagebreak.html page="n40" image="0041" label="16a" %}
+{% include pagebreak.html page="n41" image="0042" label="16b" %}
 
 FIGURE IV 
 
@@ -838,15 +837,15 @@ imitation of typescript and for making office forms from print-face type in imit
     similar sort of blanket. The most popular multigraph prints only one 8 1/2" x 11" page at a time, but 
     a machine is manufactured with a drum large enough for two 8 1/2" x 11" pages; this is fairly common. 
   
-The best adaptation of multigraph {% include pagebreak.html page="n44" image="0045" %}
+The best adaptation of multigraph {% include pagebreak.html page="n44" image="0045" label="18a" %}
 
 FIGURE V 
 
 Model 100 Multigraph 
 
-{% include pagebreak.html page="n45" image="0046" %}
+{% include pagebreak.html page="n45" image="0046" label="18b" %}
 
-{% include pagebreak.html page="n46" image="0047" %}
+{% include pagebreak.html page="n46" image="0047" label="18c" %}
 
 AN ECONOMICAL MIMEOFORM FORMAT 
 
@@ -891,7 +890,7 @@ Mr. Ernest Kletsch, who styles his process the Mimeoform Process. Mr. Kletsch us
 delivers the line of short type, properly spaced and 
 justified, to the channels of the multigraph drum. 
 
-{% include pagebreak.html page="n47" image="0048" %}
+{% include pagebreak.html page="n47" image="0048" label="18d" %}
 
 AN ECONOMICAL MIMEOFORM FORMAT 
 
@@ -940,7 +939,7 @@ the inch regardless of type size** (8, 10, and 12 point). Illustrations,
 even half tones, can be combined with text at no greater cost than for 
 printing, if curved plates are provided. 
 
-{% include pagebreak.html page="n48" image="0049" %}
+{% include pagebreak.html page="n48" image="0049" label="18e" %}
 
 AN ECONOMICAL MIMEOFORM FORMAT 
 
@@ -1026,7 +1025,7 @@ field of reproduction, when used in combination with type-setting machinery.
 The best adaptation in the field of reproduction has been made by Mimeoform Press, 
 1320 F Street, N. W., Washington, D. C., under the direction of Mr. Ernest Kletsch. 
 
-{% include pagebreak.html page="n49" image="0050" %}
+{% include pagebreak.html page="n49" image="0050" label="18e" %}
 
 AN ECONOMICAL MIMEOFORM FORMAT 
 
@@ -1287,25 +1286,25 @@ If the specifications had been sent out for quotations to the five firms who est
 The point of this 
 table is to compare estimates on a newsprint format with estimates on a good sound book format. 
 
-{% include pagebreak.html page="n52" image="0053" %}
+{% include pagebreak.html page="n52" image="0053" label="20a" %}
 
 8
 
 9
 
-{% include pagebreak.html page="n53" image="0054" %}
+{% include pagebreak.html page="n53" image="0054" label="20b" %}
 
-{% include pagebreak.html page="n54" image="0055" %}
+{% include pagebreak.html page="n54" image="0055" label="20c" %}
 
-{% include pagebreak.html page="n55" image="0056" %}
+{% include pagebreak.html page="n55" image="0056" label="20d" %}
 
 FIGURE X 
 
 The Rotaprint 
 
-{% include pagebreak.html page="n56" image="0057" %}
+{% include pagebreak.html page="n56" image="0057" label="20e" %}
 
-{% include pagebreak.html page="n57" image="0058" %}
+{% include pagebreak.html page="n57" image="0058" label="20f" %}
 
 FIGURE XI 
 
@@ -1515,13 +1514,13 @@ photo-offset printer. In such a case, a
 skilled photostat operator or commercial 
 photographer, acting under instructions 
 
-{% include pagebreak.html page="n60" image="0061" %}
+{% include pagebreak.html page="n60" image="0061" label="22a" %}
 
 FIGURE XII
 
 HARRIS PRESS
 
-{% include pagebreak.html page="n61" image="0062" %}
+{% include pagebreak.html page="n61" image="0062" label="22b" %}
 
 {% include pagebreak.html page="23" image="0063" %}
 
@@ -1679,9 +1678,9 @@ naked eye.
     The reduction is six diameters to one." From 
     letter of the Hispanic Society of America to Robert Binkley, February 18, 1932. 
   
-{% include pagebreak.html page="n64" image="0065" %}
+{% include pagebreak.html page="n64" image="0065" label="24a" %}
 
-{% include pagebreak.html page="n65" image="0066" %}
+{% include pagebreak.html page="n65" image="0066" label="24b" %}
 
 Relation between amounts of planographic reductions 
 of newspaper print and floss in legibility 
@@ -1860,9 +1859,9 @@ purposes, great results in the intellectual
     the moistening rollers of the offset press and controls both the temperature of the plate and the humidity of the air around the plate, thus providing and keeping constant the moisture needed through-out the run. 
     Cf. *Printing Progress*, a report prepared by a special committee of the Printing Industries Division for the Engineering Week Meeting, June 25-July 1, 1933. 
 
-{% include pagebreak.html page="n68" image="0069" %}  
+{% include pagebreak.html page="n68" image="0069" label="26a" %}  
 
-{% include pagebreak.html page="n69" image="0070" %}  
+{% include pagebreak.html page="n69" image="0070" label="26b" %}  
 
 LIB. IL. The Pyrartides. 
 
@@ -2141,7 +2140,6 @@ PRICES OF DERMAPRINT SERVICE
 {% include pagebreak.html page="30" image="0074" %} The following table is a summary comparison of the factors affecting book {% include columnbreak.html %} manufacturing costs by three processes---printing, mimeoform, and photo-offset. 
 
 TABLE IX 
-
 
 | | PRINTING | MIMEOFORM | PHOTO-OFFSET |
 |-----|-----|-----|-----|
