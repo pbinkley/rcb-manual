@@ -6,3 +6,7 @@ IIIF manifest template: https://iiif.archivelab.org/iiif/<itemid>/manifest.json
 So https://iiif.archivelab.org/iiif/manualonmethodso00robe/manifest.json
 
 Info.json: https://iiif.archivelab.org/iiif/manualonmethodso00robe$2/info.json
+
+Thumbnail https://ia801400.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/manualonmethodso00robe/manualonmethodso00robe_jp2.zip&file=manualonmethodso00robe_jp2/manualonmethodso00robe_0031.jp2&id=manualonmethodso00robe&scale=11&rotate=0
+
+Page data spreadsheet: https://docs.google.com/spreadsheets/d/1AGJVVPSelCOsNIugh_XH2RiR-FjrIXfp119ha51Iiac/edit#gid=0
