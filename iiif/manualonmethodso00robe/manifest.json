@@ -40,39 +40,8 @@
       "canvases": [
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
-          "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$0/canvas",
-          "@type": "sc:Canvas",
-          "description": "",
-          "height": 3787,
-          "images": [
-            {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$0/annotation",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "on": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$0/annotation",
-              "resource": {
-                "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$0/full/full/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "height": 3787,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$0",
-                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
-                },
-                "width": 2700
-              }
-            }
-          ],
-          "label": "{{ site.data.pages[0].label }}",
-          "width": 2700
-        },
-        {
-          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$1/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -95,14 +64,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[1].label }}",
           "width": 2694
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$2/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3651,
           "images": [
             {
@@ -125,14 +93,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[2].label }}",
           "width": 2711
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$3/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -155,14 +122,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[3].label }}",
           "width": 2694
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$4/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -185,14 +151,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[4].label }}",
           "width": 2739
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$5/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -215,14 +180,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[5].label }}",
           "width": 2694
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$6/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -245,14 +209,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[6].label }}",
           "width": 2711
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$7/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -275,14 +238,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[7].label }}",
           "width": 2694
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$8/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -305,14 +267,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[8].label }}",
           "width": 2694
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$9/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -335,14 +296,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[9].label }}",
           "width": 2694
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$10/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -365,14 +325,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[10].label }}",
           "width": 2694
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$11/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -395,14 +354,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[11].label }}",
           "width": 2694
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$12/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -425,14 +383,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[12].label }}",
           "width": 2694
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$13/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -455,14 +412,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[13].label }}",
           "width": 2711
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$14/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -485,14 +441,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[14].label }}",
           "width": 2694
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$15/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -515,14 +470,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[15].label }}",
           "width": 2711
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$16/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -545,14 +499,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[16].label }}",
           "width": 2694
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$17/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -575,14 +528,13 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[17].label }}",
           "width": 2711
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$18/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -605,14 +557,13 @@
               }
             }
           ],
-          "label": "1",
+          "label": "{{ site.data.pages[18].label }}",
           "width": 2694
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$19/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -635,14 +586,13 @@
               }
             }
           ],
-          "label": "2",
+          "label": "{{ site.data.pages[19].label }}",
           "width": 2711
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$20/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -665,14 +615,13 @@
               }
             }
           ],
-          "label": "3",
+          "label": "{{ site.data.pages[20].label }}",
           "width": 2694
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$21/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -695,14 +644,13 @@
               }
             }
           ],
-          "label": "4",
+          "label": "{{ site.data.pages[21].label }}",
           "width": 2722
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$22/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -725,14 +673,13 @@
               }
             }
           ],
-          "label": "5",
+          "label": "{{ site.data.pages[22].label }}",
           "width": 2717
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$23/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -755,14 +702,13 @@
               }
             }
           ],
-          "label": "6",
+          "label": "{{ site.data.pages[23].label }}",
           "width": 2722
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$24/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -785,14 +731,13 @@
               }
             }
           ],
-          "label": "7",
+          "label": "{{ site.data.pages[24].label }}",
           "width": 2717
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$25/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -815,14 +760,13 @@
               }
             }
           ],
-          "label": "8",
+          "label": "{{ site.data.pages[25].label }}",
           "width": 2722
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$26/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -845,14 +789,13 @@
               }
             }
           ],
-          "label": "9",
+          "label": "{{ site.data.pages[26].label }}",
           "width": 2717
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$27/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -875,14 +818,13 @@
               }
             }
           ],
-          "label": "10",
+          "label": "{{ site.data.pages[27].label }}",
           "width": 2722
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$28/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -905,14 +847,13 @@
               }
             }
           ],
-          "label": "11",
+          "label": "{{ site.data.pages[28].label }}",
           "width": 2711
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$29/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -935,14 +876,13 @@
               }
             }
           ],
-          "label": "12",
+          "label": "{{ site.data.pages[29].label }}",
           "width": 2722
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$30/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -965,14 +905,13 @@
               }
             }
           ],
-          "label": "13",
+          "label": "{{ site.data.pages[30].label }}",
           "width": 2711
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$31/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -995,14 +934,13 @@
               }
             }
           ],
-          "label": "14",
+          "label": "{{ site.data.pages[31].label }}",
           "width": 2722
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$32/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -1025,14 +963,13 @@
               }
             }
           ],
-          "label": "15",
+          "label": "{{ site.data.pages[32].label }}",
           "width": 2711
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$33/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -1055,14 +992,13 @@
               }
             }
           ],
-          "label": "16",
+          "label": "{{ site.data.pages[33].label }}",
           "width": 2795
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$34/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -1085,14 +1021,13 @@
               }
             }
           ],
-          "label": "17",
+          "label": "{{ site.data.pages[34].label }}",
           "width": 2711
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$35/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3736,
           "images": [
             {
@@ -1115,14 +1050,13 @@
               }
             }
           ],
-          "label": "18",
+          "label": "{{ site.data.pages[35].label }}",
           "width": 2767
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$36/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -1145,14 +1079,13 @@
               }
             }
           ],
-          "label": "19",
+          "label": "{{ site.data.pages[36].label }}",
           "width": 2711
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$37/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -1175,14 +1108,13 @@
               }
             }
           ],
-          "label": "20",
+          "label": "{{ site.data.pages[37].label }}",
           "width": 2728
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$38/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -1205,14 +1137,13 @@
               }
             }
           ],
-          "label": "15",
+          "label": "{{ site.data.pages[38].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$39/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -1235,14 +1166,13 @@
               }
             }
           ],
-          "label": "16",
+          "label": "{{ site.data.pages[39].label }}",
           "width": 2728
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$40/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -1265,14 +1195,13 @@
               }
             }
           ],
-          "label": "17",
+          "label": "{{ site.data.pages[40].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$41/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3758,
           "images": [
             {
@@ -1295,14 +1224,13 @@
               }
             }
           ],
-          "label": "18",
+          "label": "{{ site.data.pages[41].label }}",
           "width": 2767
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$42/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -1325,14 +1253,13 @@
               }
             }
           ],
-          "label": "17",
+          "label": "{{ site.data.pages[42].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$43/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -1355,14 +1282,13 @@
               }
             }
           ],
-          "label": "18",
+          "label": "{{ site.data.pages[43].label }}",
           "width": 2728
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$44/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -1385,14 +1311,13 @@
               }
             }
           ],
-          "label": "19",
+          "label": "{{ site.data.pages[44].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$45/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -1415,14 +1340,13 @@
               }
             }
           ],
-          "label": "20",
+          "label": "{{ site.data.pages[45].label }}",
           "width": 2728
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$46/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -1445,14 +1369,13 @@
               }
             }
           ],
-          "label": "21",
+          "label": "{{ site.data.pages[46].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$47/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3736,
           "images": [
             {
@@ -1475,14 +1398,13 @@
               }
             }
           ],
-          "label": "22",
+          "label": "{{ site.data.pages[47].label }}",
           "width": 2705
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$48/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -1505,14 +1427,13 @@
               }
             }
           ],
-          "label": "23",
+          "label": "{{ site.data.pages[48].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$49/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -1535,14 +1456,13 @@
               }
             }
           ],
-          "label": "24",
+          "label": "{{ site.data.pages[49].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$50/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -1565,14 +1485,13 @@
               }
             }
           ],
-          "label": "19",
+          "label": "{{ site.data.pages[50].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$51/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -1595,14 +1514,13 @@
               }
             }
           ],
-          "label": "20",
+          "label": "{{ site.data.pages[51].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$52/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -1625,14 +1543,13 @@
               }
             }
           ],
-          "label": "21",
+          "label": "{{ site.data.pages[52].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$53/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -1655,14 +1572,13 @@
               }
             }
           ],
-          "label": "22",
+          "label": "{{ site.data.pages[53].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$54/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -1685,14 +1601,13 @@
               }
             }
           ],
-          "label": "23",
+          "label": "{{ site.data.pages[54].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$55/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -1715,14 +1630,13 @@
               }
             }
           ],
-          "label": "24",
+          "label": "{{ site.data.pages[55].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$56/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -1745,14 +1659,13 @@
               }
             }
           ],
-          "label": "25",
+          "label": "{{ site.data.pages[56].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$57/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -1775,14 +1688,13 @@
               }
             }
           ],
-          "label": "26",
+          "label": "{{ site.data.pages[57].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$58/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -1805,14 +1717,13 @@
               }
             }
           ],
-          "label": "21",
+          "label": "{{ site.data.pages[58].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$59/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -1835,14 +1746,13 @@
               }
             }
           ],
-          "label": "22",
+          "label": "{{ site.data.pages[59].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$60/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -1865,14 +1775,13 @@
               }
             }
           ],
-          "label": "23",
+          "label": "{{ site.data.pages[60].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$61/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -1895,14 +1804,13 @@
               }
             }
           ],
-          "label": "24",
+          "label": "{{ site.data.pages[61].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$62/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -1925,14 +1833,13 @@
               }
             }
           ],
-          "label": "23",
+          "label": "{{ site.data.pages[62].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$63/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -1955,14 +1862,13 @@
               }
             }
           ],
-          "label": "24",
+          "label": "{{ site.data.pages[63].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$64/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -1985,14 +1891,13 @@
               }
             }
           ],
-          "label": "25",
+          "label": "{{ site.data.pages[64].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$65/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -2015,14 +1920,13 @@
               }
             }
           ],
-          "label": "26",
+          "label": "{{ site.data.pages[65].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$66/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -2045,14 +1949,13 @@
               }
             }
           ],
-          "label": "25",
+          "label": "{{ site.data.pages[66].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$67/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -2075,14 +1978,13 @@
               }
             }
           ],
-          "label": "26",
+          "label": "{{ site.data.pages[67].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$68/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -2105,14 +2007,13 @@
               }
             }
           ],
-          "label": "27",
+          "label": "{{ site.data.pages[68].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$69/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3753,
           "images": [
             {
@@ -2135,14 +2036,13 @@
               }
             }
           ],
-          "label": "28",
+          "label": "{{ site.data.pages[69].label }}",
           "width": 2643
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$70/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -2165,14 +2065,13 @@
               }
             }
           ],
-          "label": "27",
+          "label": "{{ site.data.pages[70].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$71/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -2195,14 +2094,13 @@
               }
             }
           ],
-          "label": "28",
+          "label": "{{ site.data.pages[71].label }}",
           "width": 2660
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$72/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -2225,14 +2123,13 @@
               }
             }
           ],
-          "label": "29",
+          "label": "{{ site.data.pages[72].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$73/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -2255,14 +2152,13 @@
               }
             }
           ],
-          "label": "30",
+          "label": "{{ site.data.pages[73].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$74/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -2285,14 +2181,13 @@
               }
             }
           ],
-          "label": "31",
+          "label": "{{ site.data.pages[74].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$75/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -2315,14 +2210,13 @@
               }
             }
           ],
-          "label": "32",
+          "label": "{{ site.data.pages[75].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$76/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -2345,14 +2239,13 @@
               }
             }
           ],
-          "label": "33",
+          "label": "{{ site.data.pages[76].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$77/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -2375,14 +2268,13 @@
               }
             }
           ],
-          "label": "34",
+          "label": "{{ site.data.pages[77].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$78/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -2405,14 +2297,13 @@
               }
             }
           ],
-          "label": "35",
+          "label": "{{ site.data.pages[78].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$79/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3804,
           "images": [
             {
@@ -2435,14 +2326,13 @@
               }
             }
           ],
-          "label": "36",
+          "label": "{{ site.data.pages[79].label }}",
           "width": 2739
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$80/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -2465,14 +2355,13 @@
               }
             }
           ],
-          "label": "37",
+          "label": "{{ site.data.pages[80].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$81/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -2495,14 +2384,13 @@
               }
             }
           ],
-          "label": "38",
+          "label": "{{ site.data.pages[81].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$82/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -2525,14 +2413,13 @@
               }
             }
           ],
-          "label": "33",
+          "label": "{{ site.data.pages[82].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$83/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -2555,14 +2442,13 @@
               }
             }
           ],
-          "label": "34",
+          "label": "{{ site.data.pages[83].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$84/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -2585,14 +2471,13 @@
               }
             }
           ],
-          "label": "35",
+          "label": "{{ site.data.pages[84].label }}",
           "width": 2626
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$85/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -2615,14 +2500,13 @@
               }
             }
           ],
-          "label": "36",
+          "label": "{{ site.data.pages[85].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$86/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -2645,14 +2529,13 @@
               }
             }
           ],
-          "label": "35",
+          "label": "{{ site.data.pages[86].label }}",
           "width": 2638
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$87/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -2675,14 +2558,13 @@
               }
             }
           ],
-          "label": "36",
+          "label": "{{ site.data.pages[87].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$88/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -2705,14 +2587,13 @@
               }
             }
           ],
-          "label": "37",
+          "label": "{{ site.data.pages[88].label }}",
           "width": 2638
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$89/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -2735,14 +2616,13 @@
               }
             }
           ],
-          "label": "38",
+          "label": "{{ site.data.pages[89].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$90/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -2765,14 +2645,13 @@
               }
             }
           ],
-          "label": "37",
+          "label": "{{ site.data.pages[90].label }}",
           "width": 2660
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$91/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -2795,14 +2674,13 @@
               }
             }
           ],
-          "label": "38",
+          "label": "{{ site.data.pages[91].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$92/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -2825,14 +2703,13 @@
               }
             }
           ],
-          "label": "39",
+          "label": "{{ site.data.pages[92].label }}",
           "width": 2660
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$93/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -2855,14 +2732,13 @@
               }
             }
           ],
-          "label": "40",
+          "label": "{{ site.data.pages[93].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$94/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -2885,14 +2761,13 @@
               }
             }
           ],
-          "label": "41",
+          "label": "{{ site.data.pages[94].label }}",
           "width": 2660
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$95/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -2915,14 +2790,13 @@
               }
             }
           ],
-          "label": "42",
+          "label": "{{ site.data.pages[95].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$96/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -2945,14 +2819,13 @@
               }
             }
           ],
-          "label": "43",
+          "label": "{{ site.data.pages[96].label }}",
           "width": 2660
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$97/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3692,
           "images": [
             {
@@ -2975,14 +2848,13 @@
               }
             }
           ],
-          "label": "44",
+          "label": "{{ site.data.pages[97].label }}",
           "width": 2560
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$98/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -3005,14 +2877,13 @@
               }
             }
           ],
-          "label": "45",
+          "label": "{{ site.data.pages[98].label }}",
           "width": 2609
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$99/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -3035,14 +2906,13 @@
               }
             }
           ],
-          "label": "46",
+          "label": "{{ site.data.pages[99].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$100/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -3065,14 +2935,13 @@
               }
             }
           ],
-          "label": "43",
+          "label": "{{ site.data.pages[100].label }}",
           "width": 2638
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$101/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -3095,14 +2964,13 @@
               }
             }
           ],
-          "label": "44",
+          "label": "{{ site.data.pages[101].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$102/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -3125,14 +2993,13 @@
               }
             }
           ],
-          "label": "45",
+          "label": "{{ site.data.pages[102].label }}",
           "width": 2638
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$103/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -3155,14 +3022,13 @@
               }
             }
           ],
-          "label": "46",
+          "label": "{{ site.data.pages[103].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$104/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -3185,14 +3051,13 @@
               }
             }
           ],
-          "label": "47",
+          "label": "{{ site.data.pages[104].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$105/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -3215,14 +3080,13 @@
               }
             }
           ],
-          "label": "48",
+          "label": "{{ site.data.pages[105].label }}",
           "width": 2638
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$106/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -3245,14 +3109,13 @@
               }
             }
           ],
-          "label": "49",
+          "label": "{{ site.data.pages[106].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$107/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -3275,14 +3138,13 @@
               }
             }
           ],
-          "label": "50",
+          "label": "{{ site.data.pages[107].label }}",
           "width": 2638
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$108/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -3305,14 +3167,13 @@
               }
             }
           ],
-          "label": "51",
+          "label": "{{ site.data.pages[108].label }}",
           "width": 2604
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$109/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -3335,14 +3196,13 @@
               }
             }
           ],
-          "label": "52",
+          "label": "{{ site.data.pages[109].label }}",
           "width": 2638
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$110/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -3365,14 +3225,13 @@
               }
             }
           ],
-          "label": "45",
+          "label": "{{ site.data.pages[110].label }}",
           "width": 2649
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$111/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -3395,14 +3254,13 @@
               }
             }
           ],
-          "label": "46",
+          "label": "{{ site.data.pages[111].label }}",
           "width": 2671
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$112/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -3425,14 +3283,13 @@
               }
             }
           ],
-          "label": "47",
+          "label": "{{ site.data.pages[112].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$113/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -3455,14 +3312,13 @@
               }
             }
           ],
-          "label": "48",
+          "label": "{{ site.data.pages[113].label }}",
           "width": 2671
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$114/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -3485,14 +3341,13 @@
               }
             }
           ],
-          "label": "49",
+          "label": "{{ site.data.pages[114].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$115/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -3515,14 +3370,13 @@
               }
             }
           ],
-          "label": "50",
+          "label": "{{ site.data.pages[115].label }}",
           "width": 2671
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$116/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -3545,14 +3399,13 @@
               }
             }
           ],
-          "label": "51",
+          "label": "{{ site.data.pages[116].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$117/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -3575,14 +3428,13 @@
               }
             }
           ],
-          "label": "52",
+          "label": "{{ site.data.pages[117].label }}",
           "width": 2671
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$118/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3680,
           "images": [
             {
@@ -3605,14 +3457,13 @@
               }
             }
           ],
-          "label": "53",
+          "label": "{{ site.data.pages[118].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$119/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -3635,14 +3486,13 @@
               }
             }
           ],
-          "label": "54",
+          "label": "{{ site.data.pages[119].label }}",
           "width": 2649
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$120/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3680,
           "images": [
             {
@@ -3665,14 +3515,13 @@
               }
             }
           ],
-          "label": "55",
+          "label": "{{ site.data.pages[120].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$121/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -3695,14 +3544,13 @@
               }
             }
           ],
-          "label": "56",
+          "label": "{{ site.data.pages[121].label }}",
           "width": 2649
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$122/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3680,
           "images": [
             {
@@ -3725,14 +3573,13 @@
               }
             }
           ],
-          "label": "49",
+          "label": "{{ site.data.pages[122].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$123/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -3755,14 +3602,13 @@
               }
             }
           ],
-          "label": "50",
+          "label": "{{ site.data.pages[123].label }}",
           "width": 2660
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$124/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -3785,14 +3631,13 @@
               }
             }
           ],
-          "label": "51",
+          "label": "{{ site.data.pages[124].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$125/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -3815,14 +3660,13 @@
               }
             }
           ],
-          "label": "52",
+          "label": "{{ site.data.pages[125].label }}",
           "width": 2660
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$126/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -3845,14 +3689,13 @@
               }
             }
           ],
-          "label": "53",
+          "label": "{{ site.data.pages[126].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$127/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -3875,14 +3718,13 @@
               }
             }
           ],
-          "label": "54",
+          "label": "{{ site.data.pages[127].label }}",
           "width": 2660
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$128/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -3905,14 +3747,13 @@
               }
             }
           ],
-          "label": "55",
+          "label": "{{ site.data.pages[128].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$129/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -3935,14 +3776,13 @@
               }
             }
           ],
-          "label": "56",
+          "label": "{{ site.data.pages[129].label }}",
           "width": 2660
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$130/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -3965,14 +3805,13 @@
               }
             }
           ],
-          "label": "55",
+          "label": "{{ site.data.pages[130].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$131/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -3995,14 +3834,13 @@
               }
             }
           ],
-          "label": "56",
+          "label": "{{ site.data.pages[131].label }}",
           "width": 2660
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$132/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3685,
           "images": [
             {
@@ -4025,14 +3863,13 @@
               }
             }
           ],
-          "label": "57",
+          "label": "{{ site.data.pages[132].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$133/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -4055,14 +3892,13 @@
               }
             }
           ],
-          "label": "58",
+          "label": "{{ site.data.pages[133].label }}",
           "width": 2660
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$134/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -4085,14 +3921,13 @@
               }
             }
           ],
-          "label": "57",
+          "label": "{{ site.data.pages[134].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$135/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -4115,14 +3950,13 @@
               }
             }
           ],
-          "label": "58",
+          "label": "{{ site.data.pages[135].label }}",
           "width": 2649
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$136/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -4145,14 +3979,13 @@
               }
             }
           ],
-          "label": "59",
+          "label": "{{ site.data.pages[136].label }}",
           "width": 2638
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$137/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -4175,14 +4008,13 @@
               }
             }
           ],
-          "label": "60",
+          "label": "{{ site.data.pages[137].label }}",
           "width": 2649
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$138/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -4205,14 +4037,13 @@
               }
             }
           ],
-          "label": "61",
+          "label": "{{ site.data.pages[138].label }}",
           "width": 2638
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$139/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -4235,14 +4066,13 @@
               }
             }
           ],
-          "label": "62",
+          "label": "{{ site.data.pages[139].label }}",
           "width": 2649
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$140/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -4265,14 +4095,13 @@
               }
             }
           ],
-          "label": "63",
+          "label": "{{ site.data.pages[140].label }}",
           "width": 2638
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$141/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -4295,14 +4124,13 @@
               }
             }
           ],
-          "label": "64",
+          "label": "{{ site.data.pages[141].label }}",
           "width": 2649
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$142/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -4325,14 +4153,13 @@
               }
             }
           ],
-          "label": "65",
+          "label": "{{ site.data.pages[142].label }}",
           "width": 2638
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$143/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -4355,14 +4182,13 @@
               }
             }
           ],
-          "label": "66",
+          "label": "{{ site.data.pages[143].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$144/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -4385,14 +4211,13 @@
               }
             }
           ],
-          "label": "67",
+          "label": "{{ site.data.pages[144].label }}",
           "width": 2604
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$145/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -4415,14 +4240,13 @@
               }
             }
           ],
-          "label": "68",
+          "label": "{{ site.data.pages[145].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$146/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3685,
           "images": [
             {
@@ -4445,14 +4269,13 @@
               }
             }
           ],
-          "label": "59",
+          "label": "{{ site.data.pages[146].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$147/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -4475,14 +4298,13 @@
               }
             }
           ],
-          "label": "60",
+          "label": "{{ site.data.pages[147].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$148/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3674,
           "images": [
             {
@@ -4505,14 +4327,13 @@
               }
             }
           ],
-          "label": "61",
+          "label": "{{ site.data.pages[148].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$149/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -4535,14 +4356,13 @@
               }
             }
           ],
-          "label": "62",
+          "label": "{{ site.data.pages[149].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$150/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3674,
           "images": [
             {
@@ -4565,14 +4385,13 @@
               }
             }
           ],
-          "label": "63",
+          "label": "{{ site.data.pages[150].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$151/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -4595,14 +4414,13 @@
               }
             }
           ],
-          "label": "64",
+          "label": "{{ site.data.pages[151].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$152/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3674,
           "images": [
             {
@@ -4625,14 +4443,13 @@
               }
             }
           ],
-          "label": "63",
+          "label": "{{ site.data.pages[152].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$153/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -4655,14 +4472,13 @@
               }
             }
           ],
-          "label": "64",
+          "label": "{{ site.data.pages[153].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$154/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3674,
           "images": [
             {
@@ -4685,14 +4501,13 @@
               }
             }
           ],
-          "label": "65",
+          "label": "{{ site.data.pages[154].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$155/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -4715,14 +4530,13 @@
               }
             }
           ],
-          "label": "66",
+          "label": "{{ site.data.pages[155].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$156/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -4745,14 +4559,13 @@
               }
             }
           ],
-          "label": "67",
+          "label": "{{ site.data.pages[156].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$157/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -4775,14 +4588,13 @@
               }
             }
           ],
-          "label": "68",
+          "label": "{{ site.data.pages[157].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$158/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -4805,14 +4617,13 @@
               }
             }
           ],
-          "label": "69",
+          "label": "{{ site.data.pages[158].label }}",
           "width": 2643
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$159/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -4835,14 +4646,13 @@
               }
             }
           ],
-          "label": "70",
+          "label": "{{ site.data.pages[159].label }}",
           "width": 2604
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$160/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -4865,14 +4675,13 @@
               }
             }
           ],
-          "label": "67",
+          "label": "{{ site.data.pages[160].label }}",
           "width": 2643
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$161/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -4895,14 +4704,13 @@
               }
             }
           ],
-          "label": "68",
+          "label": "{{ site.data.pages[161].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$162/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -4925,14 +4733,13 @@
               }
             }
           ],
-          "label": "69",
+          "label": "{{ site.data.pages[162].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$163/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -4955,14 +4762,13 @@
               }
             }
           ],
-          "label": "70",
+          "label": "{{ site.data.pages[163].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$164/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -4985,14 +4791,13 @@
               }
             }
           ],
-          "label": "71",
+          "label": "{{ site.data.pages[164].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$165/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -5015,14 +4820,13 @@
               }
             }
           ],
-          "label": "72",
+          "label": "{{ site.data.pages[165].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$166/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -5045,14 +4849,13 @@
               }
             }
           ],
-          "label": "73",
+          "label": "{{ site.data.pages[166].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$167/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -5075,14 +4878,13 @@
               }
             }
           ],
-          "label": "74",
+          "label": "{{ site.data.pages[167].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$168/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -5105,14 +4907,13 @@
               }
             }
           ],
-          "label": "75",
+          "label": "{{ site.data.pages[168].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$169/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -5135,14 +4936,13 @@
               }
             }
           ],
-          "label": "76",
+          "label": "{{ site.data.pages[169].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$170/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -5165,14 +4965,13 @@
               }
             }
           ],
-          "label": "73",
+          "label": "{{ site.data.pages[170].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$171/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -5195,14 +4994,13 @@
               }
             }
           ],
-          "label": "74",
+          "label": "{{ site.data.pages[171].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$172/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -5225,14 +5023,13 @@
               }
             }
           ],
-          "label": "75",
+          "label": "{{ site.data.pages[172].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$173/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -5255,14 +5052,13 @@
               }
             }
           ],
-          "label": "76",
+          "label": "{{ site.data.pages[173].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$174/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -5285,14 +5081,13 @@
               }
             }
           ],
-          "label": "77",
+          "label": "{{ site.data.pages[174].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$175/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -5315,14 +5110,13 @@
               }
             }
           ],
-          "label": "78",
+          "label": "{{ site.data.pages[175].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$176/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -5345,14 +5139,13 @@
               }
             }
           ],
-          "label": "77",
+          "label": "{{ site.data.pages[176].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$177/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -5375,14 +5168,13 @@
               }
             }
           ],
-          "label": "78",
+          "label": "{{ site.data.pages[177].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$178/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -5405,14 +5197,13 @@
               }
             }
           ],
-          "label": "79",
+          "label": "{{ site.data.pages[178].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$179/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -5435,14 +5226,13 @@
               }
             }
           ],
-          "label": "80",
+          "label": "{{ site.data.pages[179].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$180/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -5465,14 +5255,13 @@
               }
             }
           ],
-          "label": "81",
+          "label": "{{ site.data.pages[180].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$181/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -5495,14 +5284,13 @@
               }
             }
           ],
-          "label": "82",
+          "label": "{{ site.data.pages[181].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$182/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -5525,14 +5313,13 @@
               }
             }
           ],
-          "label": "83",
+          "label": "{{ site.data.pages[182].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$183/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -5555,14 +5342,13 @@
               }
             }
           ],
-          "label": "84",
+          "label": "{{ site.data.pages[183].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$184/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -5585,14 +5371,13 @@
               }
             }
           ],
-          "label": "85",
+          "label": "{{ site.data.pages[184].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$185/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -5615,14 +5400,13 @@
               }
             }
           ],
-          "label": "86",
+          "label": "{{ site.data.pages[185].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$186/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -5645,14 +5429,13 @@
               }
             }
           ],
-          "label": "87",
+          "label": "{{ site.data.pages[186].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$187/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3747,
           "images": [
             {
@@ -5675,14 +5458,13 @@
               }
             }
           ],
-          "label": "88",
+          "label": "{{ site.data.pages[187].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$188/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -5705,14 +5487,13 @@
               }
             }
           ],
-          "label": "89",
+          "label": "{{ site.data.pages[188].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$189/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3787,
           "images": [
             {
@@ -5735,14 +5516,13 @@
               }
             }
           ],
-          "label": "90",
+          "label": "{{ site.data.pages[189].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$190/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -5765,14 +5545,13 @@
               }
             }
           ],
-          "label": "91",
+          "label": "{{ site.data.pages[190].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$191/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3781,
           "images": [
             {
@@ -5795,14 +5574,13 @@
               }
             }
           ],
-          "label": "92",
+          "label": "{{ site.data.pages[191].label }}",
           "width": 2700
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$192/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -5825,14 +5603,13 @@
               }
             }
           ],
-          "label": "87",
+          "label": "{{ site.data.pages[192].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$193/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -5855,14 +5632,13 @@
               }
             }
           ],
-          "label": "88",
+          "label": "{{ site.data.pages[193].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$194/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -5885,14 +5661,13 @@
               }
             }
           ],
-          "label": "89",
+          "label": "{{ site.data.pages[194].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$195/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -5915,14 +5690,13 @@
               }
             }
           ],
-          "label": "90",
+          "label": "{{ site.data.pages[195].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$196/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -5945,14 +5719,13 @@
               }
             }
           ],
-          "label": "91",
+          "label": "{{ site.data.pages[196].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$197/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -5975,14 +5748,13 @@
               }
             }
           ],
-          "label": "92",
+          "label": "{{ site.data.pages[197].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$198/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -6005,14 +5777,13 @@
               }
             }
           ],
-          "label": "93",
+          "label": "{{ site.data.pages[198].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$199/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -6035,14 +5806,13 @@
               }
             }
           ],
-          "label": "94",
+          "label": "{{ site.data.pages[199].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$200/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -6065,14 +5835,13 @@
               }
             }
           ],
-          "label": "95",
+          "label": "{{ site.data.pages[200].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$201/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -6095,14 +5864,13 @@
               }
             }
           ],
-          "label": "96",
+          "label": "{{ site.data.pages[201].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$202/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -6125,14 +5893,13 @@
               }
             }
           ],
-          "label": "97",
+          "label": "{{ site.data.pages[202].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$203/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -6155,14 +5922,13 @@
               }
             }
           ],
-          "label": "98",
+          "label": "{{ site.data.pages[203].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$204/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -6185,14 +5951,13 @@
               }
             }
           ],
-          "label": "99",
+          "label": "{{ site.data.pages[204].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$205/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -6215,14 +5980,13 @@
               }
             }
           ],
-          "label": "100",
+          "label": "{{ site.data.pages[205].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$206/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -6245,14 +6009,13 @@
               }
             }
           ],
-          "label": "101",
+          "label": "{{ site.data.pages[206].label }}",
           "width": 2615
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$207/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -6275,14 +6038,13 @@
               }
             }
           ],
-          "label": "102",
+          "label": "{{ site.data.pages[207].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$208/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -6305,14 +6067,13 @@
               }
             }
           ],
-          "label": "89",
+          "label": "{{ site.data.pages[208].label }}",
           "width": 2638
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$209/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -6335,14 +6096,13 @@
               }
             }
           ],
-          "label": "90",
+          "label": "{{ site.data.pages[209].label }}",
           "width": 2660
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$210/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -6365,14 +6125,13 @@
               }
             }
           ],
-          "label": "91",
+          "label": "{{ site.data.pages[210].label }}",
           "width": 2638
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$211/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -6395,14 +6154,13 @@
               }
             }
           ],
-          "label": "92",
+          "label": "{{ site.data.pages[211].label }}",
           "width": 2660
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$212/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3685,
           "images": [
             {
@@ -6425,14 +6183,13 @@
               }
             }
           ],
-          "label": "93",
+          "label": "{{ site.data.pages[212].label }}",
           "width": 2598
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$213/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -6455,14 +6212,13 @@
               }
             }
           ],
-          "label": "94",
+          "label": "{{ site.data.pages[213].label }}",
           "width": 2660
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$214/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -6485,14 +6241,13 @@
               }
             }
           ],
-          "label": "91",
+          "label": "{{ site.data.pages[214].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$215/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -6515,14 +6270,13 @@
               }
             }
           ],
-          "label": "92",
+          "label": "{{ site.data.pages[215].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$216/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -6545,14 +6299,13 @@
               }
             }
           ],
-          "label": "93",
+          "label": "{{ site.data.pages[216].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$217/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -6575,14 +6328,13 @@
               }
             }
           ],
-          "label": "94",
+          "label": "{{ site.data.pages[217].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$218/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -6605,14 +6357,13 @@
               }
             }
           ],
-          "label": "95",
+          "label": "{{ site.data.pages[218].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$219/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -6635,14 +6386,13 @@
               }
             }
           ],
-          "label": "96",
+          "label": "{{ site.data.pages[219].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$220/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -6665,14 +6415,13 @@
               }
             }
           ],
-          "label": "97",
+          "label": "{{ site.data.pages[220].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$221/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -6695,14 +6444,13 @@
               }
             }
           ],
-          "label": "98",
+          "label": "{{ site.data.pages[221].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$222/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -6725,14 +6473,13 @@
               }
             }
           ],
-          "label": "99",
+          "label": "{{ site.data.pages[222].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$223/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -6755,14 +6502,13 @@
               }
             }
           ],
-          "label": "100",
+          "label": "{{ site.data.pages[223].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$224/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -6785,14 +6531,13 @@
               }
             }
           ],
-          "label": "101",
+          "label": "{{ site.data.pages[224].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$225/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -6815,14 +6560,13 @@
               }
             }
           ],
-          "label": "102",
+          "label": "{{ site.data.pages[225].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$226/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -6845,14 +6589,13 @@
               }
             }
           ],
-          "label": "103",
+          "label": "{{ site.data.pages[226].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$227/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -6875,14 +6618,13 @@
               }
             }
           ],
-          "label": "104",
+          "label": "{{ site.data.pages[227].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$228/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -6905,14 +6647,13 @@
               }
             }
           ],
-          "label": "105",
+          "label": "{{ site.data.pages[228].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$229/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -6935,14 +6676,13 @@
               }
             }
           ],
-          "label": "106",
+          "label": "{{ site.data.pages[229].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$230/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3770,
           "images": [
             {
@@ -6965,14 +6705,13 @@
               }
             }
           ],
-          "label": "107",
+          "label": "{{ site.data.pages[230].label }}",
           "width": 2671
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$231/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3804,
           "images": [
             {
@@ -6995,14 +6734,13 @@
               }
             }
           ],
-          "label": "108",
+          "label": "{{ site.data.pages[231].label }}",
           "width": 2711
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$232/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -7025,14 +6763,13 @@
               }
             }
           ],
-          "label": "107",
+          "label": "{{ site.data.pages[232].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$233/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -7055,14 +6792,13 @@
               }
             }
           ],
-          "label": "108",
+          "label": "{{ site.data.pages[233].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$234/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -7085,14 +6821,13 @@
               }
             }
           ],
-          "label": "109",
+          "label": "{{ site.data.pages[234].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$235/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -7115,14 +6850,13 @@
               }
             }
           ],
-          "label": "110",
+          "label": "{{ site.data.pages[235].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$236/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -7145,14 +6879,13 @@
               }
             }
           ],
-          "label": "111",
+          "label": "{{ site.data.pages[236].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$237/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -7175,14 +6908,13 @@
               }
             }
           ],
-          "label": "112",
+          "label": "{{ site.data.pages[237].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$238/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -7205,14 +6937,13 @@
               }
             }
           ],
-          "label": "113",
+          "label": "{{ site.data.pages[238].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$239/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -7235,14 +6966,13 @@
               }
             }
           ],
-          "label": "114",
+          "label": "{{ site.data.pages[239].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$240/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -7265,14 +6995,13 @@
               }
             }
           ],
-          "label": "115",
+          "label": "{{ site.data.pages[240].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$241/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3736,
           "images": [
             {
@@ -7295,14 +7024,13 @@
               }
             }
           ],
-          "label": "116",
+          "label": "{{ site.data.pages[241].label }}",
           "width": 2733
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$242/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -7325,14 +7053,13 @@
               }
             }
           ],
-          "label": "115",
+          "label": "{{ site.data.pages[242].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$243/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -7355,14 +7082,13 @@
               }
             }
           ],
-          "label": "116",
+          "label": "{{ site.data.pages[243].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$244/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -7385,14 +7111,13 @@
               }
             }
           ],
-          "label": "117",
+          "label": "{{ site.data.pages[244].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$245/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -7415,14 +7140,13 @@
               }
             }
           ],
-          "label": "118",
+          "label": "{{ site.data.pages[245].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$246/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -7445,14 +7169,13 @@
               }
             }
           ],
-          "label": "119",
+          "label": "{{ site.data.pages[246].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$247/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -7475,14 +7198,13 @@
               }
             }
           ],
-          "label": "120",
+          "label": "{{ site.data.pages[247].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$248/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 2326,
           "images": [
             {
@@ -7505,14 +7227,13 @@
               }
             }
           ],
-          "label": "121",
+          "label": "{{ site.data.pages[248].label }}",
           "width": 990
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$249/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 2394,
           "images": [
             {
@@ -7535,14 +7256,13 @@
               }
             }
           ],
-          "label": "122",
+          "label": "{{ site.data.pages[249].label }}",
           "width": 990
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$250/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 2456,
           "images": [
             {
@@ -7565,14 +7285,13 @@
               }
             }
           ],
-          "label": "123",
+          "label": "{{ site.data.pages[250].label }}",
           "width": 1001
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$251/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3465,
           "images": [
             {
@@ -7595,14 +7314,13 @@
               }
             }
           ],
-          "label": "124",
+          "label": "{{ site.data.pages[251].label }}",
           "width": 2260
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$252/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 2450,
           "images": [
             {
@@ -7625,14 +7343,13 @@
               }
             }
           ],
-          "label": "125",
+          "label": "{{ site.data.pages[252].label }}",
           "width": 968
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$253/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -7655,14 +7372,13 @@
               }
             }
           ],
-          "label": "126",
+          "label": "{{ site.data.pages[253].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$254/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -7685,14 +7401,13 @@
               }
             }
           ],
-          "label": "117",
+          "label": "{{ site.data.pages[254].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$255/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3736,
           "images": [
             {
@@ -7715,14 +7430,13 @@
               }
             }
           ],
-          "label": "118",
+          "label": "{{ site.data.pages[255].label }}",
           "width": 2700
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$256/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -7745,14 +7459,13 @@
               }
             }
           ],
-          "label": "119",
+          "label": "{{ site.data.pages[256].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$257/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -7775,14 +7488,13 @@
               }
             }
           ],
-          "label": "120",
+          "label": "{{ site.data.pages[257].label }}",
           "width": 2609
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$258/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3685,
           "images": [
             {
@@ -7805,14 +7517,13 @@
               }
             }
           ],
-          "label": "121",
+          "label": "{{ site.data.pages[258].label }}",
           "width": 2626
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$259/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -7835,14 +7546,13 @@
               }
             }
           ],
-          "label": "122",
+          "label": "{{ site.data.pages[259].label }}",
           "width": 2609
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$260/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -7865,14 +7575,13 @@
               }
             }
           ],
-          "label": "119",
+          "label": "{{ site.data.pages[260].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$261/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3730,
           "images": [
             {
@@ -7895,14 +7604,13 @@
               }
             }
           ],
-          "label": "120",
+          "label": "{{ site.data.pages[261].label }}",
           "width": 2643
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$262/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -7925,14 +7633,13 @@
               }
             }
           ],
-          "label": "121",
+          "label": "{{ site.data.pages[262].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$263/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3730,
           "images": [
             {
@@ -7955,14 +7662,13 @@
               }
             }
           ],
-          "label": "122",
+          "label": "{{ site.data.pages[263].label }}",
           "width": 2643
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$264/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -7985,14 +7691,13 @@
               }
             }
           ],
-          "label": "123",
+          "label": "{{ site.data.pages[264].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$265/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3730,
           "images": [
             {
@@ -8015,14 +7720,13 @@
               }
             }
           ],
-          "label": "124",
+          "label": "{{ site.data.pages[265].label }}",
           "width": 2643
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$266/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -8045,14 +7749,13 @@
               }
             }
           ],
-          "label": "125",
+          "label": "{{ site.data.pages[266].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$267/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3730,
           "images": [
             {
@@ -8075,14 +7778,13 @@
               }
             }
           ],
-          "label": "126",
+          "label": "{{ site.data.pages[267].label }}",
           "width": 2643
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$268/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -8105,14 +7807,13 @@
               }
             }
           ],
-          "label": "127",
+          "label": "{{ site.data.pages[268].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$269/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3730,
           "images": [
             {
@@ -8135,14 +7836,13 @@
               }
             }
           ],
-          "label": "128",
+          "label": "{{ site.data.pages[269].label }}",
           "width": 2643
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$270/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3691,
           "images": [
             {
@@ -8165,14 +7865,13 @@
               }
             }
           ],
-          "label": "129",
+          "label": "{{ site.data.pages[270].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$271/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3730,
           "images": [
             {
@@ -8195,14 +7894,13 @@
               }
             }
           ],
-          "label": "130",
+          "label": "{{ site.data.pages[271].label }}",
           "width": 2643
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$272/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -8225,14 +7923,13 @@
               }
             }
           ],
-          "label": "131",
+          "label": "{{ site.data.pages[272].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$273/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3730,
           "images": [
             {
@@ -8255,14 +7952,13 @@
               }
             }
           ],
-          "label": "132",
+          "label": "{{ site.data.pages[273].label }}",
           "width": 2643
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$274/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -8285,14 +7981,13 @@
               }
             }
           ],
-          "label": "125",
+          "label": "{{ site.data.pages[274].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$275/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -8315,14 +8010,13 @@
               }
             }
           ],
-          "label": "126",
+          "label": "{{ site.data.pages[275].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$276/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -8345,14 +8039,13 @@
               }
             }
           ],
-          "label": "127",
+          "label": "{{ site.data.pages[276].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$277/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -8375,14 +8068,13 @@
               }
             }
           ],
-          "label": "128",
+          "label": "{{ site.data.pages[277].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$278/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -8405,14 +8097,13 @@
               }
             }
           ],
-          "label": "129",
+          "label": "{{ site.data.pages[278].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$279/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 2349,
           "images": [
             {
@@ -8435,14 +8126,13 @@
               }
             }
           ],
-          "label": "130",
+          "label": "{{ site.data.pages[279].label }}",
           "width": 1684
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$280/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3138,
           "images": [
             {
@@ -8465,14 +8155,13 @@
               }
             }
           ],
-          "label": "131",
+          "label": "{{ site.data.pages[280].label }}",
           "width": 2192
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$281/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 2879,
           "images": [
             {
@@ -8495,14 +8184,13 @@
               }
             }
           ],
-          "label": "132",
+          "label": "{{ site.data.pages[281].label }}",
           "width": 1819
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$282/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 2856,
           "images": [
             {
@@ -8525,14 +8213,13 @@
               }
             }
           ],
-          "label": "133",
+          "label": "{{ site.data.pages[282].label }}",
           "width": 1797
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$283/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -8555,14 +8242,13 @@
               }
             }
           ],
-          "label": "134",
+          "label": "{{ site.data.pages[283].label }}",
           "width": 2575
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$284/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -8585,14 +8271,13 @@
               }
             }
           ],
-          "label": "127",
+          "label": "{{ site.data.pages[284].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$285/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -8615,14 +8300,13 @@
               }
             }
           ],
-          "label": "128",
+          "label": "{{ site.data.pages[285].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$286/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -8645,14 +8329,13 @@
               }
             }
           ],
-          "label": "129",
+          "label": "{{ site.data.pages[286].label }}",
           "width": 2621
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$287/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -8675,14 +8358,13 @@
               }
             }
           ],
-          "label": "130",
+          "label": "{{ site.data.pages[287].label }}",
           "width": 2643
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$288/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3680,
           "images": [
             {
@@ -8705,14 +8387,13 @@
               }
             }
           ],
-          "label": "131",
+          "label": "{{ site.data.pages[288].label }}",
           "width": 2654
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$289/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -8735,14 +8416,13 @@
               }
             }
           ],
-          "label": "132",
+          "label": "{{ site.data.pages[289].label }}",
           "width": 2649
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$290/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -8765,14 +8445,13 @@
               }
             }
           ],
-          "label": "133",
+          "label": "{{ site.data.pages[290].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$291/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -8795,14 +8474,13 @@
               }
             }
           ],
-          "label": "134",
+          "label": "{{ site.data.pages[291].label }}",
           "width": 2649
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$292/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -8825,14 +8503,13 @@
               }
             }
           ],
-          "label": "135",
+          "label": "{{ site.data.pages[292].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$293/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -8855,14 +8532,13 @@
               }
             }
           ],
-          "label": "136",
+          "label": "{{ site.data.pages[293].label }}",
           "width": 2649
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$294/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -8885,14 +8561,13 @@
               }
             }
           ],
-          "label": "137",
+          "label": "{{ site.data.pages[294].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$295/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -8915,14 +8590,13 @@
               }
             }
           ],
-          "label": "138",
+          "label": "{{ site.data.pages[295].label }}",
           "width": 2649
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$296/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -8945,14 +8619,13 @@
               }
             }
           ],
-          "label": "139",
+          "label": "{{ site.data.pages[296].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$297/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -8975,14 +8648,13 @@
               }
             }
           ],
-          "label": "140",
+          "label": "{{ site.data.pages[297].label }}",
           "width": 2649
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$298/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9005,14 +8677,13 @@
               }
             }
           ],
-          "label": "141",
+          "label": "{{ site.data.pages[298].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$299/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -9035,14 +8706,13 @@
               }
             }
           ],
-          "label": "142",
+          "label": "{{ site.data.pages[299].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$300/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9065,14 +8735,13 @@
               }
             }
           ],
-          "label": "143",
+          "label": "{{ site.data.pages[300].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$301/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -9095,14 +8764,13 @@
               }
             }
           ],
-          "label": "144",
+          "label": "{{ site.data.pages[301].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$302/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9125,14 +8793,13 @@
               }
             }
           ],
-          "label": "145",
+          "label": "{{ site.data.pages[302].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$303/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3708,
           "images": [
             {
@@ -9155,14 +8822,13 @@
               }
             }
           ],
-          "label": "146",
+          "label": "{{ site.data.pages[303].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$304/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9185,14 +8851,13 @@
               }
             }
           ],
-          "label": "147",
+          "label": "{{ site.data.pages[304].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$305/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -9215,14 +8880,13 @@
               }
             }
           ],
-          "label": "148",
+          "label": "{{ site.data.pages[305].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$306/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9245,14 +8909,13 @@
               }
             }
           ],
-          "label": "149",
+          "label": "{{ site.data.pages[306].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$307/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -9275,14 +8938,13 @@
               }
             }
           ],
-          "label": "150",
+          "label": "{{ site.data.pages[307].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$308/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9305,14 +8967,13 @@
               }
             }
           ],
-          "label": "151",
+          "label": "{{ site.data.pages[308].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$309/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -9335,14 +8996,13 @@
               }
             }
           ],
-          "label": "152",
+          "label": "{{ site.data.pages[309].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$310/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9365,14 +9025,13 @@
               }
             }
           ],
-          "label": "153",
+          "label": "{{ site.data.pages[310].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$311/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -9395,14 +9054,13 @@
               }
             }
           ],
-          "label": "154",
+          "label": "{{ site.data.pages[311].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$312/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9425,14 +9083,13 @@
               }
             }
           ],
-          "label": "155",
+          "label": "{{ site.data.pages[312].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$313/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -9455,14 +9112,13 @@
               }
             }
           ],
-          "label": "156",
+          "label": "{{ site.data.pages[313].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$314/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9485,14 +9141,13 @@
               }
             }
           ],
-          "label": "157",
+          "label": "{{ site.data.pages[314].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$315/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -9515,14 +9170,13 @@
               }
             }
           ],
-          "label": "158",
+          "label": "{{ site.data.pages[315].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$316/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9545,14 +9199,13 @@
               }
             }
           ],
-          "label": "159",
+          "label": "{{ site.data.pages[316].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$317/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -9575,14 +9228,13 @@
               }
             }
           ],
-          "label": "160",
+          "label": "{{ site.data.pages[317].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$318/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9605,14 +9257,13 @@
               }
             }
           ],
-          "label": "161",
+          "label": "{{ site.data.pages[318].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$319/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -9635,14 +9286,13 @@
               }
             }
           ],
-          "label": "162",
+          "label": "{{ site.data.pages[319].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$320/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9665,14 +9315,13 @@
               }
             }
           ],
-          "label": "163",
+          "label": "{{ site.data.pages[320].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$321/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -9695,14 +9344,13 @@
               }
             }
           ],
-          "label": "164",
+          "label": "{{ site.data.pages[321].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$322/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9725,14 +9373,13 @@
               }
             }
           ],
-          "label": "165",
+          "label": "{{ site.data.pages[322].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$323/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -9755,14 +9402,13 @@
               }
             }
           ],
-          "label": "166",
+          "label": "{{ site.data.pages[323].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$324/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9785,14 +9431,13 @@
               }
             }
           ],
-          "label": "167",
+          "label": "{{ site.data.pages[324].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$325/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -9815,14 +9460,13 @@
               }
             }
           ],
-          "label": "168",
+          "label": "{{ site.data.pages[325].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$326/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9845,14 +9489,13 @@
               }
             }
           ],
-          "label": "169",
+          "label": "{{ site.data.pages[326].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$327/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -9875,14 +9518,13 @@
               }
             }
           ],
-          "label": "170",
+          "label": "{{ site.data.pages[327].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$328/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9905,14 +9547,13 @@
               }
             }
           ],
-          "label": "171",
+          "label": "{{ site.data.pages[328].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$329/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -9935,14 +9576,13 @@
               }
             }
           ],
-          "label": "172",
+          "label": "{{ site.data.pages[329].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$330/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -9965,14 +9605,13 @@
               }
             }
           ],
-          "label": "171",
+          "label": "{{ site.data.pages[330].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$331/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -9995,14 +9634,13 @@
               }
             }
           ],
-          "label": "172",
+          "label": "{{ site.data.pages[331].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$332/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -10025,14 +9663,13 @@
               }
             }
           ],
-          "label": "173",
+          "label": "{{ site.data.pages[332].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$333/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -10055,14 +9692,13 @@
               }
             }
           ],
-          "label": "174",
+          "label": "{{ site.data.pages[333].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$334/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -10085,14 +9721,13 @@
               }
             }
           ],
-          "label": "173",
+          "label": "{{ site.data.pages[334].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$335/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -10115,14 +9750,13 @@
               }
             }
           ],
-          "label": "174",
+          "label": "{{ site.data.pages[335].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$336/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -10145,14 +9779,13 @@
               }
             }
           ],
-          "label": "175",
+          "label": "{{ site.data.pages[336].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$337/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -10175,14 +9808,13 @@
               }
             }
           ],
-          "label": "176",
+          "label": "{{ site.data.pages[337].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$338/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -10205,14 +9837,13 @@
               }
             }
           ],
-          "label": "177",
+          "label": "{{ site.data.pages[338].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$339/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -10235,14 +9866,13 @@
               }
             }
           ],
-          "label": "178",
+          "label": "{{ site.data.pages[339].label }}",
           "width": 2666
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$340/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -10265,14 +9895,13 @@
               }
             }
           ],
-          "label": "175",
+          "label": "{{ site.data.pages[340].label }}",
           "width": 2632
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$341/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3719,
           "images": [
             {
@@ -10295,14 +9924,13 @@
               }
             }
           ],
-          "label": "176",
+          "label": "{{ site.data.pages[341].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$342/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -10325,14 +9953,13 @@
               }
             }
           ],
-          "label": "177",
+          "label": "{{ site.data.pages[342].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$343/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -10355,14 +9982,13 @@
               }
             }
           ],
-          "label": "178",
+          "label": "{{ site.data.pages[343].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$344/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -10385,14 +10011,13 @@
               }
             }
           ],
-          "label": "179",
+          "label": "{{ site.data.pages[344].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$345/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -10415,14 +10040,13 @@
               }
             }
           ],
-          "label": "180",
+          "label": "{{ site.data.pages[345].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$346/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -10445,14 +10069,13 @@
               }
             }
           ],
-          "label": "181",
+          "label": "{{ site.data.pages[346].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$347/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -10475,14 +10098,13 @@
               }
             }
           ],
-          "label": "182",
+          "label": "{{ site.data.pages[347].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$348/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -10505,14 +10127,13 @@
               }
             }
           ],
-          "label": "181",
+          "label": "{{ site.data.pages[348].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$349/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -10535,14 +10156,13 @@
               }
             }
           ],
-          "label": "182",
+          "label": "{{ site.data.pages[349].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$350/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -10565,14 +10185,13 @@
               }
             }
           ],
-          "label": "183",
+          "label": "{{ site.data.pages[350].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$351/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -10595,14 +10214,13 @@
               }
             }
           ],
-          "label": "184",
+          "label": "{{ site.data.pages[351].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$352/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -10625,14 +10243,13 @@
               }
             }
           ],
-          "label": "185",
+          "label": "{{ site.data.pages[352].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$353/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -10655,14 +10272,13 @@
               }
             }
           ],
-          "label": "186",
+          "label": "{{ site.data.pages[353].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$354/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -10685,14 +10301,13 @@
               }
             }
           ],
-          "label": "187",
+          "label": "{{ site.data.pages[354].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$355/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -10715,14 +10330,13 @@
               }
             }
           ],
-          "label": "188",
+          "label": "{{ site.data.pages[355].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$356/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -10745,14 +10359,13 @@
               }
             }
           ],
-          "label": "189",
+          "label": "{{ site.data.pages[356].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$357/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -10775,14 +10388,13 @@
               }
             }
           ],
-          "label": "190",
+          "label": "{{ site.data.pages[357].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$358/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -10805,14 +10417,13 @@
               }
             }
           ],
-          "label": "191",
+          "label": "{{ site.data.pages[358].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$359/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3725,
           "images": [
             {
@@ -10835,14 +10446,13 @@
               }
             }
           ],
-          "label": "192",
+          "label": "{{ site.data.pages[359].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$360/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3696,
           "images": [
             {
@@ -10865,14 +10475,13 @@
               }
             }
           ],
-          "label": "193",
+          "label": "{{ site.data.pages[360].label }}",
           "width": 2677
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$361/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3713,
           "images": [
             {
@@ -10895,14 +10504,13 @@
               }
             }
           ],
-          "label": "194",
+          "label": "{{ site.data.pages[361].label }}",
           "width": 2711
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$362/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3680,
           "images": [
             {
@@ -10925,14 +10533,13 @@
               }
             }
           ],
-          "label": "195",
+          "label": "{{ site.data.pages[362].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$363/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -10955,14 +10562,13 @@
               }
             }
           ],
-          "label": "196",
+          "label": "{{ site.data.pages[363].label }}",
           "width": 2717
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$364/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3680,
           "images": [
             {
@@ -10985,14 +10591,13 @@
               }
             }
           ],
-          "label": "197",
+          "label": "{{ site.data.pages[364].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$365/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -11015,14 +10620,13 @@
               }
             }
           ],
-          "label": "198",
+          "label": "{{ site.data.pages[365].label }}",
           "width": 2717
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$366/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3680,
           "images": [
             {
@@ -11045,14 +10649,13 @@
               }
             }
           ],
-          "label": "199",
+          "label": "{{ site.data.pages[366].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$367/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -11075,14 +10678,13 @@
               }
             }
           ],
-          "label": "200",
+          "label": "{{ site.data.pages[367].label }}",
           "width": 2717
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$368/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3680,
           "images": [
             {
@@ -11105,14 +10707,13 @@
               }
             }
           ],
-          "label": "201",
+          "label": "{{ site.data.pages[368].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$369/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -11135,14 +10736,13 @@
               }
             }
           ],
-          "label": "202",
+          "label": "{{ site.data.pages[369].label }}",
           "width": 2717
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$370/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3680,
           "images": [
             {
@@ -11165,14 +10765,13 @@
               }
             }
           ],
-          "label": "203",
+          "label": "{{ site.data.pages[370].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$371/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -11195,14 +10794,13 @@
               }
             }
           ],
-          "label": "204",
+          "label": "{{ site.data.pages[371].label }}",
           "width": 2717
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$372/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3680,
           "images": [
             {
@@ -11225,14 +10823,13 @@
               }
             }
           ],
-          "label": "205",
+          "label": "{{ site.data.pages[372].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$373/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -11255,14 +10852,13 @@
               }
             }
           ],
-          "label": "206",
+          "label": "{{ site.data.pages[373].label }}",
           "width": 2717
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$374/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3680,
           "images": [
             {
@@ -11285,14 +10881,13 @@
               }
             }
           ],
-          "label": "207",
+          "label": "{{ site.data.pages[374].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$375/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3702,
           "images": [
             {
@@ -11315,14 +10910,13 @@
               }
             }
           ],
-          "label": "208",
+          "label": "{{ site.data.pages[375].label }}",
           "width": 2717
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$376/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3680,
           "images": [
             {
@@ -11345,14 +10939,13 @@
               }
             }
           ],
-          "label": "209",
+          "label": "{{ site.data.pages[376].label }}",
           "width": 2683
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$377/canvas",
           "@type": "sc:Canvas",
-          "description": "",
           "height": 3820,
           "images": [
             {
@@ -11375,7 +10968,94 @@
               }
             }
           ],
-          "label": "p. ",
+          "label": "{{ site.data.pages[377].label }}",
+          "width": 2773
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$378/canvas",
+          "@type": "sc:Canvas",
+          "height": 3820,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$378/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$378/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$378/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3820,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$378",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2773
+              }
+            }
+          ],
+          "label": "{{ site.data.pages[378].label }}",
+          "width": 2773
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$379/canvas",
+          "@type": "sc:Canvas",
+          "height": 3820,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$379/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$379/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$379/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3820,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$379",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2773
+              }
+            }
+          ],
+          "label": "{{ site.data.pages[379].label }}",
+          "width": 2773
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$380/canvas",
+          "@type": "sc:Canvas",
+          "height": 3820,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$380/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$380/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$380/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3820,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$380",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2773
+              }
+            }
+          ],
+          "label": "{{ site.data.pages[380].label }}",
           "width": 2773
         }
       ],
