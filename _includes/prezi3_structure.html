@@ -1,0 +1,20 @@
+{
+  "id": "{{ '/iiif/manualonmethodso00robe/range/r0' | absolute_url }}",
+  "type": "Range",
+  "label": { "en": [ "Table of Contents" ] },
+  "items": [
+{% for entry in site.data[include.source] %}
+  {
+    "id": "{{ '/iiif/manualonmethodso00robe/range/r0-' | append: forloop.index0 | absolute_url }}",
+    "type": "Range",
+    "label": { "en": [ "{{ entry.id }} {{ entry.title }}" ] },
+    "items": [
+      {
+        "id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe${{ entry.canvas_id }}/canvas",
+        "type": "Canvas"
+      }
+    ]
+  }{% if forloop.last == false %},{% endif %}
+{% endfor %}
+  ]
+}

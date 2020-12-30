@@ -98,6 +98,9 @@
       ]
     }
   },
+  "structures": [
+    {% include prezi3_structure.html source="toc" %}
+  ],
   "thumbnail": [
     {
       "id": "https://ia801400.us.archive.org/BookReader/BookReaderPreview.php?id=manualonmethodso00robe&subPrefix=manualonmethodso00robe&itemPath=/30/items/manualonmethodso00robe&server=ia801400.us.archive.org&page=preview&",
