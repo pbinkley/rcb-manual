@@ -30,7 +30,6 @@ twitter_username: pabinkley
 github_username:  pbinkley
 
 # Build settings
-theme: ed.
 remote_theme: minicomp/ed
 plugins:
   - jekyll-feed
