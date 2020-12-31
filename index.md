@@ -21,7 +21,7 @@ Experiments toward an online edition of the *Manual*.
 - XI. Cost Levels and Applications of Microcopying and Projection Reading
 - XII. Photographic and Projecting Apparatus
 - XIII. The Recording of Sound
-- XIV. Conclusion
+- XIV. [Conclusion](sections/14-conclusion.html)
 
 ## Tests
 
