@@ -17,6 +17,9 @@ layout: none
    windows: [
    {
      manifestId: '{{ "/iiif/manualonmethodso00robe/manifest.json" | absolute_url }}',
-   }]
+   }],
+   workspace: {
+     showZoomControls: true
+   }
  });
 </script>

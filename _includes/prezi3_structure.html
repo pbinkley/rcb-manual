@@ -1,11 +1,11 @@
 {
-  "id": "{{ '/iiif/manualonmethodso00robe/range/r0' | absolute_url }}",
+  "id": "{{ '/iiif/manualonmethodso00robe/range/{{ include.source }}' | absolute_url }}",
   "type": "Range",
-  "label": { "en": [ "Table of Contents" ] },
+  "label": { "en": [ "{{ include.title }}" ] },
   "items": [
 {% for entry in site.data[include.source] %}
   {
-    "id": "{{ '/iiif/manualonmethodso00robe/range/r0-' | append: forloop.index0 | absolute_url }}",
+    "id": "{{ '/iiif/manualonmethodso00robe/range/{{ include.source }}-' | append: forloop.index0 | absolute_url }}",
     "type": "Range",
     "label": { "en": [ "{{ entry.id }} {{ entry.title }}" ] },
     "items": [

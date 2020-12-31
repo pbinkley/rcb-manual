@@ -3,7 +3,7 @@
 require 'csv'
 require 'byebug'
 
-toc = CSV.parse(File.read("toc.csv"), headers: true)
+toc = CSV.parse(File.read("tables.csv"), headers: true)
 pages = CSV.parse(File.read("pages.csv"), headers: true)
 
 toc.each do |entry|

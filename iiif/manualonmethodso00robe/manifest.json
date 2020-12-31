@@ -99,7 +99,8 @@
     }
   },
   "structures": [
-    {% include prezi3_structure.html source="toc" %}
+    {% include prezi3_structure.html source="toc" title="Table of Contents" %},
+    {% include prezi3_structure.html source="tables" title="Tables" %}
   ],
   "thumbnail": [
     {
