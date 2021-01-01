@@ -103,7 +103,7 @@
   ],
   "thumbnail": [
     {
-      "id": "https://ia801400.us.archive.org/BookReader/BookReaderPreview.php?id=manualonmethodso00robe&subPrefix=manualonmethodso00robe&itemPath=/30/items/manualonmethodso00robe&server=ia801400.us.archive.org&page=preview&",
+      "id": "{{ '/iiif/thumbnails/0005.jpg' | absolute_url }}",
       "type": "Image"
     }
   ],
