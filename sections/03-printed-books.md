@@ -4,7 +4,7 @@ title: "Printed Books"
 layout: narrative
 ---
  
-{% include pagebreak.html page="13" image="0031" %}The publishers of commercially successful books have very little occasion to 
+{% include pagebreak.html canvas=31 %}The publishers of commercially successful books have very little occasion to 
 study the cost curve of editions in the 
 range of 50 to 500, this range 
 in edition size that library demand and 
@@ -41,7 +41,7 @@ costs paramount elements of first cost. Reprint costs are affected in printing b
 storing type (rates running around $.01 per 
 page per month), or by making stereotypes 
 and electrotypes; in photo-offset, by saving the metal sheets; in 
-mimeographing, by {% include columnbreak.html %} saving the stencils. 
+mimeographing, by {% include columnbreak.html canvas=31 col=2 %} saving the stencils. 
 
 The librarian receives as a book 
 any bound volume, however it may have been 
@@ -79,7 +79,7 @@ regulated in the best interests of scholarship.
 The starting point of an analysis 
 of the technological problem of book production is a fundamental distinction to be 
 made between two types of cost behavior, 
-instanced by the photostat on the one hand, {% include pagebreak.html page="14" image="0032" %} the printing press on the other. When copies are multiplied by the photostat or in 
+instanced by the photostat on the one hand, {% include pagebreak.html canvas=32 %} the printing press on the other. When copies are multiplied by the photostat or in 
 miniature film copies, no matter how large 
 the edition, the cost per copy stands constant. The element of "first cost" is absent; running costs alone prevail. This 
 was the cost situation of all multiplying 
@@ -118,8 +118,7 @@ making books in typescript face. Among
 them the leading place belongs to photo-offset, but room must also be found for the 
 mimeograph, hectograph, and even the humble carbon paper. These techniques will be 
 discussed in a later chapter. This present analysis is limited to the discussion 
-of making books in ordinary print type from {% include columnbreak.html %}
-one of two kinds of copy---a manuscript that 
+of making books in ordinary print type from {% include columnbreak.html canvas=32 col=2 %} one of two kinds of copy---a manuscript that 
 is being converted into a new book, and an 
 old book that is being reprinted. 
 
@@ -170,7 +169,7 @@ Without careful make-ready, satisfactory
 
 {% include enclosure.html incl="03-14" %}
 
-{% include pagebreak.html page="15" image="0039" %} results are unobtainable. 
+{% include pagebreak.html canvas=39 %} results are unobtainable. 
 
 ## Printing: Composition Costs 
 
@@ -217,7 +216,7 @@ composed lines.[^n2] Thus the number of ems in
 the page is found by multiplying the width 
 by the length of the line. The author, 
 therefore, pays in composition for excessive leading. 
-The majority of books appear in 10-point type on 11-point body, the {% include columnbreak.html %} majority of newspapers in 6 1/2-point or 
+The majority of books appear in 10-point type on 11-point body, the {% include columnbreak.html canvas=39 col=2 %} majority of newspapers in 6 1/2-point or 
 7-point type on 7-point body. For each additional point of leading the author ordinarily pays about 10% more in composition. 
 It is questionable whether legibility demands more than one point of lead between 
 lines. Certainly types like Caslon Old 
@@ -263,7 +262,7 @@ in the American press, is certainly a format of remarkable cheapness and efficie
 
 As a factor increasing composition 
 costs, corrections and alterations deserve 
-particular attention. From a description {% include pagebreak.html page="16" image="0040" %} of the typesetting machines, especially the 
+particular attention. From a description {% include pagebreak.html canvas=40 %} of the typesetting machines, especially the 
 linotype and intertype, it is obvious that 
 making corrections in the matter already 
 set up is a costly operation, because each 
@@ -311,7 +310,7 @@ area costs in raised type printing. Area
 costs consist of make-up and make-ready. 
 These operations increase in cost with the 
 number of pages, but also greatly increase 
-whenever it is necessary to fit type around {% include columnbreak.html %} pictorial or non-textual matter during 
+whenever it is necessary to fit type around {% include columnbreak.html canvas=40 col=2 %} pictorial or non-textual matter during 
 make-up, or whenever the tympan sheet on 
 the press must be prepared for pictorial 
 matter during make-ready. 
@@ -367,8 +366,8 @@ to the square inch:
 | 10-point | 21 | 16 |
 | 12-point | 14 | 11 |
 
-{% include pagebreak.html page="n40" image="0041" label="16a" %}
-{% include pagebreak.html page="n41" image="0042" label="16b" %}
+{% include pagebreak.html canvas=41 %}
+{% include pagebreak.html canvas=42 %}
 
 FIGURE IV 
 
@@ -411,7 +410,7 @@ friends at a masked ball of the most unusual magnificence. It was a voluptuous s
 
 335 WORDS 36 LINES 1 POINT LEAD 
 
-{% include columnbreak.html %}8-POINT BODONI 
+{% include columnbreak.html canvas=42 col=2 %}8-POINT BODONI 
 
 THE "RED DEATH" had long devastated the councry. No pestilence 
 had ever been so fatal, or so hideous. Blood was its Avatar and 
@@ -461,7 +460,7 @@ bottom which now reads "...would yield 800
 pages, 24,600 words", should read, "...would 
 yield 800 words per page, 24,600 words...." 
 
-{% include pagebreak.html page="17" image="0043" %} The number of pages, and hence the number 
+{% include pagebreak.html canvas=43 %} The number of pages, and hence the number 
 of forms, required will vary with the point 
 size of the type, the compactness of the 
 type, and the amount of leading. 
@@ -510,7 +509,7 @@ form. Figure IV shows the increase in word
 content per page that is made possible by 
 shifting from 10-point Bodoni type to 8-point Bodoni, both being leaded one point. 
 The shift from 10-point to 8-point type 
-would save one form out of three, or one-{% include columnbreak.html %}third of the area cost in a text of 50,000 
+would save one form out of three, or one-{% include columnbreak.html canvas=43 col=2 %}third of the area cost in a text of 50,000 
 words.
 
 ## Printing: Running Costs 
@@ -561,7 +560,7 @@ of the cost goes for composition, about
 There is, however, great dissimilarity in 
 the amount which the different departments 
 contribute to the cost of the finished 
-product in various shops of the country, {% include pagebreak.html page="18" image="0044" %} 
+product in various shops of the country, {% include pagebreak.html canvas=44 %} 
 
 | For hour costs of composing 50,000 words at a composite rate of $3.55 per hour for Chicago printers, without allowance for profit, the total would be ... | $127.50 | 
 | For hour costs of printing 250 impressions, the time allowed per form being .35 ours: according to Hoch,[^n4] or a total of 2.80 hours, at a composite rate of $4.90 per hour for flat-bed cylinder presses for Chicago printers, without allowance for profit, the total would be ... | 13.72 |
@@ -582,7 +581,7 @@ its small-edition publishing. There is
 now setting in a contrary pressure toward 
 the standardization of wages, but unless 
 the regional and urban-rural differentials 
-are closed up, small-edition publishing {% include columnbreak.html %} can be expected to drift to the 
+are closed up, small-edition publishing {% include columnbreak.html canvas=44 col=2 %} can be expected to drift to the 
 areas. 
 
 ## The Multigraph Process 
@@ -615,7 +614,7 @@ The best adaptation of multigraph
 
 {% include enclosure.html incl="03-18" %}
 
-{% include pagebreak.html page="19" image="0051" %} printing to the purpose of book production 
+{% include pagebreak.html canvas=51 %} printing to the purpose of book production 
 has been made by the Mimeoform Service under the direction of Dr. Ernest Kletsch, 
 who styles his process the mimeoform process.[^n6] He uses a Lanston Monotype for setting the type, which is cast in a low type 
 mold, 8-, 10-, or 12-point. A special 
@@ -655,7 +654,7 @@ to the inch, regardless of size of type.
 Thus all four type sizes available (6-, 8-, 
 10-, and 12-point) are cast on a 12-point 
 body (note Figure VI, set in 12-point and 
-8-point type). This means that lines of {% include columnbreak.html %} 10-point type, the most commonly used for 
+8-point type). This means that lines of {% include columnbreak.html canvas=51 col=2 %} 10-point type, the most commonly used for 
 book composition, would be leaded two 
 points; 8-point type, four points; and 6-point type, used for footnotes, six points. 
 For spacing between paragraphs, a channel 
@@ -693,7 +692,7 @@ printing is useful for the production of
 scholarly books when the edition is in the 
 region of 100 to 500. Considerable savings over. ordinary printing are here effected because composition costs are reduced, in some measure, by wage-scale factors and by the very difficulty of making 
 author's corrections which tends to enforce upon authors practices that would be 
-equally effective in reducing printing costs.[^n7] {% include pagebreak.html page="20" image="0052" %} Area costs are held down because make-up is 
+equally effective in reducing printing costs.[^n7] {% include pagebreak.html canvas=52 %} Area costs are held down because make-up is 
 eliminated, being combined with typesetting, 
 and because there is no make-ready, and it 
 is in area costs that the principal savings 
@@ -702,7 +701,7 @@ reason, printing will always catch up with
 and pass mimeoform, if the edition is large 
 enough; but in the region of 100 to S00, 
 running costs are so small a part of the total costs that the economy of the flat-bed 
-press in printing sixteen pages at a time {% include columnbreak.html %} is of small importance. 
+press in printing sixteen pages at a time {% include columnbreak.html canvas=52 col=2 %} is of small importance. 
 
 [^n7]: The multigraph interferes somewhat with the working habit of scholars who expect to receive proofs of 
     a 300-page book, leave them on the desk for a week, and correct them when they "get to it." The 
@@ -832,7 +831,7 @@ table is to compare estimates on a newsprint format with estimates on a good sou
 
 {% include enclosure.html incl="03-20" %}
 
-{% include pagebreak.html page="21" image="0059" %}
+{% include pagebreak.html canvas=59 %}
 
 ## Alternatives to Printing 
 
@@ -870,7 +869,7 @@ stone to paper necessitated the image to be
 drawn or imposed on the stone in reverse. 
 
 The same principle is applied in 
-the photo-offset process, which is fundamentally lithographic in character. A photographic image is transferred, via a negative, to a metal plate covered with a light-{% include columnbreak.html %}sensitive emulsion (albumen with ammonium 
+the photo-offset process, which is fundamentally lithographic in character. A photographic image is transferred, via a negative, to a metal plate covered with a light-{% include columnbreak.html canvas=59 col=2 %}sensitive emulsion (albumen with ammonium 
 bichromate). An exposure to an arc light 
 hardens the portions of the emulsion under 
 the transparent parts of the negative so 
@@ -924,7 +923,7 @@ of "offset printing."[^n8]
 For scholarly publication, two 
 small offset presses, the "rotaprint" and 
 the multilith (Figures X and XI), which 
-are used by business offices doing small {% include pagebreak.html page="22" image="0060" %} runs of advertising matter or publishing a 
+are used by business offices doing small {% include pagebreak.html canvas=60 %} runs of advertising matter or publishing a 
 house organ, deserve special attention. 
 When soliciting business, the users of the 
 large offset presses regard these smaller 
@@ -968,7 +967,7 @@ ed.
 
 ### (a) The Photographic Negative 
 
-In the preparation of the photographic negative, various kinds of materi{% include columnbreak.html %}als can be used. The photo-offset process 
+In the preparation of the photographic negative, various kinds of materi{% include columnbreak.html canvas=60 col=2 %}als can be used. The photo-offset process 
 was originally developed with wet-plate 
 photography. This technique came to the 
 photo-offset shop from the photoengraver. 
@@ -1038,7 +1037,7 @@ photographer, acting under instructions
 
 {% include enclosure.html incl="03-22" %}
 
-{% include pagebreak.html page="23" image="0063" %}
+{% include pagebreak.html canvas=63 %}
 
 given him for the purpose, can prepare the 
 paper negatives. The situation may bring 
@@ -1062,7 +1061,7 @@ This discount when given runs near to 15%.
 However, in computing area costs, 
 the preparation of the metal plate is a 
 more important factor than the making of 
-the photographic negatives. The price per {% include columnbreak.html %} area of photo-offset printing surface has 
+the photographic negatives. The price per {% include columnbreak.html canvas=63 col=2 %} area of photo-offset printing surface has 
 been calculated by Fred W. Hoch, author of 
 the *Standard Book of Estimating for Printers*, and published in the *American Printer* 
 for June, 1932 (p. 55), as follows. According to information recently received, these 
@@ -1098,7 +1097,7 @@ PRICES ON PHOTO-OFFSET PRINTING SURFACE
 | 19" x 24" | 11.00 | 1.40 |
 | 22" x 34" | 16.00 | 2.40 |
 
-{% include pagebreak.html page="24" image="0064" %}
+{% include pagebreak.html canvas=64 %}
 
 This raises the question of the relation of 
 page, plate, and press sizes. 
@@ -1141,7 +1140,7 @@ job.
 The principle which permits this 
 economy has wide application. Since the 
 printing surface for the photo-offset process, is prepared. photographically, the material to be reproduced can be enlarged or 
-reduced to any degree desired. The purchaser buys the use of a certain number of {% include columnbreak.html %} square inches of printing surface; it is 
+reduced to any degree desired. The purchaser buys the use of a certain number of {% include columnbreak.html canvas=64 col=2 %} square inches of printing surface; it is 
 almost immaterial to the printer what is 
 contained within these dimensions. This 
 opens the publisher to an interesting temptation. He can enormously reduce the cost 
@@ -1159,7 +1158,7 @@ with the controlling position of area costs,
 gives to the problem of legibility a special importance. The size of the type-face 
 can be fixed at any point, from microscopic 
 to above normal, and while the diameter is 
-shrinking in arithmetical series=--1,2,3,4,---the cost of producing the copies is 
+shrinking in arithmetical series---1,2,3,4,---the cost of producing the copies is 
 shrinking in geometrical series---2,4,8,16. 
 This situation creates a temptation to pull 
 the size of the print down to the lowest 
@@ -1196,7 +1195,7 @@ naked eye.
 
 {% include enclosure.html incl="03-24" %}
 
-{% include pagebreak.html page="25" image="0067" %}The Joint Committee on Materials 
+{% include pagebreak.html canvas=67 %}The Joint Committee on Materials 
 for Research secured the help of Professors 
 Donald G. Paterson and Miles A. Tinker of 
 the University of Minnesota in examining 
@@ -1240,7 +1239,7 @@ that required to make the first edition
 pay. This result will follow whenever some 
 of the work that has been paid for, as the 
 "first cost" of the first edition can be
-held over and used again without additional cost in a second edition. The revolutionary importance of this element in the {% include columnbreak.html %} cost structure of text reproduction is realized most completely in microcopying, but 
+held over and used again without additional cost in a second edition. The revolutionary importance of this element in the {% include columnbreak.html canvas=67 col=2 %} cost structure of text reproduction is realized most completely in microcopying, but 
 the element is also present in relief 
 printing and in photo-offset work. 
 
@@ -1284,7 +1283,7 @@ negatives, and, if customer desires, plates
 as well. "Certain percentage" of reduction given on reruns. 
 
 *The Copifyer Corporation of Ohio, 1111 Power 
-Avenue, Cleveland*. Keeps plates and negatives until the customer releases them. No {% include pagebreak.html page="26" image="0068" %} charge is made for negatives, but a charge 
+Avenue, Cleveland*. Keeps plates and negatives until the customer releases them. No {% include pagebreak.html canvas=68 %} charge is made for negatives, but a charge 
 of $1.00 per plate is made after three 
 months. 
 
@@ -1319,7 +1318,7 @@ printings that may remain unsold.
 ## Photo-Offset: the Outlook for the Future 
 
 The development of the photo-offset 
-apparatus as an additional shop equipment for {% include columnbreak.html %} letterpress printers has already had an important influence on scholarship through 
+apparatus as an additional shop equipment for {% include columnbreak.html canvas=68 col=2 %} letterpress printers has already had an important influence on scholarship through 
 the production of cheap reprints. In at 
 least one instance---the making of the new 
 Early Modern English and Middle English Dictionaries under the sponsorship of the American Council of Learned Societies---it has 
@@ -1366,7 +1365,7 @@ purposes, great results in the intellectual
 
 {% include enclosure.html incl="03-26" %}
 
-{% include pagebreak.html page="27" image="0071" %}  
+{% include pagebreak.html canvas=71 %}  
 
 world would be likely to follow. How far 
 is technology from that possibility? Certain new developments tending in this direction have come to the knowledge of the 
@@ -1417,7 +1416,7 @@ and rotaprint (Figures XXV and XXVI).
 The page to be dermaprinted was 
 selected because it was yellowed with age 
 and contained a line cut. The standard 
-charge of the A. B. Dick Company for an {% include columnbreak.html %} 8 1/2" x 11" dermaprint stencil is $3.50, 
+charge of the A. B. Dick Company for an {% include columnbreak.html canvas=71 col=2 %} 8 1/2" x 11" dermaprint stencil is $3.50, 
 which includes a small amount of retouching. If a considerable amount of retouching is necessary, there is a standard extra charge of $1.00 per hour. The cost of 
 the materials needed to make this particular stencil was $.64, which included a 
 film negative and a film positive. Had a 
@@ -1458,8 +1457,8 @@ ions and tan the gelatin. It is only necessary, then, to subject to ultra-violet
 light those parts of the sheet that are to 
 be kept ink-resistant. The dermaprint 
 stencil must, therefore, be prepared by 
-using a black-on-white or positive photograph, or, as in the production of the so-called "special stencil," from an original {% include pagebreak.html page="28" image="0072" %} black-on-white drawing on very thin or 
-transparent paper, tracing cloth, vellun, 
+using a black-on-white or positive photograph, or, as in the production of the so-called "special stencil," from an original {% include pagebreak.html canvas=72 %} black-on-white drawing on very thin or 
+transparent paper, tracing cloth, vellum, 
 or celluloid. In this it differs from the 
 ordinary photo-offset metal sheet, which is 
 prepared as a printing surface by using a 
@@ -1479,7 +1478,7 @@ been protected by black ink from the rays
 of the light, but leaves the other part intact. Thus a stencil has been prepared 
 automatically. 
 
-{% include columnbreak.html %}The cost of equipment for the dermaprint comes into the same price range with 
+{% include columnbreak.html canvas=72 col=2 %}The cost of equipment for the dermaprint comes into the same price range with 
 the cost of multilith apparatus unless the 
 photostat and the mimeograph have already 
 been purchased.[^n14] 
@@ -1519,7 +1518,7 @@ MULTILITH
     photostat prepares a film positive, the $23.00 equipment may be used, the total cost of the equipment 
     being about $110.00. Mimeographs vary in price from $30.00 to $450.00. 
   
-{% include pagebreak.html page="29" image="0073" %}
+{% include pagebreak.html canvas=73 %}
 
 because the dermaprint must have a positive 
 copy, while photo-offset can use the negative. The photographer is through when he 
@@ -1537,7 +1536,7 @@ out that film negatives are required, the
 cost of photographic materials mounts even 
 further above the level of the photographic requirements of photo-offset. 
 
-{% include columnbreak.html %} Whether the dermaprint allows genuine operating economies is still an open 
+{% include columnbreak.html canvas=73 col=2 %} Whether the dermaprint allows genuine operating economies is still an open 
 question. The A. B. Dick Company offers to 
 prepare these stencils, but the prices are 
 so high that the service has no place in 
@@ -1613,7 +1612,7 @@ PRICES OF DERMAPRINT SERVICE
     The German firms offering to reproduce by this process indicate by their quotations that the saving is 
     greater than is possible with straight photo-offset printing. 
 
-{% include pagebreak.html page="30" image="0074" %} The following table is a summary comparison of the factors affecting book {% include columnbreak.html %} manufacturing costs by three processes---printing, mimeoform, and photo-offset. 
+{% include pagebreak.html canvas=74 %} The following table is a summary comparison of the factors affecting book {% include columnbreak.html canvas=74 col=2 %} manufacturing costs by three processes---printing, mimeoform, and photo-offset. 
 
 TABLE IX 
 

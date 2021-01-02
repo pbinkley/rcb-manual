@@ -1,15 +1,4 @@
-{% capture linkpage %}
-  {% if include.insert %}n{{ include.image | minus: 1 }}
-  {% else %}{{ include.page }}{% endif %}
-{% endcapture %}
-{% capture image %}
-  {% if include.image %}{{ include.image }}
-  {% else %}
-    {% capture page %}{{ site.data.pages | find: "page_id", include.page }}{% endcapture %}
-    {{ page.canvas_id | prepend: '0000' | slice: -4, 4 }}  
-  {% endif %}
-{% endcapture%}
-{% capture pagelabel %}
-  {% if include.label %}[{{ include.label }}]
-  {% else %}{{ include.page }}{% endif %}{% endcapture %}<span title="Page {{ pagelabel | strip}}, column 1" style="color: red">|</span><label title="Show page image" style="color: red" for="mn-page-{{ include.page }}" class="margin-toggle">&#128196;</label><input type="checkbox" id="mn-page-{{ pagelabel | strip }}" class="margin-toggle"/><span class="marginnote">
-  <a href="https://archive.org/details/manualonmethodso00robe/page/{{ linkpage | strip }}/mode/1up"><img style="width: 150px; border: 1px solid black; margin-bottom: 0" src="{{ image | strip | prepend: '/iiif/thumbnails/' | append: '.jpg' | absolute_url }}"></a>p.{{ pagelabel | strip }}</span>
+{% assign page = site.data.pages | find: "canvas_id", include.canvas %}{% capture linkpage %}
+  {% if include.insert %}n{{ include.canvas | minus: 1 }}
+  {% else %}{{ page['page_id'] }}{% endif %}
+{% endcapture %}{% assign canvas = include.canvas | prepend: '0000' | slice: -4, 4 %}<span title="Page {{ page.label | strip}}" style="color: red">|</span><label title="Show page image" style="color: red" for="mn-page-{{ include.page }}" class="margin-toggle">&#128196;</label><input type="checkbox" id="mn-page-{{ page.label | strip }}" class="margin-toggle"/><span class="marginnote"><a href="https://archive.org/details/manualonmethodso00robe/page/{{ linkpage | strip }}/mode/1up"><img style="width: 150px; border: 1px solid black; margin-bottom: 0" src="{{ canvas | strip | prepend: '/iiif/thumbnails/' | append: '.jpg' | absolute_url }}"></a>p.{{ page.label | strip }}</span>

@@ -4,7 +4,7 @@ title: The Setting of the Problem of Reproducing Research Materials
 layout: narrative
 ---
 
-{% include pagebreak.html page="1" image="0019"%} Research in the social sciences and humanities is unlike research in
+{% include pagebreak.html canvas=19 %} Research in the social sciences and humanities is unlike research in
 the natural sciences in that it uses written texts as its principal
 material. The first duty of scholarship is to protect and preserve
 original writings, the loss of which would be irretrievable. Except
@@ -33,7 +33,7 @@ whole system of research libraries, cooperating with each other and
 allocating responsibilities among themselves, will be able to supply
 the research scholar's needs. The Association of Research Libraries
 was formed in April, 1932, to grapple with this problem, and the
-American {% include columnbreak.html col="2" page="1" %} Library Association Committee on Bibliography has
+American {% include columnbreak.html col="2" canvas=19 %} Library Association Committee on Bibliography has
 long been working upon it.[^n1]
 
 [^n1]: See "A Restatement of the A.L.A. Plan for the Promotion of Research Library Service by Cooperative Methods," made for the A.L.A. at the request of the Secretary, by the Chairman, November 3, 1930. Washington, D.C., 1930.
@@ -42,7 +42,7 @@ In dealing with the problem of research materials, three interests
 are to be distinguished: those of the scholar as a producer, of the
 scholar as a consumer, and of the library as a custodian. The scholar
 as a producer wants to see his manuscript set up in type, printed on
-good paper, bound in buckram, ands distributed in as large an edition
+good paper, bound in buckram, and distributed in as large an edition
 as possible. Although "book form" is an arbitrary and mechanical
 criterion of scholarly value, it is given weight in academic circles.
 The consumer interest is that of the man who is using a library. All
@@ -64,7 +64,7 @@ the production and in the distribution of material.
 
 In the production of books the line of technical development has been
 in the direction of lower costs for larger editions. Rotary presses
-and wood-pulp paper, as well as the sales and promotion policies {% include pagebreak.html page="2" image="0020" %} of
+and wood-pulp paper, as well as the sales and promotion policies {% include pagebreak.html canvas=20 %} of
 publishers, emphasize the importance of securing a wide market.
 But scholarship, with its tendency to increased specialization, has
 been constantly diminishing the number of probable users of any given
@@ -91,7 +91,7 @@ An inquiry into the techniques of reproducing research materials is
 called for at the present time because there are coming to light new
 processes and devices which, taken in their entirety, promise to have
 an impact on the intellectual world comparable with that of the
-invention of printing. The typewriter and the photo{% include columnbreak.html col="2" page="2"%}stat
+invention of printing. The typewriter and the photo{% include columnbreak.html col="2" canvas=20 %}stat
 were the precursors of the array of new devices, among which the
 planograph, or photo-offset, and the miniature film copy have the
 most interesting possible applications. The photo-offset process now
@@ -103,7 +103,7 @@ come to be. The use of miniature film copies is in its very infancy,
 but progress along its line of development would tend to bring the
 cost of making a unique copy of a book lower than the normal original
 purchase price, lower perhaps than the cost of mailing and returning
-an inter-library loan--a situation with revolutionary implications.
+an inter-library loan---a situation with revolutionary implications.
 Book and journals publishing, now taken for granted as the sole
 channels for the flow of an intellectual product, may be challenged
 by the consequences of these technological changes. Perhaps the time

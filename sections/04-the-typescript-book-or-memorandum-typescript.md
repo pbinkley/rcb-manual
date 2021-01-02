@@ -21,7 +21,7 @@ layout: narrative
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-{% include pagebreak.html page="31" image="0075" %} The typewriter has been well established as the device by which all scholarly 
+{% include pagebreak.html canvas=75 %} The typewriter has been well established as the device by which all scholarly 
 work is prepared for publication. Authors 
 often use it when drafting their manuscripts. Typed copy is always submitted to 
 the publisher by the author and to the linotyper by the publishers. The fact that 
@@ -56,7 +56,7 @@ so cheap and widely distributed, and the
 skill to use it is so easily acquired, that 
 its operating costs are low. Bond paper, 
 filing cabinets, folders, and loose-leaf 
-notebooks have been standardized to sizes {% include columnbreak.html %}
+notebooks have been standardized to sizes {% include columnbreak.html canvas=75 col=2 %}
 that conform to it. Office appliances, even 
 the office offset press, are keyed to its 
 8 1/2" x 11" sheet. There is only one 
@@ -94,7 +94,7 @@ at about $110.00. The type is standardized
 in two sizes, known as pica and elite. The 
 pica typewriter lays down ten letters to 
 the inch, the elite, twelve. How do these 
-typescript letters compare with the letters {% include pagebreak.html page="32" image="0076" %} **[note: this page is set in different typefaces to illustrate spacing]**
+typescript letters compare with the letters {% include pagebreak.html canvas=76 %} **[note: this page is set in different typefaces to illustrate spacing]**
 of relief printing? A peculiarity of typescript as compared with print-face is the 
 equal width of the letters. The typescript 
 "i" is just as broad as the "m". This 
@@ -142,7 +142,7 @@ face.
 Special types are available, such 
 as micro-elite, laying down fourteen letters to the inch, or ultra micro-elite, laying down sixteen letters to the inch. Their 
 interlinear spacing is usually six lines to 
-the inch. A sample page done with micro-{% include columnbreak.html %}elite type is shown in Figure XXVIII. 
+the inch. A sample page done with micro-{% include columnbreak.html canvas=76 col=2 %}elite type is shown in Figure XXVIII. 
 
 ## The Equivalence of Type and Typescript 
 
@@ -187,7 +187,7 @@ is so reduced as to lay down the same word
 content as print-face type on an identical 
 area, the reader is asked to examine Figure XXIX. 
 
-{% include pagebreak.html page="32a" image="0077" insert=true %} Exhibit to illustrate comparison of print face types of various sizes and styles with typescript 
+{% include pagebreak.html canvas=77 insert=true %} Exhibit to illustrate comparison of print face types of various sizes and styles with typescript 
 of varying reductions, having approximately the same legibility. 
 
 11-POINT PRINT-FACE 
@@ -231,7 +231,7 @@ equivalent of Pica typescript reduced 50 per cent.
 This is a specimen of 6-point Bruce Old Style. Occasionally this type size is used 
 for footnotes. 
 
-This is a specimen of 6-point Garamont.{% include columnbreak.html %}
+This is a specimen of 6-point Garamont.{% include columnbreak.html canvas=77 col=2 %}
 
 FULL SIZE PICA TYPE 
 
@@ -258,8 +258,8 @@ This is a specimen of pica type reduced 50 per cent.
 
 FIGURE XV 
 
-{% include pagebreak.html page="32b" image="0078" insert=true %}
-{% include pagebreak.html page="32c" image="0079" insert=true %}
+{% include pagebreak.html canvas=78 insert=true %}
+{% include pagebreak.html canvas=79 insert=true %}
 
 
 THE MOST REVOLUTIONARY INVENTION
@@ -310,7 +310,7 @@ illustrated in the headlines on this page.
 By producing a justified right-hand margin, 
 typescript approaches printface in appearance. 
 Doubtless through the development of a typewriter having automatic variable spacing, 
-{% include columnbreak.html %}
+{% include columnbreak.html canvas=79 col=2 %}
 such as was built into the first typewriters 
 invented, and type similar to ordinary printface, it will be possible for a scholar at 
 his desk to produce a page format which can 
@@ -340,15 +340,15 @@ Paper. Books, bulletins, house organs, proceedings of meetings, circulars, these
 lectures are now produced without the expense 
 of type composition and engravings. 
 
-{% include pagebreak.html page="32d" image="0080" insert=true %}
+{% include pagebreak.html canvas=80 insert=true %}
 
 - Vogeltype samples
 
-{% include pagebreak.html page="32e" image="0081" insert=true %}
+{% include pagebreak.html canvas=81 insert=true %}
 
 - blank
 
-{% include pagebreak.html page="32f" image="0082" insert=true %}
+{% include pagebreak.html canvas=82 insert=true %}
 
 FIGURE XVII 
 
@@ -410,7 +410,7 @@ and to so indicate at the end of each line. This
 adjustment is provided for by absorption or extension in the second writing by use of a device called 
 the *half-back spacer*. This method prevents the rivers of white space so common to justification when 
 attempted by typewriters and which is so objectionable to good printers. 
-{% include columnbreak.html %}
+{% include columnbreak.html canvas=82 col=2 %}
 
 *Vari-typer* is manufactured in many models to meet 
 different requirements. The special machine which 
@@ -465,7 +465,7 @@ the method used for composition proves too costly.
 It should not be forgotten that some reduction of 
 copy through the camera will enhance the result. 
 
-{% include pagebreak.html page="33" image="0083" %}
+{% include pagebreak.html canvas=83 %}
 
 ## The Uneven Right-Hand Margin 
 
@@ -517,7 +517,7 @@ priced at $.24 a sheet in quantities of
 twenty-five sheets, with reductions in price 
 for larger quantities. The sheets are made 
 to contain from forty-eight to eighty lines 
-{% include columnbreak.html %}
+{% include columnbreak.html canvas=83 col=2 %}
 of type each, and each line has a maximum 
 length of 9". Separate sheets are made for 
 vertical line spacing of three, four, four 
@@ -556,7 +556,7 @@ prepared by Dr. Peters' device.
 
 ## The Varityper and the Electromatic Typewriter 
 
-There are two special typewriters {% include pagebreak.html page="34" image="0084" %} which are at once more expensive and more 
+There are two special typewriters {% include pagebreak.html canvas=84 %} which are at once more expensive and more 
 useful for certain typing processes. The 
 Varityper, mentioned above, was developed 
 from the Hammond machine; it permits the 
@@ -602,7 +602,7 @@ typewriter strokes is all-important. The
 Standard Electromatic typewriter is sold 
 for $225.00 for the 12"-carriage and 
 $250.00 for the 16"-carriage. 
-{% include columnbreak.html %}
+{% include columnbreak.html canvas=84 col=2 %}
 
 ## Typing Stages in Book Production: Draft, Fair, and Format Copies 
 
@@ -633,7 +633,7 @@ comes back from the typist. Sometimes the
 author prepares his own fair copy; sometimes the so-called fair copy is not very 
 fair. But as a normal stage in the normal 
 
-{% include pagebreak.html page="34a" image="0085" insert=true %}
+{% include pagebreak.html canvas=85 insert=true %}
 
 FIGURE XVIII 
 
@@ -651,7 +651,7 @@ the inch*. This type lays down sixteen
 letters to the inch and corresponds to 
 the ultra-micro-elite type of the standard typewriter. For emphasis, bold 
 characters of the same style as the rest 
-{% include columnbreak.html %}
+{% include columnbreak.html canvas=85 col=2 %}
 of the copy can be employed by the use 
 of the hammer repeat key. Italic type
 may also be used for emphasis. This is
@@ -671,7 +671,7 @@ words or letters, using the half-
 back spacer, and the short lines
 stretched out by increasing the 
 spaces between the words or letters.*
-{% include columnbreak.html %}
+{% include columnbreak.html canvas=85 col=1 %}
 
 To justify the right-hand margin, a 
 page is typed in the ordinary way on 
@@ -686,7 +686,7 @@ back spacer, and the short lines
 stretched out by increasing the 
 spaces between the words or letters.
 
-{% include columnbreak.html %}
+{% include columnbreak.html canvas=85 col=2 %}
 
 *This paragraph demonstrates the Varityper's ability to condense statistics into a smaller area than is 
 possible with the standard typewriter using ordinary pica or elite type:*
@@ -718,7 +718,7 @@ THIS IS OVERSIZE PICA GOTHIC
 This is SMALL PRINT TYPE  
 
 This is DIACRITICAL  
-{% include columnbreak.html %}
+{% include columnbreak.html canvas=85 col=2 %}
 
 This is MEDIUM PRINT 
 
@@ -726,9 +726,9 @@ This is ELITE GOTHIC
 
 THIS IS PETITE GOTHIC 
 
-{% include pagebreak.html page="34b" image="0086" insert=true %}
+{% include pagebreak.html canvas=86 insert=true %}
 
-{% include pagebreak.html page="35" image="0087" %}
+{% include pagebreak.html canvas=87 %}
 
 movement of a book, this fair copy typing 
 can be set apart from the making of the 
@@ -769,7 +769,7 @@ cost.
 
 ## The Fair Copy as a Stage in the Writing Process
  
-The author on a book is usually ex{% include columnbreak.html %}pected to bring his work through the fair 
+The author on a book is usually ex{% include columnbreak.html canvas=87 col=2 %}pected to bring his work through the fair 
 copy stage at his own expense. The cost 
 of preparing the fair copy depends in part 
 upon the condition of the draft copy. There 
@@ -809,7 +809,7 @@ $.20; with maximum wage and minimum efficiency, $.72. If typing is done by a
 stenographer receiving a maximum wage of 
 $25.00 per week, the cost would be (a) at 
 maximum efficiency, $.33; (b) at minimum 
-efficiency, $.72; if typing is done by a {% include pagebreak.html page="36" image="0088" %} secretary receiving a maximum wage of 
+efficiency, $.72; if typing is done by a {% include pagebreak.html canvas=88 %} secretary receiving a maximum wage of 
 $35.00 a week, the cost would be (a) at 
 maximum efficiency, $.46; (b) at minimum 
 efficiency, $102.[^n2]
@@ -860,7 +860,7 @@ service is necessarily assessed into the
 cost of printed books as an editorial cost. 
 It will be seen that the typescript book 
 may be produced without incurring this 
-{% include columnbreak.html %}
+{% include columnbreak.html canvas=88 col=2 %}
 cost---and also without the perfection that 
 results from this editorial work. If an 
 author is subsidizing the publication of 
@@ -895,9 +895,9 @@ format.
 The argument in favor of merging 
 the different typing operations is the 
 greater the cheaper the reproduction process. Thus the typist who makes a carbon 
-{% include pagebreak.html page="36a" image="0089" insert=true %}
+{% include pagebreak.html canvas=89 insert=true %}
 
-{% include pagebreak.html page="36b" image="0090" insert=true %}
+{% include pagebreak.html canvas=90 insert=true %}
 
 FIGURE XIX 
 
@@ -908,7 +908,7 @@ on the same press as the other pages of the book; it would not
 be different from other pages except for the differences in 
 the original typings. These differences are exhibited by dividing the page into sections, each section showing the effect of the varying conditions under which the format copy was typed. 
 
-{% include columnbreak.html %}
+{% include columnbreak.html canvas=90 col=2 %}
 
 This paragraph was typed with a 
 lightly-inked ribbon and a fairly 
@@ -929,7 +929,7 @@ even touch.
 This paragraph was typed with a 
 well-inked ribbon and a light but 
 uneven touch. 
-{% include columnbreak.html %}
+{% include columnbreak.html canvas=90 col=2 %}
 
 This paragraph was typed with a 
 heavily-inked ribbon and with a 
@@ -950,7 +950,7 @@ Brothers establishment, using a
 carbon ribbon and a photo-offset 
 typewriter. 
 
-{% include pagebreak.html page="37" image="0091" %}
+{% include pagebreak.html canvas=91 %}
 
 copy makes it customarily while preparing 
 the fair copy. She does not plan to make 
@@ -996,7 +996,7 @@ its legibility when its size has been decreased. The best results are obtained
 when certain kinds of master paper and 
 typewriter ribbons are used and when special typewriters like the Varityper or the 
 Royal photo-offset typewriter are used; 
-{% include columnbreak.html %}
+{% include columnbreak.html canvas=91 col=2 %}
 these devices and supplies are not available to the author or even to the average 
 typing bureau, and it is for this reason 
 that photo-offset companies usually prefer 
@@ -1040,7 +1040,7 @@ set up as a formula:
 will it always follow that A plus B is 
 greater than C? Will there always be a 
 saving in working directly from the draft 
-copy? Obviously, the answer depends upon {% include pagebreak.html page="38" image="0092" %}
+copy? Obviously, the answer depends upon {% include pagebreak.html canvas=92 %}
 the actual condition of the draft copy and 
 the rigidity of the requirements of the 
 format copy. If the draft copy is in very 
@@ -1092,7 +1092,7 @@ machines are used, or the text is multiplied
 by the photo-offset process, the choice as 
 to size of type face is limited to pica or 
 elite. The special format problems arising 
-when photo-offset can be used to reduce {% include columnbreak.html %}
+when photo-offset can be used to reduce {% include columnbreak.html canvas=92 col=2 %}
 typescript will be analyzed in the chapter 
 on that process. 
 
@@ -1144,7 +1144,7 @@ But since the standard typewriter
 equipment does not provide this spacing and 
 the elite typewriters are distinctly less 
 common than the pica, the most useful information about formats must be worked out 
-with the less efficient apparatus, namely, {% include pagebreak.html page="39" image="0093" %}
+with the less efficient apparatus, namely, {% include pagebreak.html canvas=93 %}
 
 TABLE XI 
 
@@ -1168,7 +1168,7 @@ WORDS IN PREPARING A TYPESCRIPT BOOK OF 100,000 WORDS
 | | 14. Two-column, technical matter, typed by photo-offset concern at quoted prices ... $1.50 to $2.00 |
 | | 15. Two-column, technical matter, with justified lines, typed by photo-offset concern at quoted prices ... $2.00 to $2.50 | 
 
-{% include pagebreak.html page="40" image="0094" %}pica typescript set either single or double 
+{% include pagebreak.html canvas=94 %}pica typescript set either single or double 
 space. 
 
 ### (c) Length of Line 
@@ -1187,7 +1187,7 @@ print or photographically reduced typescript.
 For straight typing in full size they suggest the conclusion which must already have 
 come to the minds of many readers---that the 
 standard typewriter page 8 1/2" wide must 
-be used with wide margins if the script is {% include columnbreak.html %}
+be used with wide margins if the script is {% include columnbreak.html canvas=94 col=2 %}
 to be legible. Since under some conditions 
 wide margins are wasteful, there results a 
 certain disharmony between the interests of 

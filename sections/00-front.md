@@ -2,9 +2,8 @@
 layout: narrative
 ---
 
-
 <div style="text-align: center">
-{% include pagebreak.html page="[i]" image="0005" insert=true %}
+{% include pagebreak.html canvas=5 insert=true %}
 MANUAL ON METHODS<br/>
 OF<br/>
 REPRODUCING RESEARCH<br/>
@@ -30,7 +29,7 @@ ANN ARBOR, MICHIGAN<br/>
 <br/>
 1936<br/>
 <br/>
-{% include pagebreak.html page="[ii]" image="0006" insert=true %}
+{% include pagebreak.html canvas=6 insert=true %}
 Copyright 1936, by<br/>
 The Joint Committee on Materials for Research<br/>
 <br/>
@@ -40,7 +39,7 @@ Ann Arbor, Michigan, 1936<br/>
 
 </div>
 
-{% include pagebreak.html page="iii" image="0007" insert=true %}
+{% include pagebreak.html canvas=7 insert=true %}
 
 ## FOREWORD
 
@@ -95,7 +94,7 @@ of the two Councils in this field are much the same and often involve
 the same material, it was logical for them to join in setting up a
 joint committee on materials for research. This committee, after a number of changes in personnel, consists at present of the following members:
 
-{% include pagebreak.html page="iv" image="0008" insert=true %}
+{% include pagebreak.html canvas=8 insert=true %}
 - Robert C. Binkley, Western Reserve University, Chairman
 - T. R. Schellenberg, National Archives, Secretary
 - Laurence V. Coleman, American Association of Museums
@@ -113,7 +112,7 @@ headed by Professor Gras. The task of making a survey of methods of reproducing 
 secretary of the committee. A tentative edition of this survey was issued in December, 1931, and circulated for corrections and additions,
 which have been incorporated in the present edition.
 
-{% include pagebreak.html page="v" image="0009" insert=true %}
+{% include pagebreak.html canvas=9 insert=true %}
 
 ## ACKNOWLEDGMENT
 
@@ -139,18 +138,18 @@ Robert C. Binkley
 Western Reserve University  
 April 14, 1936
 
-{% include pagebreak.html page="[vi]" image="0010" insert=true %}
-{% include pagebreak.html page="vii" image="0011" insert=true %}
+{% include pagebreak.html canvas=10 insert=true %}
+{% include pagebreak.html canvas=11 insert=true %}
 
 ## TABLE OF CONTENTS
 
 {% include toc.html unit="Chapter" table="toc" %}
-{% include pagebreak.html page="xi" image="0015" insert=true %}
+{% include pagebreak.html canvas=15 insert=true %}
 
 ## LIST OF TABLES
 
 {% include toc.html unit="Table" table="tables" %}
-{% include pagebreak.html page="xiii" image="0017" insert=true %}
+{% include pagebreak.html canvas=17 insert=true %}
 
 ## LIST OF ILLUSTRATIONS
 
