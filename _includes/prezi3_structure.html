@@ -1,18 +1,37 @@
+{% assign sections = site.data.toc | where_exp: "item", "item.last_canvas_id" %} 
 {
-  "id": "{{ '/iiif/manualonmethodso00robe/range/{{ include.source }}' | absolute_url }}",
+  "id": "{{ '/iiif/manualonmethodso00robe/range/toc' | absolute_url }}",
   "type": "Range",
-  "label": { "en": [ "{{ include.title }}" ] },
+  "label": { "en": [ "Table of Contents" ] },
   "items": [
-{% for entry in site.data[include.source] %}
+{% for section in sections %}
+  {% assign sectionnum = forloop.index0 %}
   {
-    "id": "{{ '/iiif/manualonmethodso00robe/range/{{ include.source }}-' | append: forloop.index0 | absolute_url }}",
+    "id": "{{ '/iiif/manualonmethodso00robe/range/section-' | append: sectionnum | absolute_url }}",
     "type": "Range",
-    "label": { "en": [ "{{ entry.id }} {{ entry.title }}" ] },
+    "label": { "en": [ "{{ section.id }} {{ section.title }}" ] },
     "items": [
       {
-        "id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe${{ entry.canvas_id }}/canvas",
+        "id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe${{ section.canvas_id }}/canvas",
         "type": "Canvas"
       }
+      {% assign subsections = site.data.toc | where_exp: "item", "item.canvas_id >= section.canvas_id and item.canvas_id <= section.last_canvas_id" | shift %} 
+      ### subsections: {{ subsections.count }} {{ subsections.first.title }} to {{ subsections.last.title }}
+      {% if subsections %},{% endif %}
+      {% comment %}### {{ subsections }}{% endcomment %}
+      {% for subsection in subsections %}
+        {
+          "id": "{{ '/iiif/manualonmethodso00robe/range/section-' | append: sectionnum | append:append: forloop.index0 | absolute_url }}",
+          "type": "Range",
+          "label": { "en": [ "{{ subsection.title }}" ] },
+          "items": [
+            {
+              "id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe${{ subsection.canvas_id }}/canvas",
+              "type": "Canvas"
+            }
+          ]
+        }{% if forloop.last == false %},{% endif %}                
+      {% endfor %}
     ]
   }{% if forloop.last == false %},{% endif %}
 {% endfor %}
