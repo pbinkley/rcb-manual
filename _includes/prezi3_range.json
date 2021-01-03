@@ -1,9 +1,9 @@
 {% for section in include.sections %}
-  {% assign page = site.data.pages | find: "canvas_id", section.canvas_id %}
+  {% assign sectionpage = site.data.pages | find: "canvas_id", section.canvas_id %}
   {% assign sectionnum = forloop.index0 %}
   {% capture label %}
     {% if section.id %}{{ section.id }} {% endif %}
-    {{ section.title }} (p.{{ page.label }})
+    {{ section.title }} (p.{{ sectionpage.label }})
   {% endcapture %}
   {% assign root = include.root | append: '-' | append: sectionnum %}
   {
