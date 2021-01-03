@@ -1,0 +1,431 @@
+---
+- title: "Front matter"
+  canvas_id: 1
+  last_canvas_id: 18
+- id: I.
+  title: "The Setting of the Problem of Reproducing Research Materials"
+  canvas_id: 19
+  last_canvas_id: 20
+- id: II.
+  title: "Publishing and Library Costs: The Book"
+  canvas_id: 21
+  last_canvas_id: 30
+  subsections:
+    - title: "Analysis of Production Costs"
+      canvas_id: 21
+    - title: "Volume of Scholarly Publishing"
+      canvas_id: 25
+    - title: "Scholarly Market"
+      canvas_id: 26
+    - title: "Library Costs"
+      canvas_id: 27
+- id: III.
+  title: "Printed Books and Reprints"
+  canvas_id: 31
+  last_canvas_id: 74
+  subsections:
+    - title: "Printing with Raised Type on Cylinder Presses"
+      canvas_id: 32
+    - title: "Printing: Composition Costs"
+      canvas_id: 39
+    - title: "Printing: Area Costs"
+      canvas_id: 43
+    - title: "Printing: Running Costs"
+      canvas_id: 43
+    - title: "Printing: Analysis of Costs"
+      canvas_id: 43
+    - title: "Multigraph Process"
+      canvas_id: 44
+    - title: "Alternatives to Printing"
+      canvas_id: 59
+    - title: "Reprinting: Photo-Offset Process"
+      canvas_id: 59
+    - title: "Photo-Offset: Composition Costs"
+      canvas_id: 60
+    - title: "Photo-Offset: Area Costs"
+      canvas_id: 60
+      subsections:
+        - title: "(a) Photographic Negative"
+          canvas_id: 60
+        - title: "(b) Preparation of Metal Plate"
+          canvas_id: 63
+        - title: "(c) Full Utilization of Metal Plate Surface"
+          canvas_id: 63
+        - title: "(d) Area Costs and Legibility"
+          canvas_id: 64
+    - title: "Photo-Offset: Reprint Economy"
+      canvas_id: 67
+    - title: "Photo-Offset: Outlook for the Future"
+      canvas_id: 68
+    - title: "Reprint Processes: Dermaprint"
+      canvas_id: 71
+- id: IV.
+  title: "The Typescript Book or Memorandum: The Typewriter and Typescript"
+  canvas_id: 75
+  last_canvas_id: 94
+  subsections:
+    - title: "The Standard Typewriter"
+      canvas_id: 75
+    - title: "Equivalence of Type and Typescript"
+      canvas_id: 76
+    - title: "Uneven Right-Hand Margin"
+      canvas_id: 83
+    - title: "Varityper and Electromatic Typewriters"
+      canvas_id: 83
+    - title: "Typing Stages in Book Production: Draft, Fair, and Format Copies"
+      canvas_id: 84
+    - title: "Fair Copy as a Stage in the Writing Process"
+      canvas_id: 87
+    - title: "Fair Copy as a Stage in the Multiplication of a Book: Merging of the Fair and Format Copies"
+      canvas_id: 88
+    - title: "Preparation of Format Copy from the Fair Copy"
+      canvas_id: 91
+    - title: "Area Costs and Format"
+      canvas_id: 92
+      subsections:
+        - title: "(a) Size of Type"
+          canvas_id: 92
+        - title: "(b) Interlinear Spacing"
+          canvas_id: 92
+        - title: "(c) Length of Line"
+          canvas_id: 94
+- id: V.
+  title: "The Typescript Book or Memorandum: Reproduction Techniques"
+  canvas_id: 95
+  last_canvas_id: 154
+  subsections:
+    - title: "Carbon Paper Copying"
+      canvas_id: 95
+    - title: "Hectograph Process"
+      canvas_id: 95
+      subsections:
+        - title: "(a) Gelatin Hectograph Process"
+          canvas_id: 101
+        - title: "(b) Liquid Hectograph Process"
+          canvas_id: 101
+    - title: "Cost Analysis of Hectographing"
+      canvas_id: 102
+      subsections:
+        - title: "(a) Composition and Running Costs"
+          canvas_id: 102
+        - title: "(b) Area Costs and Legibility"
+          canvas_id: 102
+        - title: "(c) Application of Hectographing to Problems of Scholarship"
+          canvas_id: 112
+    - title: "Mimeograph Techniques: Mimeographing and Direct Typing Offset Printing"
+      canvas_id: 112
+    - title: "Composition Cost Analysis"
+      canvas_id: 113
+    - title: "Area Costs and Format"
+      canvas_id: 113
+    - title: "Explanation of Sample Pages and Cost Table"
+      canvas_id: 123
+    - title: "Photo-Offset from Typescript"
+      canvas_id: 127
+    - title: "Justification for Increased Area Costs"
+      canvas_id: 127
+    - title: "Photographic Reduction of Typescript:"
+      canvas_id: 127
+      subsections:
+        - title: "(a) Economies in Type Size"
+          canvas_id: 127
+        - title: "(b) Length of Line and Economy"
+          canvas_id: 128
+    - title: "Specifications for Reproducing the Same Book at the Same Cost by Mimeographing and by Photo-Offset"
+      canvas_id: 128
+    - title: "Photo-Offset Typescript Book Format: Full Utilization of Printing Surface"
+      canvas_id: 131
+    - title: "Photo-Offset from Normal Fair Copy without Additional Format Typing"
+      canvas_id: 147
+    - title: "Typing Instructions"
+      canvas_id: 150
+    - title: "The Manuscript Book"
+      canvas_id: 150
+    - title: "Cost Analysis: Composition Costs"
+      canvas_id: 153
+- id: VI.
+  title: "Blueprinting, Photostating, and Allied Techniques"
+  canvas_id: 155
+  last_canvas_id: 180
+  subsections:
+    - title: "Van Dyke and Lithoprint (First Costs High; Running Costs Low)"
+      canvas_id: 155
+    - title: "Blueprinting and Photostating (First Costs Low; Running Costs High)"
+      canvas_id: 156
+    - title: "Maximum Use of Area"
+      canvas_id: 162
+    - title: "Prices per Square Foot"
+      canvas_id: 162
+    - title: "Copying of Documents without a Camera"
+      canvas_id: 162
+      subsections:
+        - title: "(a) Direct Contact Copying"
+          canvas_id: 162
+        - title: "(b) Reflection Copying"
+          canvas_id: 165
+    - title: "Photostat"
+      canvas_id: 165
+    - title: "Photocopying Equipment"
+      canvas_id: 171
+    - title: "Dexigraph"
+      canvas_id: 174
+    - title: "Technological Frontier"
+      canvas_id: 174
+    - title: "Comparative Costs and Book Production"
+      canvas_id: 177
+- id: VII.
+  title: "Books Containing Characters Not in the Roman Alphabet, Tabular Matter, Diagrams and Illustrations"
+  canvas_id: 181
+  last_canvas_id: 218
+  subsections:
+    - title: "Classification of Special Problems"
+      canvas_id: 181
+    - title: "Reproduction in Typescript, Manuscript, and Relief Printing without Pictorial Matter"
+      canvas_id: 182
+    - title: "Techniques in the Reproduction of Pictorial Matter"
+      canvas_id: 183
+    - title: "Photoengraving and Photo-Offset"
+      canvas_id: 185
+    - title: "Half-tone Pictures in Photo-Offset and Photoengraving"
+      canvas_id: 185
+    - title: "Large and Small Offset Presses in Pictorial Work"
+      canvas_id: 186
+    - title: "Photogelatin or Collotype"
+      canvas_id: 193
+    - title: "Intaglio Processes: Photogravure"
+      canvas_id: 194
+    - title: "Aquatone and Pantone"
+      canvas_id: 209
+    - title: "Dermaprint"
+      canvas_id: 210
+    - title: "Photosensitive Paper Processes"
+      canvas_id: 210
+    - title: "Cost Comparisons"
+      canvas_id: 210
+    - title: "Combinations of Pictorial and Textual Matter"
+      canvas_id: 210
+    - title: "Summary"
+      canvas_id: 217
+- id: VIII.
+  title: "A Study of Paper Permanence"
+  canvas_id: 219
+  last_canvas_id: 236
+  subsections:
+    - title: "Proposed Classification and Specifications for Permanent Book Papers"
+      canvas_id: 222
+    - title: "Paper Trade and the Proposed Specifications"
+      canvas_id: 222
+    - title: "Conclusions for the Paper Buyer"
+      canvas_id: 225
+    - title: "Influence of Price"
+      canvas_id: 228
+    - title: "Preservation of Old Newsprint Paper"
+      canvas_id: 229
+    - title: "Appendix"
+      canvas_id: 230
+- id: IX.
+  title: "Binding, Vertical Filing, and Film Storage"
+  canvas_id: 237
+  last_canvas_id: 242
+  subsections:
+    - title: "Vertical Filing"
+      canvas_id: 237
+    - title: "Binding"
+      canvas_id: 237
+      subsections:
+        - title: "(a) Vertical File Material"
+          canvas_id: 237
+        - title: "(b) Pamphlets and Periodical Material"
+          canvas_id: 238
+        - title: "(c) Bookbinding Techniques"
+          canvas_id: 239
+        - title: "(d) Bookbinding Costs"
+          canvas_id: 239
+    - title: "Film Storage"
+      canvas_id: 239
+- id: X.
+  title: "Reduced-Scale Photographic and Photolithographing Copying on Paper for Reading Through Magnifying Glasses"
+  canvas_id: 243
+  last_canvas_id: 264
+  subsections:
+    - title: "Thresholds of Legibility"
+      canvas_id: 243
+    - title: "Reduced-Size: Newspapers"
+      canvas_id: 243
+    - title: "'Peters'' Miniature Abstracts and Theses'"
+      canvas_id: 244
+    - title: "Fiske Method"
+      canvas_id: 257
+    - title: "Filmstat Reproduction"
+      canvas_id: 257
+    - title: "Bendikson Procedure"
+      canvas_id: 257
+    - title: "Van Iterson Device"
+      canvas_id: 258
+    - title: "Folmer Graflex Recording Camera"
+      canvas_id: 263
+    - title: "Tru-Vue Apparatus"
+      canvas_id: 263
+- id: XI.
+  title: "Cost Levels and Applications of Microcopying and Projection Reading"
+  canvas_id: 265
+  last_canvas_id: 320
+  subsections:
+    - title: "Resolving Power of Emulsion"
+      canvas_id: 265
+    - title: "Reduction Ratio in Copying"
+      canvas_id: 265
+    - title: "Process-Positive Emulsion"
+      canvas_id: 266
+    - title: "Camera and Lens System"
+      canvas_id: 266
+    - title: "Limits of Reduction Ratio"
+      canvas_id: 266
+    - title: "Cost of Photosensitive Surface"
+      canvas_id: 266
+    - title: "Film or Glass Versus Paper"
+      canvas_id: 278
+    - title: "Film, Glass, or Paper: Film Strips or Rectangles?"
+      canvas_id: 278
+    - title: "Full Use of Area of Moving Picture Film"
+      canvas_id: 288
+    - title: "Processing Costs"
+      canvas_id: 289
+    - title: "First Costs and Running Costs in Microcopying"
+      canvas_id: 291
+    - title: "Microcopying &quot;Reprint Costs&quot;"
+      canvas_id: 293
+    - title: "Short Footages in Unique Copies"
+      canvas_id: 294
+    - title: "Microcopying and Long-Distance Use of Libraries: the Bibliofilm Service"
+      canvas_id: 294
+    - title: "Microcopying and Copyright"
+      canvas_id: 295
+    - title: "&quot;Publishing&quot; Short Runs of Material by Microcopying"
+      canvas_id: 299
+    - title: "Problem of Standardization of Equipment and Reduction Ratio"
+      canvas_id: 300
+    - title: "Essentials of Design for Reading Equipment"
+      canvas_id: 303
+      subsections:
+        - title: "(a) Length of Line"
+          canvas_id: 303
+        - title: "(b) Page Rectangle"
+          canvas_id: 304
+        - title: "(c) Aperture"
+          canvas_id: 306
+        - title: "(d) Enlargement Ratio"
+          canvas_id: 307
+    - title: "Film Storage and Durability"
+      canvas_id: 312
+    - title: "Microcopying of Newspapers"
+      canvas_id: 315
+    - title: "Microcopying and Library Cataloguing"
+      canvas_id: 317
+    - title: "'Photography as the Scholar''s Amanuensis'"
+      canvas_id: 319
+    - title: "Merging of Collecting and Publishing"
+      canvas_id: 319
+- id: XII.
+  title: "Photographic and Projecting Apparatus"
+  canvas_id: 321
+  last_canvas_id: 344
+  subsections:
+    - title: "The Camera and the Use of Film"
+      canvas_id: 321
+    - title: "The Camera and the Mechanics of Operation"
+      canvas_id: 322
+    - title: "Cinescopie and Photoscopie"
+      canvas_id: 322
+    - title: "E.K.A. Camera and Lemare Ampligraph"
+      canvas_id: 324
+    - title: "Leica and Contax Equipment"
+      canvas_id: 324
+      subsections:
+        - title: "(a) Lens and Camera"
+          canvas_id: 325
+    - title: "The Argus"
+      canvas_id: 328
+    - title: "Ansco Universal Still-Film Copying Camera"
+      canvas_id: 328
+    - title: "Ludwig Camera"
+      canvas_id: 329
+    - title: "Matson Camera"
+      canvas_id: 329
+    - title: "Filmograph and Kennedy Cameras"
+      canvas_id: 329
+    - title: "Draeger Camera"
+      canvas_id: 330
+    - title: "Folmer Graflex Camera"
+      canvas_id: 330
+    - title: "Recordak Bound-Book Copying Cameras"
+      canvas_id: 333
+    - title: "Recordak Camera"
+      canvas_id: 334
+    - title: "Newspaper Recordak"
+      canvas_id: 334
+    - title: "Projector Reading Machines"
+      canvas_id: 334
+    - title: "Projector-and-Enlargement Equipment"
+      canvas_id: 343
+- id: XIII.
+  title: "The Recording of Sound"
+  canvas_id: 345
+  last_canvas_id: 352
+  subsections:
+    - title: "Cost Levels of Sound Reproduction"
+      canvas_id: 345
+    - title: "Technique of Phonographic Recording"
+      canvas_id: 345
+    - title: "Sound Recording Methods"
+      canvas_id: 346
+- id: XIV.
+  title: "Conclusion"
+  canvas_id: 353
+  last_canvas_id: 372
+  subsections:
+    - title: "Size of Edition. The Efficiency Point"
+      canvas_id: 353
+    - title: "Comparative Costs per 100,000 Words at Efficiency Point"
+      canvas_id: 356
+    - title: "Allocation of Costs of Reproducing Materials"
+      canvas_id: 359
+    - title: "Publication Service of Microcopying"
+      canvas_id: 361
+    - title: "Services of the H. W. Wilson Company"
+      canvas_id: 364
+    - title: "Plans for the Photo-Offset Reproduction of Rare Items"
+      canvas_id: 364
+    - title: "Concentration of Scholarly Book Production"
+      canvas_id: 364
+    - title: "Concentration of Processing Services for Microcopying"
+      canvas_id: 365
+    - title: "Allocation of Costs, and the Problem of Appraisal and Listing"
+      canvas_id: 365
+    - title: "Intellectual Implications of Technological Change"
+      canvas_id: 366
+    - title: "The First Stage: Collecting and Preserving Materials"
+      canvas_id: 367
+    - title: "The Second Stage: Improvement of Different Types of Material"
+      canvas_id: 368
+      subsections:
+        - title: "(a) Books, Periodicals, and Printed Public Documents"
+          canvas_id: 368
+        - title: "(b) Newspapers"
+          canvas_id: 369
+        - title: "(c) Public Archives"
+          canvas_id: 369
+        - title: "(d) Business Records"
+          canvas_id: 370
+        - title: "(e) Ephemeral Materials and Non-Trade Documentation"
+          canvas_id: 370
+        - title: "(f) Family Papers"
+      canvas_id: 370
+    - title: "Simplified Research Techniques"
+      canvas_id: 371
+- title: "Index"
+  canvas_id: 373
+  last_canvas_id: 380
+  subsections:
+    - title: "Proper Name and Address Index"
+      canvas_id: 375

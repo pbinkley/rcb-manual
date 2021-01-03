@@ -1,7 +1,7 @@
 canvas_id,page_id,label,content,width,height
 0,colour,colour,,2700,3787
 1,front,front,,2694,3708
-2,pastedown,stedown,,2711,3651
+2,pastedown,pastedown,,2711,3651
 3,flyleaf,flyleaf,,2694,3708
 4,flyleaf,flyleaf,,2739,3719
 5,i,[i],,2694,3708
@@ -378,5 +378,5 @@ canvas_id,page_id,label,content,width,height
 376,206,206,,2683,3680
 377,207,207,,2773,3820
 378,208,[208],,2717,3702
-379,pastedown,stedown,,2683,3680
+379,pastedown,pastedown,,2683,3680
 380,back,back,,2773,3820

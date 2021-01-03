@@ -1,0 +1,9 @@
+{% assign sections = site.data.toc | where_exp: "item", "item.last_canvas_id" %} 
+{
+  "id": "{{ '/iiif/manualonmethodso00robe/range/toc' | absolute_url }}",
+  "type": "Range",
+  "label": { "en": [ "Table of Contents" ] },
+  "items": [
+    {% include prezi3_range.json sections=sections root="toc" %}
+  ]
+}

@@ -1,0 +1,22 @@
+{% for section in include.sections %}
+  {% assign page = site.data.pages | find: "canvas_id", section.canvas_id %}
+  {% assign sectionnum = forloop.index0 %}
+  {% capture label %}
+    {% if section.id %}{{ section.id }} {% endif %}
+    {{ section.title }} (p.{{ page.label }})
+  {% endcapture %}
+  {% assign root = include.root | append: '-' | append: sectionnum %}
+  {
+    "id": "{{ '/iiif/manualonmethodso00robe/range/' | append: root | absolute_url }}",
+    "type": "Range",
+    "label": { "en": [ "{{ label | normalize_whitespace }}" ] },
+    "items": [
+      {
+        "id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe${{ section.canvas_id }}/canvas",
+        "type": "Canvas"
+      }{% if section.subsections %},
+        {% include prezi3_range.json sections=section.subsections root=root %}
+      {% endif %}
+    ]
+  }{% if forloop.last == false %},{% endif %}
+{% endfor %}
