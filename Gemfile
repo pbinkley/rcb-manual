@@ -28,3 +28,10 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
+# used by _scripts/manualocr.rb
+gem 'byebug'
+gem 'rtesseract'
+gem 'clipboard'
+gem 'listen'
+gem 'open-uri'
+gem 'rmagick'
