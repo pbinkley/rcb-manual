@@ -5,7 +5,7 @@
 layout: default
 ---
 
-Experiments toward an online edition of the *Manual*.
+Work in progress, toward an online edition of the *Manual*.
 
 - [Front matter](sections/00-front.html)
 - I. [The Setting of the Problem of Reproducing Research Materials](sections/01-the-setting-of-the-problem-of-reproducing-research-materials.html)
@@ -22,6 +22,12 @@ Experiments toward an online edition of the *Manual*.
 - XII. Photographic and Projecting Apparatus
 - XIII. The Recording of Sound
 - XIV. [Conclusion](sections/14-conclusion.html)
+
+## IIIF
+
+- [Manifest]({{ 'iiif/manualonmethodso00robe/manifest.json' | absolute_url }})
+
+The manifest uses the image service from Internet Archive's [IIIF platform](https://iiif.archivelab.org/iiif/manualonmethodso00robe), but has enhancements such as a detailed table of contents.
 
 ## Tests
 
