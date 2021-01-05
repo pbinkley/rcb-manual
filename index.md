@@ -15,7 +15,7 @@ Experiments toward an online edition of the *Manual*.
 - V. The Typescript Book or Memorandum: Reproduction Techniques
 - VI. Blueprinting, Photostating, and Allied Techniques
 - VII. Books Containing Characters Not in the Roman Alphabet, Tabular Matter, Diagrams and Illustrations
-- VIII. A Study of Paper Permanence
+- VIII. [A Study of Paper Permanence](sections/08-a-study-of-paper-permanence.html)
 - IX. Binding, Vertical Filing, and Film Storage
 - X. Reduced-Scale Photographic and Photolithographic Copying on Paper for Reading through Magnifying Glasses
 - XI. Cost Levels and Applications of Microcopying and Projection Reading
