@@ -118,3 +118,9 @@ label.margin-toggle:not(.sidenote-number) {
     }
 
 }
+
+/* allow horizontal scrolling of wide tables */
+table {
+    display: block;
+    overflow-x: auto;
+}
