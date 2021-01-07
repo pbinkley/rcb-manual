@@ -18,7 +18,7 @@ Work in progress, toward an online edition of the *Manual*.
 - VIII. [A Study of Paper Permanence](sections/08-a-study-of-paper-permanence.html)
 - IX. Binding, Vertical Filing, and Film Storage
 - X. Reduced-Scale Photographic and Photolithographic Copying on Paper for Reading through Magnifying Glasses
-- XI. Cost Levels and Applications of Microcopying and Projection Reading
+- XI. [Cost Levels and Applications of Microcopying and Projection Reading](sections/11-cost-levels-and-applications-of-microcopying-and-projection-reading.html)
 - XII. Photographic and Projecting Apparatus
 - XIII. The Recording of Sound
 - XIV. [Conclusion](sections/14-conclusion.html)
