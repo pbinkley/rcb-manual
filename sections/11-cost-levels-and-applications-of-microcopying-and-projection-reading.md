@@ -1225,7 +1225,7 @@ stand at $.0188 a foot. This price includes not only special processing for cont
 in the cutting of short strips of film,
 packaging, and mailing.
 
-The Recordak Corporation also offers for sale 55mm. prints of certain newspaper files. The file for the New York
+The Recordak Corporation also offers for sale 35mm. prints of certain newspaper files. The file for the New York
 *Times* has been microcopied for the years
 1914--1918 inclusive---a total of almost
 90,000 pages; the set of films is on sale
@@ -1500,7 +1500,7 @@ film in second position, reduced 21 diameters, 2,000,000 pages (1,000,000 feet o
 book) would go on 48,000 feet of film plus 
 10% for margin, bringing the total to 
 56,000 feet. The cost for the film and the 
-processing for 55mm. film, if figured at 
+processing for 35mm. film, if figured at 
 $.04 a foot, is $2,800; for the 16mm. film, 
 figured at $.025 a foot, it is $1,325. 
 
