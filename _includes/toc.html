@@ -10,10 +10,11 @@
     
     {% for row in site.data[include.table] %}
     {% assign titleinitial = row.title | slice: 0 %}
+    {% assign page = site.data.pages | find: "canvas_id", row.canvas_id %}
     <tr>
       <td style="text-align: right">{{ row.id }}</td>
       <td {% if titleinitial == "(" %}style="padding-left: 2em"{% endif %}>{{ row.title }}</td>
-      <td style="text-align: right"><a href="https://archive.org/details/manualonmethodso00robe/page/{{ row.page | strip }}/mode/1up">{{ row.page }}</a></td>
+      <td style="text-align: right"><a href="https://archive.org/details/manualonmethodso00robe/page/{{ page.page_id | strip }}/mode/1up">{{ page.label }}</a></td>
     </tr>
     {% endfor %}
     
