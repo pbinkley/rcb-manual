@@ -4,7 +4,7 @@ title: "Publishing and Library Costs: The Book"
 layout: narrative
 ---
 
-{% include pagebreak.html canvas=21 %} The point of reference from which 
+&nbsp;{%- include pagebreak.html canvas=21 -%}&nbsp;The point of reference from which 
 the problem of reproducing research materials must be examined is the system by which 
 publishers produce books and libraries acquire, arrange, and store them for use. The 
 financial policies of institutions, the 
@@ -28,7 +28,7 @@ per 100 pages, scholarly periodicals at
 $.70 per 100 pages.[^n1] A library dollar buys 
 73 pages, approximately 32,000 words, in 
 book form: or 150 pages, 67,000 words, in 
-journal form. If research materials in book {% include columnbreak.html canvas=21 col=2 %}form can be sold unbound at the price level 
+journal form. If research materials in book&nbsp;{%- include columnbreak.html canvas=21 col=2 -%}form can be sold unbound at the price level 
 of periodicals or with good library binding 
 at the normal book price, they can be fed 
 into the library system of the country without requiring significant changes in present acquisition policies. 
@@ -64,7 +64,7 @@ individuals will float the enterprise and
 accomplish adequate distribution, the point 
 is reached where commercial and scholarly 
 needs conflict with each other. The critical test of book costs, for the purposes of 
-this survey, is the minimum size of an {% include pagebreak.html canvas=22 %} edition which can be sold within the normal price range. 
+this survey, is the minimum size of an&nbsp;{%- include pagebreak.html canvas=22 -%}&nbsp;edition which can be sold within the normal price range. 
 
 Another striking characteristic of 
 book costs is the high percentage of the 
@@ -95,7 +95,7 @@ consumer's $1.07. For every dollar paid by
 the consumer for a commercial book, the 
 publisher gets $.60; for every dollar paid 
 retail for a scholarly book, the publisher 
-gets $1.07. {% include columnbreak.html canvas=22 col=2 %}
+gets $1.07.&nbsp;{%- include columnbreak.html canvas=22 col=2 -%}&nbsp;
 
 These relationships between cost 
 and price must receive further analysis, 
@@ -150,7 +150,7 @@ COSTS IN COMMERCIAL AND SCHOLARLY PUBLISHING
 | Bad debts, losses, profits | .06 | |
 | | $1.00 | $1.00 |
 
-{% include pagebreak.html canvas=23 %} higher. It is usually fixed at three or 
+&nbsp;{%- include pagebreak.html canvas=23 -%}&nbsp;higher. It is usually fixed at three or 
 four times the manufacturing cost. Dr. 
 Arthur Meiner in the German Boersenblatt 
 proposes a formula[^n5] for determining selling price, which is illustrated with typical figures by Mr. Bean: 
@@ -166,7 +166,7 @@ if 10,000 are printed, the cost is
 $.09 per copy. While other elements 
 of printing cost do not decrease so 
 markedly as the quantity increases, 
-the same principle applies to a lim{% include columnbreak.html canvas=23 col=2 %}ited extent. Thus the remaining costs 
+the same principle applies to a lim{%- include columnbreak.html canvas=23 col=2 -%}ited extent. Thus the remaining costs 
 of paper, presswork, and binding may 
 be $400.00 for 1000 copies or $.40 
 per copy, and $.31 per copy or $3100 
@@ -211,7 +211,7 @@ method of pricing, which bears some resemblance to the Meiner formula:
 | 2. Add 20% for editorial overhead costs. | 260 | 440 |
 | | $1560 | $2640 | 
 | 3. Subtract from the edition 100 copies for review and promotion, and divide the total by the salable edition (900 copies) to get unit cost. | 1.73 | 2.93 | 
-| {%- include pagebreak.html canvas=24 -%} 4. The sales price should then be fixed at three times this unit cost of the book if the book is to return cost of publication and a small royalty to author. | 5.19 ($.013 per page) | 8.79 ($022 per page) | 
+|&nbsp;{%- include pagebreak.html canvas=24 -%}&nbsp;4. The sales price should then be fixed at three times this unit cost of the book if the book is to return cost of publication and a small royalty to author. | 5.19 ($.013 per page) | 8.79 ($022 per page) | 
 | 5. If this price, considering the final appearance of the book, and the average price of scholarly publications ($.022 per page), is so high as to discourage sales, it must be cut down. | | |
 
 These figures indicate that even 
@@ -247,7 +247,7 @@ not be expected to support publication at
 a price per page so nearly normal. Naturally, the publishing is not self-supporting. 
 In fact, the figures show that the expenses 
 of manufacture and administration involved 
-in the publication of these fifty-nine titles ran to $115,000, while the net proceeds from sales to apply against these expenses came only to $41,000 in round num{% include columnbreak.html canvas=24 col=2 %}bers. The loss was, therefore, $74,000 on 
+in the publication of these fifty-nine titles ran to $115,000, while the net proceeds from sales to apply against these expenses came only to $41,000 in round num{%- include columnbreak.html canvas=24 col=2 -%}bers. The loss was, therefore, $74,000 on 
 fifty-nine titles, or $1254 per book. Sixty-four per cent of the money came to these 
 publishing projects as a subsidy. This is 
 the ratio for publication by the learned 
@@ -345,7 +345,7 @@ these possibly one-half possess an element
 of interest to the scholar. But the number of works of pure research scholarship 
 (including materials and tools of research) 
 is much less than this. A count of the
-American books accessioned by the Library {% include columnbreak.html canvas=25 col=2 %} of Congress in 1927 shows that in that 
+American books accessioned by the Library&nbsp;{%- include columnbreak.html canvas=25 col=2 -%}&nbsp;of Congress in 1927 shows that in that 
 year only 1119 books were published for research scholars. This count excluded the 
 many popularization textbooks and books of 
 applied science. 
@@ -367,7 +367,7 @@ journals. Only 1 7/10% of the money spent
 for book and pamphlet publishing goes to 
 publish research books and pamphlets. The 
 cost of publishing for research scholars 
-is only 1/4% of the publishing budget of {% include pagebreak.html canvas=26 %} the country. It is, therefore, inevitable 
+is only 1/4% of the publishing budget of&nbsp;{%- include pagebreak.html canvas=26 -%}&nbsp;the country. It is, therefore, inevitable 
 that the main technical and business developments in publishing should follow 
 other needs than those of research scholarship. 
 
@@ -391,7 +391,7 @@ the publishing trade with an annual budget
 of two and one-half billion dollars, and 
 the colleges and universities with an annual budget of five or six hundred million. 
 Their interests overlap in the small item 
-of six million dollars' worth of scholarly {% include columnbreak.html canvas=26 col=2 %} research publishing. Organized scholarship 
+of six million dollars' worth of scholarly&nbsp;{%- include columnbreak.html canvas=26 col=2 -%}&nbsp;research publishing. Organized scholarship 
 can, if it will, bring this area completely 
 under its own control. He who pays the piper can call the tune. 
 
@@ -440,7 +440,7 @@ ACQUISITION SUMS SPENT BY FORTY OF THE LARGER UNIVERSITY AND COLLEGE LIBRARIES
 | Rochester | 82,000 | North Carolina | 37,000 | North Dakota | 10,000 |
 | Johns Hopkins | 81,000 | | | | |
 
-{% include pagebreak.html canvas=27 %} of the largest reference libraries in the 
+&nbsp;{%- include pagebreak.html canvas=27 -%}&nbsp;of the largest reference libraries in the 
 country, such as the Library of Congress, 
 the New York Public Library, or the John 
 Crerar Library. 
@@ -487,7 +487,7 @@ round out the institutional market for research publications.
 
 [^n11]: *Survey of Activities of American Agencies in Relation to Materials for Research in the Social Sciences and the Humanities*, (New York and Washington, 1932). 
 
-{% include columnbreak.html canvas=27 col=2 %} Aside from the libraries of institutions, there is a market for scholarly 
+&nbsp;{%- include columnbreak.html canvas=27 col=2 -%}&nbsp;Aside from the libraries of institutions, there is a market for scholarly 
 publications among the scholars themselves. 
 The Association of University Presses maintains cooperatively on addressograph plates 
 an educational directory of 67,000 names, 
@@ -529,7 +529,7 @@ The cost analysis of library administration is a disputed field, in which
 the files of the *Library Journal* report a 
 prolonged controversy. The most active 
 work in cost analysis has been applied to 
-the study of cataloguing cost---the cost of {% include pagebreak.html canvas=28 %} putting the book on the shelves. The figures which seem best attested are those of 
+the study of cataloguing cost---the cost of&nbsp;{%- include pagebreak.html canvas=28 -%}&nbsp;putting the book on the shelves. The figures which seem best attested are those of 
 the University of California---$.72 per 
 book. Mr. Paul North Rice, a specialist in 
 cooperative cataloguing, thinks that the 
@@ -568,7 +568,7 @@ his gift. That this housing cost cannot
 be dismissed into the remote future but 
 must be accepted as a normal element in library financing, is indicated in Mr. Randall's study of ninety-four college libraries. He found that forty-eight of these 
 will be filled in ten years, and twenty-five within a five-year period. Out of 128 
-library buildings, sixty-four report either {% include columnbreak.html canvas=28 col=2 %} that they are already beyond their working 
+library buildings, sixty-four report either&nbsp;{%- include columnbreak.html canvas=28 col=2 -%}&nbsp;that they are already beyond their working 
 capacities so far as stack space as concerned, or that they will be beyond them 
 within ten years. 
 
@@ -614,7 +614,7 @@ may be necessary to choose among preserving
 the existing paper stock, making photolithographic copies in reduced size on permanent paper, or making microcopies on film 
 or glass. By reducing the size of the newspaper one-half, housing costs can be cut 
 three-fourths or even more. Another point 
-at which housing costs affect policies in {% include pagebreak.html canvas=29 %} the reproduction of research material appears in connection with the microcopy or  
+at which housing costs affect policies in&nbsp;{%- include pagebreak.html canvas=29 -%}&nbsp;the reproduction of research material appears in connection with the microcopy or  
 filmslide. To the extent that the filmslide replaces the book, the housing costs 
 become negligible. In the Library of Congress the visitor may see copies of a million manuscripts stored in filmslide form
 upon a few inconspicuous shelves. 
