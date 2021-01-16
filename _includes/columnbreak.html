@@ -1,1 +1,10 @@
-{% assign thispage = site.data.pages | where: "canvas_id", include.canvas | first %}{% capture title %}Page {{ thispage.label }}, column {{ include.col }}{% endcapture %}<span title="{{ title | strip }}" style="color: red">∥</span><span class="marginnote"><img src="{{ site.baseurl }}/assets/columnbreak.png" style="width: 50px" title="{{ title | strip }}"/></span>
+{%- assign thispage = site.data.pages | where: "canvas_id", include.canvas | first -%}
+{%- capture title -%}
+  Page {{ thispage.label }}, column {{ include.col }}
+{%- endcapture -%}
+{%- capture output -%}
+<span title="{{ title | strip }}" style="color: red">∥</span><span class="marginnote">
+<img src="{{ site.baseurl }}/assets/columnbreak.png" style="width: 50px" title="{{ title | strip }}"/>
+</span>
+{%- endcapture -%}
+{{- output | strip -}}
