@@ -31,8 +31,6 @@ github_username:  pbinkley
 
 # Build settings
 remote_theme: minicomp/ed
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
