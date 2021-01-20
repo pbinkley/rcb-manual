@@ -1,5 +1,5 @@
 {% for section in include.sections %}
-  {% assign sectionpage = site.data.pages | find: "canvas_id", section.canvas_id %}
+  {% assign sectionpage = site.data.pages | where: "canvas_id", section.canvas_id | first %}
   {% assign sectionnum = forloop.index0 %}
   {% capture label %}
     {% if section.id %}{{ section.id }} {% endif %}
