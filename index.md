@@ -12,7 +12,7 @@ Work in progress, toward an online edition of the *Manual*.
 - II. [Publishing and Library Costs: The Book](sections/02-publishing-and-library-costs-the-book.html)
 - III. [Printed Books and Reprints](sections/03-printed-books.html)
 - IV. [The Typescript Book or Memorandum: The Typewriter and Typescript](sections/04-the-typescript-book-or-memorandum-typescript.html)
-- V. The Typescript Book or Memorandum: Reproduction Techniques
+- V. [The Typescript Book or Memorandum: Reproduction Techniques](sections/05-the-typescript-book-or-memorandum-reproduction-techniques.html)
 - VI. Blueprinting, Photostating, and Allied Techniques
 - VII. Books Containing Characters Not in the Roman Alphabet, Tabular Matter, Diagrams and Illustrations
 - VIII. [A Study of Paper Permanence](sections/08-a-study-of-paper-permanence.html)
