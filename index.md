@@ -26,6 +26,8 @@ Work in progress, toward an online edition of the *Manual*.
 ## IIIF
 
 - [Manifest]({{ 'iiif/manualonmethodso00robe/manifest.json' | absolute_url }})
+- [Mirador view]({{ 'mirador3' | absolute_url }})
+
 
 The manifest uses the image service from Internet Archive's [IIIF platform](https://iiif.archivelab.org/iiif/manualonmethodso00robe), but has enhancements such as a detailed table of contents.
 
