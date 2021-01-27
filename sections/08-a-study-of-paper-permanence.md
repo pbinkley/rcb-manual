@@ -4,7 +4,7 @@ title: "A Study of Paper Permanence"
 layout: narrative
 ---
 
->&nbsp;{%- include pagebreak.html canvas=219 -%}This chapter has been subjected to criticism by the Bureau of 
+> {% include pagebreak.html canvas=219 %} This chapter has been subjected to criticism by the Bureau of 
 Standards, and the Permanence and Durability Committee of the Technical Association of the Pulp and Paper Industry. 
     The latter body contested certain conclusions of the paper as originally submitted 
     and has expressed a wish that the chapter be published as amended by then, 
@@ -14,7 +14,7 @@ Standards, and the Permanence and Durability Committee of the Technical Associat
     Technical Association of the Pulp and Paper Industry. 
   
 
-&nbsp;{%- include columnbreak.html canvas=219 col=1 -%}The outstanding qualities required 
+ {% include columnbreak.html canvas=219 col=1 %} The outstanding qualities required 
 of a book paper are four: printing surface, opacity, strength, and permanence 
 and durability. Other qualities of a greater or lesser importance are color, feel, 
 formation, aesthetic value, etc., depending on the purpose for which the paper is 
@@ -37,7 +37,7 @@ stored in urban institutions is uniformly
 more deteriorated than that from identical 
 volumes kept in rural libraries, according 
 to the Bureau of Standards investigation. 
-The much thumbed-over books in the children's department of the public library&nbsp;{%- include columnbreak.html canvas=219 col=2 -%}&nbsp;show the results of wear in use, but there 
+The much thumbed-over books in the children's department of the public library {% include columnbreak.html canvas=219 col=2 %} show the results of wear in use, but there 
 is little doubt that the lasting quality of 
 paper is not only dependent upon its environment but is partly related to the paper itself. This permanence quality, however, is not immediately apparent to the 
 observer. The only absolute test of permanence and durability would require that one 
@@ -54,7 +54,7 @@ made, found that book papers containing appreciable quantities of crude fibers w
 invariably in poorer condition than those 
 containing rag and chemical wood fibers. 
 The period 1875-1910, therefore, is defined 
-as one in which the paper in books published&nbsp;{%- include pagebreak.html canvas=220 -%}&nbsp;in this period may be quite impermanent. 
+as one in which the paper in books published {% include pagebreak.html canvas=220 %} in this period may be quite impermanent. 
 This served to emphasize the importance of 
 the chemical purity of the fibers themselves as a factor in the permanence of paper. At the beginning of the present century, paper technicians were calling attention to the danger of printing on paper 
 containing crude fibers, such as ground 
@@ -92,7 +92,7 @@ various classifications: there is the distinction between the soft (coniferous)
 woods and the hard (deciduous) woods. Then 
 there are different processes by which the 
 wood is converted into pulp to receive consideration. First, there is the important 
-distinction between "mechanical wood pulp"&nbsp;{%- include columnbreak.html canvas=220 col=2 -%}&nbsp;(groundwood) and "chemical wood pulp." 
+distinction between "mechanical wood pulp" {% include columnbreak.html canvas=220 col=2 %} (groundwood) and "chemical wood pulp." 
 Newsprint paper, for instance, is chiefly 
 mechanical wood pulp; most book paper is 
 made of chemical wood pulp. By different 
@@ -135,7 +135,7 @@ tearing resistance, bursting strength, tensile strength, and folding endurance. 
 for permanent all-rag content papers have 
 carried requirements as to the grade of new 
 rag permitted. In addition, limits as to 
-rosin size and acidity have also been included. Specifications relating to&nbsp;{%- include pagebreak.html canvas=221 -%}&nbsp;probable longevity of a paper were not so 
+rosin size and acidity have also been included. Specifications relating to {% include pagebreak.html canvas=221 %} probable longevity of a paper were not so 
 easily set up but progress is being made in 
 that direction. 
 
@@ -174,7 +174,7 @@ the paper. Raw cotton, on the other hand,
 represents a fiber containing about 90% 
 cellulose and a minimum of "impurities." 
 
-&nbsp;{%- include columnbreak.html canvas=221 col=2 -%}&nbsp;Tests which are often used to determine the purity and quality of the fibers composing a paper are: acidity, sizing, alpha cellulose, and copper number. In 
+ {% include columnbreak.html canvas=221 col=2 %} Tests which are often used to determine the purity and quality of the fibers composing a paper are: acidity, sizing, alpha cellulose, and copper number. In 
 general, there is agreement among paper 
 technologists that the acidity and the rosin sizing should be kept low for a permanent paper. The alpha cellulose content of 
 a paper refers to that portion of the cellulose which is not soluble in a solution of 
@@ -206,7 +206,7 @@ durability. Such papers possess an alpha
 cellulose content well over 90% and « copper number considerably less than 1.0. Lower grade rags and chemical wood pulps require more severe treatment in their isolation or purification before being converted 
 to paper. Ordinary processes of making 
 chemical wood pulp do not yield a product 
-with 90% alpha cellulose content. Purification processes are now available, however, whereby the alpha cellulose content&nbsp;{%- include pagebreak.html canvas=222 -%}&nbsp;of such pulps, referred to as "alpha pulps,"
+with 90% alpha cellulose content. Purification processes are now available, however, whereby the alpha cellulose content {% include pagebreak.html canvas=222 %} of such pulps, referred to as "alpha pulps,"
 approaches that of the better grades of cotton rags.[^n7]
 
 [^n7]: The Brown Company, pulp manufacturers of Berlin, New Hampshire, have developed some of these refining processes and have put their highly purified pulp on the market as "solka fiber." Paper chemists are not certain as to how far such highly purified wood pulps can displace rag fibers as an ingredient for permanent papers. The Brown Company sponsored a study of this problem at the Bureau of Standards. 
@@ -285,7 +285,7 @@ must not show the presence of any injurious
 residual chemicals which will interfere in 
 any way with the permanency of color or 
 the serviceability and durability of the 
-paper.&nbsp;{%- include pagebreak.html canvas=223 -%}&nbsp;
+paper. {% include pagebreak.html canvas=223 %} 
 
 TABLE XXXIV 
 
@@ -343,7 +343,7 @@ Shall be in accordance with sample
 
 Testing Methods: The testing methods shall be those approved by the Technical Association of the Pulp and Paper Industry. The physical specifications are for a relative 
 humidity of 65% and a temperature of 70 F°., which are the testing conditions approved 
-by this Association. &nbsp;{%- include pagebreak.html canvas=224 -%}&nbsp;
+by this Association.  {% include pagebreak.html canvas=224 %} 
 
 *Class III. Papers of Fair Purity for Records Requiring Moderate Longevity*
 
@@ -388,7 +388,7 @@ Shall be in accordance with sample
 Testing Methods: The testing methods shall be those approved by the Technical Association of the Pulp and Paper Industry. The physical specifications are for a relative 
 humidity of 65% and a temperature of 70° F., which are the testing conditions approved by this Association.
 
-&nbsp;{%- include pagebreak.html canvas=225 -%}&nbsp;
+ {% include pagebreak.html canvas=225 %} 
 
 Stock: 100% new rags, white, cream or unbleached    
 Ash: Not to exceed 15%    
@@ -404,7 +404,7 @@ Sizing: Rosin not to exceed 1.0%
 Color, Finish, Formation, and Cleanliness: Deliveries must conform to the 
 standard sample. 
 
-*Note:* The physical specifications of the Government Printing Office are based on tests carried out at a relative humidity of 50% and a temperature of 70° F.&nbsp;{%- include columnbreak.html canvas=225 col=1 -%}&nbsp;
+*Note:* The physical specifications of the Government Printing Office are based on tests carried out at a relative humidity of 50% and a temperature of 70° F. {% include columnbreak.html canvas=225 col=1 %} 
 
 ## The Paper Trade and the Proposed Specifications 
 
@@ -430,7 +430,7 @@ he is paying for permanence quality. Thus
 is the importance of careful specifications 
 brought out. 
 
-&nbsp;{%- include columnbreak.html canvas=225 col=2 -%}&nbsp;A list of the book papers investigated by John Burton[^n13] is herewith tabulated (Table XXXV, on the following page) with the proposed permanence classification indicated in each case. This is based on 
+ {% include columnbreak.html canvas=225 col=2 %} A list of the book papers investigated by John Burton[^n13] is herewith tabulated (Table XXXV, on the following page) with the proposed permanence classification indicated in each case. This is based on 
 chemical and physical tests on the papers. 
 For this proposed classification, see an 
 earlier portion of this chapter.[^n14] According to this classification system only one 
@@ -454,7 +454,7 @@ matter of permanent and durable book papers, no single test or specifications be
 
 ## Conclusions for the Paper Buyer 
 
-It is easy to understand why ordinary market book papers, whether of rag,&nbsp;{%- include pagebreak.html canvas=226 -%}&nbsp;
+It is easy to understand why ordinary market book papers, whether of rag, {% include pagebreak.html canvas=226 %} 
 
 TABLE XXXV
 
@@ -491,7 +491,7 @@ BOOK PAPERS AND PROPOSED PERMANENCE CLASSIFICATIONS
 | 45 | New white and cream rags, 100%; rosin sized. This paper was manufactured especially with a view to permanence | 100 | - | II |
 | 46 | Same as paper No. 45, but from a different delivery | 100 | - | II |
 
-&nbsp;{%- include pagebreak.html canvas=227 -%}&nbsp;chemical wood pulp, or mixture, should not 
+ {% include pagebreak.html canvas=227 %} chemical wood pulp, or mixture, should not 
 be permanent papers; and emphasis has been 
 on beauty and printability rather than on 
 permanence and durability. Paper technologists have the formulae for papers which 
@@ -535,7 +535,7 @@ have concerning the properties of a paper,
 the more can we judge of its general quality and usability for the purposes we have 
 in mind. 
 
-Although it is admitted that there&nbsp;{%- include columnbreak.html canvas=227 col=2 -%}&nbsp;is no general agreement on the specifications necessary for a permanent paper made 
+Although it is admitted that there {% include columnbreak.html canvas=227 col=2 %} is no general agreement on the specifications necessary for a permanent paper made 
 from fibers other than the highest grade of 
 rags, the dealers and even the buying public in general have been slow to realize 
 the need for and the significance of a permanent book paper. When the buyers specify 
@@ -578,7 +578,7 @@ is about 30 times more acid than one testing pH 6 and is more likely to become d
 ### (5) Sizing Material 
 
 The presence of large amounts of 
-rosin as a sizing material in paper is likely to bring about a discoloration or yellowing in papers on aging. There is general&nbsp;{%- include pagebreak.html canvas=228 -%}&nbsp;agreement that the rosin content of permanent papers should be kept low, probably 
+rosin as a sizing material in paper is likely to bring about a discoloration or yellowing in papers on aging. There is general {% include pagebreak.html canvas=228 %} agreement that the rosin content of permanent papers should be kept low, probably 
 below 1%. 
 
 ### (6) Fillers or Loading Materials 
@@ -676,7 +676,7 @@ standard size of sheet is 25" x 38"; the
 weight of the paper is usually given as 
 that of 500 sheets, 25" x 38". Since a 
 sheet of this paper will print 24 pages, 
-8" x 9 1/2", a ream will supply paper for&nbsp;{%- include pagebreak.html canvas=229 -%}&nbsp;38 copies. Paper weighing 45 pounds to the 
+8" x 9 1/2", a ream will supply paper for {% include pagebreak.html canvas=229 %} 38 copies. Paper weighing 45 pounds to the 
 ream---a good stout book paper weight, as 
 the paper samples indicate---will make up a 
 300-page book weighing a little over one 
@@ -718,7 +718,7 @@ American Library Association favors the application of this policy to government
 
 [^n15]: The University of California Press applies it to scientific publications, printing 25 copies on a rag stock conforming to U. S. Government Printing Office specifications for highest permanence (see chart). 
 
-&nbsp;{%- include columnbreak.html canvas=229 col=2 -%}&nbsp;The second policy is that which 
+ {% include columnbreak.html canvas=229 col=2 %} The second policy is that which 
 will be practicable as rag, purified chemical wood pulp or other papers at moderate 
 prices prove to have satisfactory lasting 
 qualities. The permanence level of all 
@@ -756,7 +756,7 @@ running them through a heated mangle. This
 process has been used by the New York Public Library since 1916. Legibility is decreased somewhat, but the library feels 
 that its experience indicates that this disadvantage is offset by the increased 
 strength and lengthened span of life of the 
-paper. The cost of this process is&nbsp;{%- include pagebreak.html canvas=230 -%}&nbsp;approximately $.08 a sheet, or $.04 a page. 
+paper. The cost of this process is {% include pagebreak.html canvas=230 %} approximately $.08 a sheet, or $.04 a page. 
 emis of the New York Public Library 
 product is bound herewith. Dr. Joseph 
 Broadman of New York City has developed a 
@@ -793,7 +793,7 @@ are as follows:
     maximum degree of purity; free from 
     unbleached fibers, and highly lignified fibers such as groundwood. Indicative chemical properties: alpha 
     cellulose, 90%; copper number, 1.5; 
-    rosin, 1%; acidity, 5 pH; changes on&nbsp;{%- include columnbreak.html canvas=230 col=2 -%}&nbsp;heating 72 hours 
+    rosin, 1%; acidity, 5 pH; changes on {% include columnbreak.html canvas=230 col=2 %} heating 72 hours 
     in content of alpha-cellulose should 
     be not more than 1.5%, decrease in 
     folding endurance not more than 25%, 
@@ -837,7 +837,7 @@ are as follows:
 
 {% include enclosure.html incl="08-106" %}
 
->&nbsp;{%- include pagebreak.html canvas=233 -%}&nbsp;must be fixed with consideration of 
+> {% include pagebreak.html canvas=233 %} must be fixed with consideration of 
     the kind and extent of mechanical 
     stresses to which the paper will be 
     subjected in its use. The strength 
@@ -870,7 +870,7 @@ are as follows:
     the paper supplied by the American 
     Writing Company. 
 
-> The alpha cellulose and copper number and accelerated aging test&nbsp;{%- include columnbreak.html canvas=233 col=2 -%}&nbsp;of these three papers are shown in the table below. 
+> The alpha cellulose and copper number and accelerated aging test {% include columnbreak.html canvas=233 col=2 %} of these three papers are shown in the table below. 
 
 SPECIFICATIONS FOR A WOOD-PULP FIBER PAPER 
 
@@ -898,7 +898,7 @@ SPECIFICATIONS FOR A WOOD-PULP FIBER PAPER
 13. Carnegie Library, Pittsburgh, Pennsylvania 
 14. John Crerar Library, Chicago, Illinois
 15. Iowa State College Library, Ames, Iowa 
-16. Butte Public Library, Butte, Montana&nbsp;{%- include pagebreak.html canvas=234 -%}&nbsp;
+16. Butte Public Library, Butte, Montana {% include pagebreak.html canvas=234 %} 
 17. Colorado College Library, Colorado Springs, Colorado 
 18. University of Arizona Library, Tucson, Arizona 
 19. University of Southern California Library, Los Angeles 
@@ -935,7 +935,7 @@ SPECIFICATIONS FOR A WOOD-PULP FIBER PAPER
     improvement over current practices. 
 
 > The difference in permanence 
-    between paper meeting Scribner specifications and paper surpassing those&nbsp;{%- include columnbreak.html canvas=380 col=2 -%}&nbsp;specifications is an unknown quantity; 
+    between paper meeting Scribner specifications and paper surpassing those {% include columnbreak.html canvas=380 col=2 %} specifications is an unknown quantity; 
     a definite estimate of the price difference can be made: if permanent 
     purified wood-pulp papers cost $.10 to 
     $.15 a pound, then the special permanent rag papers should cost from $.16 
@@ -981,7 +981,7 @@ SPECIFICATIONS FOR A WOOD-PULP FIBER PAPER
     archival type, and also in connection 
     with the various near-print methods 
     of reproducing text, such as mimeograph and hectograph. The general 
-    business practice of the country calls&nbsp;{%- include pagebreak.html canvas=235 -%}&nbsp;for a more permanent stock of paper 
+    business practice of the country calls {% include pagebreak.html canvas=235 %} for a more permanent stock of paper 
     for letters than for books, and a 
     less permanent stock for carbon copies than for books. The average business letter sheet will last longer 
     than the average book page; the average carbon copy will fall to pieces 
@@ -1011,7 +1011,7 @@ SPECIFICATIONS FOR A WOOD-PULP FIBER PAPER
     believes that in the main the technological considerations governing permanence are the same for bond as for 
     book papers, and that the argument for 
     using chemical and performance specifications is as good in the one case 
-    as in the other.&nbsp;{%- include columnbreak.html canvas=235 col=2 -%}&nbsp;
+    as in the other. {% include columnbreak.html canvas=235 col=2 %} 
 
 > ## Beauty and Legibility in Papers 
 
@@ -1044,7 +1044,7 @@ SPECIFICATIONS FOR A WOOD-PULP FIBER PAPER
     cost is so small a part of the total
     cost, an economical place to seek for
     quality in the product is by using 
-    the highest class of paper.&nbsp;{%- include pagebreak.html canvas=236 -%}&nbsp;
+    the highest class of paper. {% include pagebreak.html canvas=236 %} 
 
 TABLE XXXVa
 

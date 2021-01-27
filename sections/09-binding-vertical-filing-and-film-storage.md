@@ -4,7 +4,7 @@ title: "Binding, Vertical Filing, and Film Storage"
 layout: narrative
 ---
 
-&nbsp;{%- include pagebreak.html canvas=237 -%}&nbsp;The use of typescript and near-print in the production of small editions 
+ {% include pagebreak.html canvas=237 %} The use of typescript and near-print in the production of small editions 
 of documents of internal circulation in 
 scholarship need not necessarily give rise 
 to new library problems. If most of these 
@@ -41,7 +41,7 @@ in Chapter II.
 
 ## Vertical Filing 
 
-The vertical filing system, rather&nbsp;{%- include columnbreak.html canvas=237 col=2 -%}&nbsp;than ordinary library shelving, is used for 
+The vertical filing system, rather {% include columnbreak.html canvas=237 col=2 %} than ordinary library shelving, is used for 
 the temporary storage of items of pamphlet 
 or typescript memorandum size. When a considerable volume of this material accumulates, two alternatives present themselves. 
 If the vertical file system is adopted for 
@@ -78,7 +78,7 @@ photo-offset items published in one signature of sixteen or thirty-two pages.
 
 *Spiral binding* is a form of notebook 
 binding that is becoming increasingly popular 
-for vertical file material. It first appeared a few years ago in Europe and was&nbsp;{%- include pagebreak.html canvas=238 -%}&nbsp;introduced in America through an American 
+for vertical file material. It first appeared a few years ago in Europe and was {% include pagebreak.html canvas=238 %} introduced in America through an American 
 magazine. It is used for pamphlets and 
 catalogues in Europe and for small edition 
 publications. Loose sheets are held together by rings as in the simplest loose-leaf notebook style, but instead of two or 
@@ -123,7 +123,7 @@ mentioned above, pasting, and wire stitching. Pasting, next to 'stapling, is the
 simplest method of fastening sheets of a 
 pamphlet together, one fold inside of another. This method, however, is for binding only a few sheets and is for very temporary work. 
 
-&nbsp;{%- include columnbreak.html canvas=238 col=2 -%}&nbsp;There are two common methods of 
+ {% include columnbreak.html canvas=238 col=2 %} There are two common methods of 
 wire stitching: saddle-and side-wire 
 stitching. With saddle-wire stitching, the 
 pamphlet is opened in the middle and layed 
@@ -170,7 +170,7 @@ the library the extra cost of pamphlet care
 that is involved in fitting pamphlets into 
 binders. 
 
-The only justification for transferring the cost of adequate binding to libraries is a situation in which a substantial proportion of an edition is distributed&nbsp;{%- include pagebreak.html canvas=239 -%}&nbsp;to users who will not require that it be 
+The only justification for transferring the cost of adequate binding to libraries is a situation in which a substantial proportion of an edition is distributed {% include pagebreak.html canvas=239 %} to users who will not require that it be 
 well bound. If an entire edition of a 
 pamphlet is to go to libraries which will 
 catalogue and shelve it, it might as well 
@@ -221,7 +221,7 @@ finishing steps.
 
 Paper is an important factor in 
 binding and should be flexible in proportion to its size. When the grain of the 
-paper runs the same way as the binding edge,&nbsp;{%- include columnbreak.html canvas=239 col=2 -%}&nbsp;the book will lie flat when opened; if the 
+paper runs the same way as the binding edge, {% include columnbreak.html canvas=239 col=2 %} the book will lie flat when opened; if the 
 grain runs crosswise of the binding edge, 
 the book will not lie flat when opened, but 
 will be stronger. In handmade paper, the 
@@ -270,7 +270,7 @@ about $1.50.
 ## Film Storage 
 
 There are three ways of storing 
-microcopied material on 16 mm. or 35 mm.&nbsp;{%- include pagebreak.html canvas=240 -%}&nbsp;
+microcopied material on 16 mm. or 35 mm. {% include pagebreak.html canvas=240 %} 
 
 TABLE XXXVI 
 
@@ -367,7 +367,7 @@ pill boxes or larger partitioned metal or
 paper boxes holding twenty-five rolls of 
 film. The longer rolls of film require 
 spool storage. The Recordak Corporation 
-furnishes spools with its film. Each spool{%- include columnbreak.html canvas=240 col=2 -%}&nbsp;will hold 200 feet of film; it fits in a 
+furnishes spools with its film. Each spool{%- include columnbreak.html canvas=240 col=2 %} will hold 200 feet of film; it fits in a 
 cardboard box 4" x 4" x 1".
 
 It is not known with certainty how 
@@ -380,9 +380,9 @@ because of fire hazards; the storage of
 cellulose acetate films is not complicated 
 by any fire hazard.
  
-&nbsp;{%- include pagebreak.html canvas=241 -%}&nbsp;
+ {% include pagebreak.html canvas=241 %} 
 
-&nbsp;{%- include pagebreak.html canvas=242 -%}&nbsp;
+ {% include pagebreak.html canvas=242 %} 
 
 \[New York Times page\]
 

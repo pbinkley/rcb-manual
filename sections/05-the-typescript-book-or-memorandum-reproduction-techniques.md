@@ -6,7 +6,7 @@ layout: narrative
 
 ## I. Carbon Paper Copying 
 
-&nbsp;{%- include pagebreak.html canvas=95 -%}&nbsp;Carbon paper offers one of the oldest and cheapest means of multiplying typescript in a very few copies. It is constantly used for thesis work. With ordinary skill and an ordinary typewriter, two 
+ {% include pagebreak.html canvas=95 %} Carbon paper offers one of the oldest and cheapest means of multiplying typescript in a very few copies. It is constantly used for thesis work. With ordinary skill and an ordinary typewriter, two 
 carbons can be made with high legibility 
 and at a maximum price of $.05 per page per 
 extra carbon. The number of legible copies 
@@ -76,7 +76,7 @@ is crossed to the field of the hectograph.
 
 In this report the term hectographing is used to designate any process by 
 which approximately 100 to 150 copies of a 
-document may be reproduced in methyl-violet&nbsp;{%- include pagebreak.html canvas=96 -%}&nbsp;
+document may be reproduced in methyl-violet {% include pagebreak.html canvas=96 %} 
 
 TABLE XIII
 
@@ -136,24 +136,24 @@ Costs Hlse9 ORO INO AAG: 9.84
 
 Fair Copy 
 
-&nbsp;{%- include pagebreak.html canvas=97 -%}&nbsp;
+ {% include pagebreak.html canvas=97 %} 
 
-&nbsp;{%- include pagebreak.html canvas=98 -%}&nbsp;
+ {% include pagebreak.html canvas=98 %} 
 
 FIGURE XX 
 
 
 The Ormig Duplicator 
 
-&nbsp;{%- include pagebreak.html canvas=99 -%}&nbsp;
+ {% include pagebreak.html canvas=99 %} 
 
-&nbsp;{%- include pagebreak.html canvas=100 -%}&nbsp;
+ {% include pagebreak.html canvas=100 %} 
 
 FIGURE XXI
 
 The Standard New Process Duplicator 
 
-&nbsp;{%- include pagebreak.html canvas=101 -%}&nbsp;
+ {% include pagebreak.html canvas=101 %} 
 
 
 TABLE XIV (Continued) 
@@ -218,7 +218,7 @@ Costs 12.96 AOS ee) HOT)
 
 written or typed in methyl violet dye 
 
-&nbsp;{%- include columnbreak.html canvas=101 col=1 -%}&nbsp;dye from a single master sheet. 
+ {% include columnbreak.html canvas=101 col=1 %} dye from a single master sheet. 
 
 ### a) Gelatin Hectograph Process 
 
@@ -267,7 +267,7 @@ $475.00; the Standard New Process Duplicator (Figure XXI), which sells for $187.
 to $440.00; and the Ditto Liquid Duplicator, fixed at $200.00 for the hand-run 
 model and $265.00 for the power-run machine. 
 
-&nbsp;{%- include pagebreak.html canvas=102 -%}&nbsp;The Joint Committee has experimented with both the liquid process and the 
+ {% include pagebreak.html canvas=102 %} The Joint Committee has experimented with both the liquid process and the 
 gelatin machines. The result of extensive 
 comparison in the practical working of the 
 two processes is definitely in favor of the 
@@ -312,7 +312,7 @@ as there are master sheets to be run in
 close succession, for a used film must be 
 allowed to stand from six to twenty-four 
 hours before the dye is sufficiently absorbed and dissipated to allow a new master 
-image to be imposed upon it. If a 100-page&nbsp;{%- include columnbreak.html canvas=102 col=2 -%}&nbsp;document were to be hectographed by the gelatin process in a single day, a supply of 
+image to be imposed upon it. If a 100-page {% include columnbreak.html canvas=102 col=2 %} document were to be hectographed by the gelatin process in a single day, a supply of 
 at least fifty films would be necessary. 
 
 The variable elements in the gelatin process are so much greater than the 
@@ -356,7 +356,7 @@ regular copy paper it is really not economical.
 Area costs are those of the master 
 sheets ($1.50 to $3.00 per 1000 sheets) 
 and the hectograph carbon paper ($.04 to 
-$.06 per sheet in quantities of 100). These&nbsp;{%- include pagebreak.html canvas=103 -%}&nbsp;
+$.06 per sheet in quantities of 100). These {% include pagebreak.html canvas=103 %} 
 
 
 PLGURE ARAL 
@@ -420,9 +420,9 @@ Pimoaaren hi juagy 6
 
 "gost ds determined by page area. 
 
-&nbsp;{%- include pagebreak.html canvas=104 -%}&nbsp;
+ {% include pagebreak.html canvas=104 %} 
 
-&nbsp;{%- include pagebreak.html canvas=105 -%}&nbsp;
+ {% include pagebreak.html canvas=105 %} 
 
 FIGURE XXIIIa 
 
@@ -457,9 +457,9 @@ Process machines costs $2.75 a gallon in six gallon lots,
 $3.25 a gallon for smaller quantities. A gallon wiil 
 
 
-&nbsp;{%- include pagebreak.html canvas=106 -%}&nbsp;
+ {% include pagebreak.html canvas=106 %} 
 
-&nbsp;{%- include pagebreak.html canvas=107 -%}&nbsp;
+ {% include pagebreak.html canvas=107 %} 
 
 FIGURE XXIIIb 
 
@@ -495,9 +495,9 @@ $3.25 a gallon for smaller quantities. A gallon wiil
 moisten at least 6,000 copies, or as many as 10,000. 
 
 
-&nbsp;{%- include pagebreak.html canvas=108 -%}&nbsp;
+ {% include pagebreak.html canvas=108 %} 
 
-&nbsp;{%- include pagebreak.html canvas=109 -%}&nbsp;
+ {% include pagebreak.html canvas=109 %} 
 
 FIGURE XXIV 
 
@@ -523,9 +523,9 @@ copies. No.d-M up to 200 copies, and No.H=2 for 200 copies
 
 and over. These carbons are all priced the same. 
 
-&nbsp;{%- include pagebreak.html canvas=110 -%}&nbsp;
+ {% include pagebreak.html canvas=110 %} 
 
-&nbsp;{%- include pagebreak.html canvas=111 -%}&nbsp;costs are the ones most subject to variation and they are the most important on account of their relationship to legibility. 
+ {% include pagebreak.html canvas=111 %} costs are the ones most subject to variation and they are the most important on account of their relationship to legibility. 
 If a saving in area costs is attempted by 
 using single rather than double-spaced typescript to get more words on the master 
 sheet, the legibility of the product diminishes accordingly, but a more important 
@@ -597,7 +597,7 @@ COST OF BOOK OF 100,000 WORDS, 334 PAGES, MADE BY LIQUID PROCESS HECTOGRAPH
 | Edition Costs | $77.76 | $82.26 | $87.48 | $91.16 | $96.08 | $107.28 | $127.01 | $146.11 | $182.06 | 
 | Unit Costs | 7.78 | 5.49 | 4.38 | 3.65 | 2.75 | 2.15 | 1.70 | 1.47 | 1.27 |
 
-<sup>*</sup>Paper at $1.25 per 1000 in lots of 10,000 or more.&nbsp;{%- include pagebreak.html canvas=112 -%}&nbsp;
+<sup>*</sup>Paper at $1.25 per 1000 in lots of 10,000 or more. {% include pagebreak.html canvas=112 %} 
 
 ### c) Application of Hectographing to the Problems of Scholarship 
 
@@ -650,7 +650,7 @@ $3.00 (paper binding) and $3.75 (cloth
 binding). The hectograph costs, exclusive 
 of binding and mailing, for an edition of
 fifty were $47.10 more than the cost for a 
-typescript copy and one carbon.&nbsp;{%- include columnbreak.html canvas=112 col=2 -%}&nbsp;
+typescript copy and one carbon. {% include columnbreak.html canvas=112 col=2 %} 
 
 The hectograph process is probably 
 more serviceable, however, as a means of 
@@ -700,7 +700,7 @@ prices, therefore, must be analyzed for
 mimeograph work. 
 
 The rotaprint and multilith have 
-been briefly mentioned in Chapter III in&nbsp;{%- include pagebreak.html canvas=113 -%}&nbsp;connection with the discussion of photo-offset as a reprinting method. The press 
+been briefly mentioned in Chapter III in {% include pagebreak.html canvas=113 %} connection with the discussion of photo-offset as a reprinting method. The press 
 plates for reprinting are, of course, prepared photographically. But there is an 
 alternative way of putting on such plates 
 the format copy of the text to be reproduced: the metal sheets that are used on 
@@ -747,7 +747,7 @@ of format must be studied; for it becomes
 important to lay down as much as possible 
 on a given area, without unduly sacrificing 
 legibility and beauty. But it goes with- 
-out saying that any format differing from&nbsp;{%- include columnbreak.html canvas=113 col=2 -%}&nbsp;the usual one-column, six-line-to-the-inch, 
+out saying that any format differing from {% include columnbreak.html canvas=113 col=2 %} the usual one-column, six-line-to-the-inch, 
 pica or elite typescript format will be 
 more expensive to prepare. In estimating 
 the average mimeographing costs, therefore, 
@@ -793,7 +793,7 @@ PRICES OF MIMEOGRAPH STENCILS
 | 8 1/2" x 11" | 3.00 | .12 1/2 |
 | 8 1/2" x 14" | 3.50 | .14 1/2 |
 
-The wax stencil is used for runs&nbsp;{%- include pagebreak.html canvas=114 -%}&nbsp;not exceeding 500. It cannot be saved, and 
+The wax stencil is used for runs {% include pagebreak.html canvas=114 %} not exceeding 500. It cannot be saved, and 
 more care is needed to produce a good copy 
 with the wax stencil than with the mimeotype stencil. A sample of work done on a 
 wax stencil is seen in Figure XXVII. The 
@@ -806,7 +806,7 @@ been discussed at length in Chapter III.
 There are two kinds of metal sheets 
 that can be used directly in the typewriter---the rotaplate: and the multilith metal 
 sheet. The claim is made that the multilith sheet can be used over again for about 
-three times; the rotaprint people say that&nbsp;{%- include columnbreak.html canvas=114 col=2 -%}&nbsp;they have not found any process whereby the 
+three times; the rotaprint people say that {% include columnbreak.html canvas=114 col=2 %} they have not found any process whereby the 
 rotaplate can be used over again with satisfactory results. 
 
 TABLE XVII 
@@ -845,7 +845,7 @@ ON THE STENCIL
 | Mimeograph (mimeotype) | 7 1/4" x 10 1/4" | .13 1/2 | .13 1/2 | .13 1/2 | |
 | (mimeotype | 7 1/4" x 14" | .14 1/2 | .14 1/2 | .14 1/2 | .14 1/2 |
 
-&nbsp;{%- include pagebreak.html canvas=115 -%}&nbsp;
+ {% include pagebreak.html canvas=115 %} 
 
 FIGURE XXV 
 
@@ -871,9 +871,9 @@ This sample page of direct typing Rotaprint work can
 be compared with Figure XXVI, which illustrates direct 
 typing on a Multilith machine. 
 
-&nbsp;{%- include pagebreak.html canvas=116 -%}&nbsp;
+ {% include pagebreak.html canvas=116 %} 
 
-&nbsp;{%- include pagebreak.html canvas=117 -%}&nbsp;
+ {% include pagebreak.html canvas=117 %} 
 
 FIGURE XXVI 
 
@@ -910,9 +910,9 @@ The life of the Multilith zinc plate direct image is from five to
 ten thousand impressions, but by the application of a solution called 
 intensifier it can be extended from five to ten thousand impressions. 
 
-&nbsp;{%- include pagebreak.html canvas=118 -%}&nbsp;
+ {% include pagebreak.html canvas=118 %} 
 
-&nbsp;{%- include pagebreak.html canvas=119 -%}&nbsp;
+ {% include pagebreak.html canvas=119 %} 
 
 FIGURE XXVII 
 
@@ -954,9 +954,9 @@ in the usual manner.
 This sample page is to illustrate the use of special interlinear spacing and the use of a wax stencil. The interlinear spacing used is five lines to the inch; the stencil used 
 is the inexpensive wax stencil costing $.05¼ each, instead of 
 
-&nbsp;{%- include pagebreak.html canvas=120 -%}&nbsp;
+ {% include pagebreak.html canvas=120 %} 
 
-&nbsp;{%- include pagebreak.html canvas=121 -%}&nbsp;
+ {% include pagebreak.html canvas=121 %} 
 
 FIGURE XXVIII 
 
@@ -1051,9 +1051,9 @@ be more pleasing to the eye. This brings up
 the problem of how we are to determine the 
 exact point at which cost, legibility, and 
 
-&nbsp;{%- include pagebreak.html canvas=122 -%}&nbsp;
+ {% include pagebreak.html canvas=122 %} 
 
-&nbsp;{%- include pagebreak.html canvas=123 -%}&nbsp;
+ {% include pagebreak.html canvas=123 %} 
 
 In designing a format for the maximum utilization of this surface five factors must be considered: 
 
@@ -1117,7 +1117,7 @@ of the same printing surface, namely, the
 ordinary 8 1/2" x 11" mimeotype stencil, 
 except with formats requiring 600 or 700 
 words to a page, which require an 8 1/2" 
-x 14" stencil. In each case the cost figure is given under two alternative&nbsp;{%- include pagebreak.html canvas=124 -%}&nbsp;
+x 14" stencil. In each case the cost figure is given under two alternative {% include pagebreak.html canvas=124 %} 
 
 TABLE XIX 
 
@@ -1150,13 +1150,13 @@ estimates for office work; prices vary
 greatly from this calculated cost basis. 
 The comparison of cost and price, i.e., of 
 work done in an office and work sent out, 
-can be seen in one instance in the comparison as shown in Table XXI, page 52. &nbsp;{%- include pagebreak.html canvas=125 -%}&nbsp;
+can be seen in one instance in the comparison as shown in Table XXI, page 52.  {% include pagebreak.html canvas=125 %} 
 
 TABLE XX
 
 TODO
 
-&nbsp;{%- include pagebreak.html canvas=126 -%}&nbsp;
+ {% include pagebreak.html canvas=126 %} 
 
 TABLE XXI 
 
@@ -1226,7 +1226,7 @@ Rotaprint ADS 1.43 Sit) 59 59
 each sheet ) 
 
 <sup>*</sup> Hoch estimates that multigraphing is about 30% higher than mimeographing, and that 
-printing is about 70% higher than mimeographing.&nbsp;{%- include pagebreak.html canvas=127 -%}&nbsp;
+printing is about 70% higher than mimeographing. {% include pagebreak.html canvas=127 %} 
 
 ## IV. Photo-Offset from Typescript 
 
@@ -1262,7 +1262,7 @@ typescript book?
 If the text includes illustrations 
 or characters that must be filled in by 
 hand, or certain kinds of tabular or charted data, the reason for using the photographic step is clear. If, however, the 
-text is simply typescript and nothing else,&nbsp;{%- include columnbreak.html canvas=127 col=2 -%}&nbsp;the justification of the extra cost must be 
+text is simply typescript and nothing else, {% include columnbreak.html canvas=127 col=2 %} the justification of the extra cost must be 
 found elsewhere. 
 
 There are three reasons for incurring this additional area cost: first, the 
@@ -1306,7 +1306,7 @@ the inch instead of ten) was just as legible as full-sized pica typescript.[^n3]
 
 The reader should be given an opportunity to test this judgment and to compare 
 the legibility of typescript in various reductions with the legibility of book-face 
-type. To make the comparison possible, six&nbsp;{%- include pagebreak.html canvas=128 -%}&nbsp;areas of four square inches each are filled 
+type. To make the comparison possible, six {% include pagebreak.html canvas=128 %} areas of four square inches each are filled 
 with reading matter (Figure XXIX). The 
 first square is filled with text in 10-point type, and typescript that will lay 
 down the same number of words in the same 
@@ -1353,7 +1353,7 @@ may be reduced to something more nearly resembling that of an ordinary octavo bo
 
 But since an octavo page, 6" x 9", 
 with lines of maximum length (3.9" for 6-- 
-to 10--point type, according to Vernon)&nbsp;{%- include columnbreak.html canvas=128 col=2 -%}&nbsp;sacrifices 35% of its surface to right- and 
+to 10--point type, according to Vernon) {% include columnbreak.html canvas=128 col=2 %} sacrifices 35% of its surface to right- and 
 left-hand margins, an 8 1/2" x 11" page, 
 with two columns each 3 1/4" wide, which 
 sacrifices only 23 1/2% to right- and left-hand margins, is preferable. The difference is increased by the fact that a larger 
@@ -1396,7 +1396,7 @@ basis of actual price quotations by firms
 engaged in the printing business; while the 
 mimeograph process is so much a part of office routine that its costs can be calculated in terms of labor and materials. The 
 most appropriate comparisons, therefore, are 
-those that stand between commercial mimeographing as quoted by office service shops%nbsp;{%- include pagebreak.html canvas=129 -%}&nbsp;
+those that stand between commercial mimeographing as quoted by office service shops%nbsp;{%- include pagebreak.html canvas=129 %} 
 
 FIGURE XXIX 
 
@@ -1508,9 +1508,9 @@ ob @\ pate sar aan: _
 © BAN LeWNiepet 
 'wep Tene 
 
-{%- include pagebreak.html canvas=130 -%}
+{% include pagebreak.html canvas=130 %}
 
-{%- include pagebreak.html canvas=131 -%}
+{% include pagebreak.html canvas=131 %}
 
 and commercial photo-offset quotations. 
 
@@ -1560,7 +1560,7 @@ is so designed that it fails to use the
 full available printing surface of the 
 photo-offset metal sheet, energy and material are wasted. The sensitizing and preparation of the metal sheet are substantially 
 the same whether all or merely a part of 
-the surface is used; the waste that occurs&nbsp;{%- include columnbreak.html canvas=131 col=2 -%}&nbsp;when the page is not planned to fit the 
+the surface is used; the waste that occurs {% include columnbreak.html canvas=131 col=2 %} when the page is not planned to fit the 
 metal sheet has been discussed in Chapter 
 III in connection with reprinting. 
 
@@ -1611,7 +1611,7 @@ small editions---around 100---the area cost
 so far preponderates over running cost 
 that some firms give the same quotation for 
 100 copies as for 50 copies. In such 
-editions wasteful use of paper is&nbsp;{%- include pagebreak.html canvas=132 -%}&nbsp;justified if it will bring equivalent economies in the use of the photo-offset metal 
+editions wasteful use of paper is {% include pagebreak.html canvas=132 %} justified if it will bring equivalent economies in the use of the photo-offset metal 
 sheet. The exact point at which it will 
 cease to pay to waste paper for the sake of 
 saving metal sheet printing surface can always be calculated by estimating the total 
@@ -1655,7 +1655,7 @@ size of page, the book appears in another
 size of page. Moreover, while the use of 
 book type in planning a page has been made 
 the subject of much study, the use of typescript with photo-offset has been left to 
-rule of thumb.&nbsp;{%- include columnbreak.html canvas=380 col=2 -%}
+rule of thumb. {% include columnbreak.html canvas=380 col=2 %}
 
 To illustrate the planning of a 
 photo-offset page, an exercise is here carried out in calculating a format for a book 
@@ -1708,7 +1708,7 @@ per word is greater or smaller than six,
 but six can be taken as a good average. To 
 keep the formula perfectly general, however, 
 let K be the number of keystrokes per word 
-(including allowance for inter-word spacing&nbsp;{%- include pagebreak.html canvas=133 -%}&nbsp;
+(including allowance for inter-word spacing {% include pagebreak.html canvas=133 %} 
 
 <div style="text-align: center">
 
@@ -1752,7 +1752,7 @@ words for a cent), almost all such publications as the learned societies now iss
 must be subsidized, usually to the extent 
 of two-thirds of their cost. Books issued 
 by the university presses, of which as 
-many as six hundred copies are sold, must&nbsp;{%- include columnbreak.html canvas=133 col=2 -%}&nbsp;also ordinarily be subsidized, to the extent of one-third of their cost. Nor is 
+many as six hundred copies are sold, must {% include columnbreak.html canvas=133 col=2 %} also ordinarily be subsidized, to the extent of one-third of their cost. Nor is 
 the need for subsidies confined to agencies 
 of the second and third types: commercial
 publishers have frequently found it necessary to ask subsidies for books for which 
@@ -1782,9 +1782,9 @@ subsidies will in any case be necessary,
 
 FIGURE XXX 
 
-&nbsp;{%- include pagebreak.html canvas=134 -%}&nbsp;
+ {% include pagebreak.html canvas=134 %} 
 
-&nbsp;{%- include pagebreak.html canvas=135 -%}&nbsp;
+ {% include pagebreak.html canvas=135 %} 
 
 and loss of keystrokes at the uneven right-hand margin). Then NK/CP is the number of 
 keystrokes per column. 
@@ -1815,7 +1815,7 @@ will have the value R.
 
 $$ {W \over L} = {W' \over L'} $$; and $$ {AW' \times BL'} = {NK \over CP} $$. $$ {L'} = {NKL \over CPABW } $$; $$ W' = {NKW \over CPABLE } $$; therefore, $$ {L \over L'} = {W \over W'} = R $$.
 
-&nbsp;{%- include columnbreak.html canvas=135 col=2 -%}&nbsp; The composition costs of typescript 
+ {% include columnbreak.html canvas=135 col=2 %}  The composition costs of typescript 
 books, it has been proved, are highly variable; the principal levels for a book of 
 50,000 words are determined by the five 
 situations shown in Table XXIII. 
@@ -1854,7 +1854,7 @@ STRAIGHT TEXTUAL MATTER UNDER VARYING CONDITIONS OF COST DISTRIBUTION
 | 4. | When format copying is charged by shop in connection with manufacturing job quotation (composite quotation) | $75.00 |
 | 5. | When format copying includes cost of justifying the right-hand margin (interpolated from quotations) | $100.00 |
 
-&nbsp;{%- include pagebreak.html canvas=136 -%}&nbsp;In Chapter III area costs of photo- 
+ {% include pagebreak.html canvas=136 %} In Chapter III area costs of photo- 
 offset work are found. These indicate that 
 the sums listed above will purchase the 
 following amounts of page area in a photo-offset edition of 500 copies: 
@@ -1901,7 +1901,7 @@ the necessary 1786 words would probably
 best be set in three columns. Making margin allowances of 3/4" inside margin, 1/2" 
 between columns and for outer margin, and 
 1" on the top and bottom, the effective 
-width of the columns would be 2.08" and the&nbsp;{%- include columnbreak.html canvas=136 col=2 -%}&nbsp;height would be 9". Each column would be 
+width of the columns would be 2.08" and the {% include columnbreak.html canvas=136 col=2 %} height would be 9". Each column would be 
 required to take 595 words, or 3570 keystrokes. A reduction ratio of 50% will be 
 necessary. Pica typescript reduced to 50% 
 of original size will suffice in this format. In the format copying, the typist 
@@ -1949,7 +1949,7 @@ column instead of 595. This could be accomplished by reducing the typescript onl
 47%, to 53% of its full size.
 
 It often happens that a manuscript 
-is submitted to a photo-offset shop and a&nbsp;{%- include pagebreak.html canvas=137 -%}&nbsp;
+is submitted to a photo-offset shop and a {% include pagebreak.html canvas=137 %} 
 
 FIGURE XXXI 
 
@@ -1990,7 +1990,7 @@ This page illustrates a photo-offset
 format that has been designed to conform to 
 the cost levels of medium-priced mimeo-
 
-&nbsp;{%- include columnbreak.html canvas=137 col=2 -%}This page illustrates a photo-offset 
+ {% include columnbreak.html canvas=137 col=2 %} This page illustrates a photo-offset 
 format that has been designed to conform to 
 the cost levels of medium-priced mimeographing. The essential significance of 
 this page is to show that (a) photo-offset 
@@ -2061,9 +2061,9 @@ This page illustrates a photo-offset
 format that has been designed to conform to 
 the cost levels of medium-priced mimeo-
 
-&nbsp;{%- include pagebreak.html canvas=138 -%}&nbsp;
+ {% include pagebreak.html canvas=138 %} 
 
-&nbsp;{%- include pagebreak.html canvas=139 -%}&nbsp;
+ {% include pagebreak.html canvas=139 %} 
 
 Figure XXXII
 
@@ -2150,7 +2150,7 @@ legibility, or the three lines to the inch
 This photo-offset format is 
 to accommodate 1768 words to the 
 
-&nbsp;{%- include columnbreak.html canvas=139 col=2 -%}
+ {% include columnbreak.html canvas=139 col=2 %}
 
 This photo-offset format is 
 to accommodate 1768 words to the 
@@ -2235,7 +2235,7 @@ legibility, or the three lines to the inch
 This photo-offset format is 
 to accommodate 1768 words to the 
 
-&nbsp;{%- include columnbreak.html canvas=139 col=3 -%}
+ {% include columnbreak.html canvas=139 col=3 %}
 
 This photo-offset format is 
 to accommodate 1768 words to the 
@@ -2320,11 +2320,11 @@ legibility, or the three lines to the inch
 This photo-offset format is 
 to accommodate 1768 words to the 
 
-&nbsp;{%- include pagebreak.html canvas=140 -%}
+ {% include pagebreak.html canvas=140 %}
 
-&nbsp;{%- include pagebreak.html canvas=141 -%}
+ {% include pagebreak.html canvas=141 %}
 
-&nbsp;{%- include pagebreak.html canvas=142 -%}
+ {% include pagebreak.html canvas=142 %}
 
 FIGURE XXXIII 
 
@@ -2366,9 +2366,9 @@ $302.50 to pay for the running costs. This amount will buy
 format, 138 pages, 6" x 93", With the larger size page, only 
 725 words need be put on each page; with this 6" x 94" page, 
 
-&nbsp;{%- include pagebreak.html canvas=143 -%}&nbsp;
+ {% include pagebreak.html canvas=143 %} 
 
-&nbsp;{%- include pagebreak.html canvas=144 -%}&nbsp;
+ {% include pagebreak.html canvas=144 %} 
 
 TODO
 
@@ -2481,9 +2481,9 @@ which is payable, not in cash, but in services.
 
 FIGURE XXXIV 
 
-&nbsp;{%- include pagebreak.html canvas=145 -%}&nbsp;
+ {% include pagebreak.html canvas=145 %} 
 
-&nbsp;{%- include pagebreak.html canvas=146 -%}&nbsp;
+ {% include pagebreak.html canvas=146 %} 
 
 TODO
 
@@ -2687,7 +2687,7 @@ that of cocaine in that the subcutaneous
 
 FIGURE XXXV 
 
-&nbsp;{%- include pagebreak.html canvas=147 -%}&nbsp;printing shop for quotations, and that the 
+ {% include pagebreak.html canvas=147 %} printing shop for quotations, and that the 
 quotations for a printed product are about 
 the same as those for a photo-offset book 
 from typescript. This is invariably the 
@@ -2735,7 +2735,7 @@ for the job would be substantially higher
 than the figure of $302.50 that is the basis of this calculation, because he would 
 _have to run the whole 17" x 22" to get four 
 pages 6" x 9 1/2", and the wastage of his 
-metal sheet printing surface would be almost 40%. This fact is brought into the&nbsp;{%- include columnbreak.html canvas=147 col=2 -%}&nbsp;picture to emphasize the importance of considering, in the planning of a format, not 
+metal sheet printing surface would be almost 40%. This fact is brought into the {% include columnbreak.html canvas=147 col=2 %} picture to emphasize the importance of considering, in the planning of a format, not 
 only the arrangement of typescript columns 
 that will lay the required number of words 
 on a page, but also the relation of the 
@@ -2782,7 +2782,7 @@ composition, is actually paid to the offset
 printer, the text can be spread over this 
 additional amount of page area without 
 changing the total cost of the edition. The 
-additional page area released to the photo-offset by an elimination of the retyping&nbsp;{%- include pagebreak.html canvas=148 -%}&nbsp;process is the same, regardless of the total amount spent for the publication. 
+additional page area released to the photo-offset by an elimination of the retyping {% include pagebreak.html canvas=148 %} process is the same, regardless of the total amount spent for the publication. 
 Whether the book is to be published for 
 $158.00 or for $365.00, it will still be 
 true that the money diverted from composition cost will buy exactly the same amount 
@@ -2824,7 +2824,7 @@ side margins. The alternatives in the
 of normal typescript are therefore: 
 
 1. To retype and mimeograph ($158.00) 
-2. To photo-offset without retyping, reducing to 55% of full size ($133.40)&nbsp;{%- include columnbreak.html canvas=148 col=2 -%}&nbsp;
+2. To photo-offset without retyping, reducing to 55% of full size ($133.40) {% include columnbreak.html canvas=148 col=2 %} 
 3. To retype and photo-offset, reducing to 50% of full size 
 ($158.00). 
 
@@ -2871,13 +2871,13 @@ and the format designed above to bring a
 retyped book to the same price of manufacture as a book reproduced directly from a 
 normal fair copy of 8 1/2" x 5 1/2™ photo-offset pages, are based on an average quotation for typing and on the photo-offset 
 shop quotations made by Hoch. The agreement with the Edwards figures seems very 
-near, for it would appear that Edwards&nbsp;{%- include pagebreak.html canvas=149 -%}&nbsp;Brothers would also find a point where the 
+near, for it would appear that Edwards {% include pagebreak.html canvas=149 %} Brothers would also find a point where the 
 economies of a compressed format on a page 
 would make up for the extra cost of a format typing. The reduction in both cases is 
 not far from 25% (30%, 23%).  
 
 The prices charged by Edwards 
-Brothers have been widely published in two&nbsp;{%- include columnbreak.html canvas=149 col=2 -%}&nbsp;pamphlets: *Junior Models for Lithoprinting*, and *Manual of Lithoprinting*. These 
+Brothers have been widely published in two {% include columnbreak.html canvas=149 col=2 %} pamphlets: *Junior Models for Lithoprinting*, and *Manual of Lithoprinting*. These 
 quotations are listed herewith: the figures 
 for price of edition and price per page 
 have been calculated by the author from the
@@ -2938,7 +2938,7 @@ words is $39.00; the price of the typing is therefore to be reckoned at $.78 per
 
 
 
-&nbsp;{%- include pagebreak.html canvas=150 -%}&nbsp;The Edwards' model 700-D requires 
+ {% include pagebreak.html canvas=150 %} The Edwards' model 700-D requires 
 seventy-two pages for the 50,000 words; the 
 Edwards! quotations for typing in this format are $.78 per 1000 words instead of the 
 $1.25 which is the average figure. The composition cost is figured at $39.00 for the 
@@ -2983,7 +2983,7 @@ chapter.
 
 Since the typescript copy must be a 
 photographic object it should be as black 
-as possible. Some companies recommend the&nbsp;{%- include columnbreak.html canvas=150 col=2 -%}&nbsp;use of a special bronze ribbon; in all cases 
+as possible. Some companies recommend the {% include columnbreak.html canvas=150 col=2 %} use of a special bronze ribbon; in all cases 
 the ribbon should be fresh and black. To 
 avoid an uneveness in the impression produced by the fabric of the typewriter ribbon a special silk ribbon or one made of 
 carbon paper may be used. The typewriter 
@@ -3037,9 +3037,9 @@ Our habits of judgment have been so
 formed that we always expect to see certain 
 kinds of thought going around in their
 
-&nbsp;{%- include pagebreak.html canvas=151 -%}&nbsp;
+ {% include pagebreak.html canvas=151 %} 
 
-&nbsp;{%- include pagebreak.html canvas=152 -%}&nbsp;
+ {% include pagebreak.html canvas=152 %} 
 
 SPECIMEN PAGE OF A SCRIBE BOOK 
 
@@ -3073,7 +3073,7 @@ books, of course, would vary with the individual scribes.
 
 FIGURE XXXVI 
 
-&nbsp;{%- include pagebreak.html canvas=153 -%}&nbsp;working clothes; others we expect to see 
+ {% include pagebreak.html canvas=153 %} working clothes; others we expect to see 
 parading in formal dress. Typescript and 
 newsprint are the clothes that thought 
 wears in its daily work; the typography of 

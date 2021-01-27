@@ -4,7 +4,7 @@ title: "Conclusion"
 layout: narrative
 ---
 
-&nbsp;{%- include pagebreak.html canvas=353 -%}Since the first edition of this 
+ {% include pagebreak.html canvas=353 %} Since the first edition of this 
 manual was issued in 1931, the whole scene 
 has been changed by technological developments. Predictions of that time have been 
 realized in the actual appearance, not 
@@ -44,7 +44,7 @@ method of distributing a given text to be
 determined? When printing is assumed as 
 the sole method of reproducing the material, 
 the formula is very simple. There is given 
-a certain number of words. The cost of&nbsp;{%- include columnbreak.html canvas=353 col=2 -%}&nbsp;printing that number of words is calculated 
+a certain number of words. The cost of {% include columnbreak.html canvas=353 col=2 %} printing that number of words is calculated 
 easily. Then the actual or probable number 
 of buyers must be calculated. If sales to 
 these buyers at the price they are ready to 
@@ -84,7 +84,7 @@ is ultimately reached when running costs
 are virtually the only costs that need to 
 be considered. In the printing technique, 
 for instance, editions of one or two million copies incur so large a running cost 
-that the first cost appears only as a negligible item in the total. In microcopying&nbsp;{%- include pagebreak.html canvas=354 -%}&nbsp;short items to order, as in the Bibliofilm 
+that the first cost appears only as a negligible item in the total. In microcopying {% include pagebreak.html canvas=354 %} short items to order, as in the Bibliofilm 
 Service, where administrative costs are 
 such that it is more economical to make a 
 new negative for every order than to save 
@@ -130,7 +130,7 @@ running costs really begin after the 100
 mark is passed. In photo-offset quotations the minimum is sometimes 50, sometimes 100; in mimeograph, it is 50; and in 
 hectograph it is 10. In photostat and 
 microphotography the minimum edition is one 
-copy. Running costs for 100 copies, stated as percentages of the first cost in minimum edition, stand as follows:&nbsp;{%- include columnbreak.html canvas=354 col=2 -%}&nbsp;
+copy. Running costs for 100 copies, stated as percentages of the first cost in minimum edition, stand as follows: {% include columnbreak.html canvas=354 col=2 %} 
 
 TABLE XLIX 
 
@@ -166,7 +166,7 @@ It would be possible to select some
 others point in edition size for purposes 
 of comparing the various processes. For 
 instance, we might ask, "At what size of 
-edition will the unit costs be so compounded that only 10% of the cost of a copy is&nbsp;{%- include pagebreak.html canvas=355 -%}&nbsp;
+edition will the unit costs be so compounded that only 10% of the cost of a copy is {% include pagebreak.html canvas=355 %} 
 
 TABLE L 
 
@@ -187,7 +187,7 @@ EFFICIENCY POINT IN EDITION FOR VARIOUS PROCESSES
 | Microphotography, short run, cost of filming and processing not separated | 1 |
 
 incurred as a first cost in setting up the 
-edition?" The edition sizes for the various processes would then stand as follows:&nbsp;{%- include columnbreak.html canvas=355 col=2 -%}&nbsp;On the chart (Table LII, on the 
+edition?" The edition sizes for the various processes would then stand as follows: {% include columnbreak.html canvas=355 col=2 %} On the chart (Table LII, on the 
 following page), the curve of cost-per- 
 copy has been computed for three processes, 
 
@@ -213,12 +213,12 @@ scholarship in all techniques, save those
 of microcopying, that the better point of 
 comparison is certainly the size of edition 
 at which running costs and first costs are 
-equal.&nbsp;{%- include columnbreak.html canvas=355 col=2 -%}&nbsp;with data taken from the tables in foregoing chapters. The curves for printing, 
+equal. {% include columnbreak.html canvas=355 col=2 %} with data taken from the tables in foregoing chapters. The curves for printing, 
 photo-offset and microcopying are set to 
 different scales, but the behavior of the 
 cost curve is the same for each. In each 
 case most of the economies in cost-per-copy 
-that are obtainable are secured before the&nbsp;{%- include pagebreak.html canvas=356 -%}&nbsp;
+that are obtainable are secured before the {% include pagebreak.html canvas=356 %} 
 
 TABLE LII
 
@@ -250,7 +250,7 @@ can be made if each is considered as functioning at its efficiency point. If onl
 ten copies of a given document are needed, 
 printing and photo-offset are out of the 
 question, for their costs-per-copy are 
-above photostat. If 2000 copies are needed, most of the cost advantages of microcopying disappear.&nbsp;{%- include columnbreak.html canvas=356 col=2 -%}&nbsp;
+above photostat. If 2000 copies are needed, most of the cost advantages of microcopying disappear. {% include columnbreak.html canvas=356 col=2 %} 
 
 ## Comparative Costs per 100,000 Words at Efficiency Point 
 
@@ -266,7 +266,7 @@ and convenience. But this variable can be
 taken into account.in the statement of comparisons. (See Table LIII on the following. page.) 
 
 The highest production cost at the 
-efficiency point is that of the hectograph&nbsp;{%- include pagebreak.html canvas=357 -%}&nbsp;
+efficiency point is that of the hectograph {% include pagebreak.html canvas=357 %} 
 
 TABLE LIII
 
@@ -292,7 +292,7 @@ which other techniques will multiply words
 at the same cost-per-copy ($1.50 for 
 100,000 words). The figure is a reasonable 
 one to accept as a standard, because it is 
-a manufacturing cost that will permit the&nbsp;{%- include columnbreak.html canvas=357 col=2 -%}&nbsp;distribution of books at prices that would 
+a manufacturing cost that will permit the {% include columnbreak.html canvas=357 col=2 %} distribution of books at prices that would 
 be regarded by the book-buying world as 
 moderate. (See Table LIV on the following 
 page.) 
@@ -301,7 +301,7 @@ The comparisons have been made with
 the costs of printings as a base line. But 
 scholars often encounter another situation; 
 they are familiar with another cost level. 
-They will often wish to have a unique copy&nbsp;{%- include pagebreak.html canvas=358 -%}&nbsp;
+They will often wish to have a unique copy {% include pagebreak.html canvas=358 %} 
 
 TABLE LIV 
 
@@ -332,7 +332,7 @@ pages of a book with 700 words to the page,
 or 664 pages of typescript at 300 words to 
 the page. 
 
-Moreover, it is possible that a&nbsp;{%- include columnbreak.html canvas=358 col=2 -%}&nbsp;scholar might wish to make more than one 
+Moreover, it is possible that a {% include columnbreak.html canvas=358 col=2 %} scholar might wish to make more than one 
 copy by the devices that are primarily applied to the production of a single copy.
 The zone of edition size above the unique 
 copy and up to the edition of fifty is very 
@@ -343,7 +343,7 @@ should have in hand information on costs of
 production in this low-edition zone. 
 
 With these small-edition processes 
-the reproduction of the book or typescript&nbsp;{%- include pagebreak.html canvas=359 -%}&nbsp;of 100,000 words begins always with one of 
+the reproduction of the book or typescript {% include pagebreak.html canvas=359 %} of 100,000 words begins always with one of 
 the two basic procedures: a recopying on 
 the typewriter, or a photographing, of the 
 text as it stands. The first, being a composition cost, is the same for any unit of 
@@ -386,7 +386,7 @@ From the welter of figures and estimates set forth in the preceding
 chapters, and epitomized in the tables above, 
 the conclusion follows inescapably that 
 printing is no longer to be regarded as the 
-sole technique by which the materials and&nbsp;{%- include columnbreak.html canvas=359 col=2 -%}&nbsp;products of research are to be reproduced. 
+sole technique by which the materials and {% include columnbreak.html canvas=359 col=2 %} products of research are to be reproduced. 
 
 It follows also that the financing 
 of the reproduction and distribution of research materials may now be accomplished in 
@@ -428,7 +428,7 @@ promotion, overprint, and risk are substantially modified or absent when the mic
 The use of the techniques that are 
 operative in the range below a hundred copies permits a similar change in the financial perspective. Here also the high promotion charge can be avoided, because the 
 effective market is pretty well known in advance. Moreover, some of these techniques, 
-notably the hectograph, operate at so low a&nbsp;{%- include pagebreak.html canvas=360 -%}&nbsp;
+notably the hectograph, operate at so low a {% include pagebreak.html canvas=360 %} 
 
 TABLE LV
 
@@ -617,7 +617,7 @@ the two original forms of the text are equivalent to each other)</td>
 </tbody>
 </table>
 
-&nbsp;{%- include pagebreak.html canvas=361 -%}&nbsp;cost level that the author himself can absorb the cost of production and the risk of 
+ {% include pagebreak.html canvas=361 %} cost level that the author himself can absorb the cost of production and the risk of 
 loss. A substantial amount of scholarly 
 publishing is carried on at present by 
 means of subsidies from the author or from 
@@ -661,7 +661,7 @@ with the collaboration of the Bibliofilm
 Service. The announcement of this plan, 
 which is essentially one of deposit for 
 microcopying in lieu of publication, is 
-given out by Dr. Watson Davis in the following circular to the editors of scientific publications.&nbsp;{%- include columnbreak.html canvas=361 col=2 -%}&nbsp;
+given out by Dr. Watson Davis in the following circular to the editors of scientific publications. {% include columnbreak.html canvas=361 col=2 %} 
 
 > The development of photographic techniques makes it possible for 
     Science Service to extend to you an 
@@ -710,7 +710,7 @@ given out by Dr. Watson Davis in the following circular to the editors of scient
     auxiliary publication will be simple 
     and uncomplicated. Science Service 
     desires that you and other editors use 
-    it when, how, and if it is helpful. We&nbsp;{%- include pagebreak.html canvas=362 -%}&nbsp;ask no financial participation or 
+    it when, how, and if it is helpful. We {% include pagebreak.html canvas=362 %} ask no financial participation or 
     guarantees on your part or the part 
     of the author. We only ask that you 
     signify your intention of using this 
@@ -762,7 +762,7 @@ such editorial services as in the Cooperator's opinion should be performed.
 2. Deposit with Science Service 
 such material as documents, with the understanding that all rights of the author and 
 the Cooperator are thereby transferred to 
-Science Service.&nbsp;{%- include columnbreak.html canvas=362 col=2 -%}&nbsp;
+Science Service. {% include columnbreak.html canvas=362 col=2 %} 
 
 3. Publish a summary, abstract or 
 short paper of each document so deposited, 
@@ -824,7 +824,7 @@ March 1, 1936, or later, when the judgment
 of Science Service deems that this service 
 can be furnished expeditiously and at reasonable cost. 
 
-&nbsp;{%- include pagebreak.html canvas=363 -%}&nbsp;That this cooperative agreement 
+ {% include pagebreak.html canvas=363 %} That this cooperative agreement 
 shall take effect upon the day, month and 
 year first above written and extend to and 
 including March 31, 1937, subject to renewal thereafter by mutual agreement of the 
@@ -881,7 +881,7 @@ September 15 each year.
 8. They store, ship, and bill all books 
 published under this arrangement, thus 
 sparing the author or institution all 
-mechanical sales routine.&nbsp;{%- include columnbreak.html canvas=363 col=2 -%}&nbsp;
+mechanical sales routine. {% include columnbreak.html canvas=363 col=2 %} 
 
 In addition to these services, 
 Edwards Brothers offers a publishing service described as follows: 
@@ -932,7 +932,7 @@ there is little if any objection to the format in which these books are prepared
 and if they do, their comments are almost 
 always favorable. An indication that there 
 is no objection is the fact that the number 
-of orders which they receive each day is&nbsp;{%- include pagebreak.html canvas=364 -%}&nbsp;constantly increasing. At the present time 
+of orders which they receive each day is {% include pagebreak.html canvas=364 %} constantly increasing. At the present time 
 it averages from thirty to fifty orders per 
 day. 
 
@@ -979,7 +979,7 @@ not escape the accountancy and risks of
 book publishing. 
 
 Mr. John A. Neu of the Library of 
-Congress has been a promotor of a large-scale plan for rearranging and rationalizing book holdings of American libraries.&nbsp;{%- include columnbreak.html canvas=364 col=2 -%}&nbsp;One part of his plan called for the multiplying of rare books. The idea that the 
+Congress has been a promotor of a large-scale plan for rearranging and rationalizing book holdings of American libraries. {% include columnbreak.html canvas=364 col=2 %} One part of his plan called for the multiplying of rare books. The idea that the 
 production of the reprints should be 
 planned to fit into a comprehensive arrangement of book resources in the country was 
 new. The scheme did not get beyond the 
@@ -1018,7 +1018,7 @@ the size of present publishing operations
 will not meet present needs. What is necessary is a new design, and the use of new 
 techniques, to the end that editions will 
 finance themselves regardless of the number 
-of buyers---whether it be ten or ten thousand.&nbsp;{%- include pagebreak.html canvas=365 -%}&nbsp;
+of buyers---whether it be ten or ten thousand. {% include pagebreak.html canvas=365 %} 
 
 ## Concentration of Processing Services for Microcopying 
 
@@ -1121,7 +1121,7 @@ bears) most of the cost.
 Both of these methods of appraising 
 books and distributing their cost between 
 authors and buyers leave a large margin of 
-risk. While they have been developed in&nbsp;{%- include pagebreak.html canvas=366 -%}&nbsp;connection with the technique of printing, 
+risk. While they have been developed in {% include pagebreak.html canvas=366 %} connection with the technique of printing, 
 they are not necessarily tied to that technique. 
 
 A third arrangement would be possible. The appraising of the book could be 
@@ -1169,7 +1169,7 @@ bibliographical services to include material not commercially published open the
 to far-reaching changes in the intellectual standards of scholarship. At the same 
 time the prospect that a scholar may be 
 able to have material that was otherwise 
-inaccessible brought to him, and that he&nbsp;{%- include columnbreak.html canvas=366 col=2 -%}&nbsp;may be able to communicate to his colleagues 
+inaccessible brought to him, and that he {% include columnbreak.html canvas=366 col=2 %} may be able to communicate to his colleagues 
 writings that he has hitherto been unable 
 to communicate to them, open the way to new 
 intellectual opportunities. An analysis of 
@@ -1210,7 +1210,7 @@ documentation, open to all comers, irrespective of whether or not any item is a 
 in print."
 
 This conception---that collecting 
-and publishing are functionally merged---should operate to expand and dignify the&nbsp;{%- include pagebreak.html canvas=367 -%}&nbsp;role of the collector, and at the same time 
+and publishing are functionally merged---should operate to expand and dignify the {% include pagebreak.html canvas=367 %} role of the collector, and at the same time 
 to clarify the position of the research 
 worker. It should become increasingly difficult for scholars to publish undigested 
 material in the expectation that their work 
@@ -1252,7 +1252,7 @@ intellectual technique in the treatment of
 the material, and some appropriate mechanical technique for its reproduction. 
 
 Many of the obstacles to be overcome in the development of the full material resources of intellectual life are found 
-in the attitudes of the scholars themselves.&nbsp;{%- include columnbreak.html canvas=367 col=2 -%}&nbsp;Too often there is a veneration of book 
+in the attitudes of the scholars themselves. {% include columnbreak.html canvas=367 col=2 %} Too often there is a veneration of book 
 print at the expense of typescript, and 
 too frequently a disposition to take for 
 granted the finality of the existing distribution of labor. But an examination of 
@@ -1304,7 +1304,7 @@ destined for destruction? And how is the
 scholar to be guided among those that are 
 preserved, to the end that their preservation will prove to be worth while? Our 
 libraries operate efficiently in respect of 
-certain classes of books and periodicals,&nbsp;{%- include pagebreak.html canvas=368 -%}&nbsp;and even of newspapers and some kinds of 
+certain classes of books and periodicals, {% include pagebreak.html canvas=368 %} and even of newspapers and some kinds of 
 old manuscripts. But there are vast domains of records which our libraries cannot be expected to govern. The records of 
 business and of government and the private 
 papers of families must, in the long run, 
@@ -1351,7 +1351,7 @@ people engaged in business in the background and prospects of their business, th
 collector's interest in a good collection 
 of anything from postage stamps to incunabula, and perhaps a feeling for the prestige-value of contributions made to the intellectual world. 
 
-&nbsp;{%- include columnbreak.html canvas=368 col=2 -%}&nbsp;We are not yet intellectually prepared to develop these human resources. We 
+ {% include columnbreak.html canvas=368 col=2 %} We are not yet intellectually prepared to develop these human resources. We 
 do not yet know exactly how to instruct the 
 college student of today, the business man 
 of tomorrow, in the techniques and values 
@@ -1395,7 +1395,7 @@ deficiency will probably be found to involve no other changes than an increase i
 library resources or a distribution of library responsibilities, to the end that the 
 holdings and acquisitions of one library 
 may dovetail with those of another, and the 
-technique of microcopying provides&nbsp;{%- include pagebreak.html canvas=369 -%}&nbsp;inter-library service. The union catalogue 
+technique of microcopying provides {% include pagebreak.html canvas=369 %} inter-library service. The union catalogue 
 of libraries and the union lists of news- 
 papers and public documents are the tools 
 required for the improvement of this situation. The Wilson Company has made a 
@@ -1445,7 +1445,7 @@ a relief program, or it can be done in
 small increments by people interested in 
 the variety of information that the old 
 newspapers reveal, and willing to work to 
-put the material into near-print form for&nbsp;{%- include columnbreak.html canvas=369 col=2 -%}&nbsp;the sake of the intangible reward of scholarly recognition. The newspaper digest is 
+put the material into near-print form for {% include columnbreak.html canvas=369 col=2 %} the sake of the intangible reward of scholarly recognition. The newspaper digest is 
 a halfway product, intermediate between the 
 raw newspaper material and the finished result of research. 
 
@@ -1489,7 +1489,7 @@ question of inventory. Even if records are
 preserved, they are of little use to scholars until they have been inventoried and 
 arranged. And third is the question of access and administration. As local archives 
 come to be better known and their research 
-uses better understood, it will follow that&nbsp;{%- include pagebreak.html canvas=370 -%}&nbsp;people who are not close to large libraries 
+uses better understood, it will follow that {% include pagebreak.html canvas=370 %} people who are not close to large libraries 
 will have an increasing array of opportunities for research. It may be that techniques comparable to that which is being 
 developed in the making of a newspaper digest can be worked out, to result in an 
 equivalent increase in the accessibility 
@@ -1567,7 +1567,7 @@ and apply a sound technique.
 
 ### (f) Family Papers 
 
-The restricted space in which the&nbsp;{%- include pagebreak.html canvas=371 -%}&nbsp;modern family lives, and the frequent moving from apartment to apartment that becomes normal in urban civilization, make 
+The restricted space in which the {% include pagebreak.html canvas=371 %} modern family lives, and the frequent moving from apartment to apartment that becomes normal in urban civilization, make 
 the hoarding of family papers, whether 
 ancient or current, a burdensome load. Surveys of historical documentation in New 
 York, Pennsylvania, Virginia, and other 
@@ -1649,9 +1649,9 @@ of the discipline itself.
 The present generation should not 
 be surprised at the conclusion that a technological revolution has in it the seeds of 
 a cultural revolution. Such may indeed be 
-true in this instance. The cultural revival of the small town as against the monopoly of the metropolis, and the democratization&nbsp;{%- include pagebreak.html canvas=372 -%}&nbsp;and "deprofessionalization" of scholarship 
+true in this instance. The cultural revival of the small town as against the monopoly of the metropolis, and the democratization {% include pagebreak.html canvas=372 %} and "deprofessionalization" of scholarship 
 are on the horizon which seems to lie 
 ahead. And these things, themselves, accord with other elements of our social and 
 economic prospects---notably the possible 
-decline in the centralization of population in cities and the development of a&nbsp;{%- include columnbreak.html canvas=372 col=2 -%}&nbsp;new leisure in the hands of a well-educated people. The same technical innovations that promise to give aid to the research worker in his cubicle may also 
+decline in the centralization of population in cities and the development of a {% include columnbreak.html canvas=372 col=2 %} new leisure in the hands of a well-educated people. The same technical innovations that promise to give aid to the research worker in his cubicle may also 
 lead the whole population toward participation in a new cultural design. 

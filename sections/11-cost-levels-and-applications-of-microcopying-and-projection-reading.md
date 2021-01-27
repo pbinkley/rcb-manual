@@ -4,7 +4,7 @@ title: Cost Levels and Applications of Microcopying and Projection Reading
 layout: narrative
 ---
 
-&nbsp;{%- include pagebreak.html canvas=265 -%}&nbsp;There is a final limit beyond 
+ {% include pagebreak.html canvas=265 %} There is a final limit beyond 
 which the principle of reducing the size 
 of the reading matter cannot be carried. 
 This limit is reached in "filmslide" or 
@@ -34,7 +34,7 @@ size of letter, in which the grains from
 the different strokes of the writing will 
 run together, the hollows inside the "d's" 
 and the "e's" fill up. Letters the size 
-of these printed on this page could not be&nbsp;{%- include columnbreak.html canvas=265 col=2 -%}&nbsp;formed from loose sand on a table top, no 
+of these printed on this page could not be {% include columnbreak.html canvas=265 col=2 %} formed from loose sand on a table top, no 
 matter how much care were used. The corresponding limit is found in reducing newsprint on photographic film. When the reduction is carried below twenty diameters, 
 the letters begin to blur over; at twenty-five diameters the blurring is very noticeable; at thirty-six diameters, if the greatest care is used, the words are still sufficiently formed to permit faintly legible 
 enlargements to be made. Beyond that, everything runs together. 
@@ -62,7 +62,7 @@ the legibility of the product can be used
 to make a comparison of films, cameras and 
 treatments of film. Again the newsprint 
 can be taken as a standard, and the efficiency of a microcopying process or material can be stated in terms of the number of 
-diameters of reduction of 7-point newsprint; this number will be called the "reduction ratio." If the reduction ratio&nbsp;{%- include pagebreak.html canvas=265 -%}&nbsp;for 7-point newsprint is sixteen diameters, the same material and process should 
+diameters of reduction of 7-point newsprint; this number will be called the "reduction ratio." If the reduction ratio {% include pagebreak.html canvas=265 %} for 7-point newsprint is sixteen diameters, the same material and process should 
 copy 14-point type with approximately 
 equal efficiency at a reduction of 25 to 
 52 diameters. Note, though, that fourteen-point type is not necessarily twice 
@@ -111,7 +111,7 @@ black and white in copying.
 For a copying problem in which 
 faded ink or stained or colored paper is 
 involved, a panchromatic emulsion would be 
-preferable. The emulsion used by the Recordak Corporation for microcopying is devised to take care of a wide variety of&nbsp;{%- include columnbreak.html canvas=266 col=2 -%}&nbsp;color contrasts. While not specifically a 
+preferable. The emulsion used by the Recordak Corporation for microcopying is devised to take care of a wide variety of {% include columnbreak.html canvas=266 col=2 %} color contrasts. While not specifically a 
 panchromatic film, it is yet more receptive to color contrasts than ordinary process positive emulsion. DuPont quarter-speed pan or Eastman micro-pan is recommended for work involving color. 
 
 There is every prospect that finer 
@@ -157,7 +157,7 @@ reduction of fourteen-point type.
 ## Limits of Reduction Ratio
 
 As an ultimate limit, a reduction 
-of twenty-five diameters of newsprint might&nbsp;{%- include pagebreak.html canvas=267 -%}&nbsp;conceivably become practical, but at such 
+of twenty-five diameters of newsprint might {% include pagebreak.html canvas=267 %} conceivably become practical, but at such 
 great reductions another consideration 
 would have to be taken into account; namely, the amount of light that can be forced 
 through a translucent film covered with 
@@ -183,7 +183,7 @@ cameras, an arbitrary scale of legibility
 was set up, as follows:
 
 - A Legibility: All letters distinct.    
-- B Legibility: The edges of the letters begin to blur.&nbsp;{%- include columnbreak.html canvas=267 col=2 -%}&nbsp;
+- B Legibility: The edges of the letters begin to blur. {% include columnbreak.html canvas=267 col=2 %} 
 - C Legibility: The tops of the "o's" and "a's" are blotted over solid, but the openings are still clear in the "o's", "d's", "p's", and "b's." 
 - D Legibility: Almost illegible. The openings of the "s's", "o's", "d's", etc., are blotted solid. Separate words can be deciphered but not read. 
 - E Legibility: Absolute illegibility. 
@@ -233,7 +233,7 @@ REDUCTION RATIO AND LEGIBILITY OF PROJECTED IMAGE OF 7-POINT NEWSPRINT PHOTOGRAP
 [^n2]: The Eastman laboratories estimated on theoretical grounds that the limit of reduction should be 
     about twenty-five diameters for newsprint, and made a test photograph on this scale, which had D legibility. 
 
-&nbsp;{%- include pagebreak.html canvas=268 -%}&nbsp;at the Huntington Library, San Marino, 
+ {% include pagebreak.html canvas=268 %} at the Huntington Library, San Marino, 
 California (Figure LXIIb). 
 
 Dr. Bendikson was furnished with a 
@@ -263,7 +263,7 @@ marked the transmission of the two clippings at the bottom of the page:
     reduction of 50%. 
 2. This negative was then burnt into the 
     photo-offset metal sheet. 
-3. The metal sheet was inked and printed&nbsp;{%- include columnbreak.html canvas=268 col=2 -%}&nbsp;via a rubber blanket on paper. (The appearance of newsprint in this reduction 
+3. The metal sheet was inked and printed {% include columnbreak.html canvas=268 col=2 %} via a rubber blanket on paper. (The appearance of newsprint in this reduction 
     can be noted in Figure LIV, a page of 
     the New York Times reduced 50% by photo- 
     offset.) 
@@ -299,7 +299,7 @@ FIGURE LXII
 Sixteen diameters reduction and enlargement of newsprint. 
 and typescript, by Folmer Graflex Corporation 
 
-&nbsp;{%- include pagebreak.html canvas=269 -%}&nbsp;
+ {% include pagebreak.html canvas=269 %} 
 
 FIGURE LXIIa 
 
@@ -376,9 +376,9 @@ easily without cracking
 This page was sent to various photographers as a test sheet; this original 
 is here reproduced directly by the photo-offset process; the following exhibit, Figure LXIIb, has been passed through a reduction of sixteen diameters and an enlargement of sixteen and thirty-two diameters. 
 
-&nbsp;{%- include pagebreak.html canvas=270 -%}&nbsp;
+ {% include pagebreak.html canvas=270 %} 
 
-&nbsp;{%- include pagebreak.html canvas=271 -%}&nbsp;
+ {% include pagebreak.html canvas=271 %} 
 
 FIGURE LXIIb 
 
@@ -467,9 +467,9 @@ This page was photographed with a Leica Camera, at the Huntington
 Library, San Marino, California, under the supervision of 
 Dr.L.Bendikson, by E.F.Morkisch, 
 
-&nbsp;{%- include pagebreak.html canvas=272 -%}&nbsp;
+ {% include pagebreak.html canvas=272 %} 
 
-&nbsp;{%- include pagebreak.html canvas=273 -%}&nbsp;
+ {% include pagebreak.html canvas=273 %} 
 
 Newsprint and typescript reduced a net thirty-two diameters from original size and enlarged back sixteen diameters, by Dr. Bendikson with Leica equipment. 
 
@@ -486,9 +486,9 @@ Newsprint reduced a net sixteen diameters from original
 Size and enlarged back eight diameters, by Folmer Graflex 
 Corporation with its recording camera. 
 
-&nbsp;{%- include pagebreak.html canvas=274 -%}&nbsp;
+ {% include pagebreak.html canvas=274 %} 
 
-&nbsp;{%- include pagebreak.html canvas=275 -%}&nbsp;
+ {% include pagebreak.html canvas=275 %} 
 
 FIGURE LXIIIa 
 
@@ -500,9 +500,9 @@ Diameter Enlargement of a Part of One of the Sections
 of the Dagron Film, Showing Legibility Despite High 
 Original Reduction Ratio. 
 
-&nbsp;{%- include pagebreak.html canvas=276 -%}&nbsp;
+ {% include pagebreak.html canvas=276 %} 
 
-&nbsp;{%- include pagebreak.html canvas=277 -%}&nbsp;
+ {% include pagebreak.html canvas=277 %} 
 
 original text in the case of these clippings is double that of the reduction in 
 the clippings on Figure LXIIb. They have 
@@ -548,7 +548,7 @@ eleven pages of three columns each, is also shown. There is no direct evidence t
 establish the size of the print from which 
 the microphotograph was made, but by counting the letters in a line, and the number 
 of columns per inch, it is possible to estimate that the vertical dimensions of the 
-original typography must have been about&nbsp;{%- include pagebreak.html canvas=277 -%}&nbsp;the same as modern newsprint, and the horizontal dimension somewhat smaller. The 
+original typography must have been about {% include pagebreak.html canvas=277 %} the same as modern newsprint, and the horizontal dimension somewhat smaller. The 
 reduction from which this enlargement was 
 made must have been the equivalent of some- 
 thing between 32 and 39 diameters from 
@@ -596,7 +596,7 @@ usable width is .43" to .5"; therefore the
 price of a usable square foot (28 linear 
 feet) is $.21 at the highest, or $.18 at 
 the lowest. The 7Omm. film, perforated on 
-both sides, is supplied on special order&nbsp;{%- include pagebreak.html canvas=278 -%}&nbsp;at $.035 a running foot, or $.185 per 
+both sides, is supplied on special order {% include pagebreak.html canvas=278 %} at $.035 a running foot, or $.185 per 
 square foot. 
 
 A slightly different emulsion with 
@@ -642,7 +642,7 @@ same price, or in some cases $.005 more or
 less, buys most kinds of photostat paper. 
 The difference between $.045 and the prices listed above is paid for the purpose of 
 having the photographic image on a translucent medium. Translucency costs from $.10 
-to $.28 a square foot.[^n3]&nbsp;{%- include columnbreak.html canvas=278 col=2 -%}&nbsp;
+to $.28 a square foot.[^n3] {% include columnbreak.html canvas=278 col=2 %} 
 
 [^n3]: Paper in 70mm. strips sells for twice the price of ordinary photostat rolls, but a simple frame with 
 a razor blade set in it, will cut the paper in these strips, making the low price available. 
@@ -677,7 +677,7 @@ standard in microcopying.
 
 The basic comparison of the three 
 
-&nbsp;{%- include pagebreak.html canvas=279 -%}&nbsp;
+ {% include pagebreak.html canvas=279 %} 
 
 THE USE OF 16MM. FILM IN LIBRARY WORK
 
@@ -706,9 +706,9 @@ are pioneering in this field by making union catalogues of their library holding
 
 The attached film contains pictures of a number of standard library cards. 
 
-&nbsp;{%- include pagebreak.html canvas=280 -%}&nbsp;
+ {% include pagebreak.html canvas=280 %} 
 
-&nbsp;{%- include pagebreak.html canvas=281 -%}&nbsp;
+ {% include pagebreak.html canvas=281 %} 
 
 PRESERVATION OF NEWSPAPERS 
 BY PHOTOGRAPHY 
@@ -745,7 +745,7 @@ nitrate, commonly used for professional moving picture work. Mr. Case says that
 the National Board of Fire Underwriters rates this "safety" film as offering no 
 more fire hazard than the same quantity and form of newsprint. The second
 
-&nbsp;{%- include pagebreak.html canvas=282 -%}&nbsp;
+ {% include pagebreak.html canvas=282 %} 
  
 RECORDAK CORPORATION    
 SUBSIDIARY OF EASTMAN KODAK COMPANY    
@@ -779,9 +779,9 @@ present binding cost.
 
 RECORDAK CORPORATION 
 
-&nbsp;{%- include pagebreak.html canvas=283 -%}&nbsp;
+ {% include pagebreak.html canvas=283 %} 
 
-&nbsp;{%- include pagebreak.html canvas=284 -%}&nbsp;
+ {% include pagebreak.html canvas=284 %} 
 
 difference is that this film is perforated on only one edge, thus allowing more 
 usable area on the same total width. One foot of film negative carries eight and 
@@ -849,7 +849,7 @@ Newspapers in various parts of the country are now photographing their
 editions by the Recordak method and are using Recordak Library Projectors for 
 reading the film. Several libraries are now using film copies of newspapers that 
 they ordinarily kept on their shelves in bound form. The use of film copies 
-materially reduces the space required to house the bound volumes, eliminates the&nbsp;{%- include pagebreak.html canvas= 285 -%}&nbsp;cost of binding and provides a permanent record. These libraries are using 
+materially reduces the space required to house the bound volumes, eliminates the {% include pagebreak.html canvas= 285 %} cost of binding and provides a permanent record. These libraries are using 
 Recordak Library Projectors for reading from the films. 
 
 Recently the Recordak Corporation photographed the editions of the New 
@@ -865,9 +865,9 @@ of Eastman Kodak Company, 350 Madison Avenue, New York, N. Y.*)
 
 THE PROJECTOR 
 
-&nbsp;{%- include pagebreak.html canvas=286 -%}&nbsp;
+ {% include pagebreak.html canvas=286 %} 
 
-&nbsp;{%- include pagebreak.html canvas=287 -%}&nbsp;
+ {% include pagebreak.html canvas=287 %} 
 
 possible reduced-scale copying methods 
 from the standpoint of costs of surface 
@@ -912,7 +912,7 @@ film strips in the case of a long series
 of pages that will fill 100 feet or more 
 of film, but this advantage in favor of 
 film may be reversed in the case of short 
-items, especially when a number of positive copies are required.&nbsp;{%- include columnbreak.html canvas=287 col=2 -%}&nbsp;
+items, especially when a number of positive copies are required. {% include columnbreak.html canvas=287 col=2 %} 
 
 Reading apparatus for paper in reductions of 6 to 8 diameters has not 
 been developed as far as that for film in 
@@ -943,7 +943,7 @@ picture film in the standard widths of 16mm.,
 
 The Simplified Practice Division of 
 the Department of Commerce has asked for an 
-agreement by all those promoting microcopying to adapt all apparatus to the 16mm. and&nbsp;{%- include pagebreak.html canvas=288 -%}&nbsp;35mm. widths. In replying to the Division 
+agreement by all those promoting microcopying to adapt all apparatus to the 16mm. and {% include pagebreak.html canvas=288 %} 35mm. widths. In replying to the Division 
 of Simplified Practise recommendation, circulated in September 1935, the writer, as 
 chairman of the Joint Committee on Materials for Research, made the reservation 
 that simplified practice should not exclude at this time a size of film that 
@@ -975,7 +975,7 @@ therefore, attention must be given to the
 placing of the photographic image on the 
 film. The same principle of maximum use 
 of area that was found operative in photo-offset work is applicable to microphotography. Just as it is wasteful to print a
-6" x 9" book on an 11" x 17" photo-offset&nbsp;{%- include columnbreak.html canvas=288 col=2 -%}&nbsp;metal sheet, so it is wasteful to make on 
+6" x 9" book on an 11" x 17" photo-offset {% include columnbreak.html canvas=288 col=2 %} metal sheet, so it is wasteful to make on 
 35mm. film an image only 3/4" wide. 
 
 There are three, or possibly four 
@@ -1024,7 +1024,7 @@ Third Position
 12 diameters reduction 
 of 6" x 9" book 
 
-&nbsp;{%- include pagebreak.html canvas=289 -%}&nbsp;
+ {% include pagebreak.html canvas=289 %} 
 
 ## TODO
 
@@ -1167,7 +1167,7 @@ The commercial processing of film
 has been organized in two kinds of business enterprise. Short strips of film are 
 processed for the amateur photographer by 
 services available in every drug store. 
-Long runs of moving picture film are processed at prices that may be much less per&nbsp;{%- include pagebreak.html canvas=289 col=2 -%}&nbsp;film area than those charged by the ordi- 
+Long runs of moving picture film are processed at prices that may be much less per {% include pagebreak.html canvas=289 col=2 %} film area than those charged by the ordi- 
 nary service. 
 
 The short five-foot strips of film 
@@ -1200,7 +1200,7 @@ PRICES OF FILM PROCESSING
 | For making a 16mm. contact print, per foot | 1 1/2¢ to 4 1/2¢ | 
 | For reducing a 35mm. negative to a 16mm. positive, price inclusive of cost of 16mm. | | 1 1/4¢ to 2¢ |
 
-&nbsp;{%- include pagebreak.html canvas=290 -%}&nbsp;The variation in prices is not only a difference that appears from firm to
+ {% include pagebreak.html canvas=290 %} The variation in prices is not only a difference that appears from firm to
 firm, but also responds to differences in
 footage, and in number of prints to be
 taken from the same negative. The minimum
@@ -1233,7 +1233,7 @@ for $.66 per 100 pages. Figures presented
 by the Recordak Corporation during the
 planning of this project indicated that
 that part of the cost which is represented
-by the printing off of the positive copies&nbsp;{%- include pagebreak.html canvas=290 col=2 -%}&nbsp;(not including price of the film) is figured at $.04 per foot.
+by the printing off of the positive copies {% include pagebreak.html canvas=290 col=2 %} (not including price of the film) is figured at $.04 per foot.
 
 In estimating processing costs of
 the long rolls of film, account must be
@@ -1292,7 +1292,7 @@ Reduction Ratio Footage of Film
 
 -50¢ 
 
-&nbsp;{%- include pagebreak.html canvas=291 -%}&nbsp;resort to low processing costs may entail a low reduction ratio, and hence the saving in processing may be sacrificed by in- 
+ {% include pagebreak.html canvas=291 %} resort to low processing costs may entail a low reduction ratio, and hence the saving in processing may be sacrificed by in- 
 creasing the material cost. 
 
 Just as in calculating typescript 
@@ -1338,7 +1338,7 @@ which there will be no positives made from
 the negative. The original negative will 
 be made as a unique copy for a single purchaser. The cost of this unique copy will 
 consist of two elements: first, labor in 
-photography; second, film and processing.&nbsp;{%- include pagebreak.html canvas=291 col=2 -%}&nbsp;This situation will be studied first, and 
+photography; second, film and processing. {% include pagebreak.html canvas=291 col=2 %} This situation will be studied first, and 
 then its implications traced in those cases 
 where a number of positive copies are to be 
 made from a single negative for a number of 
@@ -1388,7 +1388,7 @@ at $10.00 per day, which might cover the
 wages of two operators, one to do the photographing, the other to bring the material 
 to the machine and return it to place. 
 
-This labor cost is independent of&nbsp;{%- include pagebreak.html canvas=291 -%}&nbsp;the reduction ratio and hence of the amount 
+This labor cost is independent of {% include pagebreak.html canvas=291 %} the reduction ratio and hence of the amount 
 of film used in a given copying job. But 
 with the film used at a reduction ratio of 
 16 to 23 diameters, and processing costs 
@@ -1477,7 +1477,7 @@ or 16mm. film. The memorandum on cost,
 while rather elaborate, serves to illustrate the behavior of so many of the variables in microcopying that it is here 
 quoted textually: 
 
-The first cost of making an original&nbsp;{%- include pagebreak.html canvas=292 -%}&nbsp;negative of the estimated two million pages is hard to calculate and not greatly dependent on reduction ratio, for so much of 
+The first cost of making an original {% include pagebreak.html canvas=292 %} negative of the estimated two million pages is hard to calculate and not greatly dependent on reduction ratio, for so much of 
 it will be travel, supervision, apparatus 
 and labor of incalculable efficiency. 
 These costs, exclusive of film cost, could 
@@ -1520,7 +1520,7 @@ as follows:
 | 40 libraries | $3,520 at 12 diameters, 45mm. film; or $.17 per 100 pages |
 | | $1,808 at 21 diameters, 16mm. film; or $.09 per 100 pages |
 
-By the time forty libraries are&nbsp;{%- include columnbreak.html canvas=293 col=2 -%}&nbsp;reached, the cost of film and processing 
+By the time forty libraries are {% include columnbreak.html canvas=293 col=2 %} reached, the cost of film and processing 
 has become dominant and any economies in 
 these costs would be felt immediately. 
 
@@ -1564,7 +1564,7 @@ This is the "first cost" of bringing out a
 second edition. The reprint cost is less 
 than the first cost of the first edition 
 of a book provided plates are made from 
-the type, or the photo-offset metal sheets&nbsp;{%- include pagebreak.html canvas=294 -%}&nbsp;preserved for a second run. But the reprint cost in book manufacture, regardless 
+the type, or the photo-offset metal sheets {% include pagebreak.html canvas=294 %} preserved for a second run. But the reprint cost in book manufacture, regardless 
 of these economies, is always substantial. 
 In microcopying large footages the reprint 
 cost is nil. No special expense is incurred in production if, when 10,000 feet 
@@ -1608,7 +1608,7 @@ long strips of bank records and mails them
 to individual banks) would not lift the 
 costs to an entirely new level. Bookkeeping costs would appear, but it seems quite 
 probable that on large-scale work the 
-price level could be held down within&nbsp;{%- include columnbreak.html canvas=294 col=2 -%}&nbsp;striking distance of the price of long-footage orders. 
+price level could be held down within {% include columnbreak.html canvas=294 col=2 %} striking distance of the price of long-footage orders. 
 
 ## Microcopying and Long-Distance Use of Libraries: the "Bibliofilm Service" 
 
@@ -1649,7 +1649,7 @@ pages copied per month rose from 470 in November 1934, to 6,597 in May 1935.
 
 Miss Barnett writes that the rates 
 during this experimental period have not 
-covered the cost of keeping the records&nbsp;{%- include pagebreak.html canvas=295 -%}&nbsp;and correspondence, but that the clerical 
+covered the cost of keeping the records {% include pagebreak.html canvas=295 %} and correspondence, but that the clerical 
 cost may be materially lessened after the 
 procedure has been better established. 
 Moreover, the clerical costs as they stand 
@@ -1691,7 +1691,7 @@ now able to arrange with speed and certainty to have copied for them periodical 
 
 ## Microcopying and Copyright 
 
-While these innovations have offered a mechanical means of increasing the&nbsp;{%- include columnbreak.html canvas=295 col=2 -%}&nbsp;working power of scholars throughout the 
+While these innovations have offered a mechanical means of increasing the {% include columnbreak.html canvas=295 col=2 %} working power of scholars throughout the 
 country, it has been necessary to prepare 
 the legal ground for their use. For most 
 of the learned journals from which scholars are likely to seek microcopies are covered by copyright. With books it is otherwise; most of the rare and inaccessible 
@@ -1735,7 +1735,7 @@ copyright.
 
 The whole subject was explored in a 
 generous and sympathetic spirit at a meeting of librarians and book publishers. Mr. 
-H. M. Lydenberg of the New York Public&nbsp;{%- include pagebreak.html canvas=296 -%}&nbsp;Library, Mr. Milton Ferguson, chairman of 
+H. M. Lydenberg of the New York Public {% include pagebreak.html canvas=296 %} Library, Mr. Milton Ferguson, chairman of 
 the book-buying committee of the American 
 Library Association, and Dr. Andrew Keogh 
 of Yale University Library met with Mr. 
@@ -1752,7 +1752,7 @@ of parts of books or periodical volumes
 may be made by a library and delivered 
 without profit to a purchaser in lieu of 
 loan or manual transcription. The paragraph was phrased to apply to the copying 
-of a complete *article* from a periodical&nbsp;{%- include columnbreak.html canvas=296 col=2 -%}&nbsp;volume, but it would not apply to the microcopying of a whole volume or file of a 
+of a complete *article* from a periodical {% include columnbreak.html canvas=296 col=2 %} volume, but it would not apply to the microcopying of a whole volume or file of a 
 periodical. The second principle is that 
 the photographic copy is not to be a substitute for the purchase of the material; 
 it can be taken for granted that the known 
@@ -1792,7 +1792,7 @@ this reproduction.
 We realize, of course, that we can speak only on behalf of the 
 publishers, libraries and research workers of this country. The problem is of 
 importance also in connection with foreign copyrighted books, particularly the 
-publications of academies or learned societies and the unofficial periodical&nbsp;{%- include pagebreak.html canvas=297 -%}&nbsp;press printing the results of research. As to such books and periodicals, 
+publications of academies or learned societies and the unofficial periodical {% include pagebreak.html canvas=297 %} press printing the results of research. As to such books and periodicals, 
 the foreign publisher or copyright owner is the final authority. We feel, 
 however, that the common interests of both groups would make it fair for us 
 to assume that the practice approved by American publishers and libraries 
@@ -1844,7 +1844,7 @@ Very sincerely yours,
 (signed) W. W. Norton, President     
 National Association of Book Publishers 
 
-&nbsp;{%- include pagebreak.html canvas=298 -%}&nbsp;
+ {% include pagebreak.html canvas=298 %} 
 
 The Joint Committee on Materials for Research and the Board 
 of Directors of the National Association of Book Publishers, after conferring on the problem of conscientious observance of copyright that faces research libraries in connection with the growing use of photographic methods 
@@ -1896,7 +1896,7 @@ institution that the duplicate being made for him is for his personal use only
 and is to relieve him of the task of transcription. The form should clearly indicate to the applicant that he is obligated under the law not to use the material thus copied from books for any further reproduction without the express 
 permission of the copyright owner.
 
-&nbsp;{%- include pagebreak.html canvas=299 -%}&nbsp;It would not be fair to the author or publisher to make possible the substitution of the photostats for the purchase of a copy of the book 
+ {% include pagebreak.html canvas=299 %} It would not be fair to the author or publisher to make possible the substitution of the photostats for the purchase of a copy of the book 
 itself either for an individual library or for any permanent collection in a public or research library. Orders for photocopying which, by reason of their 
 extensiveness or for any other reasons, violate this principle should not be 
 accepted. In case of doubt as to whether the excerpt requested complies with 
@@ -1911,7 +1911,7 @@ making it and not for sale.
 Joint Committee on Materials for Research 
 
 W. W. Norton, President    
-National Association of Book Publishers&nbsp;{%- include columnbreak.html canvas=299 col=1 -%}&nbsp;
+National Association of Book Publishers {% include columnbreak.html canvas=299 col=1 %} 
 
 ## "Publishing" Short Runs of Material by Microcopying 
 
@@ -1979,7 +1979,7 @@ long items wasteful not to save it*. The
 dividing line is probably the 100-foot 
 reel, which may mean a unit of 2,000 pages. 
 
-&nbsp;{%- include pagebreak.html canvas=300 -%}&nbsp;For the shorter items---and this 
+ {% include pagebreak.html canvas=300 %} For the shorter items---and this 
 means for most scientific literature---present apparatus will not justify the expense 
 of holding a negative for the sake of making a number of positives from it. But if
 a large number of microcopies of a scientific article are to be made from the same 
@@ -2019,7 +2019,7 @@ than to make a print from a single rectangle of film. His plan should tend to ma
 "reprint costs" for short items behave as 
 if the items were long, and at the same 
 time eliminate a heavy cataloguing and 
-storing charge.&nbsp;{%- include columnbreak.html canvas=300 col=2 -%}&nbsp;
+storing charge. {% include columnbreak.html canvas=300 col=2 %} 
 
 It has been suggested by several 
 writers that the future may see whole libraries copied on film, and the negatives 
@@ -2071,7 +2071,7 @@ file.
 
 ## The Problem of Standardization of Equipment and Reduction Ratio 
 
-A memorandum by Mr. Verneur E. Pratt&nbsp;{%- include pagebreak.html canvas=301 col=1 -%}&nbsp;of the International Filmbook Corporation, 
+A memorandum by Mr. Verneur E. Pratt {% include pagebreak.html canvas=301 col=1 %} of the International Filmbook Corporation, 
 and a series of letters and memoranda by 
 Dr. Watson Davis, call attention to the 
 vital importance of standardization in the 
@@ -2158,7 +2158,7 @@ his running cost of reading matter will rise
 because he must pay more per page for the 
 microcopies. If he cuts his first cost by
 contenting himself with a machine that will 
-show only a small area of projected image&nbsp;{%- include pagebreak.html canvas=302 -%}&nbsp;at a time, or give a lower light intensity, 
+show only a small area of projected image {% include pagebreak.html canvas=302 %} at a time, or give a lower light intensity, 
 he may retain the low running cost of his 
 reading matter, but must accept a sacrifice in the legibility factor. 
 
@@ -2203,7 +2203,7 @@ in microcopy form. This cost will be constant, no matter how much he travels. He
 can go where he will, whether anyone else 
 is going there at the same time or not, 
 just as the microcopy reader can get any 
-item in microcopy form, whether other readers want it or not. He is limited only by&nbsp;{%- include columnbreak.html canvas=302 col=2 -%}&nbsp;
+item in microcopy form, whether other readers want it or not. He is limited only by {% include columnbreak.html canvas=302 col=2 %} 
 
 TABLE XLIV 
 
@@ -2242,7 +2242,7 @@ the libraries offer the services that render both of these conditions possible.
 This comparisom brings) to light at 
 once the tremendous difficulty and the supreme importance of standardization at an 
 early stage in the development of the new 
-devices. Let us imagine, as a kind of a&nbsp;{%- include pagebreak.html canvas=303 -%}&nbsp;fantasy, that the automobile in its 
+devices. Let us imagine, as a kind of a {% include pagebreak.html canvas=303 %} fantasy, that the automobile in its 
 early stages had been some kind of a 
 machine that required for its operation a special kind of road. Then let 
 us suppose that in one part of the 
@@ -2325,7 +2325,7 @@ it an image that does not show full lines,
 the two are absolutely incompatible. 
 
 Already there have appeared in the 
-development of microcopying apparatus several outstanding examples of this incompatibility. The Recordak newspaper projector projects an image from a full frame of&nbsp;{%- include pagebreak.html canvas=304 -%}&nbsp;a l6mm. film or from one quarter of the 
+development of microcopying apparatus several outstanding examples of this incompatibility. The Recordak newspaper projector projects an image from a full frame of {% include pagebreak.html canvas=304 %} a l6mm. film or from one quarter of the 
 "double frame" of a 35mm. film. A newspaper page, copied on the Eastman Recordak 
 machine, is projected and read, a quarter-page at a time. There is no incompatibility here, for the quarter-page of the newspaper holds several columns, and no lines 
 of reading are broken off in the middle. 
@@ -2369,7 +2369,7 @@ type of reading apparatus, Mr. Pratt recommends
     of the film. This will permit of simple projectors without revolving objective lenses and gates.
 
 Another projector designed by the 
-International Filmbook Corporation will&nbsp;{%- include columnbreak.html canvas=304 col=2 -%}&nbsp;permit the reading of lines running in either direction, and will expose a variable 
+International Filmbook Corporation will {% include columnbreak.html canvas=304 col=2 %} permit the reading of lines running in either direction, and will expose a variable 
 film area by substituting lenses and condensers. 
 
 The Bibliofilm Service photographers, using the Draeger camera, copy their 
@@ -2418,7 +2418,7 @@ with the long side across the film; the
 and Ludwig cameras exposes an area 1" x 
 1 3/8", or 1" x 1 1/2", with the short side 
 across the film. Edwards Brothers of Ann 
-Arbor is prepared to furnish microcopies of&nbsp;{%- include pagebreak.html canvas=305 -%}&nbsp;European books made with a single frame 
+Arbor is prepared to furnish microcopies of {% include pagebreak.html canvas=305 %} European books made with a single frame 
 camera; the equipment at Yale, New York 
 Public Library, and Huntington Library, is 
 of the double-frame type. With a single-frame camera, pages can be copied in the 
@@ -2439,7 +2439,7 @@ standardization of projectors that would
 force users of double-frame cameras to 
 waste from one-third to one-half of their 
 film in order to render their copying compatible with reading equipment would incur 
-disadvantages in distribution. This fact,&nbsp;{%- include columnbreak.html canvas=305 col=2 -%}&nbsp;translated into terms of design, seems to 
+disadvantages in distribution. This fact, {% include columnbreak.html canvas=305 col=2 %} translated into terms of design, seems to 
 call for projectors that can be adjusted to 
 read lines of print that run across the 
 film as well as lines that run along the 
@@ -2487,7 +2487,7 @@ diameters reduction sens
 Third Position 
 diameters reduction 
 
-&nbsp;{%- include pagebreak.html canvas=306 -%}&nbsp;image, which will always be a rectangle 
+ {% include pagebreak.html canvas=306 %} image, which will always be a rectangle 
 with the long side one-third to one-half 
 longer than the short side. 
 
@@ -2538,7 +2538,7 @@ microcopied column).
 
 To consider an extreme case; two 
 pages can be photographed (in the third position) on a single frame of film. One 
-page of the original print will correspond&nbsp;{%- include columnbreak.html canvas=306 col=2 -%}&nbsp;to half a frame of film. Its long side  
+page of the original print will correspond {% include columnbreak.html canvas=306 col=2 %} to half a frame of film. Its long side  
 will be 3/4", its short side 1/2"; the 
 length of line will be 1/2". The aperture 
 required for reading this film need be only 1/2" (1/2" x 3/8") but in reading this 
@@ -2588,7 +2588,7 @@ An aperture 1 1/2" will display the
 long side of a page rectangle taken on a 
 double frame of 35mm. film. An aperture 
 of 1/2" will display the short side of a 
-page rectangle taken on 16mm. film. The&nbsp;{%- include pagebreak.html canvas=307 -%}&nbsp;intermediate steps in the series are show 
+page rectangle taken on 16mm. film. The {% include pagebreak.html canvas=307 %} intermediate steps in the series are show 
 on the chart on the following page. 
 
 These dimensions for aperture are 
@@ -2682,7 +2682,7 @@ the design can be altered to give a higher
 enlarging power without. altering the cost, 
 but only by diminishing. the aperture. 
 
-It might be argued that enlargement&nbsp;{%- include pagebreak.html canvas=308 -%}&nbsp;
+It might be argued that enlargement {% include pagebreak.html canvas=308 %} 
 
 TABLE XLV 
 
@@ -2697,7 +2697,7 @@ CHART OF APERTURE AND CORRESPONDENCE TO FRAME OF FILM
 | 3/8" | 16mm. | Short side of single frame (page copied in second or third position) | 18 if film is moved; 24 without moving film |
 | 1/4" | 16mm. | One-half of short side of single frame (pages copied in third position) | 24; film must be moved for reading the page |
 
-&nbsp;{%- include pagebreak.html canvas=309 -%}&nbsp;
+ {% include pagebreak.html canvas=309 %} 
 
 - proofed to here
 
@@ -2709,7 +2709,7 @@ Aperture 6 diameters 9 diameters
 
 Aperture 9 diam, 12 diam. 
 
-&nbsp;{%- include pagebreak.html canvas=310 -%}&nbsp;ratio can always be increased by bringing 
+ {% include pagebreak.html canvas=310 %} ratio can always be increased by bringing 
 the lens nearer to the film, and setting 
 the screen further from the lens. Thus a 
 very cheap projector will make enlargements of 40 or more diameters by throwing 
@@ -2748,7 +2748,7 @@ on several points, of which the most important probably are:
 3. That in short items made in unique 
     copies, labor cost is so high in proportion to materials cost that the price 
     advantages of high reduction ratios are 
-    illusory.&nbsp;{%- include columnbreak.html canvas=310 col=2 -%}&nbsp;
+    illusory. {% include columnbreak.html canvas=310 col=2 %} 
 4. That the large-scale ventures in copying, such as the NRA and AAA code hearings, or the two million pages of early 
     English books, which make the high reduction ratios so advantageous, involve 
     the expenditure of such large sums that 
@@ -2789,7 +2789,7 @@ the promoters of microcopying in Washington,
 especially Dr. Draeger and Dr. Watson Davis, 
 are working with the Bureau of Standards 
 and with other agencies toward standardization. The conclusion is not yet clear, but 
-the observer must testify to the clear&nbsp;{%- include pagebreak.html canvas=311 -%}&nbsp;intelligence with which those working in 
+the observer must testify to the clear {% include pagebreak.html canvas=311 %} intelligence with which those working in 
 the field have envisaged the difficulty of 
 the problem of standardization and have undertaken to grapple with it. 
 
@@ -2840,7 +2840,7 @@ to develop apparatus that will not permit
 the use of either width of film. In connection with the problem of enlargement 
 ratio, a different situation exists. 
 
-&nbsp;{%- include columnbreak.html canvas=311 col=2 -%}&nbsp;
+ {% include columnbreak.html canvas=311 col=2 %} 
 
 III
 
@@ -2889,7 +2889,7 @@ high reduction ratio. This fact is of vital importance because it permits the pu
 to order copies of any long run of 16mm., 
 high reduction ratio film (as the NRA and 
 AAA records) in a form that he can read. 
-Conversely, the purchaser of a small&nbsp;{%- include pagebreak.html canvas=312 -%}&nbsp;aperture, high reduction ratio projector 
+Conversely, the purchaser of a small {% include pagebreak.html canvas=312 %} aperture, high reduction ratio projector 
 can utilize material that was originally 
 copied with a low reduction ratio on 35mm. 
 film, if he has it printed off on the reduced size. 
@@ -2984,7 +2984,7 @@ project. His collection of material, in
 microcopy form, will not go to pieces on 
 his hands.
 
-But if microcopying is to take the&nbsp;{%- include pagebreak.html canvas=313 -%}&nbsp;place of publication, or if libraries are 
+But if microcopying is to take the {% include pagebreak.html canvas=313 %} place of publication, or if libraries are 
 to alter their general acquisition policies 
 to give a large place to film instead of 
 paper, the fundamental question of durability of film must be met. "Dr. A. F. 
@@ -3026,7 +3026,7 @@ with the preservation of microcopied material from the siege of Paris must not b
 ignored. The reduction ratio, it has been 
 established, was 32 to 39 diameters from 
 newsprint. The film was probably a nitrate 
-collodion base, less durable in all probability than the acetate safety film. This&nbsp;{%- include columnbreak.html canvas=313 col=2 -%}&nbsp;discussion of durability has been based on 
+collodion base, less durable in all probability than the acetate safety film. This {% include columnbreak.html canvas=313 col=2 %} discussion of durability has been based on 
 the assumption that photographers will use 
 a film base more durable, and a reduction 
 ratio less exacting, than that which has 
@@ -3070,7 +3070,7 @@ costs of the filing cabinets required to
 hold the original material. The microcopying fixes all the documents in an unbreakable series. This is an advantage as a 
 protection against loss of individual documents through theft or carelessness; it is 
 a disadvantage if a file is still active in 
-the sense that new material ought to be interspersed between material already filed.&nbsp;{%- include pagebreak.html canvas=313 -%}&nbsp;Since library space costs $.40 to $.50 a 
+the sense that new material ought to be interspersed between material already filed. {% include pagebreak.html canvas=313 %} Since library space costs $.40 to $.50 a 
 cubic foot for construction (see Chapter 
 II), and gives rise to further costs for 
 lighting and heating, it would appear that 
@@ -3128,7 +3128,7 @@ The four methods in use for the
 storage of film are: (a) storage in cans; 
 (b) storage on reels; (c) storage in a 
 cartridge; (d) storage in partitioned boxes. The cans, such as those sold by the 
-Jam Handy Company of Chicago at $3.00 per&nbsp;{%- include columnbreak.html canvas=324 col=2 -%}&nbsp;100, are small tin pill boxes. They keep 
+Jam Handy Company of Chicago at $3.00 per {% include columnbreak.html canvas=324 col=2 %} 100, are small tin pill boxes. They keep 
 each short length of film in place, but 
 they offer no protection to the ends, edges 
 or surface of the film. The reels provided 
@@ -3143,7 +3143,7 @@ each of which holds a five-foot roll of
 Leica film. 
 
 The preservation of the film involves not only the intrinsic stability of 
-base and emulsion, but also requires special care in the processing, to the end&nbsp;{%- include pagebreak.html canvas=315 -%}&nbsp;that no traces of the developing or fixing 
+base and emulsion, but also requires special care in the processing, to the end {% include pagebreak.html canvas=315 %} that no traces of the developing or fixing 
 solutions remain on the film; and it may 
 call for the protection of the surface 
 from abrasion in use. It is a question 
@@ -3196,7 +3196,7 @@ an equipment of newspaper files with any
 assurance that it will be able to complete 
 its plan.
 
-From another point of view, newspapers would seem to be among the least&nbsp;{%- include columnbreak.html canvas=315 col=2 -%}&nbsp;suited for microcopying, because the price 
+From another point of view, newspapers would seem to be among the least {% include columnbreak.html canvas=315 col=2 %} suited for microcopying, because the price 
 of original files of newspapers is low in 
 terms of printed area of page. In copying 
 the NRA records, for instance, microcopying distributed the copies at $.12 per 100 
@@ -3239,7 +3239,7 @@ cost" in making the original negative film.
 The Recordak project is financed on a risk 
 basis like ordinary book publishing. Early 
 estimates of the cost of the first negative set this cost figure at $.10 a foot, 
-or $284.00 for the original negative. The&nbsp;{%- include pagebreak.html canvas=316 -%}&nbsp;
+or $284.00 for the original negative. The {% include pagebreak.html canvas=316 %} 
 
 TABLE XLVI 
 
@@ -3292,7 +3292,7 @@ been set on foot in such a way that the
 sponsors take the risk that they may not 
 sell enough positive copies to distribute 
 their "first cost,™ and to expect, to gain 
-a profit if the number of buyers more&nbsp;{%- include columnbreak.html canvas=316 col=2 -%}&nbsp;than distributes this first cost. It is 
+a profit if the number of buyers more {% include columnbreak.html canvas=316 col=2 %} than distributes this first cost. It is 
 probable that in this instance the actual 
 first cost is much in excess of $.10 a foot 
 because of the labor of collating the file. 
@@ -3302,7 +3302,7 @@ is set by the state of present equipment.
 The newspaper Recordak copies loose pages 
 only. Each page of the newspaper is 
 passed through the machine, first on one 
-side, then on the other. In this way&nbsp;{%- include pagebreak.html canvas=317 -%}&nbsp;newspaper pages can be copied in sequence 
+side, then on the other. In this way {% include pagebreak.html canvas=317 %} newspaper pages can be copied in sequence 
 in the "first position" on the film, in a 
 reduction of 16 diameters. If bound newspaper files are to be microcopied without 
 disturbing the binding, two obstacles would 
@@ -3346,7 +3346,7 @@ far from the cost levels indicated by the
 experiment with the New York *Times*. 
 
 Another important element in the 
-question of microcopying has to do with&nbsp;{%- include columnbreak.html canvas=317 col=2 -%}&nbsp;the attitude of the readers and research 
+question of microcopying has to do with {% include columnbreak.html canvas=317 col=2 %} the attitude of the readers and research 
 workers toward this form. In 1934 the New 
 York Public Library did a great service to 
 scholarship by utilizing microcopies of 
@@ -3385,7 +3385,7 @@ technique of collecting, accessioning, and
 cataloguing books to such a high point that 
 a great library becomes in effect a running 
 index, constantly brought up to date, of 
-the world's knowledge. But as the demands&nbsp;{%- include pagebreak.html canvas=318 -%}&nbsp;of scholarship increase beyond the powers 
+the world's knowledge. But as the demands {% include pagebreak.html canvas=318 %} of scholarship increase beyond the powers 
 of any library to supply them, the logical 
 unit for the next stage in organization becomes the interlibrary system. 
 
@@ -3425,7 +3425,7 @@ as large a proportion as possible of Works
 Progress Administration money for wages 
 made it necessary to resort to typing. 
 
-However, a better technique for&nbsp;{%- include columnbreak.html canvas=318 col=2 -%}&nbsp;using microcopying in the compilation of 
+However, a better technique for {% include columnbreak.html canvas=318 col=2 %} using microcopying in the compilation of 
 union lists was worked out by Dr. T. R. 
 Schellenberg and Mr. Paul Vanderbilt in 
 connection with the Philadelphia union list 
@@ -3474,7 +3474,7 @@ would be consulted in the reading machine,
 like any other microcopied material. The 
 cost of making a microcopy of a card catalogue, for this kind of use, would be only 
 $500.00 per million cards, including labor 
-costs. While it would be less useful than&nbsp;{%- include pagebreak.html canvas=319 -%}&nbsp;a union list in one respect---one would have 
+costs. While it would be less useful than {% include pagebreak.html canvas=319 %} a union list in one respect---one would have 
 to consult each library catalogue separately to determine whether or not a given book 
 were available---it would in another way offer an advantage over the ordinary union 
 list, for the whole subject entry classifications of a library catalogue would be reproduced. If, for instance, the film copy 
@@ -3511,7 +3511,7 @@ that can be used for pictorial and document
 photography alike. For them the Leica or 
 Contax, with its numerous accessory fixtures, is the best implement for microcopying. The selection of pages for copying and the copying itself are merged as 
 one operation, so that labor costs in photographing do not appear; the photographing is part of the research. The scholars 
-who have taken microcopies of documents&nbsp;{%- include columnbreak.html canvas=319 col=2 -%}&nbsp;
+who have taken microcopies of documents {% include columnbreak.html canvas=319 col=2 %} 
 have often found it necessary afterwards 
 to enlarge them on photostat paper. If 
 the material is such that enlargements will 
@@ -3562,7 +3562,7 @@ of the possibilities of microphotography.
 The change that can be expected is one that, 
 in a way, would restore a condition that 
 passed out of existence with the invention 
-of printing. For it was the technique and&nbsp;{%- include pagebreak.html canvas=320 col=2 -%}&nbsp;accountancy of printing that created the 
+of printing. For it was the technique and {% include pagebreak.html canvas=320 col=2 %} accountancy of printing that created the 
 sharp distinction between the operations 
 of collecting material and publishing. In
 the days of the manuscript, copies of a 
