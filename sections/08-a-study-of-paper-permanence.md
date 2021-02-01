@@ -835,7 +835,7 @@ are as follows:
     different strength ranges are necessary for these two classes of paper. 
     The strength requirements, of course, 
 
-{% include enclosure.html incl="08-106" %}
+{% include figure.html fig="53" %}
 
 > {% include pagebreak.html canvas=233 %} must be fixed with consideration of 
     the kind and extent of mechanical 

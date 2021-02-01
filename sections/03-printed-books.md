@@ -167,9 +167,13 @@ on every part on the type. This operation
 which is a most laborious affair if conscientiously done, is called "make-ready." 
 Without careful make-ready, satisfactory 
 
-{% include enclosure.html incl="03-14" %}
+{% include figure.html fig="01" %}
 
- {% include pagebreak.html canvas=39 %} results are unobtainable. 
+{% include figure.html fig="02" %}
+
+{% include figure.html fig="03" %}
+
+{% include pagebreak.html canvas=39 %} results are unobtainable. 
 
 ## Printing: Composition Costs 
 
@@ -366,101 +370,9 @@ to the square inch:
 | 10-point | 21 | 16 |
 | 12-point | 14 | 11 |
 
- {% include pagebreak.html canvas=41 %} 
- {% include pagebreak.html canvas=42 %} 
+{% include figure.html fig="04" %}
 
-FIGURE IV 
-
-This figure, showing a page of 8-point Bodoni and a page of 10-point Bodoni type, 
-both leaded one point, gives a comparison of the varying word content made possible by the use of different size type in the same face. These pages were reproduced from the Wolff Type Book with the kind permission of the Wolff Book Manufacturing Company. 
-
-10-POINT BODONI 
-
-THE "RED DEATH" had long devastated the country. No 
-pestilence had ever been so fatal, or so hideous. Blood 
-was its Avatar and its seal---the redness and the horror 
-of blood. There were sharp pains, and sudden dizziness, 
-and then profuse bleeding at the pores, with dissolution. 
-The scarlet stains upon the body and especially upon the 
-face of the victim, were the pest ban which shut him out 
-from the aid and from the sympathy of his fellow-men. 
-And the whole seizure, progress and termination of the 
-disease, were the incidents of half an hour. But the 
-Prince Prospero was happy and dauntless and sagacious. 
-When his dominions were half depopulated, he summoned to his presence a thousand hale and light-hearted 
-friends from among the knights and dames of his court, 
-and with these retired to the deep seclusion of one of his 
-castellated abbeys. This was an extensive and magnificent structure, the creation of the prince's own eccentric 
-yet august taste. A strong and lofty wall girdled it in. 
-This wall had gates of iron. The courtiers, having entered, brought furnaces and massy hammers and welded 
-the bolts. They resolved to leave means neither of ingress nor egress to the sudden impulses of despair or of 
-frenzy from within. The abbey was amply provisioned. 
-With such precautions the courtiers might bid defiance 
-to contagion. The external world could take care of 
-itself. In the mean time it was folly to grieve, or to 
-think. The prince had provided all the appliances of 
-pleasure. There were buffoons, there were improvisatori, 
-there were ballet-dancers, there were musicians, there 
-was Beauty, there was wine. All these and security were 
-within. Without was the "Red Death." It was toward 
-the close of the fifth or sixth month of his seclusion, 
-and while the pestilence raged most furiously abroad, 
-that the Prince Prospero entertained his thousand 
-friends at a masked ball of the most unusual magnificence. It was a voluptuous scene, that masquerade. But 
-
-335 WORDS 36 LINES 1 POINT LEAD 
-
- {% include columnbreak.html canvas=42 col=2 %} 8-POINT BODONI 
-
-THE "RED DEATH" had long devastated the councry. No pestilence 
-had ever been so fatal, or so hideous. Blood was its Avatar and 
-its seal---the redness and the horror of blood. There were sharp 
-pains, and sudden dizziness, and then profuse bleeding at the 
-pores, with dissolution. The scarlet stains upon the body and especially upon the face of the victim, were the pest ban which shut 
-him out from the aid and from the sympathy of his fellow-men. 
-And the whole seizure, progress and termination of the disease, 
-were the incidents of half an hour. But the Prince Prospero was 
-happy and dauntless and sagacious. When his dominions were 
-half depopulated, he summoned to his presence a thousand hale 
-and light-hearted friends from among the knights and dames of 
-his court, and with these retired to the deep seclusion of one 
-of his castellated abbeys. This was an extensive and magnificent 
-structure, the creation of the prince's own eccentric yet august 
-taste. A strong and lofty wall girdled it in. This wall had gates 
-of iron. The courtiers, having entered, brought furnaces and massy 
-hammers and welded the bolts. They resolved to leave means 
-neither of ingress nor egress to the sudden impulses of despair 
-or of frenzy from within. The abbey was amply provisioned. 
-With such precautions the courtiers might bid defiance to contagion. The external world could take care of itself. In the mean 
-time it was folly to grieve, or to think. The prince had provided 
-all the appliances of pleasure. There were buffoons, there were 
-improvisatori, there were ballet-dancers, there were musicians, 
-there was Beauty, there was wine. All these and security were 
-within. Without was the "Red Death." It was toward the close 
-of the fifth or sixth month of his seclusion, and while the pestilence raged most furiously abroad, that the Prince Prospero entertained his thousand friends at a masked ball of the most unusual magnificence. It was a voluptuous scene, that masquerade. 
-But first let me tell of the rooms in which it was held. There 
-were seven---an imperial suite. In many palaces, however, such 
-suites form a long and straight vista, while the folding-doors 
-slide back nearly to the walls on either hand, so that the view 
-of the whole extent is scarcely impeded. Here the case was very 
-different; as might have been expected from the prince's love of 
-the bizarre. The apartments were so irregularly disposed that the 
-vision embraced but little more than one at a time. There was a 
-sharp turn at every twenty or thirty yards, and at each turn a 
-novel effect. To the right and left, in the middle of each wall, a 
-tall and narrow Gothic window looked out upon a closed corridor which pursued the windings of the suite. These windows 
-were of stained glass whose colour varied in accordance with 
-
-485 WORDS 44 LINES 1 POINT LEAD 
-
-ERRATA 
-
-Page 17, first column, twelfth line from the 
-bottom which now reads "...would yield 800 
-pages, 24,600 words", should read, "...would 
-yield 800 words per page, 24,600 words...." 
-
- {% include pagebreak.html canvas=43 %} The number of pages, and hence the number 
+{% include pagebreak.html canvas=43 %} The number of pages, and hence the number 
 of forms, required will vary with the point 
 size of the type, the compactness of the 
 type, and the amount of leading. 
@@ -612,7 +524,11 @@ imitation of typescript and for making office forms from print-face type in imit
   
 The best adaptation of multigraph 
 
-{% include enclosure.html incl="03-18" %}
+{% include figure.html fig="05" %}
+{% include figure.html fig="06" %}
+{% include figure.html fig="07" %}
+{% include figure.html fig="08-09" %}
+{% include figure.html fig="10" %}
 
  {% include pagebreak.html canvas=51 %} printing to the purpose of book production 
 has been made by the Mimeoform Service under the direction of Dr. Ernest Kletsch, 
@@ -829,9 +745,9 @@ If the specifications had been sent out for quotations to the five firms who est
 The point of this 
 table is to compare estimates on a newsprint format with estimates on a good sound book format. 
 
-{% include enclosure.html incl="03-20" %}
+{% include figure.html fig="11" %}
 
- {% include pagebreak.html canvas=59 %} 
+{% include pagebreak.html canvas=59 %} 
 
 ## Alternatives to Printing 
 
@@ -1035,9 +951,9 @@ photo-offset printer. In such a case, a
 skilled photostat operator or commercial 
 photographer, acting under instructions 
 
-{% include enclosure.html incl="03-22" %}
+{% include figure.html fig="12" %}
 
- {% include pagebreak.html canvas=63 %} 
+{% include pagebreak.html canvas=63 %} 
 
 given him for the purpose, can prepare the 
 paper negatives. The situation may bring 
@@ -1193,9 +1109,9 @@ naked eye.
     The reduction is six diameters to one." From 
     letter of the Hispanic Society of America to Robert Binkley, February 18, 1932. 
 
-{% include enclosure.html incl="03-24" %}
+{% include figure.html fig="13" %}
 
- {% include pagebreak.html canvas=67 %} The Joint Committee on Materials 
+{% include pagebreak.html canvas=67 %} The Joint Committee on Materials 
 for Research secured the help of Professors 
 Donald G. Paterson and Miles A. Tinker of 
 the University of Minnesota in examining 
@@ -1363,9 +1279,9 @@ purposes, great results in the intellectual
     the moistening rollers of the offset press and controls both the temperature of the plate and the humidity of the air around the plate, thus providing and keeping constant the moisture needed through-out the run. 
     Cf. *Printing Progress*, a report prepared by a special committee of the Printing Industries Division for the Engineering Week Meeting, June 25-July 1, 1933. 
 
-{% include enclosure.html incl="03-26" %}
+{% include figure.html fig="14" %}
 
- {% include pagebreak.html canvas=71 %}  
+{% include pagebreak.html canvas=71 %}  
 
 world would be likely to follow. How far 
 is technology from that possibility? Certain new developments tending in this direction have come to the knowledge of the 
