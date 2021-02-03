@@ -10,10 +10,20 @@ td, th {
   border: 1px solid black;
 }
 
+/* span containing chapter number in main TOC */
+.chapternumber {
+  display: inline-block;
+  width: 3em;
+}
+
 /* Tufte CSS */
 /* Sidenotes, margin notes, figures, captions */
 img {
     max-width: 100%;
+}
+
+li {
+  list-style: none;
 }
 
 .sidenote,
