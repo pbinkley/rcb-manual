@@ -13,7 +13,7 @@ Work in progress, toward an online edition of the *Manual*.
 - <span class="chapternumber">III.</span> [Printed Books and Reprints](sections/03-printed-books.html)
 - <span class="chapternumber">IV.</span> [The Typescript Book or Memorandum: The Typewriter and Typescript](sections/04-the-typescript-book-or-memorandum-typescript.html)
 - <span class="chapternumber">V.</span> [The Typescript Book or Memorandum: Reproduction Techniques](sections/05-the-typescript-book-or-memorandum-reproduction-techniques.html)
-- <span class="chapternumber">VI.</span> Blueprinting, Photostating, and Allied Techniques
+- <span class="chapternumber">VI.</span> [Blueprinting, Photostating, and Allied Techniques](sections/06-blueprinting-photostating-and-allied-techniques.html)
 - <span class="chapternumber">VII.</span> Books Containing Characters Not in the Roman Alphabet, Tabular Matter, Diagrams and Illustrations
 - <span class="chapternumber">VIII.</span> [A Study of Paper Permanence](sections/08-a-study-of-paper-permanence.html)
 - <span class="chapternumber">IX.</span> [Binding, Vertical Filing, and Film Storage](sections/09-binding-vertical-filing-and-film-storage.html)
