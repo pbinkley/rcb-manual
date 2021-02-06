@@ -17,7 +17,7 @@ Work in progress, toward an online edition of the *Manual*.
 - <span class="chapternumber">VII.</span> Books Containing Characters Not in the Roman Alphabet, Tabular Matter, Diagrams and Illustrations
 - <span class="chapternumber">VIII.</span> [A Study of Paper Permanence](sections/08-a-study-of-paper-permanence.html)
 - <span class="chapternumber">IX.</span> [Binding, Vertical Filing, and Film Storage](sections/09-binding-vertical-filing-and-film-storage.html)
-- <span class="chapternumber">X.</span> Reduced-Scale Photographic and Photolithographic Copying on Paper for Reading through Magnifying Glasses
+- <span class="chapternumber">X.</span> [Reduced-Scale Photographic and Photolithographic Copying on Paper for Reading through Magnifying Glasses](sections/10-reduced-scale-photographic-and-photolithographic-copying-on-paper-for-reading-through-magnifying-glasses.html)
 - <span class="chapternumber">XI.</span> [Cost Levels and Applications of Microcopying and Projection Reading](sections/11-cost-levels-and-applications-of-microcopying-and-projection-reading.html)
 - <span class="chapternumber">XII.</span> [Photographic and Projecting Apparatus](sections/12-photographic-and-projecting-apparatus.html)
 - <span class="chapternumber">XIII.</span> The Recording of Sound
