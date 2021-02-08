@@ -1,38 +1,27 @@
-CHAPTER VII 
+---
+section: Chapter VII
+title: "Books Containing Characters Not in the Roman Alphabet, Tabular Matter, Diagrams and Illustrations"
+layout: narrative
+---
 
+## Classification of Special Problems 
 
-BOOKS CONTAINING CHARACTERS NOT IN THE ROMAN ALPHABET, TABULAR 
-
-
-
-
-
-
-
-
-MATTER, DIAGRAMS, AND ILLUSTRATIONS 
-
-
-Classification of Special Problems 
-
-Taevanaly sis OL Composition costs 
+{% include pagebreak.html canvas=181 %} The analysis of composition costs 
 of printed and typescript books has been 
 made on the assumption that the vehicle for 
 the recording or communicating of thought 
-was to be a text consisting of words writ-— 
-ten in the Roman alphabet. Under those 
+was to be a text consisting of words written in the Roman alphabet. Under those 
 conditions, composition costs follow the 
 number of words. Two thousand words cost 
 twice as much as 1000 words. 
 
 There are, however, a number of 
-Verrenvor OL vis Situation, each of wiiceh 
+variants of this situation, each of which 
 affects the computation of costs in their 
-relation to quality of product. These va-— 
-riant ways of presenting thought can be 
+relation to quality of product. These variant ways of presenting thought can be 
 classified as follows: 
 
-
+- proofed to here
 
 
 
