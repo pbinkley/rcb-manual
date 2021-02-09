@@ -21,36 +21,24 @@ affects the computation of costs in their
 relation to quality of product. These variant ways of presenting thought can be 
 classified as follows: 
 
-- proofed to here
-
-
-
 I. Presentation of thought in words and 
 numerals. 
 
 A. Words in the Roman alphabet and 
-numerals arranged as usual in hori- 
-zontal lines, but with variations 
-in size or body introduced for pur- 
-poses of emphasis. -(Use- of ital— 
-ics, bold-face, or smaller point 
+numerals arranged as usual in horizontal lines, but with variations 
+in size or body introduced for purposes of emphasis. (Use of italics, bold-face, or smaller point 
 size in footnote material.) 
 
-Words in the Roman alphabet and 
-
+B. Words in the Roman alphabet and 
 numerals arranged in vertical as 
-
 well as horizontal lines. (Tabular 
 material of all kinds.) 
 
 C. Words interspersed with characters 
-not in the Roman alphabet, or num-— 
-erals not arranged in simple hori- 
-wombal lines: (Rexts that: include 
-quoted Greek, treatises with in- 
-tricate formulae.) 
+not in the Roman alphabet, or numerals not arranged in simple horizontal lines: (Texts that: include 
+quoted Greek, treatises with intricate formulae.) 
 
-Pictorial presentation of thought. 
+II. Pictorial presentation of thought. 
 
 A. Black and white drawings. (From 
 the standpoint of reproduction 
@@ -59,120 +47,73 @@ and pictures in black and white
 are the same.) 
 
 B. Photographs or wash drawings. (The 
-essential fact is that the repro- 
-duction must distinguish diiferent 
+essential fact is that the reproduction must distinguish different {% include columnbreak.html canvas=181 col=2 %} 
+degrees of light and shade; instead of the sharp contrast of 
+black and white, there are continuous variations in tone.) 
 
-
-Tile 
-
-
-degrees of light and shade; in- 
-stead of the sharp contrast of 
-black and white, there are contin-— 
-Udus variations in tone.) 
-
-G. Collor reproduction. 
-
+C. Color reproduction. 
 
 In every case where one of these 
 vehicles for the presentation of thought 
-is used in connection with a text, the ex— 
-GEM Om dus Use may, em giclee tole sates 
+is used in connection with a text, the extent of its use may be great or small; 
 there may be many footnotes or few, many 
-or few Chinese characters may be inter- 
-spersed, there may be only one or two tab— 
-ulations in a whole book, or the book may 
-consist almost entirely of tabular materi- 
-als. The pictorial material may be a 
-greater om Less proportion @m the whole 
+or few Chinese characters may be interspersed, there may be only one or two tabulations in a whole book, or the book may 
+consist almost entirely of tabular materials. The pictorial material may be a 
+greater or less proportion of the whole 
 content of the book, it may be in the form 
 of larger or smaller areas, large maps and 
 charts, page-size photographs, or small 
-PMCTURe Sore Charis ilies eacin Tomllacay wae 
+pictures or charts filling each only a part 
 of a page. 
 
 In respect of all these variants of 
 the "normal" Look, the same fundamental 
 distinctions hold between large and small 
-editions, between running costs of process— 
-es like relief printing, which reduce the 
-COS ON each ICOpy Tes" Une s Ze Ome rie ean 
-tion increases, and of processes like the 
+editions, between running costs of processes like relief printing, which reduce the 
+cost of each copy as the size of the edition increases, and of processes like the 
 photostat, which have constant costs per 
-Copy regardless ol Vsize Of 'edition.  Watin 
+copy regardless of size of edition.  With 
 costs, there are also correlated different 
 degrees of legibility in the case of words 
 and numerals, and different degrees of 
 fidelity of reproduction in the case of 
 pictorial matter. There are variations in 
-beauty im the final product that follow 
-from the adoption of one or another tech- 
-nique, or the assumption of one or another 
+beauty in the final product that follow 
+from the adoption of one or another technique, or the assumption of one or another 
 cost. There is a cost differential between 
 the reproductions of text and picture that 
 are sufficiently legible and faithful for 
 the accurate transmission of thought, and 
-reproductions which go beyond this neces-— 
-sity in order to give aesthetic pleasure 
+reproductions which go beyond this necessity in order to give aesthetic pleasure 
 to the reader. 
 
-
-81 
-
-
-82 
-
-
-METHODS OF REPRODUCING RESEARCH MATERIALS 
-
-
-
-
-
-The processes already described—— 
-relief printing, photo-offset, typescript, 
+{% include pagebreak.html canvas=182 %} The processes already described---relief printing, photo-offset, typescript, 
 hectograph, mimeograph, manuscript with 
-photo--offset, blueprinting and photostat— 
-ing--all reappear in various combinations 
+photo-offset, blueprinting and photostating---all reappear in various combinations 
 in the multiplying of materials of these 
-various kinds. Descriptions and cost anal- 
-yses of these processes contained in the 
+various kinds. Descriptions and cost analyses of these processes contained in the 
 preceding chapters can be applied to the 
 problem presented here. 
 
-
-Reproduction in Typescript, Manuscript, 
-
-
-and Relief Printing without Pictorial Mat—- 
-ter 
-
+## Reproduction in Typescript, Manuscript, and Relief Printing without Pictorial Matter 
 
 When a text consists of words in 
 the Roman alphabet, arranged in horizontal 
 lines, but with variations in size or body, 
-the ordinary typewriter begins to lose ef- 
-ficiency in comparison with the linotype 
-or monotype on the one hand and the Vari- 
-typer on the other. The standard typewrit-— 
-er can introduce only three variations in- 
-to the form of a text: it can underline 
+the ordinary typewriter begins to lose efficiency in comparison with the linotype 
+or monotype on the one hand and the Varityper on the other. The standard typewriter can introduce only three variations into the form of a text: it can underline 
 words or sentences, change the interlinear 
 spacing, and change the length of line. 
 These variations are usually introduced in 
 typescript to set off quoted matter from 
-non-quoted matter. They do not always ma- 
-terially increase typescript composition 
+non-quoted matter. They do not always materially increase typescript composition 
 costs, and they affect multiplying costs 
 of typescript books only in so far as these 
-interfere with the use of non-standard in- 
-terlinear spacing. If the spacing of four 
+interfere with the use of non-standard interlinear spacing. If the spacing of four 
 and one-half or five lines to the inch is 
-used with pica typescript, the quoted mat— 
-ter cannot be set off from the regular 
+used with pica typescript, the quoted matter cannot be set off from the regular 
 text by reducing the interlinear spacing. 
-If footnotes are to be introduced, the com— 
-position cost is increased by the need for 
+If footnotes are to be introduced, the composition cost is increased by the need for 
 careful calculation to distribute the page 
 correctly between the text and footnote. 
 
@@ -180,49 +121,36 @@ The disadvantage of the standard
 typewriter in the preparation of typescript 
 material with footnotes for photo-offset 
 reproduction can be met to some extent by 
-the use of paste pot and shears in the mak— 
-ing of the format copy. The footnotes can 
-be typed separately with an elite or micro- 
-elite machine, and pasted on the bottom of 
+the use of paste pot and shears in the making of the format copy. The footnotes can 
+be typed separately with an elite or micro-elite machine, and pasted on the bottom of 
 the page of text. 
 
-The Varityper will allow the in- 
-troduction of a greater number of varie-— 
-ties of typescript faces and the text and 
+The Varityper will allow the introduction of a greater number of varieties of typescript faces and the text and 
 interlinear spacings. The linotype or 
-monotype is still more elastic in this re- 
-spect. 
-
+monotype is still more elastic in this respect. {% include columnbreak.html canvas=182 col=2 %}
 
 Composition costs will sometimes 
-increase with the introduction of these va- 
-riants. To give a quantitative comparison 
+increase with the introduction of these variants. To give a quantitative comparison 
 of the increase in cost is not practical. 
 The differences do not seem to be great 
 enough to have decisive influence on the 
 choice of techniques, unless (in the case 
 of typescript composition) the need for the 
-Varityper machine should make it impracti- 
-cal to calculate typescript composition 
+Varityper machine should make it impractical to calculate typescript composition 
 costs on any basis save that of the prices 
 of format copying offered by photo-offset 
 companies. In a particular case these 
 shop prices may be so much higher than the 
-office costs of standard typescript compo- 
-sition that the change from typescript to 
+office costs of standard typescript composition that the change from typescript to 
 relief printing would be indicated. 
 
-In the preparation of tabular mat-— 
-ter, the linotype or monotype exhibits ad- 
-vantages because it facilitates the center- 
-ing of text on a page and of the headings 
+In the preparation of tabular matter, the linotype or monotype exhibits advantages because it facilitates the centering of text on a page and of the headings 
 of columns. The typewriter stands at a 
 disadvantage in the preparation of tabular 
 material because of the lack of elasticity 
 in the size of letters in the headings of 
 columns. The mimeoform process is not well 
-adapted to the production of tabular mate- 
-rial because it does not easily reproduce 
+adapted to the production of tabular material because it does not easily reproduce 
 vertical lines. The typewriter also shows 
 its limitations when vertical lines on a 
 page are desired. 
@@ -231,56 +159,30 @@ If tabular material is to be given
 its maximum beauty and clarity, it may call 
 for manuscript composition. The kind of 
 skill in lettering and numbering that is 
-used in the manuscript composition of tab- 
-ular material is widely available, since it 
+used in the manuscript composition of tabular material is widely available, since it 
 is developed by the engineering profession 
-
-
-and taught in vocational schools as "mechan- 
-
-
-ical drawing." The three techniques avail-— 
-able for the reproduction of tabular mate— 
-rial are, then, relief printing, typescript 
+and taught in vocational schools as "mechanical drawing." The three techniques available for the reproduction of tabular material are, then, relief printing, typescript 
 with or without photographic multiplying, 
-and manuscript with some photographic tech—- 
-niques of multiplying (blueprinting, photo- 
-stating, photo-offset, ete.) 
+and manuscript with some photographic techniques of multiplying (blueprinting, photostating, photo-offset, etc.) 
 
 Cost comparisons are difficult to 
-establish among the three kinds of composi- 
-tion of tabular matter. In linotyping, the 
+establish among the three kinds of composition of tabular matter. In linotyping, the 
 extra charge for tabular matter may run 
 from 75% to 600%; in typescript, from 25% 
-to 200%; and the cost of manuscript prepar- 
-ation of tables can be guessed from the 
-fact that draughtsmen are available at wag- 
-es of #.60 per hour for ordinary skill and 
-$1.00 per hour for high skill, and that 
-
-
-~ 
-
-
-CHARACTERS NOT IN ROMAN ALPHABET, TABULAR MATTER, DIAGRAMS, ILLUSTRATIONS 
-
-
-their speed is much less than that of a 
-ayia Site 
+to 200%; and the cost of manuscript preparation of tables can be guessed from the 
+fact that draughtsmen are available at wages of $.60 per hour for ordinary skill and 
+$1.00 per hour for high skill, and that {% include pagebreak.html canvas=183 %} their speed is much less than that of a 
+typist. 
 
 When words are interspersed with 
 characters not in the Roman alphabet, the 
-non—Roman characters may happen to be in 
+non-Roman characters may happen to be in 
 another alphabet (i.e., Greek or Russian) 
 that is available as a special matrix for 
 the linotype, or as a special type font, or 
 a special type plate for the Varityper. A 
-font of type sufficient for occasional Rus— 
-sian words in a book costs $30.00 or $40.00; 
-a Varityper type plate costs $5.00 in ba- 
-kelite and $8.50 in metal; a font of Chi- 
-nese type varies in cost according to com— 
-pleteness. There could be no linotype 
+font of type sufficient for occasional Russian words in a book costs $30.00 or $40.00; 
+a Varityper type plate costs $5.00 in bakelite and $8.50 in metal; a font of Chinese type varies in cost according to completeness. There could be no linotype 
 matrix or Varityper type plate for Chinese 
 on account of the number of the symbols. 
 
@@ -295,17 +197,16 @@ these hand-drawn symbols can be made into
 small line cuts, exactly as if they were 
 drawings, and filled into the spaces left 
 in the linotype or monotype composition; if 
-the book is to be reproduced by a photo- 
-graphic technique, they can be drawn in 
-place upon the typescript or printed for- 
-mat copy, after which no special costs 
+the book is to be reproduced by a photographic technique, they can be drawn in 
+place upon the typescript or printed format copy,[^n1] after which no special costs 
 will arise. 
 
-In the case of a Bibliography on 
-Northeastern Asia, compiled by Professor 
+[^n1]: Note that in this case a single copy of the book would be printed as page proof, filled in by hand, and then multiplied by photo-offset.
+
+In the case of a *Bibliography on 
+Northeastern Asia*, compiled by Professor 
 Kerner of the University of California, 
-there were 15,500 items, of which 5,000 ti- 
-tles were in the western language; 3,500 in 
+there were 15,500 items, of which 5,000 titles were in the western language; 3,500 in 
 Russian; 2,500 in Chinese; and 2,500 in 
 Japanese. Letterpress reproduction was out 
 of the question because of the high costs 
@@ -314,50 +215,31 @@ languages and the small-edition size;
 photo-offset was the ideal process for the 
 job. The method proposed in the making of 
 the master copy was to have the English 
-typed in first, space being gauged and al- 
-lowed for the other titles. The Russian 
+typed in first, space being gauged and allowed for the other titles. The Russian 
 was then to be typed in with a Hammond 
 typewriter; these pages in turn were to be 
 given over to a student who would write in 
 the Chinese and Japanese characters by 
-hand, in a size proportionate to the typ-— 
-ing. The pages would then be ready to 
-
-
-85 
-
-
-serve as the master copy for the photo- 
-offset work. Estimates for the composition 
+hand, in a size proportionate to the typing. The pages would then be ready to {% include columnbreak.html canvas=183 col=2 %} serve as the master copy for the photo-offset work. Estimates for the composition 
 cost of the master copy ranged from $1,200 
 to $3,000. 
 
 The need for special equipment and 
-special skill in the reproduction of mate- 
-rials with non-Roman alphabet content lim- 
-its the competition for the work to certain 
-specially favored plants. The author him- 
-self may be in a position to assume some of 
+special skill in the reproduction of materials with non-Roman alphabet content limits the competition for the work to certain 
+specially favored plants. The author himself may be in a position to assume some of 
 the composition costs by filling in the 
 non-Roman symbols in spaces left for the 
-purpose in the typescript or printed com- 
-position. This shifting of composition 
-cost toward the author is a normal possi- 
-bility in the production of typescript 
+purpose in the typescript or printed composition. This shifting of composition 
+cost toward the author is a normal possibility in the production of typescript 
 books; it becomes especially important if 
 the preparation of the format copy requires 
 a rare skill or knowledge that the author 
 happens to command, either in himself or 
 in his assistants. 
 
+## Techniques in the Reproduction of Pictorial Matter 
 
-Techniques in the Reproduction of Pictorial 
-
-
-Matter 
-
-There are six fundamental tech- 
-niques for the reproduction of pictorial 
+There are six fundamental techniques for the reproduction of pictorial 
 matter. All of them involve the use of 
 photography and hence permit enlargements 
 or reductions from the original picture. 
@@ -365,143 +247,84 @@ The costs of all of them are fundamentally
 area costs and running costs, for one can 
 hardly speak of a composition cost factor 
 in the reproduction of pictures. Most of 
-them have already been described and anal- 
-yzed in connection with the reproduction 
+them have already been described and analyzed in connection with the reproduction 
 of texts. They must here be given further 
 description and classification. 
 
 The six fundamental techniques are 
 the following: 
 
+1. *Relief processes*. These come up from 
+    the original wood-block technique. Ink 
+    is carried to paper on the raised part 
+    of the printing surface. The standard 
+    forms in which this technique appears 
+    in small edition book publishing are 
+    the zinc cut and the zinc or copper 
+    photoengraving. 
+2. *Planographic processes*. These are related to the original lithography. A 
+    plane surface differentially receptive 
+    to ink receives the ink from a roller 
+    and transfers it to the paper. Photo-offset is the standard form. {% include pagebreak.html canvas=184 %}
+3. *Intaglio processes*. These are variants 
+    of etching. Ink is carried to paper in 
+    the sunken parts of a metal surface. 
+4. *Photogelatin or collotype*. This process bears some resemblance to planographic processes because the printing 
+    surface is differentially receptive to 
+    ink and moisture, some resemblance to 
+    intaglio because there are actually 
+    raised parts of the surface that reject 
+    ink and depressed parts that receive it. 
+5. *Photosensitive paper processes*. These 
+    are blueprinting, photostating, and 
+    photography. In these processes there 
+    is no use of ink. The paper used, for 
+    multiplying the pictorial matter is 
+    covered over its entire area with a 
+    photosensitive surface and then subjected to the action of light and to chemical action that transfers the image to 
+    it.
+6. *Projection image processes*. These correspond to microcopying. They are the 
+    same as those using photosensitive paper 
+    except that the image is developed on a 
+    transparent medium (glass or film) in a 
+    reduced size and then rendered useful 
+    by projection on a screen. 
 
-1. Relief processes. These come up from 
-the original wood-block technique. Ink 
-is carried to paper on the raised part 
-of the printing surface. The standard 
-forms in which this technique appears 
-in small edition book publishing are 
-the zine cut and the zinc or copper 
-photoengraving. 
-
-&. Planographic processes. These are re—- 
-lated to the original lithography. A 
-plane surface differentially receptive 
-to ink receives the ink from a roller 
-and transfers it to the paper. Photo- 
-offset is the standard form. 
-
-
-1. Note that in this case a single copy of the book would be printed as page proof, filled in by hand, 
-
-
-and then multiplied by photo-offset. 
-
-
-84 METHODS OF REPRODUCING RESEARCH MATERIALS 
-
-
-
-
-
-5. Intaglio processes. These are variants 
-of etching. Ink is carried to paper in 
-
-
-the sunken parts of a metal surface. 
-
-4. Photogelatin or collotype. This proc-— 
-ess bears some resemblance to plano- 
-graphic processes because the printing 
-surface is differentially receptive to 
-ink and moisture, some resemblance to 
-intaglio because there are actually 
-raised parts of the surface that reject 
-ink and depressed parts that receive it. 
-
-5. Photosensitive paper processes. These 
-are blueprinting, photostating, and 
-photography. In these processes there 
-is no use of ink. The paper used, for 
-multiplying the pictorial matter is 
-covered over its entire area with a 
-photosensitive surface and then sub ject— 
-ed to the action of light and to chem-— 
-ical action that transfers the image to 
-aimee 
-
-6. Projection image processes. These 
-respond to microcopying. They are 
-same as those using photosensitive 
-except that the image is developed on a 
-transparent medium (glass or film) in a 
-reduced size and then rendered useful 
-by projection on a screen. 
-
-
-cor— 
-the 
-paper 
-
-
-Color production processes are va- 
-riants of these. They will receive no 
-SpecralediS cuss lOnm Im bol SmCh ang Crem nloit 
+Color production processes are variants of these. They will receive no 
+special discussion in this chapter, not 
 because they lack importance, but rather 
 because their complexity makes analysis of 
-costs and results) ditiiculy, and thei: 
+costs and results) difficult, and their 
 place in the reproduction of materials of 
 scholarship is subordinate to that of the 
 monochromatic processes. 
 
 In all of these processes there 
-are different degrees of fidelity in re- 
-production of pictorial matter. These dif- 
-ferences are of two kinds: differences in 
-fineness of detail and differences in fine- 
-HESSmOnmmacCCuracy Ol stone'. 
+are different degrees of fidelity in reproduction of pictorial matter. These differences are of two kinds: differences in 
+fineness of detail and differences in fineness or accuracy of tone.
 
-4 The fineness of detail is primar— 
-Diveaecesultanu om size. eAnword sinaie pace 
-ture multiplied in a copy 6" x 9" will 
+The fineness of detail is primarily a resultant of size. an original picture multiplied in a copy 6" x 9" will 
 show more detail than the same picture 
-Multiplied! in a. copy 3" x 41/2". But the 
+multiplied in a copy 3" x 4 1/2". But the 
 method of reproduction has something to do 
-with it. The 3" x 41/2" copy made by the 
-photosensitive paper process on a good bro- 
-mide paper might show more detail than the 
+with it. The 3" x 4 1/2" copy made by the 
+photosensitive paper process on a good bromide paper might show more detail than the 
 6" x 9" copy made on photostat paper; the 
 smaller copy carefully photoengraved with 
-a high screening would show more detail 
-
-
-
-
-
+a high screening would show more detail {% include columnbreak.html canvas=184 col=2 %} 
 than the larger copy done with a low 
-
-
-sereening. These terms will be explained 
+screening. These terms will be explained 
 below; the essential fact to be established 
 at this point is the quality of fineness of 
 detail as an element in the reproduction of 
 pictorial matter. 
 
-The variations in accuracy or fine- 
-ness of tone are evident in the first in- 
-stance in the contrast between a pen and 
+The variations in accuracy or fineness of tone are evident in the first instance in the contrast between a pen and 
 ink drawing and a photograph. The pen and 
-ink drawing has but two tones—-black and 
-white; the photograph has a number of in- 
-termediate tones. Some processes of re- 
-production (such as telephoto on newsprint 
-paper) will render with recognizable dis-— 
-tinctness only three or four tones; pho- 
-tography on a soft bromide paper will ren- 
-der so many different tones that the meas-— 
-ure of them is given not by the actual sur- 
-face of the picture, but by the sensitiv— 
-ity of the human eye to distinctions in 
-I chitin ens ti cyse 
+ink drawing has but two tones---black and 
+white; the photograph has a number of intermediate tones. Some processes of reproduction (such as telephoto on newsprint 
+paper) will render with recognizable distinctness only three or four tones; photography on a soft bromide paper will render so many different tones that the measure of them is given not by the actual surface of the picture, but by the sensitivity of the human eye to distinctions in 
+light intensity. 
 
 Moreover, some processes will show 
 the maximum number of distinctions in tone 
@@ -516,125 +339,82 @@ of a particular process in separating the
 tones of a picture carries with it success 
 in exhibiting some kinds of detail. 
 
-Another distinction to be made be- 
-tween these processes is their different 
+Another distinction to be made between these processes is their different 
 degrees of adaptability in the combining of 
 pictorial and textual matter. The relief 
 pictorial processes combine with relief 
 printing in the production of books, the 
 planographic processes with photo-offset 
-printing. Intaglio and photogelatin proc-— 
-esses are used for the production of pic-— 
-torial matter separate from text but are 
+printing. Intaglio and photogelatin processes are used for the production of pictorial matter separate from text but are 
 capable of being combined with text in a 
 bound form. There seems to be no good 
-technical reason for not combining photo-— 
-gelatin pictorial work with reproduction of 
-text by photogelatin, though the combina-— 
-tion has not actually entered trade prac— 
-tice. Pictures made on photosensitive pa- 
-per can also be bound into books. Only 
-pictures made on transparent media for pro- 
-jection are absolutely incapable of combi- 
-navion wlth Gext ins bookperorm ss Anymore 
-of these processes can be used to reproduce 
-
-
-
-
-
-pictorial matter in a form or size that 
+technical reason for not combining photogelatin pictorial work with reproduction of 
+text by photogelatin, though the combination has not actually entered trade practice. Pictures made on photosensitive paper can also be bound into books. Only 
+pictures made on transparent media for projection are absolutely incapable of combination with text in book form. Any or all 
+of these processes can be used to reproduce {% include pagebreak.html canvas=185 %} pictorial matter in a form or size that 
 will not be bound with the text in a book 
 but will go to the reader of the book as a 
 separate item. 
 
+## Photoengraving and Photo-Offset 
 
-Photoengraving and Photo-Offset 
 The fundamental elements of the 
-
-
 photo-offset process have been explained 
-in the chapter on the reproduction of out-— 
-of-—print books and have received further 
-reference in the chapter on the photo- 
-offset reproduction of typescript books. 
+in the chapter on the reproduction of out-of-print books and have received further 
+reference in the chapter on the photo-offset reproduction of typescript books. 
 
 The first part of the photo-offset 
-process is the fundamental one in the re- 
-production of pictorial matter in large 
+process is the fundamental one in the reproduction of pictorial matter in large 
 editions, because it appears not only in 
 the production of books by photo-offset, 
 but also as an intermediate stage in the 
-preparation of line cuts and photoengrav— 
-ineseior relief printing'. 
+preparation of line cuts and photoengravings for relief printing. 
 
 The first stage in this process is 
 the making of a photographic negative. 
 While photolithographers have developed 
-the use of film and paper negatives, photo-— 
-engravers have remained loyal to the wet 
+the use of film and paper negatives, photoengravers have remained loyal to the wet 
 plate process for making negatives. There 
-Homomvechnological reason for this; it is 
+is no technological reason for this; it is 
 the result rather of the traditions of the 
 craft. 
 
 The photographic negative is then 
 transferred to a sensitized metal surface. 
 The image is burned on to a zinc sheet 
-that has been coated with albumen and am-— 
-monium bichromate, the unfixed emulsion is 
-washed off, and the zine surface is inked. 
+that has been coated with albumen and ammonium bichromate, the unfixed emulsion is 
+washed off, and the zinc surface is inked. 
 Up to this point the photo-offset process 
 and photoengraving process are the same. 
-So far as the chemical quality of the met- 
-al surface is concerned, it would be ready 
-to be clipped on to.a photo-offset press. 
+So far as the chemical quality of the metal surface is concerned, it would be ready 
+to be clipped on to a photo-offset press. 
 But an additional stage is necessary if 
 the metal is to be prepared for relief 
 printing. 
 
 The additional step, required for 
-the sake of using the relief printing prin- 
-ciple, is an application of an acid etch 
+the sake of using the relief printing principle, is an application of an acid etch 
 to the prepared zinc sheet. The inked 
 plate is dusted with powdered resin or 
 "dragon's blood," which adheres to the ink 
-and falls off the clean metal. The drag- 
-'on's blood is melted into place by warming 
-
-the zine. This will protect the printing 
+and falls off the clean metal. The dragon's blood is melted into place by warming 
+the zinc. This will protect the printing 
 surface from acid. Then the zinc is bathed 
-in acid. Repeated baths of acid and coat-— 
-'ings of dragon's blood cut away the ex— 
-posed parts of the plate and leave the pro- 
-
-
-CHARACTERS NOT IN ROMAN ALPHABET, TABULAR MATTER, DIAGRAMS, ILLUSTRATIONS 
-
-
-85 
-
-
-tected parts as a raised printing surface. 
+in acid. Repeated baths of acid and coatings of dragon's blood cut away the exposed parts of the plate and leave the pro{%- include columnbreak.html canvas=185 col=2 -%}tected parts as a raised printing surface. 
 When the printing surface is prepared in 
 this way, it is tacked on a wooden block 
 and is then ready to be fitted in with 
 linotype slugs or monotype composition in 
-a flat-—bed press. 
+a flat-bed press. 
 
 Of course the two processes are not 
-in practice as interchangeable as this de- 
-scription might make it appear. The photo- 
-offset worker uses a special thin metal 
+in practice as interchangeable as this description might make it appear. The photo-offset worker uses a special thin metal 
 sheet, which may be aluminum rather than 
 zinc; the photoengraver uses a heavier 
 sheet of metal which he will cut up into 
-blocks. He may use copper or nickel in- 
-stead of zinc. The traditions of the two 
-crafts are very different, but the chemis— 
-try of the process is the same, save that 
-the photoengraver must carry out an addi- 
-tional step, namely, the acid etch. 
+blocks. He may use copper or nickel instead of zinc. The traditions of the two 
+crafts are very different, but the chemistry of the process is the same, save that 
+the photoengraver must carry out an additional step, namely, the acid etch. 
 
 In the photo-offset process this 
 preparation of the printing surface is 
@@ -642,83 +422,51 @@ identical for text and for black-and-white
 pictorial matter. In the relief printing 
 process the preparation of the printing 
 surface for the text by linotype is quite 
-different from the preparation of the pic-— 
-torial printing surface or line cut. There- 
-fore, in relief printing, an additional 
-cost: factor must be taken into account—— 
-the fitting together of pictorial and tex- 
-tual printing surfaces. This cost factor 
+different from the preparation of the pictorial printing surface or line cut. Therefore, in relief printing, an additional 
+cost: factor must be taken into account---the fitting together of pictorial and textual printing surfaces. This cost factor 
 is absent from the photo-offset process. 
 
-
-Half-—tone Pictures in Photo-Offset and 
-Photoengraving 
+## Half-tone Pictures in Photo-Offset and Photoengraving 
 
 Photo-offset and photoengraving 
-present the same similarities as and dif- 
-ferences from other processes when pictori- 
-al matter to be reproduced is not a black- 
-and—white image, but a half—tone picture 
+present the same similarities as and differences from other processes when pictorial matter to be reproduced is not a black-and-white image, but a half—tone picture 
 showing different shades of grey. To print, 
 whether by photo-offset or relief technique, 
 a picture that will show different shades 
-of grey requires resort to an optical il- 
-dS. 
+of grey requires resort to an optical illusion. 
 
 If a number of small dots on a 
-white ground are seen from a reading dis-— 
-tance they will appear to run together as 
+white ground are seen from a reading distance they will appear to run together as 
 grey. The grey will be lighter or darker 
-according to the density of the dots—-that 
+according to the density of the dots---that 
 is to say, according to the proportion of 
 the paper surface they occupy. The tone 
 will seem smooth or rough according to the 
 size of the dots. The photoengraver or 
 photo-offset printer, when he reproduces a 
-photograph, renders the greys intermediate 
-
-
-86 
-
-
-
-
-
-between black and white by printing aggre- 
-gations of dots. The newspaper reproduc-— 
-tions of photographs are so coarse that 
+photograph, renders the greys intermediate {% include pagebreak.html canvas=186 %} between black and white by printing aggregations of dots. The newspaper reproductions of photographs are so coarse that 
 they can be analyzed by the naked eye into 
 their constituent arrays of dots; there 
 are small black dots in the lighter greys, 
 larger ones in the darker greys, while in 
-the darkest greys the black dots rum to- 
-gether, leaving small white dots between 
+the darkest greys the black dots rum together, leaving small white dots between 
 them. 
 
 To break the continuous tones of 
-an original photograph into a printing sur- 
-face that will, by putting dots on paper, 
+an original photograph into a printing surface that will, by putting dots on paper, 
 give an illusion of a comparable range of 
-tone, the photoengraver or photolithograph- 
-er prepares his negative in a special way. 
-He uses a "screen." The screen is a com-— 
-bination of two sheets of glass, ruled di- 
-agonally with opaque lines crossing at 
-right angles, and cemented and bound to- 
-gether. When the light passes through such 
-
-"a screen, it reaches the plate in dots and 
-so causes the image on the negative to ap- 
-pear in dots also. Four main factors de— 
-termine these dot formations: the amount 
+tone, the photoengraver or photolithographer prepares his negative in a special way. 
+He uses a "screen." The screen is a combination of two sheets of glass, ruled diagonally with opaque lines crossing at 
+right angles, and cemented and bound together. When the light passes through such a screen, it reaches the plate in dots and 
+so causes the image on the negative to appear in dots also. Four main factors determine these dot formations: the amount 
 of light reflected by the copy (i.e., the 
 light and shade tones of the photograph 
-that is being copied), the size of the open- 
-ings used in the camera, the distance of 
+that is being copied), the size of the openings used in the camera, the distance of 
 the screen from the photographic plate, 
-and the fineness of the screen. The fine- 
-ness of the screen is expressed in lines 
+and the fineness of the screen. The fineness of the screen is expressed in lines 
 to the inch and varies from 45 to 400. 
+
+- proofed to here
 
 The screening of the photograph is 
 a stage in the preparation of the negative, 

@@ -14,7 +14,7 @@ Work in progress, toward an online edition of the *Manual*.
 - <span class="chapternumber">IV.</span> [The Typescript Book or Memorandum: The Typewriter and Typescript](sections/04-the-typescript-book-or-memorandum-typescript.html)
 - <span class="chapternumber">V.</span> [The Typescript Book or Memorandum: Reproduction Techniques](sections/05-the-typescript-book-or-memorandum-reproduction-techniques.html)
 - <span class="chapternumber">VI.</span> [Blueprinting, Photostating, and Allied Techniques](sections/06-blueprinting-photostating-and-allied-techniques.html)
-- <span class="chapternumber">VII.</span> Books Containing Characters Not in the Roman Alphabet, Tabular Matter, Diagrams and Illustrations
+- <span class="chapternumber">VII.</span> [Books Containing Characters Not in the Roman Alphabet, Tabular Matter, Diagrams and Illustrations](sections/07-books-containing-characters-not-in-the-roman-alphabet-tabular-matter-diagrams-and-illustrations.html)
 - <span class="chapternumber">VIII.</span> [A Study of Paper Permanence](sections/08-a-study-of-paper-permanence.html)
 - <span class="chapternumber">IX.</span> [Binding, Vertical Filing, and Film Storage](sections/09-binding-vertical-filing-and-film-storage.html)
 - <span class="chapternumber">X.</span> [Reduced-Scale Photographic and Photolithographic Copying on Paper for Reading through Magnifying Glasses](sections/10-reduced-scale-photographic-and-photolithographic-copying-on-paper-for-reading-through-magnifying-glasses.html)
