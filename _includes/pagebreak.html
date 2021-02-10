@@ -10,7 +10,6 @@
   <a href="https://archive.org/details/manualonmethodso00robe/page/{{ linkpage | strip }}/mode/1up">
     <img style="width: 150px; border: 1px solid black; margin-bottom: 0" src="{{ canvas | strip | prepend: '/iiif/thumbnails/' | append: '.jpg' | absolute_url }}">
   </a>{%- endif -%}p.{{ thispage.label | strip }}
-  {% if thispage['content']=='blank' %}<a href="https://archive.org/details/manualonmethodso00robe/page/{{ linkpage | strip }}/mode/1up">\(blank\)</a>{% endif %}
-</span>
+  {% if thispage['content']=='blank' %}<a href="https://archive.org/details/manualonmethodso00robe/page/{{ linkpage | strip }}/mode/1up">\(blank\)</a>{% endif %}</span>
 {%- endcapture -%}
 {{- output | strip -}}
