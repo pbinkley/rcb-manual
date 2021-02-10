@@ -1,0 +1,1 @@
+{"stem":"stdout","instances":[{"docId":"jekyll_update_2020_12_10_welcome-to-jekyll","docUri":"jekyll\/update\/2020\/12\/10\/welcome-to-jekyll.html","score":1,"contexts":[{"form":"STDOUT","context":"...#{name}\" end print_hi('Tom') #=> prints 'Hi, Tom' to <mark>STDOUT<\/mark>.","weight":1,"pos":95,"fid":"main"}]}]}

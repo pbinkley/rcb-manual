@@ -22,7 +22,8 @@ img {
     max-width: 100%;
 }
 
-ul li {
+/* no bullets on toc on front page */
+h2#table-of-contents ~ ul > li {
   list-style: none;
 }
 

@@ -7,6 +7,8 @@ layout: default
 
 Work in progress, toward an online edition of the *Manual*.
 
+## Table of contents
+
 - <span class="chapternumber"></span> [Front matter](sections/00-front.html)
 - <span class="chapternumber">I.</span> [The Setting of the Problem of Reproducing Research Materials](sections/01-the-setting-of-the-problem-of-reproducing-research-materials.html)
 - <span class="chapternumber">II.</span> [Publishing and Library Costs: The Book](sections/02-publishing-and-library-costs-the-book.html)
@@ -23,11 +25,16 @@ Work in progress, toward an online edition of the *Manual*.
 - <span class="chapternumber">XIII.</span> The Recording of Sound
 - <span class="chapternumber">XIV.</span> [Conclusion](sections/14-conclusion.html)
 
+## Search
+
+- [Search](search.html)
+
+The search service uses [staticSearch 1.1](https://endings.uvic.ca/staticSearch/docs/index.html) by Martin Holmes and Joey Takeda. The configuration is still very basic. 
+
 ## IIIF
 
 - [Manifest]({{ 'iiif/manualonmethodso00robe/manifest.json' | absolute_url }})
 - [Mirador view]({{ 'mirador3' | absolute_url }})
-
 
 The manifest uses the image service from Internet Archive's [IIIF platform](https://iiif.archivelab.org/iiif/manualonmethodso00robe), but has enhancements such as a detailed table of contents.
 
