@@ -1,31 +1,24 @@
-CHAPTER XIII 
+---
+section: Chapter XIII 
+title: The Recording of Sound
+layout: narrative
+---
 
+## Cost Levels of Sound Reproduction 
 
-THE RECORDING OF SOUND 
-
-
-Cost Levels of Sound Reproduction 
-The forward drive of technology of- 
-
-
-fers the prospect of a number of new pos- 
-sibilities in the transmission of texts. 
+{% include pagebreak.html canvas=345 %}The forward drive of technology offers the prospect of a number of new possibilities in the transmission of texts. 
 Television may render long-distance reading 
-a possibility. The transmission of fac- 
-simile texts by radio is on the verge of 
-practical realization. The direct record- 
-ing of sound is already in use for research 
+a possibility. The transmission of facsimile texts by radio is on the verge of 
+practical realization. The direct recording of sound is already in use for research 
 purposes, and is definitely superior to 
-written reproduction in certain fields 
+written reproduction in certain fields of 
 linguistics and music. 
 
 In general, the technology and cost 
-relationships encountered in the reproduc- 
-tion of sound follow the pattern of those 
+relationships encountered in the reproduction of sound follow the pattern of those 
 encountered in the reproduction of texts. 
 
-In disc recording of sound, for in- 
-stance, the disc area is most economically 
+In disc recording of sound, for instance, the disc area is most economically 
 used if it is made to rotate at constant 
 linear velocity. The ordinary phonograph 
 runs at a constant velocity in revolutions 
@@ -34,44 +27,31 @@ the short circumference near the inside of
 the disc are moving at a speed of one and 
 one-half feet a second, which is adequate 
 for the reproduction of sound frequencies 
-up to 5,000. But the same number of revolu- 
-tions per minute (seventy-eight is the in- 
-ternational standard) would then carry the 
+up to 5,000. But the same number of revolutions per minute (seventy-eight is the international standard) would then carry the 
 outside grooves of a large record at two or 
 three times this speed. It takes two or 
 three inches of groove at the outer edge of 
 the record to reproduce the same amount of 
 sound that is reproduced nearer the center 
 on one inch. By varying the speed of the 
-record in revolutions per minute, the ve- 
-locity of the groove can be made constant. 
-
-
-of 
-
-
-This economizes record space but increases 
-apparatus cost. The relationship is pre- 
-cisely the one that is encountered in micro- 
-photography, where an increase in cost of 
-apparatus yields an economy in cost of filn. 
+record in revolutions per minute, the velocity of the groove can be made constant. {% include columnbreak.html canvas=345 col=2 %} This economizes record space but increases 
+apparatus cost. The relationship is precisely the one that is encountered in microphotography, where an increase in cost of 
+apparatus yields an economy in cost of film. 
 
 The relationship of first cost to 
-running cost is encountered in sound repro- 
-duction as in text reproduction. A set of 
+running cost is encountered in sound reproduction as in text reproduction. A set of 
 master discs costs about $7.50 for one 
 side, $15.00 for two sides of a record. The 
 cost of making pressings from these is from 
 $.55 to $.75 each, of fifty; or more are 
 needed. But an inferior record can be made, 
-one at a time, by "dubbing"--that is, play- 
-ing the master record and recording it on 
+one at a time, by "dubbing"---that is, playing the master record and recording it on 
 a new disc. The dubbed records cost about 
 $1.00 each. The cost structure here is 
 like the comparison of photo-offset and 
 photostat, and curiously enough, the two 
 cost lines cross each other at about the 
-same place--twenty-five copies. 
+same place---twenty-five copies. 
 
 As might be expected, the cost per 
 word of sound recording is higher than the 
@@ -81,103 +61,80 @@ Fifty 12" discs would record 100,000 words.
 The filing space necessary to hold them 
 would be a little more than a cubic foot. 
 These records, in an edition of fifty, 
-would cost from $2500 to $3000. A very ex- 
-pensive printing job, with copious illus- 
-trations, might well run up a cost very 
-elose to this. 
+would cost from $2500 to $3000. A very expensive printing job, with copious illustrations, might well run up a cost very 
+close to this. 
 
-The figures upon which these con- 
-clusions are based were furnished by Pro- 
-fessor Miles L. Hanley, who has written the 
+The figures upon which these conclusions are based were furnished by Professor Miles L. Hanley, who has written the 
 following description of the technique of 
 sound reproduction. 
 
-
-TECHNIQUE OF PHONOGRAPHIC RECORDING 
-
+## TECHNIQUE OF PHONOGRAPHIC RECORDING 
 
 By Miles L. Hanley 
 
-
 Phonographic recording is rapidly 
 becoming an indispensable tool for research. 
-Conventional transcriptions cannot ade- 
-quately represent the unusual intervals of 
-folk music and many of the important char- 
-
-
-acteristics of speech, such as voice quali- 
-ty, intonation, distribution of stress, 
+Conventional transcriptions cannot adequately represent the unusual intervals of 
+folk music and many of the important char{%- include columnbreak.html canvas=345 col=2 -%}acteristics of speech, such as voice quality, intonation, distribution of stress, 
 speed and rhythm of utterance. Written 
-records, however good, must contain a per- 
-sonal and subjective element. Without some 
-
-
-aotae 
-
-
-178 
-
-
-objective check, their use requires an act 
-of faith--faith that the field worker has 
+records, however good, must contain a personal and subjective element. Without some {% include pagebreak.html canvas=346 -%} objective check, their use requires an act 
+of faith---faith that the field worker has 
 heard accurately, that he has been able to 
 translate what he heard into symbols, and 
-that we know just: what he means by his sym- 
-bols. Phonograph records not only provide 
+that we know just what he means by his symbols. Phonograph records not only provide 
 such a check, but they constitute a perfect 
 archive of material which may be consulted 
 and studied in the future. 
 
-After the invention of the phono- 
-graph in 1877, its obvious advantages to 
+After the invention of the phonograph in 1877, its obvious advantages to 
 the linguist, the folklorist, the ballad 
 collector and the anthropologist were 
 promptly recognized by European scholars. 
-The Vienna Phonogramm—-Archiv was founded by 
+The Vienna Phonogramm-Archiv was founded by 
 Siegmund Exner in 1899, and the Musée 
 Phonétique by Auzulay in 1900. Since then 
-many other collections have been estab- 
-lished: a second one in Paris, two in Ber- 
-lin, and others in Cologne, Lubeck, Frank- 
-furt, Leyden, Oslo, and Zurich. In Ameri- 
-ca, although our scientists have made great 
-advances in the mechanical technique of re- 
-cording, our scholars have been slow to see 
+many other collections have been established: a second one in Paris, two in Berlin, and others in Cologne, Lubeck, Frankfurt, Leyden, Oslo, and Zurich. In America, although our scientists have made great 
+advances in the mechanical technique of recording, our scholars have been slow to see 
 the possible uses of this tool. It is true 
-that some folk song and American Indian ma- 
-terial has been collected in the past, but 
+that some folk song and American Indian material has been collected in the past, but 
 mostly by the unsatisfactory methods of 
 cylinder recording or magnetic recording. 
 So far we have nothing in America that could 
 be called even the beginning of a central 
-Phonogramm-Archiv, but we do have some im- 
-portant collections and many more are in 
-prospect. A few of these are: Professor 
-
-
-
-
-
-METHODS OF REPRODUCING RESEARCH MATERIALS 
-
-
-Greet's American Speech records which have 
+Phonogramm-Archiv, but we do have some important collections and many more are in 
+prospect. A few of these are: Professor {% include columnbreak.html canvas=345 col=2 %} Greet's American Speech records which have 
 been made at Columbia during the past ten 
 years, the folk songs collected by John A. 
 Lomax, the Gullah negro records made by 
 Dr. Lorenzo D. Turner, and the records of 
 New England speech made for the Linguistic 
-ae of America (United States and Cana- 
-da). 
+Atlas of America (United States and Canada).[^n1]
 
+[^n1]: See the *American Council of Learned Societies Bulletin No. 23* for June, 1935 especially Professor Milman Parry's "Oral Poetry of the Southern Slavs," pp. 30 and 98; Professor Herskovits' Transcriptions of West African Music," p. 125; and the reports on the Linguistic Atlas Collection, pp. 22 and 87. 
 
-Sound Recording Methods® 
+[^n2]:For a full and authoritative discussion with excellent bibliographies see *Technische Akustik*, ed. E. Waetzmann, 2 vols., Leipzig, 1934. (These two volumes from Bd. XVII of the *Handbuch der Experimentalphysik*.) 
 
-In all kinds of electrical record- 
-ing, sound waves (periodic variations in 
-pressure) produce mechanical movements-—- 
-usually in a sensitive diaphragm. These 
+    An excellent and readable book on film and disc recording is *Talking Pictures* by Bernard Brown, 
+    2d (revised) ed., London, 1933 (Isaac Pitman). 
+
+    A compact and useful practical book is *Home Recording and All About It* by George J. Saliba, New York, 1932 (Gernsback). 
+
+    *Sound Projection* (by Rudolph Miehling, New York, 1929 (Mancell Pub. Co.), while less up-to-date than the other books mentioned, may be found useful. 
+
+    An abstract of G. Oscar Russell's, *Mechanical Recording of Speech* appears in Bulletin No. 4, *Ling, Soc. Am.*, Sept., 1929. 
+
+    A brief essay by H. A. Frederick, "Recording and Reproducing Sound" appears in the *Review of Scientific Instruments*, Vol. 5, No. 5 (May, 1934). 
+
+    A discussion of recording materials is found in E. Nesper, *Nimm Schallplatten Selber Auf!* (Stuttgart, 3rd ed., 1932) and in the essay by H. A. Frederick referred to above. 
+
+    See also the Journal of the Acoustical Society of America, *The Review of Scientific Instruments*, and *The Bell Technical Journals*. 
+
+[^n3]: This last method, much in vogue in France, is not to be confused with the familiar moving picture technique in which light variations are photographed. 
+
+## Sound Recording Methods[^n2]
+
+In all kinds of electrical recording, sound waves (periodic variations in 
+pressure) produce mechanical movements---usually in a sensitive diaphragm. These 
 movements are translated into corresponding 
 electrical vibrations or variations which 
 (usually after amplification by vacuum 
@@ -185,148 +142,48 @@ tubes) produce mechanical movements in a
 second diaphragm or a moving armature of 
 some type. Electrical variations may be 
 translated into light variations (sound on 
-film) or into magnetic variations (Tele- 
-graphone, Blattnerphone). In the familiar 
-phonographic technique, the sound vibra- 
-tions are translated into mechanical move- 
-ments of a stylus which cuts or imbeds a 
-groove in ja disc cylinder MOre sia pmo lmao 
-\wakoal joal(ers het film.® The groove may be of 
+film) or into magnetic variations (Telegraphone, Blattnerphone). In the familiar 
+phonographic technique, the sound vibrations are translated into mechanical movements of a stylus which cuts or imbeds a 
+groove in a disc, cylinder, or strip of motion picture film.[^n3] The groove may be of 
 constant depth, recording lateral swings of 
 the stylus (lateral cut, "snake track," 
 Berlinerschrift) or of varying depth (hill 
 and dale, Edisonschrift). Hill and dale 
 recording is used in dictating machines and 
-in some very high-quality studio recording, 
-
-
-1. See the American Council of Learned Societies Bulletin No. 23 for June, 1935 especially Professor Mil- 
-man Parry's "Oral Poetry of the Southern Slavs," pp. 30 and 98; Professor Herskovits! Transcriptions 
-of West African Music," p. 125; and the reports on the Linguistic Atlas Collection, pp. 22 and 87. 
-
-
-
-
-
-e. For a full and authoritative discussion with excellent bibliographies see Technische Akustik 
-(These two volumes from Bd. XVII of the Handbuch der Experimen- 
-
-
-E. Waetzmann, 2 vols., Leipzig, 1934. 
-talphy sik.) 
-
-
-ed. 
-
-
-
-
-
-An excellent and readable book on film and disc recording is Talking Pictures by Bernard Brown, 
-
-
-2d (revised) ed., London, 1933 (Isaac Pitman). 
-
-
-A compact and useful oractical book is Home Recording and All About It by George J. Saliba, 
-
-
-New York, 1932 (Gernsback). 
-
-
-Sound Projection (by Rudolph Miehling, New York, 1929 (Mancell Pub. Co.), while less up-to-date 
-than the other books mentioned, may be found useful. 
-An abstract of G. Oscar Russell's, Mechanical Recording of Speech appears in Bulletin No. 4, 
-
-
-Ling, Soc. Am., Sept., 1929. 
-
-
-A brief essay by H. A. Frederick, "Recording and Reproducing Sound" appears in the Review of 
-
-
-Scientific Instruments, Vol. 5, No. 5 (May, 1934). 
-
-
-A discussion of recording materials is found in E. Nesper, Nimm Schallplatten Selber Auf! 
-(Stuttgart, 3rd ed., 1932) and in the essay by H. aA. Frederick referred to above. 
-
-
-See also the Journal of the Acoustical Society of America, The Review of Scientific Instru- 
-
-
-ments, and The Bell Technical Journals. 
-
-
-5. This last method, much in vogue in France, is not to be confused with the familiar moving picture tech- 
-
-
-nique in which light variations are photographed. 
-
-
-THE RECORDING OF SOUND 
-
-
-72 
-
-
-AN IN, _ TT 
-
-
-but lateral cut records are most practical 
+in some very high-quality studio recording, {% include pagebreak.html canvas=347 %} but lateral cut records are most practical 
 for common use at the present time. 
 
 The recording methods referred to 
-in the preceding paragraph may be classi- 
-fied as (1) Photographic, (2) Magnetic, 
+in the preceding paragraph may be classified as (1) Photographic, (2) Magnetic, 
 (3) Mechanical. Since the particular kind 
-of mechanical recording known as instan- 
-taneous recording on disc will be used in 
-most research projects, the first and sec- 
-ond will be dismissed with a few brief re- 
-marks .4 
+of mechanical recording known as instantaneous recording on disc will be used in 
+most research projects, the first and second will be dismissed with a few brief remarks.[^n4]
 
-
-1. Photographic. In this method, 
+\1. *Photographic*. In this method, 
 electrical variations produce corresponding 
 light variations, which in turn produce 
-either a varying amount of exposure (vari- 
-able density, Western Electric) or varying 
+either a varying amount of exposure (variable density, Western Electric) or varying 
 area (variable width, R.C.A.) on a photo- 
 graphic film. Equipment for this method 
-can be easily portable and can be used un- 
-der extreme climatic conditions, but the 
-record cannot be played back at once. Ac- 
-cording/'to Dr. H. A. Frederick, duplicates, 
+can be easily portable and can be used under extreme climatic conditions, but the 
+record cannot be played back at once. According to Dr. H. A. Frederick, duplicates, 
 even commercial ones, show considerable 
-yariations from print to print. "Such du— 
-plicate records have thus far failed to 
+variations from print to print. Such duplicate records have thus far failed to 
 show as great uniformity as disc record 
 pressings. The individual film records are 
-Expensive, Geli cave, bulky, sand sditricult 
-to handle compared with disks."© In con- 
-tradiction to this statement it has been 
+expensive, delicate, bulky, and difficult  
+to handle compared with disks.[^n5] In contradiction to this statement it has been 
 pointed out that duplicate prints produced 
 by the large film companies are now fairly 
 constant and that variations are mainly in 
 the range above four thousand cycles. The 
 fact remains that it would be difficult for 
-the ordinary research worker to get copies 
+the ordinary research worker to get copies {% include columnbreak.html canvas=347 col=2 %} of any such quality. The excellence of 
+film recording is unquestioned, but the expense of this method is prohibitive for 
+most research projects.[^n6]
 
-
-
-
-
-of any such quality. The excellence of 
-film recording is unquestioned, but the ex- 
-pense of this method is prohibitive for 
-most research projects.© 
-
-
-&. Magnetic. In this method, elec- 
-trical variations produce variations in the 
-degree to which a magnetic wire (Tele- 
-graphone) or steel tape (Blattnerphone) is 
+\2. *Magnetic*. In this method, electrical variations produce variations in the 
+degree to which a magnetic wire (Telegraphone) or steel tape (Blattnerphone) is 
 magnetized across its axis. This method 
 requires special equipment and is not much 
 more satisfactory than cylinder recording. 
@@ -336,10 +193,9 @@ dub the record on disc or film. The great
 disadvantage of the magnetic method is 
 that, with the alloys now available, a wire 
 or tape soft enough to record sensitively 
-loses its magnetism in a short time.7 
+loses its magnetism in a short time.[^n7] 
 
-
-3. Mechanical. Mechanical methods 
+\3. *Mechanical*. Mechanical methods 
 include cylinder recording, scratching on 
 motion picture film, studio recording on 
 wax, and the various instantaneous disc 
@@ -350,75 +206,28 @@ excluded. It is almost as expensive as
 disc recording, and much less satisfactory. 
 The records are fragile, insensitive to 
 high frequencies, difficult and expensive 
-to duplicate, and quickly worn out by use.8 
+to duplicate, and quickly worn out by use.[^n8] 
+
+[^n4]: For technical information I am indebted to the expert knowledge of Mr. Lincoln Thompson of the Sound Specialties Company, Waterbury, Connecticut. He is not, of course, responsible for any faults in the present account, much of which is inexpertly condensed from his full and explicit discussions. I have also used a number of valuable suggestions from Mr. S. K. Wolf, Acoustic Consulting Manager of Electrical Research Products, Inc. 
+
+[^n5]: H. A. Frederick, *Rev. of Sci. Inst.*, Vol. 5 (May, 1934), p. 181. 
+
+[^n6]: A photographic sound track may be put on disc. Such a record is of excellent quality and free from surface scratch because there is no surface contact. However, the method is not practical for most purposes and it is impossible to get more than two minutes of recording on a disc of ordinary size. 
+
+[^n7]: A magnetic steel tape recorder recently built by the Bell Laboratories is said to give much better quality than cylinder recording. They also have tapes which are said to retain their magnetism indefinitely. 
+
+[^n8]: Unfortunately most of the field recording done in the past has employed some kind of cylinder recording on the principle of the Edison Phonograph, and a great deal of valuable material is so preserved. It is to be hoped that no one hereafter will use such methods, but those who have cylinder records may be interested to know that they can now be electrically re-recorded on discs in this country. 
 
 Recording by means of grooves 
 scratched on motion picture film has not, 
-so far as I know, been tried very exten-— 
-Silvey machsmCountrya lhe materiales 
+so far as I know, been tried very extensively in this country. The material is
 not expensive, since discarded picture films 
-may be used, but duplication is difficult 
-
-
-ee 
-
-
-4. For technical information I am indebted to the expert knowledge of Mr. Lincoln Thompson of the Sound 
-
-
-Specialties Company, Waterbury, Connecticut. 
-
-
-He is not, of course, responsible for any faults in the 
-
-
-present account, much of which is inexpertly condensed from his full and explicit discussions. I have 
-also used a number of valuable suggestions from Mr. S. K. Wolf, Acoustic Consulting Manager of Electri- 
-
-
-cal Research Products, Inc. 
-
-
-5. H. A. Frederick, Rev. of Sci. Inst., Vol. 5 (May, 1934), p. 181. 
-
-
-6. A photographic sound track may be put on disc. 
-
-
-Such a record is of excellent quality and free from 
-surface scratch because there is no surface contact. 
-
-
-However, the method is not practical for most 
-
-
-purposes and it is impossible to get more than two minutes of recording on a disc of ordinary size. 
-7. A magnetic steel tape recorder recently built by the Bell Laboratories is said to give much better 
-
-
-quality than cylinder recording. 
-nitely. 
-
-
-They also have tapes which are said to retain their magnetism indefi- 
-
-
-8. Unfortunately most of the field recording done in the past has employed some kind of cylinder recording 
-on the principle of the Edison Phonograph, and a great deal of valuable material is so preserved. It 
-is to be hoped that no one hereafter will use such methods, but those who have cylinder records may be 
-interested to know that they can now be electrically re-recorded on discs in this country. 
-
-
-180 
-
-
-and special apparatus is needed both for 
+may be used, but duplication is difficult {% include pagebreak.html canvas=348 %} and special apparatus is needed both for 
 recording and playing. I have heard that 
 there are difficulties in keeping the films 
-flat and constant in velocity. The record- 
-ing medium, celluloid or cellulose acetate, 
+flat and constant in velocity. The recording medium, celluloid or cellulose acetate, 
 is also open to objections which will be 
-discussed under disc recording .9 
+discussed under disc recording.[^n9]
 
 Since most of us require records 
 that can be made in the field and paid for 
@@ -428,74 +237,53 @@ the material can be recorded in the studio
 and expense is) no object, records can (be 
 made of a perfection that would have seemed 
 miraculous five years ago. In studio re- 
-cording, the groove is cut inca isoft "wax" 
+cording, the groove is cut in a soft "wax" 
 (really a mixture of metallic soaps). "The 
-surface of the wax, after being thus en- 
-graved, is rendered electrically conducting. 
+surface of the wax, after being thus engraved, is rendered electrically conducting. 
 This can be done in a number of ways, such 
 as dusting with graphite or bronze powder, 
 sputtering with gold or silver in a cathode 
 chamber, or by the chemical precipitation 
-of silver."1°9 'The wax is then electroplat- 
-ed with copper and a "master" made. From 
+of silver."[^n10] The wax is then electroplated with copper and a "master" made. From 
 this "master" or negative, records may be 
 pressed, though in commercial practice, 
 where many pressings are to be made, a 
 "mother" is electroplated from the "master" 
 and from that, one or more "stampers," that 
 the master negative may not be worn out. 
-The layman who does not understand the del- 
-WORY tlatel Glisties Chula, Ost iwee@webias Oia 
-studio wax should see the process, or read 
+The layman who does not understand the delicacy and difficulty of recording on a studio wax should see the process, or read 
 a detailed account (e.g., that in Brown's 
-Talking Pictures, cited above). 
+*Talking Pictures*, cited above). 
 
 What might be called "semi-studio" 
-recording has been tried by the Lautabteil- 
-ung of the National Library of Prussia and 
-by the Royal Irish Academy.11 Portable ap- 
-paratus for recording on studio wax exists, 
-but it is much more cumbersome than appara- 
-tus for instantaneous recording and is open 
-LOMnany Ser CUS mpLacb1 Caled i hit culkidesr 
+recording has been tried by the Lautabteilung of the National Library of Prussia and 
+by the Royal Irish Academy.[^n11] Portable apparatus for recording on studio wax exists, 
+but it is much more cumbersome than apparatus for instantaneous recording and is open 
+to many serious practical difficulties.
 
 The remainder of this. discussion 
 will be devoted to instantaneous recording 
-on disc. There are three kinds of methods: 
-
-
-
-
-
-
-
-
-METHODS OF REPRODUCING RESEARCH MATERIALS 
-
-
-(1) those using a pregrooved record; (2) cut- 
-ting; (3) imbedding. 
+on disc. There are three kinds of methods: {% include columnbreak.html canvas=348 col=2 %} (1) those using a pregrooved record; (2) cutting; (3) imbedding. 
 
 (1) Pregrooved records have been 
 widely used in home recording. There are 
 two methods: In one the stylus point drops 
-into the center of the pregroove, and pro- 
-duces a groove within a groove; in the 
+into the center of the pregroove, and produces a groove within a groove; in the 
 other the stylus point fills the pregroove 
 and produces undulations in it. The discs 
 are expensive, but when a small amount of 
 recording is to be done and high quality is 
-not required, this method offers great ad- 
-vantages, since the ordinary pick-up arm is 
+not required, this method offers great advantages, since the ordinary pick-up arm is 
 used and no feed for the cutting head is 
-required. Very good records may be pro- 
-duced with this method by using a special 
+required. Very good records may be produced with this method by using a special 
 turntable and powerful motor, but in this 
 case the added cost of discs and special 
 equipment is such that one might as well 
 have provided a turntable feed in the first 
 place. 
 
+- proofed to here
+- 
 (2) Instantaneous recording by cut- 
 ting is similar to wax recording in that an 
 actual chip is removed from the discs. Com- 
@@ -827,3 +615,4 @@ analyzed by Dr. Hall's instrument.
 Records have been kept of all speech sounds 
 
 
+## Notes
