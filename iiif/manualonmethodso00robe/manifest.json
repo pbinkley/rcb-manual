@@ -149,13 +149,19 @@
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$1/annotation",
-              "body": {
+ "selector": {
+      "@context": "http://iiif.io/api/annex/openannotation/context.json",
+      "@type": "iiif:ImageApiSelector",
+      "rotation": "270"
+    },
+                  "body": {
                 "id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$1/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3708,
                 "width": 2694,
-                "service": [
+      
+               "service": [
                   {
                     "@id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe$1",
                     "@type": "ImageService2",
@@ -14882,6 +14888,7 @@
                   }
                 ]
               }
+
             }
           ]
         }
