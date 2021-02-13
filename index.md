@@ -22,7 +22,7 @@ Work in progress, toward an online edition of the *Manual*.
 - <span class="chapternumber">X.</span> [Reduced-Scale Photographic and Photolithographic Copying on Paper for Reading through Magnifying Glasses](sections/10-reduced-scale-photographic-and-photolithographic-copying-on-paper-for-reading-through-magnifying-glasses.html)
 - <span class="chapternumber">XI.</span> [Cost Levels and Applications of Microcopying and Projection Reading](sections/11-cost-levels-and-applications-of-microcopying-and-projection-reading.html)
 - <span class="chapternumber">XII.</span> [Photographic and Projecting Apparatus](sections/12-photographic-and-projecting-apparatus.html)
-- <span class="chapternumber">XIII.</span> The Recording of Sound
+- <span class="chapternumber">XIII.</span> [The Recording of Sound](sections/13-the-recording-of-sound.html)
 - <span class="chapternumber">XIV.</span> [Conclusion](sections/14-conclusion.html)
 
 ## Search
