@@ -653,7 +653,7 @@ Under normal trade conditions the
 trade mark-ups and discounts should permit 
 price variations in the following scale: 
 (A paper selling at $.05 a pound, i.e., 
-$10.00 a case in 2 1/2 ton lots). 
+$10.00 a case in 2½ ton lots). 
 
 Price from Manufacturer to Distributor 
 
@@ -676,7 +676,7 @@ standard size of sheet is 25″ x 38″; the
 weight of the paper is usually given as 
 that of 500 sheets, 25″ x 38″. Since a 
 sheet of this paper will print 24 pages, 
-8″ x 9 1/2″, a ream will supply paper for {% include pagebreak.html canvas=229 %} 38 copies. Paper weighing 45 pounds to the 
+8″ x 9½″, a ream will supply paper for {% include pagebreak.html canvas=229 %} 38 copies. Paper weighing 45 pounds to the 
 ream---a good stout book paper weight, as 
 the paper samples indicate---will make up a 
 300-page book weighing a little over one 
@@ -1114,7 +1114,7 @@ CHART OF PAPER SPECIFICATIONS
 <td> 100% old rag </td>
 <td> 50% new rags 50% chem. wood </td>
 <td> 100% chem. wood </td>
-<td> 4/5 95% 1/5 80% alpha cell. </td>
+<td> ⅘ 95% ⅕ 80% alpha cell. </td>
 <td> 95% alpha cellulose </td>
 <td> 95% alpha cellulose </td>
 <td> 93% alpha cellulose </td>
@@ -1420,7 +1420,7 @@ CHART OF PAPER SPECIFICATIONS
 <td>3½¢</td>
 <td>10¢</td>
 <td></td>
-<td>14/15¢</td>
+<td>¹⁴⁄₁₅¢</td>
 <td></td>
 </tr>
 

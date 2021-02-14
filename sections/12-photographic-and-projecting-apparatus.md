@@ -176,7 +176,7 @@ CHART SHOWING CHIEF CHARACTERISTICS OF COPYING CAMERAS
   
 | Name of Camera | Manufacturer | Price | Portable | Width and Length of Film Used | Lens | Copy Bound Materials | Frame Exposure | Automatic Features |
 |----|----|----|----|----|----|----|----|----|
-| Leica | E. Leitz, Inc. 60 E. 10th St. New York City | $130.50 with lens | Yes | 35mm., perforated on one or both sides. 5 1/4 foot roll | f:3.5 50mm. | Yes | Fixed | Focal plane shutter makes double exposures impossible |
+| Leica | E. Leitz, Inc. 60 E. 10th St. New York City | $130.50 with lens | Yes | 35mm., perforated on one or both sides. 5 ¼ foot roll | f:3.5 50mm. | Yes | Fixed | Focal plane shutter makes double exposures impossible |
 | Contax | Carl Zeiss, Inc. 485 Fifth Avenue New York City | $130.50 with lens | Yes | 35mm., perforated on both sides. 5-foot roll | f:3.5 50mm. | Yes | Fixed | |
 | Photo-Record Microfilm Camera | Folmer Graflex Corp. Rochester N. Y. | Not set. About $200.00 | Yes | 16mm., perforated on one side; 35mm. perforated both sides; 70mm. perforated both sides; 70mm. paper. 100 foot rolls | f:3.5-2″ or f:3.5-3″ | Yes | Can be set for single or double frames | Automatic exposure time, film turning, and lighting |
 | Recordak | Recordak Corporation 350 Madison Ave. New York City | Rents for $35.00 to $50.00 per month | By truck | 16mm., perforated on one side | | No | Variable | Automatic control of exposure time and lighting, turning of film, and fixed focus |
@@ -186,16 +186,16 @@ CHART SHOWING CHIEF CHARACTERISTICS OF COPYING CAMERAS
 | Filmograph | Carl Lundberg and H. C. Lambach of Seattle, Washington | Not on market | By truck | 35mm., unperforated.  400 foot rolls | | Yes | Variable | Automatic exposures, lighting, and film turning |
 | Ansco Copying Camera | Agfa Ansco Corp.  Binghamton, N. Y. | $65.00 | Yes | 35mm. perforated. 3 foot rolls | f:6.3 | Yes | Fixed. One-half size of Leica frame | |
 | Ludwig Camera | Frederick Ludwig Yale University New Haven, Conn. | $300.00 | Yes | 35mm. perforated. 100 foot rolls | f:3.5 50mm. | Yes | Fixed. Same size as Leica frame | |
-| E.K.A. | Krause of Paris. Accessories by Lemare, 73 Rue Fondary, Paris | $165.00 | Yes | 35mm. unperforated 16 1/2 foot rolls | Tessar f:3.5 or f:4.5 | Yes | Fixed. 30mm. x 45mm. | |
+| E.K.A. | Krause of Paris. Accessories by Lemare, 73 Rue Fondary, Paris | $165.00 | Yes | 35mm. unperforated 16½ foot rolls | Tessar f:3.5 or f:4.5 | Yes | Fixed. 30mm. x 45mm. | |
 | Argus | International Radio Corp. Ann Arbor, Michigan | $12.50 | Yes | 35mm., perforated one or both sides 5 feet | Ilex f:4.5 | Yes | Fixed. Same size as Leica frame; new | None |
 | Cinescopie | Cinescopie, Inc. 29, Rue aux Laines Brussels | Yes | 35mm., unperforated About 10 foot roll | f:3.5 | Yes | Fixed | Automatic exposure up to one second |
 | Bantam Kodak | Eastman Kodak Co. Rochester, N. Y. | $10.50 with supplementary lens | Yes | 35mm. 5 feet | | Yes | | |
-| Draeger Camera | Dr. R.H. Draeger c/o Bibliofilm Serv. Depart. of Agriculture, Washington, D. C. | Not set | Yes | 16mm., 35mm., and 70mm. film. 1000 foot rolls | Tessar f:6.3 | Yes | Ranges from 1/2″ x 1 1/2″ | Automatic focusing, timing, lighting, and film turning |
-| Matson | Robert Matson | About $300.00 | No | 35mm. perforated on both sides. 200 foot rolls | | Yes | Fixed. 3/4″ x 1″  | Automatic foot pedal controlling film turning and exposures |
+| Draeger Camera | Dr. R.H. Draeger c/o Bibliofilm Serv. Depart. of Agriculture, Washington, D. C. | Not set | Yes | 16mm., 35mm., and 70mm. film. 1000 foot rolls | Tessar f:6.3 | Yes | Ranges from ½″ x 1½″ | Automatic focusing, timing, lighting, and film turning |
+| Matson | Robert Matson | About $300.00 | No | 35mm. perforated on both sides. 200 foot rolls | | Yes | Fixed. ¾″ x 1″  | Automatic foot pedal controlling film turning and exposures |
 
 {% include pagebreak.html canvas=324 %} Photoscopie, issues a general catalogue of 
-film subjects in all fields. The specifications of the Cinescopie camera are interesting. The machine is small: 9 1/2 
-x 4 1/2 x 6cm. The shutter makes automatically measured exposures up to one second, 
+film subjects in all fields. The specifications of the Cinescopie camera are interesting. The machine is small: 9½ 
+x 4½ x 6cm. The shutter makes automatically measured exposures up to one second, 
 which is not sufficient for document copying. The actual film carrier takes a 
 length of three meters of standard 35mm. 
 film, which means 120 pictures. The film 
@@ -745,8 +745,8 @@ Department of Agriculture, and is installed
 in the Library of Congress. It takes 16m. 
 and 65mm. film, and can use a special 7Omm. 
 magazine. The lens is £:6.3; the frame of 
-the film is variable, ranging from 1/2″ to 
-1 1/2″ along the length of the film; the 
+the film is variable, ranging from ½″ to 
+1½″ along the length of the film; the 
 film roll is 500 or 1000 feet; the operation is entirely automatic, only the turning of the book pages being required of 
 the operator. 
 

@@ -71,7 +71,7 @@ a labor cost of $.40. Wire stapling by a
 commercial service shop costs about $.02 a 
 copy. Machine stapling, including a suitable paper cover, is available at a cost 
 of a few cents a copy. This will take care 
-of items up to 1/4″ in thickness. Wire 
+of items up to ¼″ in thickness. Wire 
 stapling through the fold is not suitable 
 for ordinary typescript on typescript paper, but it can be used for any printed or 
 photo-offset items published in one signature of sixteen or thirty-two pages. 
@@ -90,7 +90,7 @@ are not obscured in any way, and there is
 no trouble with a double spread of page. 
 The price is determined by two factors: 
 quantity and length of the side to be spiral bound. An 11″ side, which is the common one used in schools, in quantities of 
-1000, with each copy 1/4″ in thickness, 
+1000, with each copy ¼″ in thickness, 
 would cost approximately $50.00. The price 
 goes down as the quantity increases, 2500 
 copies getting a 10% discount; 10,000 having a 20% discount, etc. 
@@ -136,7 +136,7 @@ the same method, except that the stitching
 is done through the side of the collected 
 sheets instead of through the fold. Saddle-wire stitching is used when sheets are folded as one signature; side-wire stitching is 
 used when two or more signatures are gathered side by side. Wire stitchers can be 
-used for items up to 1/2″ in thickness. 
+used for items up to ½″ in thickness. 
 
 Pamphlet producers, like periodical 
 publishers, usually pass their binding 
@@ -274,7 +274,7 @@ microcopied material on 16 mm. or 35 mm. {% include pagebreak.html canvas=240 %}
 
 TABLE XXXVI 
 
-COST OF A GOOD LIBRARY BINDING FOR A BOOK 1 1/2″ THICK 
+COST OF A GOOD LIBRARY BINDING FOR A BOOK 1½″ THICK 
 
 <table>
   <thead>
@@ -307,7 +307,7 @@ COST OF A GOOD LIBRARY BINDING FOR A BOOK 1 1/2″ THICK
 <td style="text-align: right">$380.00</td>
 </tr>
 <tr>
-<td>8 1/2″ x 11″</td>
+<td>8½″ x 11″</td>
 <td style="text-align: right">$25.00</td>
 <td style="text-align: right">$42.50</td>
 <td style="text-align: right">$75.00</td>
@@ -343,7 +343,7 @@ COST OF A GOOD LIBRARY BINDING FOR A BOOK 1 1/2″ THICK
 <td style="text-align: right">$.38</td>
 </tr>
 <tr>
-<td>8 1/2″ x 11″</td>
+<td>8½″ x 11″</td>
 <td style="text-align: right">1.00</td>
 <td style="text-align: right">.85</td>
 <td style="text-align: right">.75</td>

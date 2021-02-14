@@ -59,7 +59,7 @@ filing cabinets, folders, and loose-leaf
 notebooks have been standardized to sizes {% include columnbreak.html canvas=75 col=2 %} 
 that conform to it. Office appliances, even 
 the office offset press, are keyed to its 
-8 1/2″ x 11″ sheet. There is only one 
+8½″ x 11″ sheet. There is only one 
 standard measurement that has never conformed to it---that is library shelving. Library shelving is spaced to care for pages 
 10″ or less in height. Libraries receiving typescript books on full-size typewriter paper are put to the inconvenience of 
 shelving them with oversize books. But 
@@ -773,7 +773,7 @@ The author on a book is usually ex{%- include columnbreak.html canvas=87 col=2 -
 copy stage at his own expense. The cost 
 of preparing the fair copy depends in part 
 upon the condition of the draft copy. There 
-may be a variation of 20% to 33 1/3% in the 
+may be a variation of 20% to 33⅓% in the 
 typing charges due to the condition of the 
 draft. The cost depends also upon the number of unusual symbols and figures that occur, as it takes longer to type technical 
 and tabular material than straight non-technical text. But fundamentally the cost 
@@ -835,7 +835,7 @@ efficiency, $102.[^n2]
     | 35 | .92 |
 
 | Estimates based on quotations from typing bureaus in Cleveland | $.20 minimum |
-|| $.50 1/2 average[^n3] |
+|| $.50½ average[^n3] |
 
 | Estimates based on quotations in writers' manuals | $.25 to $.50 | 
 | | $.40 average |
@@ -1117,9 +1117,9 @@ and leading; Vernon's work,[^4] on the contrary, has led to a conclusion on spac
 for speed of reading book type is: 
 
 Approximately 
-- 1/10 inches (or 7 points) for 12-pt. type. 
-- 1/14 inches (or 5 points) for 9-pt. type. 
-- 1/17 inches (or 4 points) for 6-pt. type.
+- ⅒ inches (or 7 points) for 12-pt. type. 
+- ¹⁄₁₄ inches (or 5 points) for 9-pt. type. 
+- ¹⁄₁₇ inches (or 4 points) for 6-pt. type.
 
 If elite typescript is taken as 
 the equivalent of 10-point type, the spacing of the ordinary elite typewriter, when 
@@ -1186,7 +1186,7 @@ type. These standards yield interesting results when applied to the smaller size
 print or photographically reduced typescript. 
 For straight typing in full size they suggest the conclusion which must already have 
 come to the minds of many readers---that the 
-standard typewriter page 8 1/2″ wide must 
+standard typewriter page 8½″ wide must 
 be used with wide margins if the script is {% include columnbreak.html canvas=94 col=2 %} 
 to be legible. Since under some conditions 
 wide margins are wasteful, there results a 

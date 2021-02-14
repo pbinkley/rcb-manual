@@ -288,7 +288,7 @@ the following distribution is normal:
 2 books in 10 sell over 10,000    
 1 book in 10 sells over 20,000 
 
-[% include pagebreak.html canvas=25 %}
+{% include pagebreak.html canvas=25 %}
 
 TABLE II 
 
@@ -363,11 +363,11 @@ cost of publishing these 1119 research
 books and 291 research journals is estimated by Mr. Bean at approximately six million 
 dollars a year---three and a half million 
 for books, and two and a half million for 
-journals. Only 1 7/10% of the money spent 
+journals. Only 1 ⁷⁄₁₀% of the money spent 
 for book and pamphlet publishing goes to 
 publish research books and pamphlets. The 
 cost of publishing for research scholars 
-is only 1/4% of the publishing budget of {% include pagebreak.html canvas=26 %} the country. It is, therefore, inevitable 
+is only ¼% of the publishing budget of {% include pagebreak.html canvas=26 %} the country. It is, therefore, inevitable 
 that the main technical and business developments in publishing should follow 
 other needs than those of research scholarship. 
 

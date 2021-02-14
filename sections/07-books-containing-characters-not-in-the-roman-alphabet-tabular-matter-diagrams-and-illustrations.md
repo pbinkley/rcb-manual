@@ -305,9 +305,9 @@ fineness of detail and differences in fineness or accuracy of tone.
 
 The fineness of detail is primarily a resultant of size. an original picture multiplied in a copy 6″ x 9″ will 
 show more detail than the same picture 
-multiplied in a copy 3″ x 4 1/2″. But the 
+multiplied in a copy 3″ x 4½″. But the 
 method of reproduction has something to do 
-with it. The 3″ x 4 1/2″ copy made by the 
+with it. The 3″ x 4½″ copy made by the 
 photosensitive paper process on a good bromide paper might show more detail than the 
 6″ x 9″ copy made on photostat paper; the 
 smaller copy carefully photoengraved with 

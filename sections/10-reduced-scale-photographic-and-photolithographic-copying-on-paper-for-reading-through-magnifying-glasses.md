@@ -229,9 +229,9 @@ In the *American Printer* of January, 1932,
 there is an article stating that Fiske 
 books of 100,000 words can be printed on 
 two strips of paper at a cost of $.05. Each 
-strip of paper is 2 5/8″ wide and 23 1/2″ 
+strip of paper is 2 ⅝″ wide and 23½″ 
 long, including margins. The typescript is 
-reduced to 1/25 of original size, and is 
+reduced to ½5 of original size, and is 
 printed on both sides of the strip of paper. Admiral Fiske secured a quotation of 
 $557.00 for an edition of 10,000 books of 
 100,000 words, printed on a good quality 
@@ -273,7 +273,7 @@ apparatus.
 
 Dr. Bendikson uses a Leica camera 
 to take photographs of pages on the ordinary moving picture film, with exposures 
-about 1″ x 1 1/4″. Then he lays down a few 
+about 1″ x 1 ¼″. Then he lays down a few 
 rows of these film copies side by side in a 
 printing frame and makes from them a positive copy on paper, exactly as if he were 
 making a print from any negative. A reproduction of one of Dr. Bendikson's prints is 
@@ -345,7 +345,7 @@ developed a recording camera that is used
 to take photographs of meter readings on a 
 strip of paper. It is now adapting this 
 camera to the general work of record copying. The width of the photographic strip 
-in this camera is 2 1/4″, That is to say, 
+in this camera is 2 ¼″, That is to say, 
 it would reduce an 8″ sheet of typescript 
 a little less than four diameters, and 
 copy a column of newsprint full size. Obviously, the miniature copies made with 

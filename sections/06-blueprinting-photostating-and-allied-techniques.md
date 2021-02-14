@@ -489,7 +489,7 @@ lowest reasonable price for paper negatives
 should therefore stand about as follows: 
 multiply the cost of the paper by three and 
 add the same non-paper cost (labor, chemicals, overhead, profit) that is shown on a 
-photostat price list. An ordinary photostat 8 1/2″) x 11″ costs $.25 a page if one 
+photostat price list. An ordinary photostat 8½″) x 11″ costs $.25 a page if one 
 to five pages are ordered, and $.15 a page 
 if 100 or more are ordered. There is no 
 point in considering the production of a 
@@ -966,7 +966,7 @@ sells for $.052 per square foot; the "HH"
 grade, which is coated on both sides and 
 hence will bring a saving of half the cost 
 of binding the volumes, sells for $.092 
-per square foot of paper or #.04 3/4 per 
+per square foot of paper or #.04 ¾ per 
 square foot of sensitive surface. 
 
 When wastage has been taken into 
@@ -981,11 +981,11 @@ To these costs of paper there must
 added the costs of labor and chemicals. 
 The New York Public Library and the printing department of the Cleveland Bell Telephone Company very kindly contributed {% include columnbreak.html canvas=166 col=2 %}
 statements of their operating costs. In 
-the New York Public Library the great majority of the prints were 11 1/2″ by 14″, 
+the New York Public Library the great majority of the prints were 11½″ by 14″, 
 usually one copy only, and the average cost 
 of the paper was $.055. In the Telephone 
 Company the average size of paper was 
-8 1/2″ x 11″, and in many cases several 
+8½″ x 11″, and in many cases several 
 copies of the same object were required. 
 The cost of the paper averaged $.03 per 
 page. In the Public Library the $.055 
@@ -1020,10 +1020,10 @@ COSTS OF PHOTOSTAT PAPER TO PRODUCE A BOOK OF 100 PAGES, IN DIFFERENT
 PAGE SIZES AND WITH DIFFERENT GRADES OF PAPER USED 
 
 | Dimensions of Book Page in Inches | Ordinary Stock | "H" Stock |"HH" Stock (Used on Both Sides) |
-| 4 1/2″ x 8″ | $ .62 to $ .82 | $ .99 to $1.04 | $ .91 |
-| 5 1/2″ x 8″ | 1.22 to 1.51 | 1.72 to 1.95 |1.57 to 1.91 |
+| 4½″ x 8″ | $ .62 to $ .82 | $ .99 to $1.04 | $ .91 |
+| 5½″ x 8″ | 1.22 to 1.51 | 1.72 to 1.95 |1.57 to 1.91 |
 | 6″ x 9″ | 1.40 to 1.83 | 1.97 to 2.06 | 1.81 to 2.35 |
-| 8 1/2″ x 11″ | 2.41 to 3.00 | 3.38 to 3.73 | 3.09 to 3.81 |
+| 8½″ x 11″ | 2.41 to 3.00 | 3.38 to 3.73 | 3.09 to 3.81 |
 | 11″ x 14″ | 3.95 to 5.01 | 5.57 to 6.22 | 5.09 to 6.08 |
 | 11″ x 17″ | 4.81 to 7.68 | 6.76 to 9.55 | 6.18 |
 | 18″ x 22″ (page of New York Times) | 10.18 | 14.30 | |
@@ -1061,7 +1061,7 @@ of this enterprise:
   knowledge and with that the cost of 
   material represented twice the cost 
   of labor. I roughly estimated that 
-  it cost us about $.13 1/2 to make a 
+  it cost us about $.13½ to make a 
   page of a newspaper of the large 
   size...but we printed some which required the largest size of sheet 
   adaptable to the photostat machine, 
@@ -1081,10 +1081,10 @@ that every dollar's worth of photostat paper requires from $.50 to $1.10 in oper
 
 Commercial prices for photostating 
 service are standardized on the basis of 
-four sizes: 8 1/2″ x 11″; 11″ x 14; 14″ 
+four sizes: 8½″ x 11″; 11″ x 14; 14″ 
 x 18″; and 16″ x 24″. The price falls 
 with the number of pages copied, from the 
-high of $.25 a page (8 1/2″ x 11″) when 
+high of $.25 a page (8½″ x 11″) when 
 one page only is copied, to the low of 
 $.15 when 100 pages are copied. The following table charts the prices of any number of pages from one to 100, in any of {% include columnbreak.html canvas=171 col=2 %}
 the four sizes. The price falls by $.01 a 
@@ -1278,8 +1278,8 @@ this model an operator can Dexigraph from
 200 x 400 prints an hour. The junior 
 Dexigraph is portable and occupies only a 
 few feet of space. The automatic Dexigraph 
-handles all copy from 7 1/2cm. x 12 1/2cm. 
-up to and including 8 1/2″ x 14″, and is 
+handles all copy from 7½cm. x 12½cm. 
+up to and including 8½″ x 14″, and is 
 recommended for mass reproduction. The 
 rate of 3,000 cards an hour is claimed for {% include columnbreak.html canvas=174 col=2 %}
 it. It can be leased for a one-year period for $50.00 a month, but Remington Rand 
@@ -1363,7 +1363,7 @@ processes for multiplying a typescript
 book, it is only necessary to imagine that 
 a typescript of lOO,000 words as submitted 
 for multiplication in the form of a fair 
-copy, 334 pages, 8 1/2″ x 11″. 
+copy, 334 pages, 8½″ x 11″. 
 
 How shall this be multiplied? It 
 can be retyped for the format copy and reproduced by hectograph, mimeograph, or 
@@ -1389,7 +1389,7 @@ be either a printed book or a.pile of typescript. An octavo book of 100,000 word
 6″ x 9″ page, with 400 words to the page 
 would cover ninety-four square feet. A 
 typescript of normal format, 300 words to 
-the page, would require 334 pages, 8 1/2″ 
+the page, would require 334 pages, 8½″ 
 x 11″, or 217 square feet. 
 
 The alternatives that present themselves in the reproduction of these texts 
@@ -1409,8 +1409,8 @@ the preceding chapter. That is to say, a
 reduction of approximately 30% in the size 
 of the page will reduce costs by 50%. The 
 6″ x 9″ page would have to be reduced to 
-something like 4″ x 6″; the 8 1/2″ x 11″ 
-page to something like 5 1/2″ x 8 1/2″, to 
+something like 4″ x 6″; the 8½″ x 11″ 
+page to something like 5½″ x 8½″, to 
 effect this reduction in cost. 
 
 In respect of size of edition, the
@@ -1431,7 +1431,7 @@ the reproduction of the typescript page
 they meet at a smaller edition---thirteen 
 copies. That is to say, in an edition of 
 thirteen copies the photo-offset of an 
-8 1/2″ x 11″ page will cost the same as the 
+8½″ x 11″ page will cost the same as the 
 photostat, and there will be eighty-seven 
 extra photo-offset copies, the cost of 
 which has been absorbed in the edition of 

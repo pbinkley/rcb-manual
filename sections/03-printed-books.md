@@ -220,7 +220,7 @@ composed lines.[^n2] Thus the number of ems in
 the page is found by multiplying the width 
 by the length of the line. The author, 
 therefore, pays in composition for excessive leading. 
-The majority of books appear in 10-point type on 11-point body, the {% include columnbreak.html canvas=39 col=2 %} majority of newspapers in 6 1/2-point or 
+The majority of books appear in 10-point type on 11-point body, the {% include columnbreak.html canvas=39 col=2 %} majority of newspapers in 6½-point or 
 7-point type on 7-point body. For each additional point of leading the author ordinarily pays about 10% more in composition. 
 It is questionable whether legibility demands more than one point of lead between 
 lines. Certainly types like Caslon Old 
@@ -411,8 +411,8 @@ a shift.
 
 How rapidly will area costs fall if 
 type size is reduced? Consider a 6″ x 9″ 
-page, with a printing surface 4 1/2″ 
-x 7 1/2″, printed with 32-page forms. Newsprint in two columns with half an inch between them would yield 800 pages, 24,600 
+page, with a printing surface 4½″ 
+x 7½″, printed with 32-page forms. Newsprint in two columns with half an inch between them would yield 800 pages, 24,600 
 words per form (according to an actual 
 count of words). Eight-point type, leaded 
 one point would put 25,000 words on a form; 
@@ -519,8 +519,8 @@ imitation of typescript and for making office forms from print-face type in imit
     styles, $.95 for print styles, for a box containing on an average 25,000 characters, printing about 
     415 words; it is scrapped after using. It is sometimes mounted on a flexible blanket which may easily 
     be attached to or removed from a smooth-faced segment. The embossed strips are always mounted on a 
-    similar sort of blanket. The most popular multigraph prints only one 8 1/2″ x 11″ page at a time, but 
-    a machine is manufactured with a drum large enough for two 8 1/2″ x 11″ pages; this is fairly common. 
+    similar sort of blanket. The most popular multigraph prints only one 8½″ x 11″ page at a time, but 
+    a machine is manufactured with a drum large enough for two 8½″ x 11″ pages; this is fairly common. 
   
 The best adaptation of multigraph 
 
@@ -583,10 +583,10 @@ of space is particularly great in footnote
 work. The effect of this wastage of paper 
 area can be neutralized by using the full 
 surface of the drum and printing upon a 
-large page, 8 1/2" x 11". Running costs 
+large page, 8½" x 11". Running costs 
 are the same for this large page as for a 
 smaller one, and indeed, in the writer's 
-opinion, the best possible format for mimeoform work is an 8 1/2" x 11" page set in 
+opinion, the best possible format for mimeoform work is an 8½" x 11" page set in 
 10-point type in two columns (Figure VII).
  
 One further limitation of the multigraph as a book-printing device must be 
@@ -707,7 +707,7 @@ IN VARIOUS FORMATS
       <td style="text-align: center">600</td>
     </tr>
     <tr>
-      <td>Mimeoform<br/>(8 1/2″ x 11″ trim size in 10-pt., 2 cols.)</td>
+      <td>Mimeoform<br/>(8½″ x 11″ trim size in 10-pt., 2 cols.)</td>
       <td style="text-align: right">$143.00</td>
       <td style="text-align: right">$143.00</td>
       <td style="text-align: right">$143.00</td>
@@ -717,7 +717,7 @@ IN VARIOUS FORMATS
       <td style="text-align: right">$211.00</td>
     </tr>
     <tr>
-      <td>Printing<br/>(6 3/4″ x 9 1/2″ trim size, 11-pt. on 12 Granjon, 2 cols.&mdash;newsprint format)</td>
+      <td>Printing<br/>(6 ¾″ x 9½″ trim size, 11-pt. on 12 Granjon, 2 cols.&mdash;newsprint format)</td>
       <td style="text-align: right">$280.00</td>
       <td style="text-align: right">$285.00</td>
       <td style="text-align: right">$290.00</td>
@@ -727,7 +727,7 @@ IN VARIOUS FORMATS
       <td style="text-align: right">$323.00</td>
     </tr>
     <tr>
-      <td>Printing<br/>(8 1/2″ x 11″ trim size, 7-pt. solid, 3 cols.&mdash;economy format)</td>
+      <td>Printing<br/>(8½″ x 11″ trim size, 7-pt. solid, 3 cols.&mdash;economy format)</td>
       <td style="text-align: right">$300.00</td>
       <td style="text-align: right">$308.50</td>
       <td style="text-align: right">$317.00</td>
@@ -1003,8 +1003,8 @@ PRICES ON PHOTO-OFFSET PRINTING SURFACE
 | | First 100 Copies | Per Additional 100's |
 |--------------|------:|------:|
 | 8 1.2″ x 11″ | $2.00 | $0.30 | 
-| 8 1/2″ x 14″ | 2.75 | 0.40 | 
-| 9 1/2″ x 12″ | 2.75 | 0.40 |
+| 8½″ x 14″ | 2.75 | 0.40 | 
+| 9½″ x 12″ | 2.75 | 0.40 |
 | 11″ x 17″ | 4.00 | 0.60 |
 | 14″ x 17″ | 5.50 | 0.80 |
 | 12″ x 19″ | 5.50 | 0.80 |
@@ -1024,8 +1024,8 @@ metal sheets of eighty different dimensions.
 Yet such is the force and pressure of 
 standardization in the trade that most operators will aver that all these variant 
 sizes are best adapted to the two standard 
-page sizes, 6″ x 9″, and 5 1/2″ x 8 1/2″ 
-(and its double, 8 1/2″ x 11″). These are, 
+page sizes, 6″ x 9″, and 5½″ x 8½″ 
+(and its double, 8½″ x 11″). These are, 
 in fact, the page sizes that will divide 
 most evenly into the standard cuts of book 
 paper and bond paper. They are convenient, 
@@ -1033,8 +1033,8 @@ but they may turn out to be wasteful.
 
 For example, the rotaprint metal 
 sheet, now officially known as Rotaplate, 
-measures 11″ x 17″. It will take perfectly two pages of normal typewriter size paper, 8 1/2″ x 11″. A working margin of 
-1/2″ may be needed. But suppose a book of 
+measures 11″ x 17″. It will take perfectly two pages of normal typewriter size paper, 8½″ x 11″. A working margin of 
+½″ may be needed. But suppose a book of 
 6″ x 9″ should be run on this press. No
 less than 42% of the available printing 
 surface would be wasted. In printing a 
@@ -1209,7 +1209,7 @@ one year, and after one year, if ordered.
 Reprints made at approximately $.50 per 
 page less. If cost of first runs as 
 $125.00 (exclusive of binding and paper 
-costs) and sheets are saved, cost of second run is $61.00, a difference of 51 1/2%.
+costs) and sheets are saved, cost of second run is $61.00, a difference of 51½%.
 
 *William B. Burford Printing Company, 
 58 South Meridian Street, Indianapolis*. 
@@ -1296,7 +1296,7 @@ $660.00 complete. Compare this with the
 price of photostat equipment, which is 
 $800. Then came the multilith, offering 
 an installation for $630.00 (friction feed, 
-in its standard size, 9 1/2″ x 12 1/2″ 
+in its standard size, 9½″ x 12½″ 
 printing surface, 10″ x 14″ paper). There 
 has been developed a combination mimeograph and offset press which will permit a 
 changing over from the mimeograph stencil, 
@@ -1332,7 +1332,7 @@ and rotaprint (Figures XXV and XXVI).
 The page to be dermaprinted was 
 selected because it was yellowed with age 
 and contained a line cut. The standard 
-charge of the A. B. Dick Company for an {% include columnbreak.html canvas=71 col=2 %} 8 1/2″ x 11″ dermaprint stencil is $3.50, 
+charge of the A. B. Dick Company for an {% include columnbreak.html canvas=71 col=2 %} 8½″ x 11″ dermaprint stencil is $3.50, 
 which includes a small amount of retouching. If a considerable amount of retouching is necessary, there is a standard extra charge of $1.00 per hour. The cost of 
 the materials needed to make this particular stencil was $.64, which included a 
 film negative and a film positive. Had a 
@@ -1415,13 +1415,13 @@ TABLE VII
 COST OF PRINTING SURFACE FOR DERMAPRINT, ROTAPRINT, AND 
 MULTILITH 
 
-| Process | Size of Printing Surface | Price of 1 Stencil or Metal Sheet<sup>*</sup> | Price per 100 sq. in. | Price per 6″ x 9″ Page | Price per 8 1/2″ x 11″ Page |
-| Rotaprint | 8 3/8″ x 11″ | $.28 | $.318 | $.28 | $.28 |
-| Rotaprint | 8 3/8″ x 13″ | .28 | .257 | .14 | .28 |
-| Dermaprint | 7 1/4″x 10 1/4″| .13 | .174 | .13 | .13 |
-| Dermaprint | 7 1/4″ x 14″ | .15 | .147 | .075 | .15 |
-| Multilith | 9 1/2″ x 12 1/2″ | .35 | .294 | .175 | .35 | 
-| Rotaprint | 11″ x 16 1/2″ | .48 | .264 | .24 | .24 |
+| Process | Size of Printing Surface | Price of 1 Stencil or Metal Sheet<sup>*</sup> | Price per 100 sq. in. | Price per 6″ x 9″ Page | Price per 8½″ x 11″ Page |
+| Rotaprint | 8 ⅜″ x 11″ | $.28 | $.318 | $.28 | $.28 |
+| Rotaprint | 8 ⅜″ x 13″ | .28 | .257 | .14 | .28 |
+| Dermaprint | 7 ¼″x 10 ¼″| .13 | .174 | .13 | .13 |
+| Dermaprint | 7 ¼″ x 14″ | .15 | .147 | .075 | .15 |
+| Multilith | 9½″ x 12½″ | .35 | .294 | .175 | .35 | 
+| Rotaprint | 11″ x 16½″ | .48 | .264 | .24 | .24 |
 | Multilith | 11″ x 17″ | .50 | .263 | .25 | .25 | 
 
 <sup>*</sup> Prices in quantities of 100. 
@@ -1475,13 +1475,13 @@ PRICES OF DERMAPRINT SERVICE
   <tbody>
     <tr>
       <td>Original stencils</td>
-      <td>Letter size (8 1/2” x 11”) …</td>
+      <td>Letter size (8½” x 11”) …</td>
       <td style="text-align: right">$3.50 each stencil</td>
       <td style="max-width: 10em;" rowspan="6">(Compare with each stencil $1.25 to $2.00 as the price of preparing printing surface and running 100 copies by photo-offset)</td>
     </tr>
     <tr>
       <td> </td>
-      <td>Legal size (8 1/2” x 14”) …</td>
+      <td>Legal size (8½” x 14”) …</td>
       <td style="text-align: right">4.00 each stencil</td>
     </tr>
     <tr>

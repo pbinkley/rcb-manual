@@ -113,7 +113,7 @@ The simplest common denominator for finding
 this point is the percentage relation of 
 running cost of 100 copies to the first
 cost of an edition. In photo-offset, for 
-instance, the first cost of an 8 1/2″ x 11″ 
+instance, the first cost of an 8½″ x 11″ 
 page is estimated at $2.00 for 100 copies, 
 and running costs: at $.50 for each. additional 100 copies. It will cost $.30 to 
 increase an edition from 100 to 200, and it 
@@ -695,7 +695,7 @@ given out by Dr. Watson Davis in the following circular to the editors of scient
     cents for photocopies readable without optical aid." The author will 
     have his paper typed in an acceptable 
     standard form (black fresh ribbon on 
-    8 1/2″ x 11″ bond paper, single 
+    8½″ x 11″ bond paper, single 
     spaced, preferably pica type) and he 
     will have photographs mounted separately on same sized sheets. This material will be deposited by you with 
     Science Service as a document. Science 
