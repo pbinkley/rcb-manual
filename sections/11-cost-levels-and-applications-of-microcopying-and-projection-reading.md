@@ -169,9 +169,9 @@ its Recordak copying machines for documents and newspapers, has allowed a certai
 margin of safety by setting sixteen diameters as its reduction ratio. It also has 
 a document copying machine set to make reductions of seventeen, eighteen and four-tenths, and twenty-three diameters. The 
 choice of certain of these ratios was probably the consequence, not so much of limitations of resolving power as of convenience in that ordinary business documents 
-are 8" wide and will go easily on 16mm. 
+are 8″ wide and will go easily on 16mm. 
 film if reduced seventeen diameters; while 
-the newspapers are 18" wide, and will go 
+the newspapers are 18″ wide, and will go 
 evenly on a 35mm. film (perforated on one 
 side only) at the reduction ratio sixteen. 
 The twenty-three diameter reduction is satisfactory for typescript and will put 50% 
@@ -584,15 +584,15 @@ film. If the film is perforated on both
 sides, one inch is usable between the perforations; this figures out at $.18 per 
 square foot of usable photographic surface; 
 if the film is perforated on one side only, 
-1 1/8" out of the 35mm. are usable, and 
+1 1/8″ out of the 35mm. are usable, and 
 this makes the usable surface cost $.1605 
 per square foot. For unperforated film, 
-with 1 1/4" usable, the price per square 
+with 1 1/4″ usable, the price per square 
 foot comes to $.144. 
 
 The 16mm. film, perforated on one 
 side only, is sold for $.0075 a foot; the 
-usable width is .43" to .5"; therefore the 
+usable width is .43″ to .5″; therefore the 
 price of a usable square foot (28 linear 
 feet) is $.21 at the highest, or $.18 at 
 the lowest. The 7Omm. film, perforated on 
@@ -604,7 +604,7 @@ a different weight of supporting film is
 manufactured for use in photoengraving 
 work and sold by a different method. Because of these differences, the process 
 film cut in rectangles is sold at a higher 
-price. A dozen sheets, 5" x 7", retail 
+price. A dozen sheets, 5″ x 7″, retail 
 for $1.45 list price. Discounts in the 
 trade will reduce this in large quantity 
 orders, so that the photographic surface 
@@ -629,15 +629,15 @@ PRICE PER SQUARE FOOT OF USABLE SURFACE
 | 35mm. moving picture film, unperforated | .144 |
 | 16mm. moving picture film, perforated one side |.18-.21 |
 | 70mm. moving picture film, perforated both sides | .185 |
-| 5" x 7" process *film or glass* (large lots) | .325 |
-| 5" x 7" process *film or glass* (small lots) | .50 |
+| 5″ x 7″ process *film or glass* (large lots) | .325 |
+| 5″ x 7″ process *film or glass* (small lots) | .50 |
 
 A strip of the 16mm. and a strip 
 of 35mm. film are shown in the accompanying sheets. 
 
 These figures for translucent surface are to be compared with those for 
 photostat or bromide paper. Insurance bromide paper sells for $3.60 per gross cut 
-8" x 10", or $.045 per square foot. The 
+8″ x 10″, or $.045 per square foot. The 
 same price, or in some cases $.005 more or 
 less, buys most kinds of photostat paper. 
 The difference between $.045 and the prices listed above is paid for the purpose of 
@@ -887,7 +887,7 @@ WITH REDUCTION RATIOS TO BRING PRICES TO COMMON LEVELS. FIGURES FOR
 
 | | 6 | 8 | 11 | 16 | 22 1/2 |
 |----|----|----|----|----|----|
-| Price of 5" x 7" glass | | | | $.32 1/2 | $.16 |
+| Price of 5″ x 7″ glass | | | | $.32 1/2 | $.16 |
 | Price of 35mm. film, perforated one side | | | $.32 | $.16 | $.08 | 
 | Price of photostat paper | $.36 | $.18 | | | |
 
@@ -975,8 +975,8 @@ therefore, attention must be given to the
 placing of the photographic image on the 
 film. The same principle of maximum use 
 of area that was found operative in photo-offset work is applicable to microphotography. Just as it is wasteful to print a
-6" x 9" book on an 11" x 17" photo-offset {% include columnbreak.html canvas=288 col=2 %} metal sheet, so it is wasteful to make on 
-35mm. film an image only 3/4" wide. 
+6″ x 9″ book on an 11″ x 17″ photo-offset {% include columnbreak.html canvas=288 col=2 %} metal sheet, so it is wasteful to make on 
+35mm. film an image only 3/4″ wide. 
 
 There are three, or possibly four 
 positions in which book pages may be copied 
@@ -987,7 +987,7 @@ ratio. The three positions, hereafter
 called first, second and third, are illustrated on the following diagram. 
 
 The relation of these book positions to the reduction ratios can be illustrated by calculating the reduction ratio 
-of a book 6" x 9" in all three positions 
+of a book 6″ x 9″ in all three positions 
 on the two kinds of film, 35mm. and 16mm. 
 The corresponding variation in cost of 
 photosensitive surface can be illustrated 
@@ -1014,15 +1014,15 @@ price of which would be $.015 to $.0275.
 
 First Position 
 6 diameters reduction 
-of 6" x 9" book 
+of 6″ x 9″ book 
 
 Second Position 
 9 diameters reduction 
-of 6" x 9" book 
+of 6″ x 9″ book 
 
 Third Position 
 12 diameters reduction 
-of 6" x 9" book 
+of 6″ x 9″ book 
 
  {% include pagebreak.html canvas=289 %} 
 
@@ -1033,7 +1033,7 @@ TABLE XLI
 FILM FOOTAGES REQUIRED IN COPYING BOOKS IN DIFFERENT POSITIONS ON 35mm. 
 FILM (PERFORATED ON BOTH SIDES) AND 16mm. FILM, USING FULL WIDTH OF FILM 
 
-| Film | Position | Reduction Ratio to use Full Width of Film | Film Footages for 100' Pages of Book | Price of Film |
+| Film | Position | Reduction Ratio to use Full Width of Film | Film Footages for 100′ Pages of Book | Price of Film |
 
 
 
@@ -1147,7 +1147,7 @@ OM OTe Oil
 
 
 
-*The variation in 16mm. film turns on the width of usable surface, whether .5" or ,43", 
+*The variation in 16mm. film turns on the width of usable surface, whether .5″ or ,43″, 
 
 
 ## Processing Costs 
@@ -1255,8 +1255,8 @@ ratios, introduce a very significant variable into microcopying. The lower price
 processing may or may not be inferior to
 the more costly. The effect upon costs is
 illustrated by taking the figures on film
-footage required for 100 pages of a 6" x
-9" book, as given above, and figuring in
+footage required for 100 pages of a 6″ x
+9″ book, as given above, and figuring in
 with them the high and low processing costs.
 Note that high processing costs can make it
 more expensive to copy at the reduction ratio of 21 diameters on 16mm. film than to
@@ -1270,8 +1270,8 @@ expensive processing. On the other hand,
 TABLE XLIII 
 
 EFFECT OF VARIATION IN PROCESSING COSTS ON PRICE OF MICROCOPY POSITIVE 
-OF A BOOK OF 100 PAGES, 6" x 9", IN VARYING REDUCTION RATIOS 
-(16mm. film calculated at .43" width of usable surface) 
+OF A BOOK OF 100 PAGES, 6″ x 9″, IN VARYING REDUCTION RATIOS 
+(16mm. film calculated at .43″ width of usable surface) 
 
 ## TODO
 
@@ -1373,7 +1373,7 @@ material in hundreds of thousands of pages,
 uniform in size, continuous in supply. The 
 May Company of Cleveland uses a Recordak to 
 copy its internal records. The operators 
-photograph 20,000 statements, 7" x 10", per 
+photograph 20,000 statements, 7″ x 10″, per 
 day. Speed records with the new Recordak 
 bound book copying camera are not available. 
 It is safe to conclude that experience with 
@@ -1625,7 +1625,7 @@ Miss Barnett has described the administrative routine of the Bibliofilm
 Service in an article in *The Camera* vol. L, 
 no. 5, May 1935, pp. 327-328, as follows: 
 
-> The procedure begins "with the suppliance of a 5" x 5" slip or card specifying the article desired---one such 
+> The procedure begins "with the suppliance of a 5″ x 5″ slip or card specifying the article desired---one such 
     slip for each and every article, and 
     each slip carrying the name and address of the customer. The slips are 
     returned with the finished films. Attendants take the slips, search the 
@@ -1999,8 +1999,8 @@ him is an important contribution to the
 use of microcopying, and to the organization of the distribution of scientific 
 literature. He proposes that the negative 
 made from an original typescript, or indeed a negative made from a published article or book, should take the form, not 
-of a length of film strip but of a rectangle of film, suitable for filing in a card catalogue. It is deemed technically possible to put 150 pages of microcopied material on a 3" x 5" card (a 70mm. film cut 
-into 5" strips would measure 2 3/4" x 5"). 
+of a length of film strip but of a rectangle of film, suitable for filing in a card catalogue. It is deemed technically possible to put 150 pages of microcopied material on a 3″ x 5″ card (a 70mm. film cut 
+into 5″ strips would measure 2 3/4″ x 5″). 
 Even if the number of pages that can be 
 copied on such a card is materially less 
 than 150 pages, the essential value of his 
@@ -2392,7 +2392,7 @@ general proportions of the normal page of
 reading matter. Ordinarily the page, whether of typescript, manuscript or print, sea 
 rectangle of which the vertical dimension 
 is greater than the horizontal by a factor 
-of 25% to 50%. 8 1/2" x 11", 6" x 9", and 
+of 25% to 50%. 8 1/2″ x 11″, 6″ x 9″, and 
 other standard sizes from folio to duodecimo carry these proportions. The proportions are independent of the size of the 
 page, and equally independent of reduction 
 ratio in photographing or enlargement ratio 
@@ -2412,11 +2412,11 @@ becomes especially noticeable when a fixed
 frame camera is used for copying. 
 
 The ordinary moving picture frame 
-on 35mm. film is a rectangle 1" x 3/4", 
+on 35mm. film is a rectangle 1″ x 3/4″, 
 with the long side across the film; the 
 "double frame" used in the Leica, Contax, 
-and Ludwig cameras exposes an area 1" x 
-1 3/8", or 1" x 1 1/2", with the short side 
+and Ludwig cameras exposes an area 1″ x 
+1 3/8″, or 1″ x 1 1/2″, with the short side 
 across the film. Edwards Brothers of Ann 
 Arbor is prepared to furnish microcopies of {% include pagebreak.html canvas=305 %} European books made with a single frame 
 camera; the equipment at Yale, New York 
@@ -2499,8 +2499,8 @@ but in connection with the problem of projecting pages it must be given another
 meaning. The aperture dimension that is 
 effective for reading microcopied pages is 
 the length of the long side of a rectangle 
-with the proportions of a page (roughly 1" 
-x 1 1/2"), that can be inscribed in the 
+with the proportions of a page (roughly 1″ 
+x 1 1/2″), that can be inscribed in the 
 lens circle. The word "aperture" as used 
 below is a lens area *covering a rectangle 
 of film measured along its long side*.[^n4] The 
@@ -2514,10 +2514,10 @@ still follow the general proportions of a
 page. The aperture is to the projector 
 what the frame of film is to the camera. 
 
-[^n4]: If the page rectangle is a multiple of 1" x 1 1/2"---corresponding to the page size 6" x 9", the long 
+[^n4]: If the page rectangle is a multiple of 1″ x 1 1/2″---corresponding to the page size 6″ x 9″, the long 
 side of the aperture rectangle (a) and the diameter of the lens circle (d) will always be so related 
-that d = 1.2 x a. An aperture of 1" goes with a lens diameter of 1.2"; an aperture of 1/2" with a 
-lens diameter of .6", etc. 
+that d = 1.2 x a. An aperture of 1″ goes with a lens diameter of 1.2″; an aperture of 1/2″ with a 
+lens diameter of .6″, etc. 
 
 It is possible to read a large 
 frame of film with a small aperture if the 
@@ -2539,17 +2539,17 @@ microcopied column).
 To consider an extreme case; two 
 pages can be photographed (in the third position) on a single frame of film. One 
 page of the original print will correspond {% include columnbreak.html canvas=306 col=2 %} to half a frame of film. Its long side  
-will be 3/4", its short side 1/2"; the 
-length of line will be 1/2". The aperture 
-required for reading this film need be only 1/2" (1/2" x 3/8") but in reading this 
-film with a 1/2" aperture, the film must be 
+will be 3/4″, its short side 1/2″; the 
+length of line will be 1/2″. The aperture 
+required for reading this film need be only 1/2″ (1/2″ x 3/8″) but in reading this 
+film with a 1/2″ aperture, the film must be 
 moved successively into four different positions: first, to read the top of the 
 first page; then to read the bottom of the 
 first page; then to read the top of the 
-second page; and finally to read the bottom of the second page. An aperture of 1" 
-(1" x 3/4") would make it possible to read 
+second page; and finally to read the bottom of the second page. An aperture of 1″ 
+(1″ x 3/4″) would make it possible to read 
 both pages without moving the film; an 
-aperture of 1 1/2" (1 1/2" x 1") would not 
+aperture of 1 1/2″ (1 1/2″ x 1″) would not 
 only permit the reading of both pages at 
 once but would also lay before the reader's 
 eyes, at the same time, two frames of film, 
@@ -2559,8 +2559,8 @@ These principles are used in the
 Recordak newspaper projector. A newspaper 
 is reduced sixteen diameters on 35mm. film. 
 The aperture of the lens projects from the 
-newspaper page rectangle (1" x 1 1/2") an 
-area roughly 1/2" x 3/4". The film is 
+newspaper page rectangle (1″ x 1 1/2″) an 
+area roughly 1/2″ x 3/4″. The film is 
 moved in front of the aperture in such a 
 way that the reader has before him at any 
 time a projection of about a quarter of the 
@@ -2584,10 +2584,10 @@ standardized 35mm. and 16mm. film define
 certain specific dimensions in aperture as 
 fixed alternatives in design. 
 
-An aperture 1 1/2" will display the 
+An aperture 1 1/2″ will display the 
 long side of a page rectangle taken on a 
 double frame of 35mm. film. An aperture 
-of 1/2" will display the short side of a 
+of 1/2″ will display the short side of a 
 page rectangle taken on 16mm. film. The {% include pagebreak.html canvas=307 %} intermediate steps in the series are show 
 on the chart on the following page. 
 
@@ -2596,11 +2596,11 @@ final in the sense that there is no reason
 for building apparatus that will use an 
 aperture intermediate between them. There 
 is no use for an aperture of more than 
-1 1/2" for 35mm. film; there is no use in 
-making the aperture larger than 3/4" unless it is made a full inch; there is no 
-stopping point between 1/2" and 3/4". An 
-aperture of 5/8" is wasteful; it can accomplish nothing that is not equally well 
-accomplished with an aperture of 1/2". 
+1 1/2″ for 35mm. film; there is no use in 
+making the aperture larger than 3/4″ unless it is made a full inch; there is no 
+stopping point between 1/2″ and 3/4″. An 
+aperture of 5/8″ is wasteful; it can accomplish nothing that is not equally well 
+accomplished with an aperture of 1/2″. 
 These conclusions follow from the fact that 
 the standard dimensions of the film and 
 the normal proportions of a page rectangle 
@@ -2619,7 +2619,7 @@ should hardly be less than six diameters,
 for then it would overlap the possibilities of direct optical magnifying by reading glass equipment. It is shown above 
 that the cost of photosensitive surface on 
 film is about four times that of the paper 
-surface. If a 6" x 9" page is to be 
+surface. If a 6″ x 9″ page is to be 
 copied in the first position on 35mm. film, 
 with a reduction of 6 diameters, it could 
 be copied at no greater materials cost on 
@@ -2649,15 +2649,15 @@ considerations fix the upper and lower limits for enlarging power in reading equ
 The enlargement ratio is, however, 
 related in an important way to aperture. 
 For instance, to take an extreme case, it 
-is evident that a 1/4" aperture in a machine that would make enlargements of only 
+is evident that a 1/4″ aperture in a machine that would make enlargements of only 
 10 diameters would have a very restricted 
 use; the octavo book pages or typescript 
 pages that would have their length of line 
-brought down to 1/4" would have to pass 
+brought down to 1/4″ would have to pass 
 through a reduction of 24 or more diameters. The projected image of such a microcopy, if enlarged only 10 diameters, would 
 be less than half the original size and 
 might therefore be illegible. On the other 
-hand, a machine with a 1 1/2" aperture set 
+hand, a machine with a 1 1/2″ aperture set 
 to make enlargements of 20 diameters, 
 while it would be useful in projecting a 
 full newspaper page at once, would be wasteful in projecting microcopied books that 
@@ -2688,14 +2688,14 @@ TABLE XLV
 
 CHART OF APERTURE AND CORRESPONDENCE TO FRAME OF FILM 
 
-| Aperture in Inches | Film Width in mm. | Correspondence of Aperture to Frame of Film, or to Page Rectangle on Film | Reduction Ratio when 6" x 9" Page is Copied for Reading with this Aperture |
-| 1 1/2" | 35mm. | Long side double frame | 6 diameters reduction to read one page; 9 to read two pages at a time |
-| 1" | 35mm. | Short side double frame, or long side single frame | 9 without moving film to read page; 6 if film is moved for reading |
-| 3/4" | 35mm. | Short side of single frame | 9 if film is moved for reading page; 12 without moving film for a page|
-| 3/4" | 16mm. | Long side of double frame | 12 without moving film; 18 to show two pages at a time |
-| 1/2" | 16mm. | Short side of double frame | 12 if film is moved; 18 without moving film |
-| 3/8" | 16mm. | Short side of single frame (page copied in second or third position) | 18 if film is moved; 24 without moving film |
-| 1/4" | 16mm. | One-half of short side of single frame (pages copied in third position) | 24; film must be moved for reading the page |
+| Aperture in Inches | Film Width in mm. | Correspondence of Aperture to Frame of Film, or to Page Rectangle on Film | Reduction Ratio when 6″ x 9″ Page is Copied for Reading with this Aperture |
+| 1 1/2″ | 35mm. | Long side double frame | 6 diameters reduction to read one page; 9 to read two pages at a time |
+| 1″ | 35mm. | Short side double frame, or long side single frame | 9 without moving film to read page; 6 if film is moved for reading |
+| 3/4″ | 35mm. | Short side of single frame | 9 if film is moved for reading page; 12 without moving film for a page|
+| 3/4″ | 16mm. | Long side of double frame | 12 without moving film; 18 to show two pages at a time |
+| 1/2″ | 16mm. | Short side of double frame | 12 if film is moved; 18 without moving film |
+| 3/8″ | 16mm. | Short side of single frame (page copied in second or third position) | 18 if film is moved; 24 without moving film |
+| 1/4″ | 16mm. | One-half of short side of single frame (pages copied in third position) | 24; film must be moved for reading the page |
 
  {% include pagebreak.html canvas=309 %} 
 
@@ -2779,7 +2779,7 @@ though not specifically designed for it.
 Leitz has a combination enlarger and projector. The Graflex is working on a combination camera and projector. Spencer 
 Lens Company and Dr. Draeger are using the 
 single-frame aperture of one inch; the 
-Recordak an aperture of 3/4"; the International Filmbook Corporation is trying to 
+Recordak an aperture of 3/4″; the International Filmbook Corporation is trying to 
 keep the cost of apparatus down by keeping 
 the aperture small, while Dr. Draeger and 
 the Spencer Lens Company are working to 
@@ -2867,9 +2867,9 @@ c. Reading machines differ in the size of
 aperture; that is to say, in the amount 
 of film they will enlarge for reading at 
 one time. The Leica projector takes a 
-double frame of 35mm, film, 1" x 1 1/2". 
+double frame of 35mm, film, 1″ x 1 1/2″. 
 The aperture of the Spencer Lens Company 
-projector now contemplated will be a single frame, 3/4" 1"; that of the Recordak 
+projector now contemplated will be a single frame, 3/4″ 1″; that of the Recordak 
 is one-quarter of a frame; and that of 
 the International Filmbook Corporation 
 may be even less. In general, there is a 
@@ -3086,13 +3086,13 @@ a high one---sixteen to twenty-three diameters.[^n6]
  
 [^n6]: COMPARISON OF COST OF OBTAINING AND STORING FILM COPIES OF MATERIALS WITH STORAGE COSTS OF THE ORIGINAL MATERIALS 
 
-    Document size 8 1/2" x 11" (letter size). 
+    Document size 8 1/2″ x 11″ (letter size). 
     
-    A standard file drawer holds approximately 3,500 letter size sheets and a four-drawer file cabinet about 14,000 sheets. A four-drawer cabinet is 15" wide 30" deep and 51" high. It consequently occupies 13 3/10 cubic feet of space without considering the aisle space required. 
+    A standard file drawer holds approximately 3,500 letter size sheets and a four-drawer file cabinet about 14,000 sheets. A four-drawer cabinet is 15″ wide 30″ deep and 51″ high. It consequently occupies 13 3/10 cubic feet of space without considering the aisle space required. 
     
     Using a Recordak working at a 23-1 reduction 2,352 of the above documents can be photographed on a 100-foot roll of Recordak film. This roll of film costs $2.75 including development. 
     
-    Fourteen-thousand 8 1/2" x 11" documents will require slightly under six 100-foot rolls of Recordak Film, 
+    Fourteen-thousand 8 1/2″ x 11″ documents will require slightly under six 100-foot rolls of Recordak Film, 
     
     These will occupy 104 cubic inches or 6/100 of a cubic foot of space. 
     
@@ -3317,10 +3317,10 @@ page to permit the copying of page two,
 then back again for page three, etc. If 
 the bound newspaper volumes were to be copied in the "second position," the reduction 
 ratio would be greater because the whole 
-height of the newspaper---22" in the case of 
+height of the newspaper---22″ in the case of 
 the New York *Times*---would have to go on the 
 same width of film that otherwise takes 
-18", The New York *Times* microcopied in the 
+18″, The New York *Times* microcopied in the 
 first position is reduced only 16 diameters, in the second position it would have 
 to be reduced 20 diameters. 
 
@@ -3419,8 +3419,8 @@ copy could be made quickly, by one operator, using one drawer of cards at a time
 and thus without disorganizing the functioning of a catalogue room; and second, 
 that the typing and checking operations 
 could be centralized in one room, with adequate supervision. Of course the cards 
-would be more accurately and quickly copied if the film were enlarged by the available automatic enlarging machines to 3" x 
-5" card size, but the importance of using 
+would be more accurately and quickly copied if the film were enlarged by the available automatic enlarging machines to 3″ x 
+5″ card size, but the importance of using 
 as large a proportion as possible of Works 
 Progress Administration money for wages 
 made it necessary to resort to typing. 
@@ -3438,7 +3438,7 @@ and punch the film whenever there was no
 card present in the foundation catalogue. 
 The Recordak Corporation machinery would 
 then pick out automatically and reproduce 
-photographically on 3" x 5" cards the film 
+photographically on 3″ x 5″ cards the film 
 items that were punched for reproduction. 
 
 Under some circumstances it may be 
@@ -3446,17 +3446,17 @@ advisable to reproduce a whole library catalogue on cards. Three photographic te
 number of cards can be laid out on a flat 
 surface and copied on a large sheet of 
 photostat paper with the ordinary photostat 
-machine. The sheet can then be cut up into 3" x 5" cards, and the cards filed. Or, 
+machine. The sheet can then be cut up into 3″ x 5″ cards, and the cards filed. Or, 
 the Dexigraph or photostat can be used to 
-reproduce the cards one by one on 3" x 5" 
+reproduce the cards one by one on 3″ x 5″ 
 cards of photostat paper. This is the 
 process used by the Library of Congress in 
 its Project B; it was also used by Yale 
 University Library in duplicating its 
 great catalogue for internal administrative 
 purposes. Then the Recordak Corporation 
-can take a 16mm. microcopy of a card catalogue and enlarge it automatically on 3" x 
-5" cards. The photostat and Dexigraph 
+can take a 16mm. microcopy of a card catalogue and enlarge it automatically on 3″ x 
+5″ cards. The photostat and Dexigraph 
 methods yield a negative (white on black) 
 card; the Recordak method a positive (black 
 on white) card. The costs run from $20,000 

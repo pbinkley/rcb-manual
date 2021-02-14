@@ -672,11 +672,11 @@ offered, nor do they greatly increase publishing cost.
 
 How does paper cost figure into ' 
 book cost? Paper is sold by the pound; a
-standard size of sheet is 25" x 38"; the 
+standard size of sheet is 25″ x 38″; the 
 weight of the paper is usually given as 
-that of 500 sheets, 25" x 38". Since a 
+that of 500 sheets, 25″ x 38″. Since a 
 sheet of this paper will print 24 pages, 
-8" x 9 1/2", a ream will supply paper for {% include pagebreak.html canvas=229 %} 38 copies. Paper weighing 45 pounds to the 
+8″ x 9 1/2″, a ream will supply paper for {% include pagebreak.html canvas=229 %} 38 copies. Paper weighing 45 pounds to the 
 ream---a good stout book paper weight, as 
 the paper samples indicate---will make up a 
 300-page book weighing a little over one 

@@ -113,7 +113,7 @@ The simplest common denominator for finding
 this point is the percentage relation of 
 running cost of 100 copies to the first
 cost of an edition. In photo-offset, for 
-instance, the first cost of an 8 1/2" x 11" 
+instance, the first cost of an 8 1/2″ x 11″ 
 page is estimated at $2.00 for 100 copies, 
 and running costs: at $.50 for each. additional 100 copies. It will cost $.30 to 
 increase an edition from 100 to 200, and it 
@@ -275,8 +275,8 @@ COSTS PER THOUSAND WORDS AT EFFICIENCY POINT
 | Process | Efficiency Edition | Cost per Copy of 100,000 Words, Not Including Binding |
 | Printing | 2,100 | | $.58 | (See table on economy format in Chapter III) |
 | Mimeoform | 1,300 | .42 | |
-| Photo-offset, without composition as reprint from economy format slightly reduced to fit photo-offset plate | 800 | .50 | (This is a 6¾" x 9½" page reduced to 6 x 9. The cost will vary with the degree of photographic reduction or enlargement) |
-| Photo-offset, with typescript composition, in the format of this book | 1,100 | .77 | (This is an 8½" x 11" page. Note that the cost is a variable dependent on format and degree of reduction or enlargement from typescript) |
+| Photo-offset, without composition as reprint from economy format slightly reduced to fit photo-offset plate | 800 | .50 | (This is a 6¾″ x 9½″ page reduced to 6 x 9. The cost will vary with the degree of photographic reduction or enlargement) |
+| Photo-offset, with typescript composition, in the format of this book | 1,100 | .77 | (This is an 8½″ x 11″ page. Note that the cost is a variable dependent on format and degree of reduction or enlargement from typescript) |
 | Mimeograph, in 300-word format | 450 | .64 | |
 | Hectograph, including composition | 87 | 1.58 | |
 | Hectograph, without composition, when it is conceived as an alternative to the preparation of a fair-copy typescript, as in the doctoral dissertation published by Stanton L. Davis | 50 | 1.00 | |
@@ -310,7 +310,7 @@ EDITION SIZE AT WHICH COST OF PRODUCTION IS APPROXIMATELY $1.50 PER 100,000 WORD
 | Process | |
 | Printing, (economy format) | 550 |
 | Mimeoform | 200 |
-| Photo-offset, without composition, (reprint of pages, 700 words, 6" x 9") | 150 |
+| Photo-offset, without composition, (reprint of pages, 700 words, 6″ x 9″) | 150 |
 | Photo-offset, with typescript composition, (format of this book) | 250 |
 | Mimeograph | 115 |
 | Hectograph | 90 |
@@ -372,7 +372,7 @@ following the number of words per page and
 page area. A minimum for an octavo book is 
 perhaps 400 words, a maximum 900 words. The 
 table on the following page is calculated 
-on the basis of a 400-word page, 6" x 9", 
+on the basis of a 400-word page, 6″ x 9″, 
 and hence 250 pages of print as against 334 
 pages of typescript. The larger the number 
 of words per page in the book, the greater 
@@ -695,7 +695,7 @@ given out by Dr. Watson Davis in the following circular to the editors of scient
     cents for photocopies readable without optical aid." The author will 
     have his paper typed in an acceptable 
     standard form (black fresh ribbon on 
-    8 1/2" x 11" bond paper, single 
+    8 1/2″ x 11″ bond paper, single 
     spaced, preferably pica type) and he 
     will have photographs mounted separately on same sized sheets. This material will be deposited by you with 
     Science Service as a document. Science 
@@ -796,7 +796,7 @@ the Cooperator.
 2. Assign to such documents serial 
 document numbers and set prices for which 
 copies of such documents will be furnished 
-on order in form of microfilms (photographic images approximately 6" x 8" on paper). 
+on order in form of microfilms (photographic images approximately 6″ x 8″ on paper). 
 
 3. Make photographic negatives of 
 documents received and file them so that 

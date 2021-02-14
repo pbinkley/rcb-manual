@@ -57,7 +57,7 @@ As might be expected, the cost per
 word of sound recording is higher than the 
 cost per word of text reproduction, but the 
 spread is not so great as might be imagined, 
-Fifty 12" discs would record 100,000 words. 
+Fifty 12″ discs would record 100,000 words. 
 The filing space necessary to hold them 
 would be a little more than a cubic foot. 
 These records, in an edition of fifty, 

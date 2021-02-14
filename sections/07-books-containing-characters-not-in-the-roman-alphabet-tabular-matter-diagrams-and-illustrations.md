@@ -303,13 +303,13 @@ In all of these processes there
 are different degrees of fidelity in reproduction of pictorial matter. These differences are of two kinds: differences in 
 fineness of detail and differences in fineness or accuracy of tone.
 
-The fineness of detail is primarily a resultant of size. an original picture multiplied in a copy 6" x 9" will 
+The fineness of detail is primarily a resultant of size. an original picture multiplied in a copy 6″ x 9″ will 
 show more detail than the same picture 
-multiplied in a copy 3" x 4 1/2". But the 
+multiplied in a copy 3″ x 4 1/2″. But the 
 method of reproduction has something to do 
-with it. The 3" x 4 1/2" copy made by the 
+with it. The 3″ x 4 1/2″ copy made by the 
 photosensitive paper process on a good bromide paper might show more detail than the 
-6" x 9" copy made on photostat paper; the 
+6″ x 9″ copy made on photostat paper; the 
 smaller copy carefully photoengraved with 
 a high screening would show more detail {% include columnbreak.html canvas=184 col=2 %} 
 than the larger copy done with a low 
@@ -676,8 +676,8 @@ photoengraved prints were made.
 The presses used in the photogelatin process are of two types: the rotary 
 presses, taking large flexible metal sheets 
 (usually aluminum); and the flat-bed presses, which use a thick sheet of glass. The 
-dimensions of these presses vary. The Continental Lithograph Corporation of Cleveland has rotary presses 44" x 64"; the 
-Meriden Gravure Company of Meriden, Connecticut, uses a flat-bed press 28" x 39". 
+dimensions of these presses vary. The Continental Lithograph Corporation of Cleveland has rotary presses 44″ x 64″; the 
+Meriden Gravure Company of Meriden, Connecticut, uses a flat-bed press 28″ x 39″. 
 
 The principle explained in connection with the photo-offset process, that 
 that format is least costly which uses the 
@@ -836,7 +836,7 @@ aquatone work is displayed herewith (Figure L).
 [^n2]: Edward Stern and Company, Inc., has made available an excellent booklet, "What Is Aquatone?" which gives a detailed description of the process. 
 
 The aquatone plate is made of a 
-thin sheet of zinc. Edward Stern and Company, Inc., uses a 45" x 54" plate for its 
+thin sheet of zinc. Edward Stern and Company, Inc., uses a 45″ x 54″ plate for its 
 presses. To furnish a base for the gelatin coating, the zinc sheet is "grained" 
 with quartz; the gelatin is then applied, 
 set, and washed in a hardening solution. 
@@ -958,11 +958,11 @@ those requiring only black-and-white contrast and those requiring half-tones.
 
 The starting point of cost comparisons must be a picture of a given area reproduced in editions of varying size. The 
 dimensions of the picture chosen for this 
-first comparative table are 4" x 6" because {% include columnbreak.html canvas=210 col=2 %} a picture of this size can be used in an 
-ordinary octavo 6" x 9". It is assumed, moreover, that 100 illustrations of 
+first comparative table are 4″ x 6″ because {% include columnbreak.html canvas=210 col=2 %} a picture of this size can be used in an 
+ordinary octavo 6″ x 9″. It is assumed, moreover, that 100 illustrations of 
 identical size are required. The book here 
-described is, therefore, a book of 100 pages of pictorial material, consisting of 6" 
-x 9" pages with pictorial matter 4" x 6" on 
+described is, therefore, a book of 100 pages of pictorial material, consisting of 6″ 
+x 9″ pages with pictorial matter 4″ x 6″ on 
 each page. 
 
 This crude comparison indicates 
@@ -1031,8 +1031,8 @@ TABLE XXXI
 
 TODO
 
-COST, EXCLUSIVE OF BINDING, OF A BOOK OF 100 PAGES 6" x 9", EACH 
-PAGE CONTAINING PICTORIAL MATTER OF SIZE 4" x 6" 
+COST, EXCLUSIVE OF BINDING, OF A BOOK OF 100 PAGES 6″ x 9″, EACH 
+PAGE CONTAINING PICTORIAL MATTER OF SIZE 4″ x 6″ 
 
 Process Edition 
 LO rs 0 100 250 500 1000 
@@ -1118,26 +1118,26 @@ COSTS OF REPRODUCING BOOK OF PICTORIAL MATTER IN
 VARYING PAGE AND PICTURE SIZES 
 
 Page Size Picture Size 
-6" xX gq x 6" 
+6″ xX gq x 6″ 
 
-an x 10" x nv 
+an x 10″ x nv 
 AOS sce ee gn 
-11" x 14" aa 
+11″ x 14″ aa 
 
 
 100 
-4" x 6" picture Line cut, zinc 100.38 120.38 147.88 705.68 
+4″ x 6″ picture Line cut, zinc 100.38 120.38 147.88 705.68 
 Half-—tone, zinc 99.70 19.70 147.20 
 Toz.50_| 122.50 | 150.00 
 
 
-6" x 9" page 
+6″ x 9″ page 
 
 
 Collotype 450,.00° 555.00 
 
 
-5" x 7" picture Line cut, zinc LOLS Ly LoL Ly 148.67 206.17 
+5″ x 7″ picture Line cut, zinc LOLS Ly LoL Ly 148.67 206.17 
 
 
 page 
@@ -1152,8 +1152,8 @@ Bltx LOM
 
 
 
-7" x 9" picture 
-10" x 12" page 
+7″ x 9″ picture 
+10″ x 12″ page 
 
 
 
@@ -1162,7 +1162,7 @@ Bltx LOM
 
 
 ON x LIN picture 
-11" x 14" page 
+11″ x 14″ page 
 Half-tone, zinc 100.47 120.47 147.97 44 
 104.20 | 124.20 | 151.70 
 
@@ -1542,7 +1542,7 @@ Surface standard
 
 
 price for 
-one 4" x 6" 
+one 4″ x 6″ 
 cut 
 
 
@@ -1593,7 +1593,7 @@ engraving
 $7.55 standard 
 price Lora 
 
-4n x 6" cut 
+4n x 6″ cut 
 
 
 Make-up more 

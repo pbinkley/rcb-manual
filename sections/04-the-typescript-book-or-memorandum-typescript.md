@@ -59,9 +59,9 @@ filing cabinets, folders, and loose-leaf
 notebooks have been standardized to sizes {% include columnbreak.html canvas=75 col=2 %} 
 that conform to it. Office appliances, even 
 the office offset press, are keyed to its 
-8 1/2" x 11" sheet. There is only one 
+8 1/2″ x 11″ sheet. There is only one 
 standard measurement that has never conformed to it---that is library shelving. Library shelving is spaced to care for pages 
-10" or less in height. Libraries receiving typescript books on full-size typewriter paper are put to the inconvenience of 
+10″ or less in height. Libraries receiving typescript books on full-size typewriter paper are put to the inconvenience of 
 shelving them with oversize books. But 
 elsewhere the typewriter has brought equipment and practice into line with its dimensions. 
 
@@ -519,7 +519,7 @@ for larger quantities. The sheets are made
 to contain from forty-eight to eighty lines 
  {% include columnbreak.html canvas=83 col=2 %} 
 of type each, and each line has a maximum 
-length of 9". Separate sheets are made for 
+length of 9″. Separate sheets are made for 
 vertical line spacing of three, four, four 
 and one-half, five, and six lines to the 
 inch. For great primer type (eighteen 
@@ -530,7 +530,7 @@ space paper respectively. From a typographic standpoint, copy set with these
 spaces between the lines is more readable 
 than when lines are set closer to each 
 other. The typing area of the sheets 
-ranges from 9" x 10" to 9" x 16".
+ranges from 9″ x 10″ to 9″ x 16″.
 
 A third device for justifying typescript is a mechanism in the process of development by Professor Charles C. Peters of 
 the Pennsylvania State College. An attachment to an ordinary typewriter automatically controls the length of the line. This 
@@ -548,7 +548,7 @@ of typewriter for $12.00, or a more automatic form for $25.00. Changes necessary
 in the typewriter itself restrict the line 
 which may subsequently be written with it 
 to about seven inches in the case of the 
-10"-typewriter. An alternative is to purchase through Dr. Peters a typewriter with 
+10″-typewriter. An alternative is to purchase through Dr. Peters a typewriter with 
 the adjustment already made, for $60.00 or 
 $75.00, depending upon the type of attachment furnished. The reader is referred to 
 Statistical Procedures and Their Mathematical Bases, by Dr. Peters and Walter P. Van-Voohis (1935) as an example of a photo-offset book for which the master copy was 
@@ -591,8 +591,8 @@ micro-elite" on the standard typewriters.
 All type plates are priced at $5.00. 
 each. The Varityper is sold for $210.00 to 
 $360.00 for the power-run models, ranging 
-from a 9"- to a 24"-carriage, and for 
-$140.00 to $160.00 for the non-motor models, which can be obtained with a 9"-carriage only. 
+from a 9″- to a 24″-carriage, and for 
+$140.00 to $160.00 for the non-motor models, which can be obtained with a 9″-carriage only. 
 
 The Electromatic typewriter has the 
 standard typescript faces and spacings, but 
@@ -600,8 +600,8 @@ makes the impression with electric power
 rather than finger power. It is especially useful in increasing the number of legible carbon copies, where pressure in the 
 typewriter strokes is all-important. The 
 Standard Electromatic typewriter is sold 
-for $225.00 for the 12"-carriage and 
-$250.00 for the 16"-carriage. 
+for $225.00 for the 12″-carriage and 
+$250.00 for the 16″-carriage. 
  {% include columnbreak.html canvas=84 col=2 %} 
 
 ## Typing Stages in Book Production: Draft, Fair, and Format Copies 
@@ -1176,17 +1176,17 @@ space.
 Experimental evidence summarized by 
 Vernon shows that the length of a line 
 should not be greater than 10cm. or less 
-than 7.5cm. (2.9" to 3.9"). Edwards Brothers in their *Manual of Lithoprinting*[^n6] hold 
+than 7.5cm. (2.9″ to 3.9″). Edwards Brothers in their *Manual of Lithoprinting*[^n6] hold 
 that a maximum length of line is determined 
 by the formula N 30/72 where N is the type 
 size in points---a formula which yields the 
-result that 5"--5.8" is the maximum length 
-of line for pica type, 6.4"--4.2" for elite 
+result that 5″--5.8″ is the maximum length 
+of line for pica type, 6.4″--4.2″ for elite 
 type. These standards yield interesting results when applied to the smaller sizes of 
 print or photographically reduced typescript. 
 For straight typing in full size they suggest the conclusion which must already have 
 come to the minds of many readers---that the 
-standard typewriter page 8 1/2" wide must 
+standard typewriter page 8 1/2″ wide must 
 be used with wide margins if the script is {% include columnbreak.html canvas=94 col=2 %} 
 to be legible. Since under some conditions 
 wide margins are wasteful, there results a 

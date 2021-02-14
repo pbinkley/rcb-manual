@@ -261,7 +261,7 @@ pressed by
 x Se tt oe zit 
 
 
-x2 + y2 + £2' /x? + y= + £2 >|/x? + oy? + £2" 
+x2 + y2 + £2′ /x? + y= + £2 >|/x? + oy? + £2″ 
 
 
 
@@ -352,7 +352,7 @@ the coordinates
 
 
 
-Ley x? 4 7? ee £2" 
+Ley x? 4 7? ee £2″ 
 
 
 ; Inasmuch as the space coordin 
@@ -489,7 +489,7 @@ lowest reasonable price for paper negatives
 should therefore stand about as follows: 
 multiply the cost of the paper by three and 
 add the same non-paper cost (labor, chemicals, overhead, profit) that is shown on a 
-photostat price list. An ordinary photostat 8 1/2") x 11" costs $.25 a page if one 
+photostat price list. An ordinary photostat 8 1/2″) x 11″ costs $.25 a page if one 
 to five pages are ordered, and $.15 a page 
 if 100 or more are ordered. There is no 
 point in considering the production of a 
@@ -504,8 +504,8 @@ copies could not be less than $21.66, and
 would probably be more. 
 
 Another way of figuring the differences is to consider the quoted price of 
-photostats utilizing a roll of paper 350' 
-x 18". The ordinary paper costs $18.70 in 
+photostats utilizing a roll of paper 350′ 
+x 18″. The ordinary paper costs $18.70 in 
 this amount, and the paper negative $50.50. 
 This amount of paper is used in photostat 
 work that, at ordinary prices, costs $119.00. 
@@ -527,14 +527,14 @@ for $150.00. {% include pagebreak.html canvas=161 col=2 %}
 The standard dimensions in which 
 square footage measurements and prices are 
 calculated in the blueprint industry are 
-shown on the chart. Any area over 42" in 
+shown on the chart. Any area over 42″ in 
 width gives rise to a surcharge. The ordinary book or typescript page is too small 
 a unit area to utilize the blueprint economically, but pages can be pasted together in large sheets to fit one or another 
 of the fixed dimensions that are the basis 
 of the price structure. Thus it would cost 
-$.03 to blueprint a page 6" x 9"; but if 
+$.03 to blueprint a page 6″ x 9″; but if 
 four such pages were pasted together, the 
-area of 18" x 12" would be blueprinted for 
+area of 18″ x 12″ would be blueprinted for 
 $.045, a price per page of $.0125 instead 
 of $.03.
 
@@ -676,7 +676,7 @@ Photostat
 Positive 
 (aly. 
 
-x 11") 
+x 11″) 
 from same 
 negative 
 
@@ -768,7 +768,7 @@ Running Cost of Prints
 
 
 $.03 square foot; $.04 sq. ft. in 
-widths over 42" 
+widths over 42″ 
 
 
 $08 'square Toots elo tss yee 
@@ -809,7 +809,7 @@ widths over 4@"
 
 
 £.10 square Toot; $.leisq. fuse 
-widths over 42". First copy with 
+widths over 42″. First copy with 
 paper negative will cost $#.40- $.47 
 per sq. £t., and' $210 each adc 
 tional) ft<.3. first scopy wwirtaevem 
@@ -818,7 +818,7 @@ and $.10 for each additional
 
 
 $.05 square foot; $.06 sq. fr. in 
-widths over 42". First copy with 
+widths over 42″. First copy with 
 paper negative will cosa $.o5— 9.42 
 per sq. ft.5 amd #.05 each acdi= 
 tional; first copy with Van Dyke 
@@ -981,11 +981,11 @@ To these costs of paper there must
 added the costs of labor and chemicals. 
 The New York Public Library and the printing department of the Cleveland Bell Telephone Company very kindly contributed {% include columnbreak.html canvas=166 col=2 %}
 statements of their operating costs. In 
-the New York Public Library the great majority of the prints were 11 1/2" by 14", 
+the New York Public Library the great majority of the prints were 11 1/2″ by 14″, 
 usually one copy only, and the average cost 
 of the paper was $.055. In the Telephone 
 Company the average size of paper was 
-8 1/2" x 11", and in many cases several 
+8 1/2″ x 11″, and in many cases several 
 copies of the same object were required. 
 The cost of the paper averaged $.03 per 
 page. In the Public Library the $.055 
@@ -1020,13 +1020,13 @@ COSTS OF PHOTOSTAT PAPER TO PRODUCE A BOOK OF 100 PAGES, IN DIFFERENT
 PAGE SIZES AND WITH DIFFERENT GRADES OF PAPER USED 
 
 | Dimensions of Book Page in Inches | Ordinary Stock | "H" Stock |"HH" Stock (Used on Both Sides) |
-| 4 1/2" x 8" | $ .62 to $ .82 | $ .99 to $1.04 | $ .91 |
-| 5 1/2" x 8" | 1.22 to 1.51 | 1.72 to 1.95 |1.57 to 1.91 |
-| 6" x 9" | 1.40 to 1.83 | 1.97 to 2.06 | 1.81 to 2.35 |
-| 8 1/2" x 11" | 2.41 to 3.00 | 3.38 to 3.73 | 3.09 to 3.81 |
-| 11" x 14" | 3.95 to 5.01 | 5.57 to 6.22 | 5.09 to 6.08 |
-| 11" x 17" | 4.81 to 7.68 | 6.76 to 9.55 | 6.18 |
-| 18" x 22" (page of New York Times) | 10.18 | 14.30 | |
+| 4 1/2″ x 8″ | $ .62 to $ .82 | $ .99 to $1.04 | $ .91 |
+| 5 1/2″ x 8″ | 1.22 to 1.51 | 1.72 to 1.95 |1.57 to 1.91 |
+| 6″ x 9″ | 1.40 to 1.83 | 1.97 to 2.06 | 1.81 to 2.35 |
+| 8 1/2″ x 11″ | 2.41 to 3.00 | 3.38 to 3.73 | 3.09 to 3.81 |
+| 11″ x 14″ | 3.95 to 5.01 | 5.57 to 6.22 | 5.09 to 6.08 |
+| 11″ x 17″ | 4.81 to 7.68 | 6.76 to 9.55 | 6.18 |
+| 18″ x 22″ (page of New York Times) | 10.18 | 14.30 | |
 
 {% include pagebreak.html canvas=167 %}
 
@@ -1081,10 +1081,10 @@ that every dollar's worth of photostat paper requires from $.50 to $1.10 in oper
 
 Commercial prices for photostating 
 service are standardized on the basis of 
-four sizes: 8 1/2" x 11"; 11" x 14; 14" 
-x 18"; and 16" x 24". The price falls 
+four sizes: 8 1/2″ x 11″; 11″ x 14; 14″ 
+x 18″; and 16″ x 24″. The price falls 
 with the number of pages copied, from the 
-high of $.25 a page (8 1/2" x 11") when 
+high of $.25 a page (8 1/2″ x 11″) when 
 one page only is copied, to the low of 
 $.15 when 100 pages are copied. The following table charts the prices of any number of pages from one to 100, in any of {% include columnbreak.html canvas=171 col=2 %}
 the four sizes. The price falls by $.01 a 
@@ -1092,10 +1092,10 @@ page with every increment of five pages.
 This table will be used in making estimates 
 of cost of photostat work, although actual 
 photostat service may be available at lower prices in some places, or may cost more 
-elsewhere. A spread of two book pages, 6" 
-x 9", will go on a photostat page 14" x 18". 
+elsewhere. A spread of two book pages, 6″ 
+x 9″, will go on a photostat page 14″ x 18″. 
 If slightly reduced in size, two pages 
-would go on one photostat page 11" x 14", 
+would go on one photostat page 11″ x 14″, 
 
 The "number" is the number of photostat sheets, and may be either duplications 
 of the same pages or reproductions of successive pages of a book. The price is the 
@@ -1279,7 +1279,7 @@ this model an operator can Dexigraph from
 Dexigraph is portable and occupies only a 
 few feet of space. The automatic Dexigraph 
 handles all copy from 7 1/2cm. x 12 1/2cm. 
-up to and including 8 1/2" x 14", and is 
+up to and including 8 1/2″ x 14″, and is 
 recommended for mass reproduction. The 
 rate of 3,000 cards an hour is claimed for {% include columnbreak.html canvas=174 col=2 %}
 it. It can be leased for a one-year period for $50.00 a month, but Remington Rand 
@@ -1290,10 +1290,10 @@ some magnitude is required.
 Dexigraph copies, like photostat 
 copies, are produced as negatives. Sensitized paper is used, and it comes in pre-cut or roll form. The price varies according to weight, size, and type of paper. 
 Standard Record paper ranges in price from 
-$6.80 per 1,000 sheets 5" x 3", up to $32.00 
-for 1,000 sheets 8" x 8"; Permanent Record 
-paper begins at $8.80 per 1,000 cards 5" x 
-3" and goes up to $39.75 for the 8" x 8" 
+$6.80 per 1,000 sheets 5″ x 3″, up to $32.00 
+for 1,000 sheets 8″ x 8″; Permanent Record 
+paper begins at $8.80 per 1,000 cards 5″ x 
+3″ and goes up to $39.75 for the 8″ x 8″ 
 size; Duplex Permanent Record paper is more 
 expensive. The roll paper is priced from 
 $8.60 to $19.00, according to weight and 
@@ -1363,7 +1363,7 @@ processes for multiplying a typescript
 book, it is only necessary to imagine that 
 a typescript of lOO,000 words as submitted 
 for multiplication in the form of a fair 
-copy, 334 pages, 8 1/2" x 11". 
+copy, 334 pages, 8 1/2″ x 11″. 
 
 How shall this be multiplied? It 
 can be retyped for the format copy and reproduced by hectograph, mimeograph, or 
@@ -1386,11 +1386,11 @@ in book production.
 
 The original to be reproduced may 
 be either a printed book or a.pile of typescript. An octavo book of 100,000 words, 
-6" x 9" page, with 400 words to the page 
+6″ x 9″ page, with 400 words to the page 
 would cover ninety-four square feet. A 
 typescript of normal format, 300 words to 
-the page, would require 334 pages, 8 1/2" 
-x 11", or 217 square feet. 
+the page, would require 334 pages, 8 1/2″ 
+x 11″, or 217 square feet. 
 
 The alternatives that present themselves in the reproduction of these texts 
 are (a) typescript copying, (b) photostat, 
@@ -1408,9 +1408,9 @@ governing factor alike in first and running costs, the cost levels are highly se
 the preceding chapter. That is to say, a
 reduction of approximately 30% in the size 
 of the page will reduce costs by 50%. The 
-6" x 9" page would have to be reduced to 
-something like 4" x 6"; the 8 1/2" x 11" 
-page to something like 5 1/2" x 8 1/2", to 
+6″ x 9″ page would have to be reduced to 
+something like 4″ x 6″; the 8 1/2″ x 11″ 
+page to something like 5 1/2″ x 8 1/2″, to 
 effect this reduction in cost. 
 
 In respect of size of edition, the
@@ -1431,14 +1431,14 @@ the reproduction of the typescript page
 they meet at a smaller edition---thirteen 
 copies. That is to say, in an edition of 
 thirteen copies the photo-offset of an 
-8 1/2" x 11" page will cost the same as the 
+8 1/2″ x 11″ page will cost the same as the 
 photostat, and there will be eighty-seven 
 extra photo-offset copies, the cost of 
 which has been absorbed in the edition of 
 thirteen. 
 
 Why is there this difference? 
-Chiefly because the negatives in the dimension 6" x 9" can be laid on the frame for 
+Chiefly because the negatives in the dimension 6″ x 9″ can be laid on the frame for 
 photostating in a very economical way, and 
 eight pages can be copied at a time. 
 
@@ -1463,11 +1463,11 @@ KEY FIGURES OF UNIT COSTS OF REPRODUCTION
 | Photostat negative | 37.50 | (from book only) |
 | Ozalid or B-W | 10.85 | (from typescript only) |
 | *Five Copies, Unit Cost* | | |
-| Typescript and carbons | $12.16 | (from 6" x 9" book or typescript) |
+| Typescript and carbons | $12.16 | (from 6″ x 9″ book or typescript) |
 | \*Blue line print from paper negative | 15.95 | (from book only) |
 | Ozalid or B-W | 10.85 | (from typescript only) |
 | *Twenty-five Copies, Unit Cost* | | |
-| Photostat | $13.46 | (from 6" x 9" book or typescript) |
+| Photostat | $13.46 | (from 6″ x 9″ book or typescript) |
 | Photo-offset | 13.72 | " " " " " |
 | Van Dyke positive from paper negative | 11.65 | " " " " " | 
 | Blue line print from paper negative | 6.95 | " " " " " |

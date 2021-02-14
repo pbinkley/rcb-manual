@@ -241,9 +241,9 @@ the Vivid Duplicator, and the Standard Rotary Duplicator are among the best-know
 gelatin process machines. They vary in 
 price from $15.00 for a flat-bed machine to 
 $475.00 for a power-operated rotary one. 
-The gelatin for the rotary models is furnished in the form of films 9" x 15" in size, 
+The gelatin for the rotary models is furnished in the form of films 9″ x 15″ in size, 
 which are fastened to the drum of the machine as stencils are fastened on the mimeo{%- include columnbreak.html canvas=101 col=2 -%}graph cylinder; the larger, flat-bed equipment employs a roll with a cloth or fiber 
-backing, 9" to 18" wide and about 15' long. 
+backing, 9″ to 18″ wide and about 15′ long. 
 
 ### b) Liquid Hectograph Process 
 
@@ -329,8 +329,8 @@ reproduction of typescript is based on the
 use of the liquid process. 
 
 | Hectograph typewriter ribbon | $ .75 to $1.00 each | 
-| Gelatin rolls (15') | 4.00 to 6.00 each | 
-| Gelatin films (9" x 15") | $.50 to 1.00 each |
+| Gelatin rolls (15′) | 4.00 to 6.00 each | 
+| Gelatin films (9″ x 15″) | $.50 to 1.00 each |
 
 ## Cost Analysis of Hectographing: (a) Composition and Running Costs 
 
@@ -366,7 +366,7 @@ This sample page has been made on @ Standard Kh
 'Duplicator, en machine. tt is claimed that as » 
 '38. 200 legibie copies may 'be obteined from one 
 | 'sheet. This is the —84 copy from the master sheot 
-gelatin film is nade ina 9" x 15" size and is placed 
+gelatin film is nade ina 9″ x 15″ size and is placed 
 
 tt machine much the same as a stencil ie placed on 
 
@@ -509,8 +509,8 @@ copy from the master sheet. |
 Ormig duplicators range in price from $165.00 to 
 $285.00 for the hand operated machines, and $395.00 to 
 $495.00 for the electrically operated machines. The V-8 
-models take maximum size sheets 9" X 14" and the larger 
-models V-6 takes shgets up to 14" kK 17", 
+models take maximum size sheets 9″ X 14″ and the larger 
+models V-6 takes shgets up to 14″ kK 17″, 
 
 The Ormigtin (liquid) needed for producing the copies 
 cost $2.50 a gallon; a gallon is sufficient to moisten 
@@ -762,7 +762,7 @@ costs.
 
 Mimeograph stencils are of five 
 kinds and are sold in two standard sizes, 
-8 1/2" x 11" and 8 1/2" x 14". The prices 
+8 1/2″ x 11″ and 8 1/2″ x 14″. The prices 
 as standardized in the trade are given be- 
 low. Bootleg dealers sometimes sell stencils manufactured in violation of patent 
 rights at half these prices. The patent 
@@ -778,20 +778,20 @@ PRICES OF MIMEOGRAPH STENCILS
 | | Per Quire | Each |
 |---|---:|---:|
 | *Wax stencil* | | | 
-| 8 1/2" x 11" | $1.25 | $.05 1/4 |
-| 8 1/2" x 14" | 1.50 | 06 1/4 |
+| 8 1/2″ x 11″ | $1.25 | $.05 1/4 |
+| 8 1/2″ x 14″ | 1.50 | 06 1/4 |
 | *Dermatype stencil* | | |
-| 8 1/2" x 11" | 3.00 | .12 1/2 | 
-| 8 1/2" x 14" | 3.50 | .14 1/2 |
+| 8 1/2″ x 11″ | 3.00 | .12 1/2 | 
+| 8 1/2″ x 14″ | 3.50 | .14 1/2 |
 | *Cellotype stencil* | | | 
-| 8 1/2" x 11" | 3.00 | .12 1/2 | 
-| 8 1/2" x 14" | 3.25 | .13 1/2 |
+| 8 1/2″ x 11″ | 3.00 | .12 1/2 | 
+| 8 1/2″ x 14″ | 3.25 | .13 1/2 |
 | *Mimeotype stencil* | | | 
-| 8 1/2" x 14" | 3.25 | .13 1/2 |
-| 8 1/2" x 14" | 3.50 | .14 1/2 |  
+| 8 1/2″ x 14″ | 3.25 | .13 1/2 |
+| 8 1/2″ x 14″ | 3.50 | .14 1/2 |  
 | *Dermaprint stencil* (unsensitized) | | |
-| 8 1/2" x 11" | 3.00 | .12 1/2 |
-| 8 1/2" x 14" | 3.50 | .14 1/2 |
+| 8 1/2″ x 11″ | 3.00 | .12 1/2 |
+| 8 1/2″ x 14″ | 3.50 | .14 1/2 |
 
 The wax stencil is used for runs {% include pagebreak.html canvas=114 %} not exceeding 500. It cannot be saved, and 
 more care is needed to produce a good copy 
@@ -816,15 +816,15 @@ PRICES OF METAL SHEETS
 
 | Rotaprint | Each |
 |----|----:|
-| 8 3/8" x 11" | $20 |
-| 8 3/8" x 13" | .20 |
-| 11" x 16 1/2" | .48 |
+| 8 3/8″ x 11″ | $20 |
+| 8 3/8″ x 13″ | .20 |
+| 11″ x 16 1/2″ | .48 |
 
 | Multilith | |
 |----|----:|
-| 9 1/2" x 12 1/2" | .35 |
-| 11" x 17" | .50 |
-| 9 1/2" x 12 1/2" (duplex) | .25 |
+| 9 1/2″ x 12 1/2″ | .35 |
+| 11″ x 17″ | .50 |
+| 9 1/2″ x 12 1/2″ (duplex) | .25 |
 
 
 TABLE XVIII 
@@ -832,18 +832,18 @@ TABLE XVIII
 COST OF PRINTING SURFACE: PLATE PREPARED BY TYPING DIRECTLY 
 ON THE STENCIL 
 
-|Name | Size of Printing Surface | Price of One Stencil of Metal Sheet | Price per 6" x 9" Page| Price per 8 1/2" x 11" Page | Price per 8 1/2" x 14" Page|
+|Name | Size of Printing Surface | Price of One Stencil of Metal Sheet | Price per 6″ x 9″ Page| Price per 8 1/2″ x 11″ Page | Price per 8 1/2″ x 14″ Page|
 |----|----|----:|----:|----:|----:|
-| Rotaprint (standard) | 8 3/8" x 11" | $.20 | $.20 | $.20 | |
-| Rotaprint (longprint) | 11" x 17" | .48 | .48 | .48 | $.48 |
-| Rotaprint (sheetfeed) | 8 3/8" x 13" | .20 | .20 | | |
-| Multilith | 9 1/2" x 9 1/2" | .35 | .175 | .35 | .35 |
-| Multilith | 11" x 17" | .50 | .25 | .25 | .50 |
-| Multilith (duplex, two uses) | 9 1/2" x 12 1/2" | .25 | .06 1/4 | .125 | |
-| Mimeograph (wax) | 7 1/4" x 1O 1/4" | .05 1/4 | .05 1/4 | .05 1/4 | |
-| (wax) | 7 1/4" x 14" | .06 1/4 | .06 1/4 | .06 1/4 | .06 1/4 |
-| Mimeograph (mimeotype) | 7 1/4" x 10 1/4" | .13 1/2 | .13 1/2 | .13 1/2 | |
-| (mimeotype | 7 1/4" x 14" | .14 1/2 | .14 1/2 | .14 1/2 | .14 1/2 |
+| Rotaprint (standard) | 8 3/8″ x 11″ | $.20 | $.20 | $.20 | |
+| Rotaprint (longprint) | 11″ x 17″ | .48 | .48 | .48 | $.48 |
+| Rotaprint (sheetfeed) | 8 3/8″ x 13″ | .20 | .20 | | |
+| Multilith | 9 1/2″ x 9 1/2″ | .35 | .175 | .35 | .35 |
+| Multilith | 11″ x 17″ | .50 | .25 | .25 | .50 |
+| Multilith (duplex, two uses) | 9 1/2″ x 12 1/2″ | .25 | .06 1/4 | .125 | |
+| Mimeograph (wax) | 7 1/4″ x 1O 1/4″ | .05 1/4 | .05 1/4 | .05 1/4 | |
+| (wax) | 7 1/4″ x 14″ | .06 1/4 | .06 1/4 | .06 1/4 | .06 1/4 |
+| Mimeograph (mimeotype) | 7 1/4″ x 10 1/4″ | .13 1/2 | .13 1/2 | .13 1/2 | |
+| (mimeotype | 7 1/4″ x 14″ | .14 1/2 | .14 1/2 | .14 1/2 | .14 1/2 |
 
  {% include pagebreak.html canvas=115 %} 
 
@@ -1057,20 +1057,20 @@ exact point at which cost, legibility, and
 
 In designing a format for the maximum utilization of this surface five factors must be considered: 
 
-| 1. Size of page | standard 8 1/2" x 11"<br/>legal 8 1/2" x 14" | 
+| 1. Size of page | standard 8 1/2″ x 11″<br/>legal 8 1/2″ x 14″ | 
 | 2. Size of type | pica<br/>elite |
 | 3. Interlinear spacing | 3 lines to the inch<br/>6 lines to the inch<br/>4 1/2, 5, and 5 1/2 to the inch (special) | 
 | 4. Length of line | 5 inches is a highly legible line<br/>6 inches is a normal office practice<br/>6 1/2 inches is a crowded line | 
-| 5. Top and bottom margin | 2" at top and 2 1/2" at bottom is a wide margin<br/>3/4" at top and 1" at bottom is a narrow margin |
+| 5. Top and bottom margin | 2″ at top and 2 1/2″ at bottom is a wide margin<br/>3/4″ at top and 1″ at bottom is a narrow margin |
 
 By combining these factors in various ways, there might be constructed over 
 fifty different typescript formats. The 
 difference in word-carrying capacity between the two extremes is very great. A 
 hundred thousand words would go on 123 pages 
-of 6 1/2" x 14" size, elite type, single 
-spaced, 6 1/2" lines, narrow-margin format; 
-but would require 562 pages of 8 1/2" by 
-11" size, pica type, double-spaced, 5" 
+of 6 1/2″ x 14″ size, elite type, single 
+spaced, 6 1/2″ lines, narrow-margin format; 
+but would require 562 pages of 8 1/2″ by 
+11″ size, pica type, double-spaced, 5″ 
 lines, and a wide-margin format. 
 
 By a combination of experiment and 
@@ -1114,10 +1114,10 @@ The cost and prices of mimeographing a manuscript of 100,000 words in each
 of these formats are estimated in the following chart. But in order to make the 
 comparison of formats very clear, the estimates in this case are based on the use 
 of the same printing surface, namely, the 
-ordinary 8 1/2" x 11" mimeotype stencil, 
+ordinary 8 1/2″ x 11″ mimeotype stencil, 
 except with formats requiring 600 or 700 
-words to a page, which require an 8 1/2" 
-x 14" stencil. In each case the cost figure is given under two alternative {% include pagebreak.html canvas=124 %} 
+words to a page, which require an 8 1/2″ 
+x 14″ stencil. In each case the cost figure is given under two alternative {% include pagebreak.html canvas=124 %} 
 
 TABLE XIX 
 
@@ -1126,18 +1126,18 @@ OF WORDS PER PAGE
 
 | No. of Words per Page | Type Size | Interlinear Spacing | Length of  Line | Upper and Lower Margins | Size of Paper |
 |----|----|----|----|----|----|
-| 200 | Pica | 3 to inch | 5 1/2" | 1 1/4" upper<br/>1 3/4" lower | 8 1/2" x 11" |
-| 250 | Pica | 4 to inch | 5 1/2" | 1 1/2" upper<br/>1 3/4" lower | 8 1/2" x 11" |
-| 300 | Pica | 5 to inch | S 1/2" | 1 1/2" upper<br/>1 3/4" lower | 8 1/2" x 11" |
-| 350 | Pica | 4 to inch | S 1/2" 2-column | 1 1/4" upper<br/>1 1/2" lower | 8 1/2" x 11" |
-| 400 | Elite | 5 1/2 to inch | 5 1/2" | 1 1/2" upper | 8 1/2" x 11" |
-| or 400 | Pica | 5 to inch | 6" | 1 3/4" lower | |
-| 450 | Pica | 5 1/2 to inch | 3 1/2" 2-column | 1 1/4" upper<br/>1 1/2" lower | 8 1/2" x 11" | 
-| 500 | Elite | 5 to inch | 3 1/2" 2-column | 1 1/4" upper<br/>1 1/2" lower | 8 1/2" x 11" |
-| 550 | Elite | 5 1/2 to inch | 3 1/2" 2-column | 1 1/2" upper<br/>1 3/4" lower | 8 1/2" x 11" |
-| 600 | Elite | 5 1/2 to inch | 5 1/2" | 1 1/4" upper<br/>1 1/2" lower |  8 1/2" x 14" |
-| 700 | Elite | 5 1/2 to inch | 3 1/2" 2-column | 1 3/4" upper<br/>2" lower | 8 1/2" x 14" |
-| 800 | Micro-elite | 6 to inch | 3 1/4" 2-column | 1 1/4" upper<br/>1 3/4" lower | 8 1/2" x11" |
+| 200 | Pica | 3 to inch | 5 1/2″ | 1 1/4″ upper<br/>1 3/4″ lower | 8 1/2″ x 11″ |
+| 250 | Pica | 4 to inch | 5 1/2″ | 1 1/2″ upper<br/>1 3/4″ lower | 8 1/2″ x 11″ |
+| 300 | Pica | 5 to inch | S 1/2″ | 1 1/2″ upper<br/>1 3/4″ lower | 8 1/2″ x 11″ |
+| 350 | Pica | 4 to inch | S 1/2″ 2-column | 1 1/4″ upper<br/>1 1/2″ lower | 8 1/2″ x 11″ |
+| 400 | Elite | 5 1/2 to inch | 5 1/2″ | 1 1/2″ upper | 8 1/2″ x 11″ |
+| or 400 | Pica | 5 to inch | 6″ | 1 3/4″ lower | |
+| 450 | Pica | 5 1/2 to inch | 3 1/2″ 2-column | 1 1/4″ upper<br/>1 1/2″ lower | 8 1/2″ x 11″ | 
+| 500 | Elite | 5 to inch | 3 1/2″ 2-column | 1 1/4″ upper<br/>1 1/2″ lower | 8 1/2″ x 11″ |
+| 550 | Elite | 5 1/2 to inch | 3 1/2″ 2-column | 1 1/2″ upper<br/>1 3/4″ lower | 8 1/2″ x 11″ |
+| 600 | Elite | 5 1/2 to inch | 5 1/2″ | 1 1/4″ upper<br/>1 1/2″ lower |  8 1/2″ x 14″ |
+| 700 | Elite | 5 1/2 to inch | 3 1/2″ 2-column | 1 3/4″ upper<br/>2″ lower | 8 1/2″ x 14″ |
+| 800 | Micro-elite | 6 to inch | 3 1/4″ 2-column | 1 1/4″ upper<br/>1 3/4″ lower | 8 1/2″ x 11″ |
 
 hypotheses regarding composition cost: 
 first, that the format copy is typed directly from the draft copy without an intervening fair copy; and second, that the 
@@ -1155,7 +1155,7 @@ can be seen in one instance in the comparison as shown in Table XXI, page 52.  {
 TABLE XX
 
 MIMEOGRAPH COSTS FOR PRODUCING A BOOK OF 100,000 WORDS IN A VARIETY OF FORMATS WITH ORDINARY
-8 1/2" x 11" MIMEOTYPE STENCILS (NO BINDING COSTS)<sup>*</sup>
+8 1/2″ x 11″ MIMEOTYPE STENCILS (NO BINDING COSTS)<sup>*</sup>
 
 <table>
   <thead>
@@ -1538,7 +1538,7 @@ MIMEOGRAPH COSTS FOR PRODUCING A BOOK OF 100,000 WORDS IN A VARIETY OF FORMATS W
 
 <sup>*</sup>Costs for 50,000 words are one-half these figures.
 
-<sup>**</sup>Need 8 1/2" x 14" stencils and paper.
+<sup>**</sup>Need 8 1/2″ x 14″ stencils and paper.
 
 {% include pagebreak.html canvas=126 %} 
 
@@ -1586,7 +1586,7 @@ Surface Is Made Directly from Draft ee Made from Fair re
 
 
 Mimeotype | $2.65 | $1.46 | $ .88 san $.52 | $.40 os 65 ee 96 ce 13 | $.85 | $.62 | $.45 
-gin x 11" 
+gin x 11″ 
 
 Stencil eee 
 Mimeograph| 2.24 eo Salta 5 ole 
@@ -1594,7 +1594,7 @@ Wax Sten-
 
 equ 
 
-gan x 11" 
+gan x 11″ 
 Maltilithe! 3:46 |01.88)> 1.09)|) 182 4 q 
 (1 use for 
 
@@ -1655,7 +1655,7 @@ big to be put into the typewriter; second,
 the better photo-offset presses will distribute ink more evenly and make finer letters than the mimeograph techniques (including direct-typing offset) will produce; 
 third, the standard typescript relations of 
 type size, length of line, interlinear spacing, and size of page are not related to 
-the normal 10" spacing of library shelving 
+the normal 10″ spacing of library shelving 
 in a way that results in the most efficient 
 use of page areas and bookshelf footage. 
 
@@ -1726,7 +1726,7 @@ the effect of reduction on length of line.
 there is very little reason to carry out a 
 reduction of typescript size if a single 
 column of typescript is still to be carried 
-on a sheet of paper 8 1/2" x 11", because 
+on a sheet of paper 8 1/2″ x 11″, because 
 so much of what is gained in the use of 
 space by diminishing the type size is simply turned over to wider margins. But here 
 two possibilities intervene: the reading 
@@ -1735,11 +1735,11 @@ and reproduced on the standard typewriter
 size page, or the size of the page itself 
 may be reduced to something more nearly resembling that of an ordinary octavo book. 
 
-But since an octavo page, 6" x 9", 
-with lines of maximum length (3.9" for 6-- 
+But since an octavo page, 6″ x 9″, 
+with lines of maximum length (3.9″ for 6-- 
 to 10--point type, according to Vernon) {% include columnbreak.html canvas=128 col=2 %} sacrifices 35% of its surface to right- and 
-left-hand margins, an 8 1/2" x 11" page, 
-with two columns each 3 1/4" wide, which 
+left-hand margins, an 8 1/2″ x 11″ page, 
+with two columns each 3 1/4″ wide, which 
 sacrifices only 23 1/2% to right- and left-hand margins, is preferable. The difference is increased by the fact that a larger 
 side margin usually calls for larger top 
 and bottom margins. Since the cost of 
@@ -1749,8 +1749,8 @@ inch as the part of the page that is utilized for text, it is especially importa
 in planning an economy format for a photo-offset typescript book that the margins 
 shall not be made any larger than necessary.
 It is interesting to note in this connection that Edwards Brothers propose, for an 
-8 1/2" x 11" page, a two-column format with 
-columns 3 1/2" wide, and the Donnelley & 
+8 1/2″ x 11″ page, a two-column format with 
+columns 3 1/2″ wide, and the Donnelley & 
 Sons Company suggests a similar format. 
 
 With these facts in mind, one may 
@@ -1918,9 +1918,9 @@ or the special paper invented by Spielvogel
 Taking all of these factors into 
 account, it seems that mimeographing 50,000 
 words in a format that permits 300 words to 
-the 8 1/2" x 11" page would cost about the 
+the 8 1/2″ x 11″ page would cost about the 
 Same as reproducing the same number of 
-words by photo-offset in a format that reproduces 1786 words to the 8 1/2" x 11" 
+words by photo-offset in a format that reproduces 1786 words to the 8 1/2″ x 11″ 
 page. 
 
 As in all problems of reproducing 
@@ -1955,13 +1955,13 @@ divide evenly into the area of one of the
 larger press plates. The plates most commonly in use will take paper sheets of the 
 following dimensions: 
 
-- 22" x 34"
-- 28" x 42" 
-- 35" x 45"
-- 36" x 48" 
-- 38" x 50"
-- 44" x 64" 
-- 59" x 72"
+- 22″ x 34″
+- 28″ x 42″ 
+- 35″ x 45″
+- 36″ x 48″ 
+- 38″ x 50″
+- 44″ x 64″ 
+- 59″ x 72″
 
 The printers will sometimes say 
 that they are controlled by the standard 
@@ -1970,14 +1970,14 @@ and that it will not pay to print in any
 format that calls for cutting off and wasting any considerable portion of their 
 standard paper sheets, which are usually: 
 
-- 17" x 22"
-- 25" x 38"
-- 28" x 42" 
-- 32" x 44" 
-- 35" x 45" 
-- 38" x 50" 
-- 42" x 56"
-- 36" x 48" 
+- 17″ x 22″
+- 25″ x 38″
+- 28″ x 42″ 
+- 32″ x 44″ 
+- 35″ x 45″ 
+- 38″ x 50″ 
+- 42″ x 56″
+- 36″ x 48″ 
 
 This consideration is of great importance in the case of a long run, but if 
 only 200 or 300 copies of a book are desired, the cost of the paper is so slight 
@@ -2005,19 +2005,19 @@ with the area cost saved.
 What then is an ideal format for 
 the photo-offset typescript book? The 
 standard octavo printing formats (according to published figures on binding) of 
-6" x 9" and 6 1/4" x 9 1/4" are ill adapted 
+6″ x 9″ and 6 1/4″ x 9 1/4″ are ill adapted 
 to offset work because they lead either to 
 an undue extent of margin, an undue length 
 of line, or an inadequate use of the reducing power of the photographic process. A 
-column of maximum width (3.9") can be 
-printed in the 5 1/2") x 8 1/2" page with
+column of maximum width (3.9″) can be 
+printed in the 5 1/2″) x 8 1/2″ page with
 only 42.4% of the area surrendered to margins, but this volume is too small for convenient library shelving. The best format 
 for library shelving convenience and low 
-margin ratio would be just short of 10" 
-high, and the narrowest page that would accept two columns would be 7 3/4" wide. Such 
+margin ratio would be just short of 10″ 
+high, and the narrowest page that would accept two columns would be 7 3/4″ wide. Such 
 a page would take two columns of minimum 
-width (2.9") with 1/2" between them, and 
-external margins of about 3/4", The percentage of area given over to margins would 
+width (2.9″) with 1/2″ between them, and 
+external margins of about 3/4″, The percentage of area given over to margins would 
 be about 26%. The book page would have an 
 unusual appearance---more nearly square than 
 an ordinary octavo page. Yet it would be 
@@ -2026,7 +2026,7 @@ very efficient (Figure XXX).
 Now the curious fact emerges that 
 despite all the variety of sizes available 
 in photo-offset press, there is none that 
-will take without waste of printing surface al page 9 3/4" x 7 3/4". Thus the limitations of equipment impose themselves in 
+will take without waste of printing surface al page 9 3/4″ x 7 3/4″. Thus the limitations of equipment impose themselves in 
 planning a model photo-offset page. 
 
 Planning a photo-offset page is 
@@ -2048,7 +2048,7 @@ situations: first, to cost as much in an
 edition of 500 as low-cost printing; second, to cost as much in an edition of 500 
 as medium-cost mimeographing. By consulting the tables in Chapter III, it appears 
 that an edition of this size, in an "economy format," can be printed at $365.00 
-(6 3/4" x 9 1/2" page size, two columns); 
+(6 3/4″ x 9 1/2″ page size, two columns); 
 and the same text, mimeographed in a 400-word format, will cost $158.00 (see page 51). 
 
 The question may then be asked, is 
@@ -2244,68 +2244,68 @@ the sums listed above will purchase the
 following amounts of page area in a photo-offset edition of 500 copies: 
 
 For $95.50 can be bought 500 copies 
-of twenty-eight pages, 8 1/2" x 11", which 
+of twenty-eight pages, 8 1/2″ x 11″, which 
 will require 1786 words to a page to reproduce 50,000 words; or, $95.50 will buy 500 
-copies of forty-four pages, 6" x 9 1/2" 
+copies of forty-four pages, 6″ x 9 1/2″ 
 (twenty-two printings from a metal sheet 
-9 1/2" x 12"), which will require 1136 
+9 1/2″ x 12″), which will require 1136 
 words per page to reproduce 50,000 words. 
 
 How can the typescript copy be prepared to lay this number of words on a page 
 in a format satisfactory for photo-offset 
 in these sizes of metal sheet or paper? 
 
-The arrangement of 6" x 9 1/2", 
-less 1/2" margin on top, bottom and outside, and with a 3/4" margin on the bound 
+The arrangement of 6″ x 9 1/2″, 
+less 1/2″ margin on top, bottom and outside, and with a 3/4″ margin on the bound 
 edge, can be made in this manner: two 
-columns, each column 8 1/2" high, carrying 
+columns, each column 8 1/2″ high, carrying 
 568 words, in column width not greater than 
-2 1/8", leaving 1/2" between columns. Such 
+2 1/8″, leaving 1/2″ between columns. Such 
 a column will roughly resemble newsprint 
 in width. Counting 6 keystrokes per word 
 to allow for spacing and loss on the right-hand margin, the number of keystrokes must 
-be 3408 in a column 8 1/2" x 2 1/8". An 
+be 3408 in a column 8 1/2″ x 2 1/8″. An 
 interlinear spacing of five lines to the 
 inch with pica type would be used. 
 
-In full pica size, 8 1/2" will be 
+In full pica size, 8 1/2″ will be 
 filled with forty-two lines at five lines 
-to the inch, and 2 1/8" with 21 keystrokes; 
+to the inch, and 2 1/8″ with 21 keystrokes; 
 at full size, therefore, this area will accept 882 keystrokes. But since it must accept 5408 keystrokes in reduced size, the 
 reduction must be such that four times this 
 number of keystrokes will go on this area. 
 The square root of four is two. The pica 
 typescript must, therefore, stand at a reduction of two diameters. Since 42 keystrokes reduced two diameters will fill the 
-21/8" column, the typewriter should be 
-set to make columns of this width (42 keystrokes, or 4.2") and carried to a column 
-length of 17". When this is reduced photographically, it is a reduction of approximately 50%. (Figure XXXI.) 
+21/8″ column, the typewriter should be 
+set to make columns of this width (42 keystrokes, or 4.2″) and carried to a column 
+length of 17″. When this is reduced photographically, it is a reduction of approximately 50%. (Figure XXXI.) 
 
-In the 8 1/2" x 11" size of page 
+In the 8 1/2″ x 11″ size of page 
 the necessary 1786 words would probably 
-best be set in three columns. Making margin allowances of 3/4" inside margin, 1/2" 
+best be set in three columns. Making margin allowances of 3/4″ inside margin, 1/2″ 
 between columns and for outer margin, and 
-1" on the top and bottom, the effective 
-width of the columns would be 2.08" and the {% include columnbreak.html canvas=136 col=2 %} height would be 9". Each column would be 
+1″ on the top and bottom, the effective 
+width of the columns would be 2.08″ and the {% include columnbreak.html canvas=136 col=2 %} height would be 9″. Each column would be 
 required to take 595 words, or 3570 keystrokes. A reduction ratio of 50% will be 
 necessary. Pica typescript reduced to 50% 
 of original size will suffice in this format. In the format copying, the typist 
 should make each line 43 keystrokes long 
-(4.3") and the column should be typed to 
-18" in height. (Figure XXXII.) 
+(4.3″) and the column should be typed to 
+18″ in height. (Figure XXXII.) 
 
 Thus it appears that there are at 
 least two formats in which a photo-offset 
 copy of a 50,000-word text could be made 
 for a price equivalent to the cost of a 
-mimeograph copy. The choice of an 8 1/2" 
-x 11" format would involve reduction of 
+mimeograph copy. The choice of an 8 1/2″ 
+x 11″ format would involve reduction of 
 pica typescript by 50%; the choice of the 
-6" x 9 1/2" format would also mean a reduction of 50%. The typescript format copy 
-for the 6" x 9 1/2" page could be prepared 
-on a typewriter with a 12"-carriage (two 
-columns, each column 4.2", with 1/2" margin between them); the format copy for the 
-8 1/2" x 11" page would call for a typewriter carriage that would make three columns, each 4.5", with two internal margins 
-of 1/2", and hence a 15"-carriage would be 
+6″ x 9 1/2″ format would also mean a reduction of 50%. The typescript format copy 
+for the 6″ x 9 1/2″ page could be prepared 
+on a typewriter with a 12″-carriage (two 
+columns, each column 4.2″, with 1/2″ margin between them); the format copy for the 
+8 1/2″ x 11″ page would call for a typewriter carriage that would make three columns, each 4.5″, with two internal margins 
+of 1/2″, and hence a 15″-carriage would be 
 necessary. Of course the typing could be 
 done one column at a time on the typewriter, 
 and the columns then mounted together to 
@@ -2321,7 +2321,7 @@ of legibility without a reading glass.
 
 If the composition cost is set at a 
 lower level by basing it upon a wage rate 
-in an office, the number of 8 1/2" x 11" 
+in an office, the number of 8 1/2″ x 11″ 
 pages upon which the 50,000 words would be 
 spread would be increased from twenty-eight 
 to thirty-two, because there would be more 
@@ -2352,13 +2352,13 @@ mimeograph format that is in the same cost
 range. A book of 50,000 words, reproduced 
 in this format, would cost $158.00, including the cost of typing the master copy. Allowing $62.50 for the composition cost, a 
 sum of $95.50 is left to pay for the running costs. This amount of money will buy 
-500 copies of forty-four pages, size 6" 
-x 94", To put 50,000 words on forty-four 
+500 copies of forty-four pages, size 6″ 
+x 94″, To put 50,000 words on forty-four 
 pages, there must be 1136 words on a page, 
 or 568 words per column in a two-column 
 format such as this one. 
 
-To fit these specifications, the master copy is typed in two columns, each column being 4.4" wide and 17" long. Pica 
+To fit these specifications, the master copy is typed in two columns, each column being 4.4″ wide and 17″ long. Pica 
 type with an interlinear spacing of five 
 lines to the inch is used. The master copy 
 is then given to the photo-offset establishment with instructions that it is to be 
@@ -2389,13 +2389,13 @@ mimeograph format that is in the same cost
 range. A book of 50,000 words, reproduced 
 in this format, would cost $158.00, including the cost of typing the master copy. Allowing $62.50 for the composition cost, a 
 sum of $95.50 is left to pay for the running costs. This amount of money will buy 
-500 copies of forty-four pages, size 6" 
-x 9½", To put 50,000 words on forty-four 
+500 copies of forty-four pages, size 6″ 
+x 9½″, To put 50,000 words on forty-four 
 pages, there must be 1136 words on a page, 
 or 568 words per column in a two-column 
 format such as this one. 
 
-To fit these specifications, the master copy is typed in two columns, each column being 4.4" wide and 17" long. Pica 
+To fit these specifications, the master copy is typed in two columns, each column being 4.4″ wide and 17″ long. Pica 
 type with an interlinear spacing of five 
 lines to the inch is used. The master copy 
 is then given to the photo-offset establishment with instructions that it is to be 
@@ -2423,13 +2423,13 @@ range. A book of 50,000 words, reproduced
 in this format, would cost $158.00, including the cost of typing the master copy. Al- 
 lowing $62.50 for the composition cost, a 
 sum of $95.50 is left to pay for the running costs. This amount of money will buy 
-500 copies of forty-four pages, size 6" 
-x 9½". To put 50,000 words on forty-four 
+500 copies of forty-four pages, size 6″ 
+x 9½″. To put 50,000 words on forty-four 
 pages, there must be 1136 words on a page, 
 or 568 words per column in a two-column 
 format such as this one. 
 
-To fit these specifications, the master copy is typed in two columns, each column being 4.4" wide and 17" long. Pica 
+To fit these specifications, the master copy is typed in two columns, each column being 4.4″ wide and 17″ long. Pica 
 type with an interlinear spacing of five 
 lines to the inch is used. The master copy 
 is then given to the photo-offset establishment with instructions that it is to be 
@@ -2457,7 +2457,7 @@ reproduce a book of 50,000 words
 offset at the same cost level as that of 
 mimeographing, this three-column photo-offset format can be used, putting 595 
 words in each column; or the format illustrated in Figure XXXI can be followed, using 
-a two-column arrangement on a 6" x 9½"
+a two-column arrangement on a 6″ x 9½″
 page. Both pages, of course, by attempting to approximate the cost range of the 
 Mimeograph approach very close to the lower limits of legibility. The $158.00 that 
 is necessary either for the mimeographing 
@@ -2466,7 +2466,7 @@ probably best used for the mimeograph.
 
 Using Hoch's figures, as given in 
 Chapter III, it is found that $95.50 will 
-buy twenty-eight pages of size 84" x 11". 
+buy twenty-eight pages of size 84″ x 11″. 
 This means the putting of 1768 words on a 
 page to accommodate the 50,000 words of the 
 manuscript. The reader may judge for 
@@ -2497,7 +2497,7 @@ reproduce a book of 50,000 words
 offset at the same cost level as that of 
 mimeographing, this three-column photo-offset format can be used, putting 595 
 words in each column; or the format illustrated in Figure XXXI can be followed, using 
-a two-column arrangement on a 6" x 9½"
+a two-column arrangement on a 6″ x 9½″
 page. Both pages, of course, by attempting to approximate the cost range of the 
 Mimeograph approach very close to the lower limits of legibility. The $158.00 that 
 is necessary either for the mimeographing 
@@ -2506,7 +2506,7 @@ probably best used for the mimeograph.
 
 Using Hoch's figures, as given in 
 Chapter III, it is found that $95.50 will 
-buy twenty-eight pages of size 84" x 11". 
+buy twenty-eight pages of size 84″ x 11″. 
 This means the putting of 1768 words on a 
 page to accommodate the 50,000 words of the 
 manuscript. The reader may judge for 
@@ -2542,7 +2542,7 @@ reproduce a book of 50,000 words
 offset at the same cost level as that of 
 mimeographing, this three-column photo-offset format can be used, putting 595 
 words in each column; or the format illustrated in Figure XXXI can be followed, using 
-a two-column arrangement on a 6" x 9½"
+a two-column arrangement on a 6″ x 9½″
 page. Both pages, of course, by attempting to approximate the cost range of the 
 Mimeograph approach very close to the lower limits of legibility. The $158.00 that 
 is necessary either for the mimeographing 
@@ -2551,7 +2551,7 @@ probably best used for the mimeograph.
 
 Using Hoch's figures, as given in 
 Chapter III, it is found that $95.50 will 
-buy twenty-eight pages of size 84" x 11". 
+buy twenty-eight pages of size 84″ x 11″. 
 This means the putting of 1768 words on a 
 page to accommodate the 50,000 words of the 
 manuscript. The reader may judge for 
@@ -2582,7 +2582,7 @@ reproduce a book of 50,000 words
 offset at the same cost level as that of 
 mimeographing, this three-column photo-offset format can be used, putting 595 
 words in each column; or the format illustrated in Figure XXXI can be followed, using 
-a two-column arrangement on a 6" x 9½"
+a two-column arrangement on a 6″ x 9½″
 page. Both pages, of course, by attempting to approximate the cost range of the 
 Mimeograph approach very close to the lower limits of legibility. The $158.00 that 
 is necessary either for the mimeographing 
@@ -2591,7 +2591,7 @@ probably best used for the mimeograph.
 
 Using Hoch's figures, as given in 
 Chapter III, it is found that $95.50 will 
-buy twenty-eight pages of size 84" x 11". 
+buy twenty-eight pages of size 84″ x 11″. 
 This means the putting of 1768 words on a 
 page to accommodate the 50,000 words of the 
 manuscript. The reader may judge for 
@@ -2627,7 +2627,7 @@ reproduce a book of 50,000 words
 offset at the same cost level as that of 
 mimeographing, this three-column photo-offset format can be used, putting 595 
 words in each column; or the format illustrated in Figure XXXI can be followed, using 
-a two-column arrangement on a 6" x 9½"
+a two-column arrangement on a 6″ x 9½″
 page. Both pages, of course, by attempting to approximate the cost range of the 
 Mimeograph approach very close to the lower limits of legibility. The $158.00 that 
 is necessary either for the mimeographing 
@@ -2636,7 +2636,7 @@ probably best used for the mimeograph.
 
 Using Hoch's figures, as given in 
 Chapter III, it is found that $95.50 will 
-buy twenty-eight pages of size 84" x 11". 
+buy twenty-eight pages of size 84″ x 11″. 
 This means the putting of 1768 words on a 
 page to accommodate the 50,000 words of the 
 manuscript. The reader may judge for 
@@ -2667,7 +2667,7 @@ reproduce a book of 50,000 words
 offset at the same cost level as that of 
 mimeographing, this three-column photo-offset format can be used, putting 595 
 words in each column; or the format illustrated in Figure XXXI can be followed, using 
-a two-column arrangement on a 6" x 9½"
+a two-column arrangement on a 6″ x 9½″
 page. Both pages, of course, by attempting to approximate the cost range of the 
 Mimeograph approach very close to the lower limits of legibility. The $158.00 that 
 is necessary either for the mimeographing 
@@ -2676,7 +2676,7 @@ probably best used for the mimeograph.
 
 Using Hoch's figures, as given in 
 Chapter III, it is found that $95.50 will 
-buy twenty-eight pages of size 84" x 11". 
+buy twenty-eight pages of size 84″ x 11″. 
 This means the putting of 1768 words on a 
 page to accommodate the 50,000 words of the 
 manuscript. The reader may judge for 
@@ -2718,9 +2718,9 @@ $365.00 that would be required to print 50,000 words is here
 devoted to making a photo-offset reproduction from typescript. 
 $62.50 of it is allotted to the composition cost, leaving 
 $302.50 to pay for the running costs. This amount will buy 
-500 copies of sixty-nine pages, 93" x 12", or, as with this 
-format, 138 pages, 6" x 9½". With the larger size page, only 
-725 words need be put on each page; with this 6" x 9½" page, 
+500 copies of sixty-nine pages, 93″ x 12″, or, as with this 
+format, 138 pages, 6″ x 9½″. With the larger size page, only 
+725 words need be put on each page; with this 6″ x 9½″ page, 
 only 363 words need be put on each page. 
 
 Leaving wide margins and typing in a single column with 
@@ -2731,10 +2731,10 @@ into use.
 
 If it should happen that the format copy were then sent 
 to a photo-offset printer for quotation who was using a press 
-with a 17" x 22" metal sheet, his quotation for the job would 
+with a 17″ x 22″ metal sheet, his quotation for the job would 
 be substantially higher than the figure of $302.50 that is 
 the basis of this calculation, because he would have to run 
-the whole printing surface to get four pages of 6" x 9½", 
+the whole printing surface to get four pages of 6″ x 9½″, 
 and the wastage of his metal sheet printing surface would be 
 almost 40%. This fact is brought into the picture to emphasize the importance of considering, in the planning of a format, not only the arrangement of typescript columns that will 
 lay the required number of words on a page, but also the relation of the page size chosen to the dimensions of the metal 
@@ -2746,9 +2746,9 @@ $365.00 that would be required to print 50,000 words is here
 devoted to making a photo-offset reproduction from typescript. 
 $62.50 of it is allotted to the composition cost, leaving 
 $302.50 to pay for the running costs. This amount will buy 
-500 copies of sixty-nine pages, 94" x 12", or, as with this 
-format, 138 pages, 6" x 93", With the larger size page, only 
-725 words need be put on each page; with this 6" x 94" page, 
+500 copies of sixty-nine pages, 94″ x 12″, or, as with this 
+format, 138 pages, 6″ x 93″, With the larger size page, only 
+725 words need be put on each page; with this 6″ x 94″ page, 
 
  {% include pagebreak.html canvas=143 %} 
 
@@ -3091,18 +3091,18 @@ a photo-offset reproduction from typescript,
 $62.50 of it must be allotted to typescript 
 composition, leaving $302.50 to pay for the 
 photo-offset work itself. This will pay 
-for 500 copies of 69 pages, 9 1/2" x 12", 
-or 138 pages, 6" x 9 1/2". It would be 
+for 500 copies of 69 pages, 9 1/2″ x 12″, 
+or 138 pages, 6″ x 9 1/2″. It would be 
 necessary to put no more than 725 words on 
-each 9 1/2" x 12" page, or 368 words on 
-each 6" x 9 1/2" page. Leaving wide margins and typing in a single column with 
+each 9 1/2″ x 12″ page, or 368 words on 
+each 6″ x 9 1/2″ page. Leaving wide margins and typing in a single column with 
 five-lines-to-the-inch spacing, a reduction 
 of 24%, to 76% of full size, would take 
-care of the 9 1/2" x 12" page. The typist 
-would simply set the stops to write 85 keystrokes to a line (8.56"), type 60 lines on 
+care of the 9 1/2″ x 12″ page. The typist 
+would simply set the stops to write 85 keystrokes to a line (8.56″), type 60 lines on 
 a page, and ask the photo-offset printer to 
 reduce the page to 76% of full size. On 
-the 6" x 9 1/2" page, the typist would set 
+the 6″ x 9 1/2″ page, the typist would set 
 the stops to write 54 to 55 keystrokes, 
 type 47 lines at four-lines-to-the-inch 
 Spacing, and ask the printer to reduce it 
@@ -3114,11 +3114,11 @@ way of using the photo-offset process.
 If it should happen that the format 
 copy were then sent for quotation to a 
 photo-offset printer who was using a press 
-with a 17" x 22" metal sheet, his quotation 
+with a 17″ x 22″ metal sheet, his quotation 
 for the job would be substantially higher 
 than the figure of $302.50 that is the basis of this calculation, because he would 
-_have to run the whole 17" x 22" to get four 
-pages 6" x 9 1/2", and the wastage of his 
+_have to run the whole 17″ x 22″ to get four 
+pages 6″ x 9 1/2″, and the wastage of his 
 metal sheet printing surface would be almost 40%. This fact is brought into the {% include columnbreak.html canvas=147 col=2 %} picture to emphasize the importance of considering, in the planning of a format, not 
 only the arrangement of typescript columns 
 that will lay the required number of words 
@@ -3160,8 +3160,8 @@ A manuscript of 50,000 words, typed
 in the normal 300-word format, fills 166 
 pages. To retype this manuscript in a special format for photo-offset reproduction 
 would cost $62.50. Now this $62.50, if diverted from the payment of composition cost 
-to the payment of area cost, will buy nineteen extra pages, 8 1/2" x 11", or 28 
-extra pages, 6" x 9 1/2", in an edition of 500. If this $62.50, instead of going to 
+to the payment of area cost, will buy nineteen extra pages, 8 1/2″ x 11″, or 28 
+extra pages, 6″ x 9 1/2″, in an edition of 500. If this $62.50, instead of going to 
 composition, is actually paid to the offset 
 printer, the text can be spread over this 
 additional amount of page area without 
@@ -3181,26 +3181,26 @@ are prepared, and in which they are presented to editors or bound as typescript
 dissertations. 
 
 It has been shown above that the 
-50,000 word text can be retyped and reproduced in a 6" x 9 1/2" or an 8 1/2" x 11" 
+50,000 word text can be retyped and reproduced in a 6″ x 9 1/2″ or an 8 1/2″ x 11″ 
 book for $158.00 (the same price as mimeographing) by reducing the pica typescript 
 to 50%. of full size. 
 
 If the entire $158.00 is spent for 
 photo-offset work, it will buy six full 
-sheets 22" x 34" ($153.66). These six 
-sheets will divide into 168 pages of 5 1/2" 
-x 4 6/7". This particular way of folding 
+sheets 22″ x 34″ ($153.66). These six 
+sheets will divide into 168 pages of 5 1/2″ 
+x 4 6/7″. This particular way of folding 
 the sheet will cause an additional expense 
 in gathering, but the extra expense will 
 probably not exceed the difference between 
 $153.66 and $158.00. The normal typescript 
 pages, reduced to go on pages of this size, 
 must pass through a reduction of 45%, leaving them 55% of full size. The page would 
-then have a 1/2" margin top and bottom, and 
+then have a 1/2″ margin top and bottom, and 
 side margins of nearly an inch. This reduction ratio would be the same if the 
 typescript pages were reduced to go on 
-pages 5 1/2" x 4 1/4", made by folding 
-8 1/2" x 11" sheets into four, and costing, 
+pages 5 1/2″ x 4 1/4″, made by folding 
+8 1/2″ x 11″ sheets into four, and costing, 
 for the edition, $133.40. The difference 
 between $133.40 and $153.66 would be an unnecessary expense for needless width of 
 side margins. The alternatives in the 
@@ -3216,11 +3216,11 @@ Another standard price level is suggested by the dimensions and word count of
 the normal typescript page, because of the 
 importance of utilizing the full area of 
 the photo-offset metal sheet. This is the 
-size 8 1/2" x 5 1/2", obtained by reducing 
+size 8 1/2″ x 5 1/2″, obtained by reducing 
 a full page of typescript to a half page of 
 photo-offset. Metal sheets that will take 
-an 8 1/2" x 11" page without wastage will 
-also take the 8 1/2" x 5 1/2" without wastage. If top and bottom margins of 3/4" are 
+an 8 1/2″ x 11″ page without wastage will 
+also take the 8 1/2″ x 5 1/2″ without wastage. If top and bottom margins of 3/4″ are 
 left on the photo-offset page, the reduction of the typescript will be 23%, to 77% 
 of full size, and the cost of the edition 
 of 500 will be $265.00. This is a price 
@@ -3231,8 +3231,8 @@ without retyping.
 
 If the sum of $265.00) is to be 
 spent to reproduce typescript in a retyped 
-format, it can be made to yield a two-column page 8 1/2" x 11", with each column 
-3.6" wide, and 1/2" margins top and bottom, 
+format, it can be made to yield a two-column page 8 1/2″ x 11″, with each column 
+3.6″ wide, and 1/2″ margins top and bottom, 
 in exactly the same reduction, namely 23%. 
 
 *Therefore the cost of reproducing 
@@ -3241,11 +3241,11 @@ not the additional format typing were
 done.*[^n4] The saving of page area involved 
 in shifting from one column to two, and 
 from normal double spacing to special spacing four and one-half-to-the-inch, and 
-from the 3/4" to the 1/2" top and bottom 
+from the 3/4″ to the 1/2″ top and bottom 
 margin, would exactly pay the cost of the 
 format typing. 
 
-[^n4]: The typing instructions for preparing this format page are: pica type, special spacing of 4½-to-the-inch, in columns 4.8" (or 48 letters) wide, and 13" (or 68 lines) long. 
+[^n4]: The typing instructions for preparing this format page are: pica type, special spacing of 4½-to-the-inch, in columns 4.8″ (or 48 letters) wide, and 13″ (or 68 lines) long. 
 
 These figures make possible an interesting comparison with the actual price 
 quotations offered by Edwards Brothers. 
@@ -3253,7 +3253,7 @@ Edwards Brothers offer to type and manufacture an edition of 500 copies of 50,00
 words for $265.00. The calculations above 
 and the format designed above to bring a 
 retyped book to the same price of manufacture as a book reproduced directly from a 
-normal fair copy of 8 1/2" x 5 1/2™ photo-offset pages, are based on an average quotation for typing and on the photo-offset 
+normal fair copy of 8 1/2″ x 5 1/2™ photo-offset pages, are based on an average quotation for typing and on the photo-offset 
 shop quotations made by Hoch. The agreement with the Edwards figures seems very 
 near, for it would appear that Edwards {% include pagebreak.html canvas=149 %} Brothers would also find a point where the 
 economies of a compressed format on a page 
@@ -3273,7 +3273,7 @@ PHOTO-OFFSET PRICES
 
 TODO
 
-(For 8 1/2" x 5 1/2" page, format 350-J, 350 words per page, quoted in units 
+(For 8 1/2″ x 5 1/2″ page, format 350-J, 350 words per page, quoted in units 
 of 57 pages, or 20,000 words, including cheap binding) 
 
 Composition Cost Included 
@@ -3293,7 +3293,7 @@ The difference between the "Edwards type" and the "author type" figures for 20,0
 words is $18.00; the price of the typing is therefore to be reckoned at $.90 per 
 1000 words in this format. 
 
-(For 8 1/2" x 11" page, format 700-D, 700 words per page, quoted in units 
+(For 8 1/2″ x 11″ page, format 700-D, 700 words per page, quoted in units 
 of 72 pages, 50,000 words, including cheap binding) 
 
 Composition Cost Included Composition Cost Excluded 
@@ -3334,13 +3334,13 @@ $264.00). Edwards quotes $265.00 for the
 shop-typed copy. 
 
 There are other contrasts to be examined. The Hoch quotations for 500 copies 
-are page 6 1/2" x 11" stand at $5,205 
+are page 6 1/2″ x 11″ stand at $5,205 
 Edwards prints this amount of matter, collates, and includes a cheap binding for 
 $3.68. But the Hoch quotations show a constant proportionate relationship between 
 the prices of full metal sheets and half 
 sheets. If Edwards Brothers sets up the 
-8 1/2" x 11" area in the form of two pages, 
-8 1/2" x 5 1/2", the price is equivalent to 
+8 1/2″ x 11″ area in the form of two pages, 
+8 1/2″ x 5 1/2″, the price is equivalent to 
 $3.92 instead of Hoch's $3.20. Of course 
 the collating and binding cost counts for 
 something in this comparison, but the figures reveal nonetheless a certain elasticity in costs per square inch of page (area 
@@ -3396,7 +3396,7 @@ method in handling copy which is absolutely
 no probability of author's revisions. But 
 if the design of the page requires so many 
 letters per column that the two columns 
-cannot be typed together on the normal 10"-carriage, or if there is a prospect of many 
+cannot be typed together on the normal 10″-carriage, or if there is a prospect of many 
 corrections or of footnote material to be 
 fitted in place, the galley strip method of 
 typing is probably superior. 

@@ -410,9 +410,9 @@ a shift.
 [^n3]: M. D. Vernon, *Experimental Study of Reading*, (Cambridge, Massachusetts, 1931). 
 
 How rapidly will area costs fall if 
-type size is reduced? Consider a 6" x 9" 
-page, with a printing surface 4 1/2" 
-x 7 1/2", printed with 32-page forms. Newsprint in two columns with half an inch between them would yield 800 pages, 24,600 
+type size is reduced? Consider a 6″ x 9″ 
+page, with a printing surface 4 1/2″ 
+x 7 1/2″, printed with 32-page forms. Newsprint in two columns with half an inch between them would yield 800 pages, 24,600 
 words per form (according to an actual 
 count of words). Eight-point type, leaded 
 one point would put 25,000 words on a form; 
@@ -462,7 +462,7 @@ copper. But they have no place in the calculations of costs of small editions.
 In analyzing the composition, the 
 area, and the running costs for producing 
 a book by straight printing, one might 
-take the cost behavior in Chicago as an example. A book of 50,000 words in an edition Of 250, on 128 6" x 9" pages, could be 
+take the cost behavior in Chicago as an example. A book of 50,000 words in an edition Of 250, on 128 6″ x 9″ pages, could be 
 made for $246.57. Taking these figures as 
 an illustrative sample, it appears that for 
 composing and printing a book, about 50% 
@@ -519,8 +519,8 @@ imitation of typescript and for making office forms from print-face type in imit
     styles, $.95 for print styles, for a box containing on an average 25,000 characters, printing about 
     415 words; it is scrapped after using. It is sometimes mounted on a flexible blanket which may easily 
     be attached to or removed from a smooth-faced segment. The embossed strips are always mounted on a 
-    similar sort of blanket. The most popular multigraph prints only one 8 1/2" x 11" page at a time, but 
-    a machine is manufactured with a drum large enough for two 8 1/2" x 11" pages; this is fairly common. 
+    similar sort of blanket. The most popular multigraph prints only one 8 1/2″ x 11″ page at a time, but 
+    a machine is manufactured with a drum large enough for two 8 1/2″ x 11″ pages; this is fairly common. 
   
 The best adaptation of multigraph 
 
@@ -638,7 +638,7 @@ found normal in 1927---from $2.25 to $4.00.
 TABLE IV 
 
 ESTIMATE FOR COMPOSING AND PRINTING BY MIMEOFORM AND STRAIGHT PRINTING 
-A BOOK OF 50,000 WORDS, 6" x 9" TRIM SIZE, 128 PAGES 
+A BOOK OF 50,000 WORDS, 6″ x 9″ TRIM SIZE, 128 PAGES 
 
 (Not an economy format for either process) 
 
@@ -707,7 +707,7 @@ IN VARIOUS FORMATS
       <td style="text-align: center">600</td>
     </tr>
     <tr>
-      <td>Mimeoform<br/>(8 1/2" x 11" trim size in 10-pt., 2 cols.)</td>
+      <td>Mimeoform<br/>(8 1/2″ x 11″ trim size in 10-pt., 2 cols.)</td>
       <td style="text-align: right">$143.00</td>
       <td style="text-align: right">$143.00</td>
       <td style="text-align: right">$143.00</td>
@@ -717,7 +717,7 @@ IN VARIOUS FORMATS
       <td style="text-align: right">$211.00</td>
     </tr>
     <tr>
-      <td>Printing<br/>(6 3/4" x 9 1/2" trim size, 11-pt. on 12 Granjon, 2 cols.&mdash;newsprint format)</td>
+      <td>Printing<br/>(6 3/4″ x 9 1/2″ trim size, 11-pt. on 12 Granjon, 2 cols.&mdash;newsprint format)</td>
       <td style="text-align: right">$280.00</td>
       <td style="text-align: right">$285.00</td>
       <td style="text-align: right">$290.00</td>
@@ -727,7 +727,7 @@ IN VARIOUS FORMATS
       <td style="text-align: right">$323.00</td>
     </tr>
     <tr>
-      <td>Printing<br/>(8 1/2" x 11" trim size, 7-pt. solid, 3 cols.&mdash;economy format)</td>
+      <td>Printing<br/>(8 1/2″ x 11″ trim size, 7-pt. solid, 3 cols.&mdash;economy format)</td>
       <td style="text-align: right">$300.00</td>
       <td style="text-align: right">$308.50</td>
       <td style="text-align: right">$317.00</td>
@@ -917,7 +917,7 @@ its black and white, the paper negative
 According to an estimate made for the Joint 
 Committee, the paper negatives required in 
 preparing metal sheets for a book of 128 
-pages, 6" x 9", would cost $5.12. If film 
+pages, 6″ x 9″, would cost $5.12. If film 
 were used, the cost of the films would be 
 $17.92. Thus a variation of $12.80, or approximately 10% of a job priced at about 
 $125.00 (exclusive of binding and paper 
@@ -969,7 +969,7 @@ found in the difference between the original and reprint quotations when the pho
 for the book, but not the metal sheets. 
 This discount when given runs near to 15%. 
 
-[^n10]:  Figured on basis of quotations given for producing a book of 128 pages, 6" x 9", in an edition of fifty, 
+[^n10]:  Figured on basis of quotations given for producing a book of 128 pages, 6″ x 9″, in an edition of fifty, 
     exclusive of paper and bindipoong costs. 
 
 ### (b) The Preparation of the Metal Plate 
@@ -1002,16 +1002,16 @@ PRICES ON PHOTO-OFFSET PRINTING SURFACE
 
 | | First 100 Copies | Per Additional 100's |
 |--------------|------:|------:|
-| 8 1.2" x 11" | $2.00 | $0.30 | 
-| 8 1/2" x 14" | 2.75 | 0.40 | 
-| 9 1/2" x 12" | 2.75 | 0.40 |
-| 11" x 17" | 4.00 | 0.60 |
-| 14" x 17" | 5.50 | 0.80 |
-| 12" x 19" | 5.50 | 0.80 |
-| 17" x 22" | 8.00 | 1.00 |
-| 17" x 28" | 11.00 | 1.40 |
-| 19" x 24" | 11.00 | 1.40 |
-| 22" x 34" | 16.00 | 2.40 |
+| 8 1.2″ x 11″ | $2.00 | $0.30 | 
+| 8 1/2″ x 14″ | 2.75 | 0.40 | 
+| 9 1/2″ x 12″ | 2.75 | 0.40 |
+| 11″ x 17″ | 4.00 | 0.60 |
+| 14″ x 17″ | 5.50 | 0.80 |
+| 12″ x 19″ | 5.50 | 0.80 |
+| 17″ x 22″ | 8.00 | 1.00 |
+| 17″ x 28″ | 11.00 | 1.40 |
+| 19″ x 24″ | 11.00 | 1.40 |
+| 22″ x 34″ | 16.00 | 2.40 |
 
  {% include pagebreak.html canvas=64 %} 
 
@@ -1024,8 +1024,8 @@ metal sheets of eighty different dimensions.
 Yet such is the force and pressure of 
 standardization in the trade that most operators will aver that all these variant 
 sizes are best adapted to the two standard 
-page sizes, 6" x 9", and 5 1/2" x 8 1/2" 
-(and its double, 8 1/2" x 11"). These are, 
+page sizes, 6″ x 9″, and 5 1/2″ x 8 1/2″ 
+(and its double, 8 1/2″ x 11″). These are, 
 in fact, the page sizes that will divide 
 most evenly into the standard cuts of book 
 paper and bond paper. They are convenient, 
@@ -1033,16 +1033,16 @@ but they may turn out to be wasteful.
 
 For example, the rotaprint metal 
 sheet, now officially known as Rotaplate, 
-measures 11" x 17". It will take perfectly two pages of normal typewriter size paper, 8 1/2" x 11". A working margin of 
-1/2" may be needed. But suppose a book of 
-6" x 9" should be run on this press. No
+measures 11″ x 17″. It will take perfectly two pages of normal typewriter size paper, 8 1/2″ x 11″. A working margin of 
+1/2″ may be needed. But suppose a book of 
+6″ x 9″ should be run on this press. No
 less than 42% of the available printing 
 surface would be wasted. In printing a 
-book of 128 pages, 6" x 9") on this machine, sixty-four plates would be required, 
+book of 128 pages, 6″ x 9″) on this machine, sixty-four plates would be required, 
 for no more than two pages could go on each 
 plate. At $1.50 a plate, the cost would be 
 $96.00, and of this about 42%, or $40.00, 
-is wasted. Whoever would print 6" x 9" 
+is wasted. Whoever would print 6″ x 9″ 
 pages should find a printer with another 
 size of press. In bringing back into print
 some old book that happens to be printed in 
@@ -1102,7 +1102,7 @@ naked eye.
 
 [^n12]: "....the photographs used in reproducing the Covarrubias. *Tesoro de la lengua castellana. o espanola* 
     we beg to report that the photographs used in reproducing the Covarrubias were made at the Hispanic 
-    Society. Each of the 1382 pages was photographed separately on a 5" x 7" panchromatic film, using an 
+    Society. Each of the 1382 pages was photographed separately on a 5″ x 7″ panchromatic film, using an 
     apochromatic lens. Glossy prints of these negatives were mounted on sheets of cardboard, nine prints 
     to a sheet, and this material was sent to the Rudge Company for reproduction by the offset process. 
     The microphotographic reproduction contained 154 pages. 
@@ -1165,7 +1165,7 @@ electrotype by printing it in wax and depositing electrolytic copper in the wax
 matrix. He can then preserve the electrotypes and make a second printing without 
 incurring any composition costs. But electrotypes and stereotypes are almost out of 
 the question except for large editions. The 
-electrotype for a 6" by 9" page, in a book
+electrotype for a 6″ by 9″ page, in a book
 of 128 straight-type pages, will cost approximately $1.50 a page unmounted, $2.00 
 a page mounted. The corresponding photo-offset device is to preserve the metal 
 sheets, protected with a coating of gum and 
@@ -1289,15 +1289,15 @@ writer, but must for the time being be
 kept confidential. 
 
 The rotaprint was the first machine to offer itself as a piece of office 
-equipment. The cost of a rotaprint installation is about $1000 (9" x 14" model, 
+equipment. The cost of a rotaprint installation is about $1000 (9″ x 14″ model, 
 friction feed; suction feed, about $1575). 
 The latest rotaprint model, R 50, is 
 $660.00 complete. Compare this with the 
 price of photostat equipment, which is 
 $800. Then came the multilith, offering 
 an installation for $630.00 (friction feed, 
-in its standard size, 9 1/2" x 12 1/2" 
-printing surface, 10" x 14" paper). There 
+in its standard size, 9 1/2″ x 12 1/2″ 
+printing surface, 10″ x 14″ paper). There 
 has been developed a combination mimeograph and offset press which will permit a 
 changing over from the mimeograph stencil, 
 inked from the inside, to a photo-offset 
@@ -1332,7 +1332,7 @@ and rotaprint (Figures XXV and XXVI).
 The page to be dermaprinted was 
 selected because it was yellowed with age 
 and contained a line cut. The standard 
-charge of the A. B. Dick Company for an {% include columnbreak.html canvas=71 col=2 %} 8 1/2" x 11" dermaprint stencil is $3.50, 
+charge of the A. B. Dick Company for an {% include columnbreak.html canvas=71 col=2 %} 8 1/2″ x 11″ dermaprint stencil is $3.50, 
 which includes a small amount of retouching. If a considerable amount of retouching is necessary, there is a standard extra charge of $1.00 per hour. The cost of 
 the materials needed to make this particular stencil was $.64, which included a 
 film negative and a film positive. Had a 
@@ -1415,14 +1415,14 @@ TABLE VII
 COST OF PRINTING SURFACE FOR DERMAPRINT, ROTAPRINT, AND 
 MULTILITH 
 
-| Process | Size of Printing Surface | Price of 1 Stencil or Metal Sheet<sup>*</sup> | Price per 100 sq. in. | Price per 6" x 9" Page | Price per 8 1/2" x 11" Page |
-| Rotaprint | 8 3/8" x 11" | $.28 | $.318 | $.28 | $.28 |
-| Rotaprint | 8 3/8" x 13" | .28 | .257 | .14 | .28 |
-| Dermaprint | 7 1/4"x 10 1/4"| .13 | .174 | .13 | .13 |
-| Dermaprint | 7 1/4" x 14" | .15 | .147 | .075 | .15 |
-| Multilith | 9 1/2" x 12 1/2" | .35 | .294 | .175 | .35 | 
-| Rotaprint | 11" x 16 1/2" | .48 | .264 | .24 | .24 |
-| Multilith | 11" x 17" | .50 | .263 | .25 | .25 | 
+| Process | Size of Printing Surface | Price of 1 Stencil or Metal Sheet<sup>*</sup> | Price per 100 sq. in. | Price per 6″ x 9″ Page | Price per 8 1/2″ x 11″ Page |
+| Rotaprint | 8 3/8″ x 11″ | $.28 | $.318 | $.28 | $.28 |
+| Rotaprint | 8 3/8″ x 13″ | .28 | .257 | .14 | .28 |
+| Dermaprint | 7 1/4″x 10 1/4″| .13 | .174 | .13 | .13 |
+| Dermaprint | 7 1/4″ x 14″ | .15 | .147 | .075 | .15 |
+| Multilith | 9 1/2″ x 12 1/2″ | .35 | .294 | .175 | .35 | 
+| Rotaprint | 11″ x 16 1/2″ | .48 | .264 | .24 | .24 |
+| Multilith | 11″ x 17″ | .50 | .263 | .25 | .25 | 
 
 <sup>*</sup> Prices in quantities of 100. 
 

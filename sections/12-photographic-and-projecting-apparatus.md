@@ -178,7 +178,7 @@ CHART SHOWING CHIEF CHARACTERISTICS OF COPYING CAMERAS
 |----|----|----|----|----|----|----|----|----|
 | Leica | E. Leitz, Inc. 60 E. 10th St. New York City | $130.50 with lens | Yes | 35mm., perforated on one or both sides. 5 1/4 foot roll | f:3.5 50mm. | Yes | Fixed | Focal plane shutter makes double exposures impossible |
 | Contax | Carl Zeiss, Inc. 485 Fifth Avenue New York City | $130.50 with lens | Yes | 35mm., perforated on both sides. 5-foot roll | f:3.5 50mm. | Yes | Fixed | |
-| Photo-Record Microfilm Camera | Folmer Graflex Corp. Rochester N. Y. | Not set. About $200.00 | Yes | 16mm., perforated on one side; 35mm. perforated both sides; 70mm. perforated both sides; 70mm. paper. 100 foot rolls | f:3.5-2" or f:3.5-3" | Yes | Can be set for single or double frames | Automatic exposure time, film turning, and lighting |
+| Photo-Record Microfilm Camera | Folmer Graflex Corp. Rochester N. Y. | Not set. About $200.00 | Yes | 16mm., perforated on one side; 35mm. perforated both sides; 70mm. perforated both sides; 70mm. paper. 100 foot rolls | f:3.5-2″ or f:3.5-3″ | Yes | Can be set for single or double frames | Automatic exposure time, film turning, and lighting |
 | Recordak | Recordak Corporation 350 Madison Ave. New York City | Rents for $35.00 to $50.00 per month | By truck | 16mm., perforated on one side | | No | Variable | Automatic control of exposure time and lighting, turning of film, and fixed focus |
 | Recordak Book-Copying Camera | Eastman Kodak Co. Rochester, N. Y. | Will be rented | Can be moved but not highly portable | 16mm. perforated on one side; 100 foot rolls | f:4.5 32mm. | Yes | Variable | Button takes care of glass plate cover, lighting, exposures, turning film, and raising of glass cover |
 | Recordak Book-Copying Camera | Eastman Kodak Co. Rochester, N. Y. | Will be rented | Can be moved but not highly portable  | 16mm. perforated on one side; 35mm. perforated; 100 foot rolls | | Yes | Variable | Same as Recordak bookcopying camera for 16mm. film alone |
@@ -190,8 +190,8 @@ CHART SHOWING CHIEF CHARACTERISTICS OF COPYING CAMERAS
 | Argus | International Radio Corp. Ann Arbor, Michigan | $12.50 | Yes | 35mm., perforated one or both sides 5 feet | Ilex f:4.5 | Yes | Fixed. Same size as Leica frame; new | None |
 | Cinescopie | Cinescopie, Inc. 29, Rue aux Laines Brussels | Yes | 35mm., unperforated About 10 foot roll | f:3.5 | Yes | Fixed | Automatic exposure up to one second |
 | Bantam Kodak | Eastman Kodak Co. Rochester, N. Y. | $10.50 with supplementary lens | Yes | 35mm. 5 feet | | Yes | | |
-| Draeger Camera | Dr. R.H. Draeger c/o Bibliofilm Serv. Depart. of Agriculture, Washington, D. C. | Not set | Yes | 16mm., 35mm., and 70mm. film. 1000 foot rolls | Tessar f:6.3 | Yes | Ranges from 1/2" x 1 1/2" | Automatic focusing, timing, lighting, and film turning |
-| Matson | Robert Matson | About $300.00 | No | 35mm. perforated on both sides. 200 foot rolls | | Yes | Fixed. 3/4" x 1"  | Automatic foot pedal controlling film turning and exposures |
+| Draeger Camera | Dr. R.H. Draeger c/o Bibliofilm Serv. Depart. of Agriculture, Washington, D. C. | Not set | Yes | 16mm., 35mm., and 70mm. film. 1000 foot rolls | Tessar f:6.3 | Yes | Ranges from 1/2″ x 1 1/2″ | Automatic focusing, timing, lighting, and film turning |
+| Matson | Robert Matson | About $300.00 | No | 35mm. perforated on both sides. 200 foot rolls | | Yes | Fixed. 3/4″ x 1″  | Automatic foot pedal controlling film turning and exposures |
 
 {% include pagebreak.html canvas=324 %} Photoscopie, issues a general catalogue of 
 film subjects in all fields. The specifications of the Cinescopie camera are interesting. The machine is small: 9 1/2 
@@ -333,8 +333,8 @@ normal distance from the camera.
 The supplementary lenses are sold 
 at the following prices: 
 
-| Leitz Front Lens, No. 1 (minimum area covered in copying, 8" x 12"; 57,730 ELPRO) | $6.30 | 
-| Leitz Front Lens, No. 2 (minimum area covered in copying, 5" x 8"; 57.750 ELPIK) | $7.20 | 
+| Leitz Front Lens, No. 1 (minimum area covered in copying, 8″ x 12″; 57,730 ELPRO) | $6.30 | 
+| Leitz Front Lens, No. 2 (minimum area covered in copying, 5″ x 8″; 57.750 ELPIK) | $7.20 | 
 
 Contax (Zeiss) Proxar supplementary lenses, corresponding to 
 the above Leitz supplementary lenses, are listed but not priced 
@@ -579,7 +579,7 @@ camera mount. The lens is mounted on a
 frame facing a vertical copy board which 
 can be clamped in position at any distance 
 up to three feet from the lens. The copy 
-board will hold a sheet 11" x 14", which 
+board will hold a sheet 11″ x 14″, which 
 is the largest size that can be photographed conveniently with this apparatus. 
 The frame of film exposed is just half the 
 size of the Leica or Contax area; it is a 
@@ -745,8 +745,8 @@ Department of Agriculture, and is installed
 in the Library of Congress. It takes 16m. 
 and 65mm. film, and can use a special 7Omm. 
 magazine. The lens is £:6.3; the frame of 
-the film is variable, ranging from 1/2" to 
-1 1/2" along the length of the film; the 
+the film is variable, ranging from 1/2″ to 
+1 1/2″ along the length of the film; the 
 film roll is 500 or 1000 feet; the operation is entirely automatic, only the turning of the book pages being required of 
 the operator. 
 
@@ -792,7 +792,7 @@ New Folmer Graflex Camera
 sturdy separable upright column attached 
 to the base. When the base is closed, it 
 becomes the case for carrying the camera 
-and its accessories. The case will be approximately 11" x 17" x 6". 
+and its accessories. The case will be approximately 11″ x 17″ x 6″. 
 
 The illumination will be provided 
 by photo flood lamps supported from the 
@@ -857,8 +857,8 @@ Eastman, "it would hardly be called portable." There are two models, one for 16m
 film and another for 35mm. film. This film 
 will be taken in 100-foot rolls. The lens 
 used will be an Anastigmatic one with f:4.5 
-opening. Books up to 12" x 16" and up to 
-5" thick can be copied. The machine is designed to be almost entirely automatic. It 
+opening. Books up to 12″ x 16″ and up to 
+5″ thick can be copied. The machine is designed to be almost entirely automatic. It 
 will be motor driven and a touch of a button will automatically bring down the glass 
 cover, insuring the material to be copied 
 being under the focal plane. The same 
@@ -1107,7 +1107,7 @@ principle of small aperture further than
 it is carried by the Recordak. 
 
 When the newspaper Recordak was 
-developed, to read a newspaper page 18" x {% include columnbreak.html canvas=338 col=2 %} 22" on a double frame of 35mm. film, the 
+developed, to read a newspaper page 18″ x {% include columnbreak.html canvas=338 col=2 %} 22″ on a double frame of 35mm. film, the 
 problem of projection resembled that which 
 Kennedy and Filmograph had met by providing a long distance between lens and screen. 
 The Recordak technicians met this problem 

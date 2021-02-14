@@ -12,7 +12,7 @@ stack room and reading room equipment of
 libraries, the training of library personnel, as well as the research habits of 
 scholars, are standardized in favor of the 
 use of books of several hundred pages, from 
-6" to 11" in height, costing the purchaser 
+6″ to 11″ in height, costing the purchaser 
 from $.005 to $.02 a page. 
 
 There are other forms in which re- 

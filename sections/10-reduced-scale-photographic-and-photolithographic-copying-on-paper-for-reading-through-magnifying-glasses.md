@@ -176,7 +176,7 @@ convenient for prolonged reading. Dr. Peters
 sells this adapted stereoscope for approximately $3.00. He also recommends an electric illuminated reading glass device, magnifying from two to four diameters and 
 selling for about $7.50. A third reading 
 apparatus which he suggests is the Clerevu 
-Table Magnifier, with a 6" lens on an adjustable stand. This device, magnifying 
+Table Magnifier, with a 6″ lens on an adjustable stand. This device, magnifying 
 two to four diameters, sells for $12.00. 
 
 Besides the abstracts, some of the 
@@ -229,7 +229,7 @@ In the *American Printer* of January, 1932,
 there is an article stating that Fiske 
 books of 100,000 words can be printed on 
 two strips of paper at a cost of $.05. Each 
-strip of paper is 2 5/8" wide and 23 1/2" 
+strip of paper is 2 5/8″ wide and 23 1/2″ 
 long, including margins. The typescript is 
 reduced to 1/25 of original size, and is 
 printed on both sides of the strip of paper. Admiral Fiske secured a quotation of 
@@ -273,7 +273,7 @@ apparatus.
 
 Dr. Bendikson uses a Leica camera 
 to take photographs of pages on the ordinary moving picture film, with exposures 
-about 1" x 1 1/4". Then he lays down a few 
+about 1″ x 1 1/4″. Then he lays down a few 
 rows of these film copies side by side in a 
 printing frame and makes from them a positive copy on paper, exactly as if he were 
 making a print from any negative. A reproduction of one of Dr. Bendikson's prints is 
@@ -323,7 +323,7 @@ Bendikson's Microscope
 {% include pagebreak.html canvas=263 %}
 
 The apparatus was designed primarily for 
-use with 5" x 7" micro-prints, each print 
+use with 5″ x 7″ micro-prints, each print 
 containing eighteen pages of letterpress 
 material. Dr. Bendikson, who went into the 
 question of film copying with Professor 
@@ -345,8 +345,8 @@ developed a recording camera that is used
 to take photographs of meter readings on a 
 strip of paper. It is now adapting this 
 camera to the general work of record copying. The width of the photographic strip 
-in this camera is 2 1/4", That is to say, 
-it would reduce an 8" sheet of typescript 
+in this camera is 2 1/4″, That is to say, 
+it would reduce an 8″ sheet of typescript 
 a little less than four diameters, and 
 copy a column of newsprint full size. Obviously, the miniature copies made with 
 this camera will fall in that zone where 
@@ -372,7 +372,7 @@ used in copying for reading through magnifying glass systems is the principle of
 the multiple exposure machine. If the 
 Folmer Graflex multiple exposure camera 
 were adapted for document copying, it would 
-permit the division of a 5" x 7" sheet of 
+permit the division of a 5″ x 7″ sheet of 
 paper of film into any number of subdivisions, giving the user the chance to find 
 that degree of reduction that best suits 
 him from the standpoint of economy of materials on the one hand and prevention of 
