@@ -486,9 +486,9 @@ Half—tones screened up to 100 to
 the inch are made on zinc, above that they 
 are usually made on copper, and very fine 
 screening is done on nickel. The photo-offset press can reproduce half-tones 
-screened as fine as 175, but generally uses screens from 120-150 lines to the inch. {% include columnbreak.html canvas=186 col=2 %} The ordinary photographic work seen in the 
+screened as fine as 175, but generally uses screens from 120--150 lines to the inch. {% include columnbreak.html canvas=186 col=2 %} The ordinary photographic work seen in the 
 advertising pages of magazines is screened 
-120-155 lines to the inch; newspaper 
+120--155 lines to the inch; newspaper 
 photographs are screened 45 to 65 lines; 
 the aquatone process, a variant of photo-offset, uses screens up to 400 lines to the 
 inch.

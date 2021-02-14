@@ -936,7 +936,7 @@ negative.[^n9]
     A.G., Dresden, Schandauerstrasse; the Baltische Papier-fabrik, Berlin, N. W. 7, Dorotheenstrasse 38.
      
     The typon paper can also be used for making negatives for photo-offset work without photographic apparatus, as in reflection copying; the paper is laid on top of the original to be copied, exposed 
-    10-20 seconds, developed by means of a special developer, and fixed, as usual. After drying, the emulsion is stripped from a stripping paper. 
+    10--20 seconds, developed by means of a special developer, and fixed, as usual. After drying, the emulsion is stripped from a stripping paper. 
     Through this process the cost of the negatives is considerably reduced. 
     Many books such as lexicons, law books, etc., are printed by this method. 
     

@@ -183,7 +183,7 @@ but an actual disadvantage.
 
 ## Binding (c) Bookbinding Techniques[^n1]
 
-[^n1]: For excellent articles on binding, the reader is referred to *The American Printer*, December, 1932, pp. 36-38; also January, 1933 and July, 1933, p. 17. 
+[^n1]: For excellent articles on binding, the reader is referred to *The American Printer*, December, 1932, pp. 36--38; also January, 1933 and July, 1933, p. 17. 
 
 In the case of books of full standard thickness, saddle stitching, side 
 stitching, and sewing are most commonly 

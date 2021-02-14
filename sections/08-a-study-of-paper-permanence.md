@@ -53,7 +53,7 @@ report, to which reference has already been
 made, found that book papers containing appreciable quantities of crude fibers were 
 invariably in poorer condition than those 
 containing rag and chemical wood fibers. 
-The period 1875-1910, therefore, is defined 
+The period 1875--1910, therefore, is defined 
 as one in which the paper in books published {% include pagebreak.html canvas=220 %} in this period may be quite impermanent. 
 This served to emphasize the importance of 
 the chemical purity of the fibers themselves as a factor in the permanence of paper. At the beginning of the present century, paper technicians were calling attention to the danger of printing on paper 
@@ -221,7 +221,7 @@ materials.
 
 ### (1) Classification of Book Papers Relative to Their Permanence Qualities[^n8]
 
-[^n8]: Taken from John O. Burton, "Permanence Studies of Commercial Book Paper," *Bureau of Standards Journal of Research*, 7, 437-9 (1931). 
+[^n8]: Taken from John O. Burton, "Permanence Studies of Commercial Book Paper," *Bureau of Standards Journal of Research*, 7, 437--9 (1931). 
 
 A system of classification of 
 printing and writing papers relative to 
@@ -248,7 +248,7 @@ papers, and it is believed that papers ful{%- include columnbreak.html canvas=22
 groups will have the relative degrees 
 permanence indicated.[^n10]
 
-[^n9]: B. W. Scribner, "Permanence Standards for Printing and Writing Papers," LII, 19, pp. 52-5 (May-August, 1930); also *Paper Mill*, LIII, p. 13, June 21, 1930. 
+[^n9]: B. W. Scribner, "Permanence Standards for Printing and Writing Papers," LII, 19, pp. 52--5 (May-August, 1930); also *Paper Mill*, LIII, p. 13, June 21, 1930. 
 
 [^n10]: The full text of the Scribner-Burton specifications is in the Appendix at the end of this Chapter. 
 
@@ -444,7 +444,7 @@ and fibers of much lower original purity
 may be purified to a high degree by proper 
 treatment. 
 
-[^n13]: John O. Burton, "Permanence Studies of Current Commercial Book Papers," *Bureau of Standards Journal of Research*, VII (1931), 429-39. 
+[^n13]: John O. Burton, "Permanence Studies of Current Commercial Book Papers," *Bureau of Standards Journal of Research*, VII (1931), 429--39. 
 
 [^n14]: These tests were made in 1920; the manufacturers since that time have probably improved their products. But some advertising is still misleading. The writer has seen advertising matter which proposed the following absurd specifications: 50 to 100 years, 100% rag; 35 to 50 years, 75% rag; 15 to 35 years, 50% rag; 5 to 15 years, 25% rag; 3 to 5 years, sulphite. 
 
@@ -622,7 +622,7 @@ have to work his way back to the manufacturer. He will find that paper is sold
 normally in 500-pound cases, but that manufacturers will often make a special run of 
 paper for an order as small as 1 ton (4 
 cases). The manufacturing and selling units 
-are case, ton and carload (15-18 tons). The 
+are case, ton and carload (15--18 tons). The 
 trade is familiar with the practice by 
 which price drops as the size of the order 
 increases to the carload; these price variations are of use in interpreting comparative pricing of paper, but of the greatest 

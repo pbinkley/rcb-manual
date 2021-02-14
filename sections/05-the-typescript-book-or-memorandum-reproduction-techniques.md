@@ -24,9 +24,9 @@ NUMBER OF CARBONS POSSIBLE WITH ONE TYPING
 
 | No. of Copies | Weight of Paper | Weight of Carbon Paper |
 |-----|-----|-----|
-| 1-5 | Over 9 lb.to 6 lb. | 7-8 lb. (standard) |
-| 5-10 | 9 lb. onionskin | 5-5½ 1b. (medium) |
-| 10-20 (Electromatic) | 9 lb. onionskin | 4 1b. (light) |
+| 1--5 | Over 9 lb.to 6 lb. | 7--8 lb. (standard) |
+| 5--10 | 9 lb. onionskin | 5--5½ 1b. (medium) |
+| 10--20 (Electromatic) | 9 lb. onionskin | 4 1b. (light) |
 
 The thin paper will increase the 
 number of legible copies, but it is useful 
@@ -1686,7 +1686,7 @@ pica typescript reduced to 70% of full size
 so that it laid down fourteen letters to 
 the inch instead of ten) was just as legible as full-sized pica typescript.[^n3]
 
-[^n3]: E. B. Greene, "The Legibility of Typewritten Material," *Journal of Applied Psychology*, XVII, No. 6 (December, 1933) 713-28. 
+[^n3]: E. B. Greene, "The Legibility of Typewritten Material," *Journal of Applied Psychology*, XVII, No. 6 (December, 1933) 713--28. 
 
 The reader should be given an opportunity to test this judgment and to compare 
 the legibility of typescript in various reductions with the legibility of book-face 

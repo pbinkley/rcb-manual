@@ -265,7 +265,7 @@ by the Royal Irish Academy.[^n11] Portable apparatus for recording on studio wax
 but it is much more cumbersome than apparatus for instantaneous recording and is open 
 to many serious practical difficulties.
 
-[^n11]: See *Royal Irish Academy Abstract of Minutes, Session 1928-29*, Appendix, pp. 19--29; *Proceedings of the Royal Irish Academy*, 1930--31, pp. 20--26; *Ibid*., 1931--32, pp. 25--31; and Dr. Myles Dillon, "Report of a Linguistic Survey Recently Carried Out in Ireland," *Atti del III Congresso Internazionale dei Linguisti* (Roma, Seuttembre, 1934---xii). 
+[^n11]: See *Royal Irish Academy Abstract of Minutes, Session 1928--29*, Appendix, pp. 19--29; *Proceedings of the Royal Irish Academy*, 1930--31, pp. 20--26; *Ibid*., 1931--32, pp. 25--31; and Dr. Myles Dillon, "Report of a Linguistic Survey Recently Carried Out in Ireland," *Atti del III Congresso Internazionale dei Linguisti* (Roma, Seuttembre, 1934---xii). 
 
 The remainder of this. discussion 
 will be devoted to instantaneous recording 
@@ -453,6 +453,6 @@ by a naive speaker, who cannot be expected
 to give a rehearsed and timed performance. 
 The material may be edited and even rearranged. 
 
-[^n16]: See Harry H. Hall, "A Recording Analyzer for the Audible Frequency Range," *Journal of the Acoustical Society of America*, Vol. 7, Oct. 1935, pp. 102-110. Records have been kept of all speech sounds analyzed by Dr. Hall's instrument. 
+[^n16]: See Harry H. Hall, "A Recording Analyzer for the Audible Frequency Range," *Journal of the Acoustical Society of America*, Vol. 7, Oct. 1935, pp. 102--110. Records have been kept of all speech sounds analyzed by Dr. Hall's instrument. 
 
 ## Notes

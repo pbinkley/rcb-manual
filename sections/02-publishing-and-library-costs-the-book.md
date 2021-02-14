@@ -47,7 +47,7 @@ into the library system of the country without requiring significant changes in 
 [^n2]: A number of reports and handbooks have collected material on this subject. 
     Most important are Donald 
     P. Bean, *Report on American Scholarly Publishing* (Chicago, 1931), a mimeographed document of about 
-    200 pages; O. H. Cheney, *Economic Survey of the Book Industry, 1930-31* (New York, 1931), the final report of Cheney to the National Association of Book Publishers which analyzes the commercial publishing 
+    200 pages; O. H. Cheney, *Economic Survey of the Book Industry, 1930--31* (New York, 1931), the final report of Cheney to the National Association of Book Publishers which analyzes the commercial publishing 
     industry; Fred Hoch, *Standard Book of Estimating for Printers* (Chicago, 1929), issued by the United 
     Typothetae of America, which analyzes printing costs; John Marshall, *Publication of Books and Monographs by Learned Societies* (1931), a survey made for the American Council of Learned Societies, Bulletin No. 16.
 

@@ -216,17 +216,17 @@ REDUCTION RATIO AND LEGIBILITY OF PROJECTED IMAGE OF 7-POINT NEWSPRINT PHOTOGRAP
 
 | | A | B | C | D | E |
 |-----|-----|-----|-----|-----|-----|
-| Kennedy machine at highest efficiency | -20 | 21-24 | 25-28 | 29-37 | 37-- |
+| Kennedy machine at highest efficiency | --20 | 21--24 | 25--28 | 29--37 | 37-- |
 | Kennedy machine at lower efficiency | | | 22 | | |
-| Leica camera (used by an expert) | -18 | 22½ | 24--28 | 29--35 | 36-- |
-| Leica camera (used by an amateur) | -18 | 20--23 | | 32 | |
-| E.K.A. camera (lowest efficiency) | -13 | 13--15 | 16--17 | 17 | |
+| Leica camera (used by an expert) | --18 | 22½ | 24--28 | 29--35 | 36-- |
+| Leica camera (used by an amateur) | --18 | 20--23 | | 32 | |
+| E.K.A. camera (lowest efficiency) | --13 | 13--15 | 16--17 | 17 | |
 | E.K.A. camera (highest efficiency) | | | | 38 | |
-| Filmograph | -16 | 17--20 | 21--24 | 25--28 | 28-- |
+| Filmograph | --16 | 17--20 | 21--24 | 25--28 | 28-- |
 | Recordak (check copying machine) | | | | | |
 | Eastman laboratory | | | | 25 | |
 | Cinescopie | | | | | |
-| Ansco | -15 | 16--18 | 19--21 | 22--25 | 25-- |
+| Ansco | --15 | 16--18 | 19--21 | 22--25 | 25-- |
 | Draeger | | | | | |
 | Dagron's photograph --- 1870 | | | 48 | | |
 
@@ -1623,7 +1623,7 @@ of microcopying applications.
 
 Miss Barnett has described the administrative routine of the Bibliofilm 
 Service in an article in *The Camera* vol. L, 
-no. 5, May 1935, pp. 327-328, as follows: 
+no. 5, May 1935, pp. 327--328, as follows: 
 
 > The procedure begins "with the suppliance of a 5″ x 5″ slip or card specifying the article desired---one such 
     slip for each and every article, and 
@@ -3090,7 +3090,7 @@ a high one---sixteen to twenty-three diameters.[^n6]
     
     A standard file drawer holds approximately 3,500 letter size sheets and a four-drawer file cabinet about 14,000 sheets. A four-drawer cabinet is 15″ wide 30″ deep and 51″ high. It consequently occupies 13 ³⁄₁₀ cubic feet of space without considering the aisle space required. 
     
-    Using a Recordak working at a 23-1 reduction 2,352 of the above documents can be photographed on a 100-foot roll of Recordak film. This roll of film costs $2.75 including development. 
+    Using a Recordak working at a 23--1 reduction 2,352 of the above documents can be photographed on a 100-foot roll of Recordak film. This roll of film costs $2.75 including development. 
     
     Fourteen-thousand 8½″ x 11″ documents will require slightly under six 100-foot rolls of Recordak Film, 
     
@@ -3167,7 +3167,7 @@ Process." Negotiations for its introduction in America are under way.
 
 ## Microcopying of Newspapers[^n7]
 
-[^n7]: The reader is referred again to the interesting symposium published by Dr. A. F. Kuhlman in *The Library Quarterly*, V, (1935) pp. 189-214. "Are We Ready to Preserve Newspapers on Film?" 
+[^n7]: The reader is referred again to the interesting symposium published by Dr. A. F. Kuhlman in *The Library Quarterly*, V, (1935) pp. 189--214. "Are We Ready to Preserve Newspapers on Film?" 
 
 The use of microcopying in the 
 preservation of newspaper files is of special interest to librarians for several 
@@ -3338,7 +3338,7 @@ type, but also because of blurring or discoloration. Some of the Russian newspap
 stored in the Hoover War Library, are almost illegible in their present form because of this blurring of ink on a very 
 poor quality of paper. However, with the 
 example of M. Dagron and his microcopies 
-in 32-39 diameters of reduction preserved 
+in 32--39 diameters of reduction preserved 
 from the year 1870, the technicians can 
 probably be trusted to solve the micro- 
 copying of bad copy without breaking too 
