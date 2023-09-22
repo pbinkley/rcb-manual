@@ -11,7 +11,7 @@ require 'rmagick'
 
 include Magick
 
-url = "https://iiif.archivelab.org/iiif/manualonmethodso00robe$#{ARGV[0]}/full/full/0/default.jpg"
+url = "https://iiif.archive.org/iiif/manualonmethodso00robe$#{ARGV[0]}/full/full/0/default.jpg"
 filename = './ocr.png'
 
 File.open(filename, 'wb') do |fo|

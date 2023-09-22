@@ -12,7 +12,7 @@
     "label": { "en": [ "{{ label | normalize_whitespace }}" ] },
     "items": [
       {
-        "id": "https://iiif.archivelab.org/iiif/manualonmethodso00robe${{ section.canvas_id }}/canvas",
+        "id": "https://iiif.archive.org/iiif/manualonmethodso00robe${{ section.canvas_id }}/canvas",
         "type": "Canvas"
       }{% if section.subsections %},
         {% include prezi3_range.json sections=section.subsections root=root %}
