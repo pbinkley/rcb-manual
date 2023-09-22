@@ -1,11 +1,11 @@
 
 IA item: https://archive.org/details/manualonmethodso00robe
 
-IIIF manifest template: https://iiif.archivelab.org/iiif/<itemid>/manifest.json
+IIIF manifest template: https://iiif.archive.org/iiif/<itemid>/manifest.json
 
-So https://iiif.archivelab.org/iiif/manualonmethodso00robe/manifest.json
+So https://iiif.archive.org/iiif/manualonmethodso00robe/manifest.json
 
-Info.json: https://iiif.archivelab.org/iiif/manualonmethodso00robe$2/info.json
+Info.json: https://iiif.archive.org/iiif/manualonmethodso00robe$2/info.json
 
 Thumbnail https://ia801400.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/manualonmethodso00robe/manualonmethodso00robe_jp2.zip&file=manualonmethodso00robe_jp2/manualonmethodso00robe_0031.jp2&id=manualonmethodso00robe&scale=11&rotate=0
 

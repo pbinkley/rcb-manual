@@ -36,7 +36,7 @@ The search service uses [staticSearch 1.1](https://endings.uvic.ca/staticSearch/
 - [Manifest]({{ 'iiif/manualonmethodso00robe/manifest.json' | absolute_url }})
 - [Mirador view]({{ 'mirador3' | absolute_url }})
 
-The manifest uses the image service from Internet Archive's [IIIF platform](https://iiif.archivelab.org/iiif/manualonmethodso00robe), but has enhancements such as a detailed table of contents.
+The manifest uses the image service from Internet Archive's [IIIF platform](https://blog.archive.org/2023/09/18/making-iiif-official-at-the-internet-archive/), but has enhancements such as a detailed table of contents.
 
 ## Tests
 
