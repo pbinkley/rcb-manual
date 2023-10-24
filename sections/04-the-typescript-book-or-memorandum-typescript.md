@@ -740,7 +740,7 @@ typescript, a third stage will intervene,
 and a third typing may be necessary. The 
 text must be transferred to the printing 
 surface medium required by the chosen reproduction process. Also the usual one-column, double-spaced format used for the 
-fair-copying operation nay not be the 
+fair-copying operation may not be the 
 most desirable format for the finished 
 typescript book; the margins of the fair 
 copy may be too narrow for maximum legibility in hectographing; the one-column format of the fair copy may be less desirable 
