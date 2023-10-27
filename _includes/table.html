@@ -1,0 +1,4 @@
+<div id="table_{{ include.tab }}" class="table">
+{% capture table %}{% include_relative _tables/{{ include.tab }}.md %}{% endcapture %}
+{{ table | markdownify }}
+</div>

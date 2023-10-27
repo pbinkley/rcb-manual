@@ -36,10 +36,11 @@ into the library system of the country without requiring significant changes in 
 [^n1]: Average Retail Price of Books, per 100 Pages. 
     
     | | General Books | Scholarly Book | |
+    |-----|----:|----:|-----|
     | United States | $.53 | $1.20 | |
     | Great Britain | .86 | 1.20 | |
     | Germany | .75 | 1.04 | |
-    | France | .58 | .34 | (unbound)
+    | France | .58 | .34 | (unbound) |
     | Italy | | .65 | |
 
 ## Analysis of Production Costs[^n2]
@@ -116,6 +117,7 @@ sales of old books, is figured into Mr.
 Bean's costs of scholarly publishing, the 
 result is:
 
+|  |  |
 |-----|-----:|
 | Manufacturing | $.54 |
 | Editorial costs | .02 |
@@ -129,28 +131,14 @@ The larger manufacturing cost ratio in
 scholarly publishing is the result of the 
 smaller edition. 
 
+{% include table.html tab="01" %}
+
 If every edition were invariably 
 sold out, the retail price of a book could 
 be fixed by dividing the cost of the whole 
 edition into the number of copies and adding a profit. Actually, because of the 
 risk element, the selling price must be much 
-
-TABLE I
-
-COSTS IN COMMERCIAL AND SCHOLARLY PUBLISHING 
-
-| | Commercial | Scholarly |
-|-----|-----:|-----:|
-| Manufacturing | $.36 | $.66 |
-| Editorial costs | .02 | .03 |
-| Royalties | .17 | .06 |
-| Selling and advertising | .19 | .23 |
-| Shipping and mailing | .02 |.02 |
-| Overhead | .18 | |
-| Bad debts, losses, profits | .06 | |
-| | $1.00 | $1.00 |
-
- {% include pagebreak.html canvas=23 %} higher. It is usually fixed at three or 
+{% include pagebreak.html canvas=23 %} higher. It is usually fixed at three or 
 four times the manufacturing cost. Dr. 
 Arthur Meiner in the German Boersenblatt 
 proposes a formula[^n5] for determining selling price, which is illustrated with typical figures by Mr. Bean: 
@@ -185,6 +173,7 @@ is to be made for additional impressions.[^n6]
     
     The percentages which fill in this formula in ordinary commercial publishing are estimated by Bean as follows: 
     
+    | | |
     |-----|-----:|
     | Author's royalty | 10% |
     | Overhead | 30% | 
@@ -211,7 +200,7 @@ method of pricing, which bears some resemblance to the Meiner formula:
 | 2. Add 20% for editorial overhead costs. | 260 | 440 |
 | | $1560 | $2640 | 
 | 3. Subtract from the edition 100 copies for review and promotion, and divide the total by the salable edition (900 copies) to get unit cost. | 1.73 | 2.93 | 
-| {% include pagebreak.html canvas=24 %} 4. The sales price should then be fixed at three times this unit cost of the book if the book is to return cost of publication and a small royalty to author. | 5.19 ($.013 per page) | 8.79 ($022 per page) | 
+| 4. The sales price should then be fixed at three times this unit cost of the book if the book is to return cost of publication and a small royalty to author. | 5.19 ($.013 per page) | 8.79 ($022 per page) | 
 | 5. If this price, considering the final appearance of the book, and the average price of scholarly publications ($.022 per page), is so high as to discourage sales, it must be cut down. | | |
 
 These figures indicate that even 
@@ -233,6 +222,8 @@ the following averages:
 
 [^n7]: This table refers only to books published by the Medieval Academy, not to the fifty-nine titles published by all learned societies. 
 
+| | | |
+|----|---:|----|
 | Size of edition | 1133 | |
 | Number of pages | 266 | | 
 | Manufacturing cost | $1651 | | 
@@ -290,35 +281,7 @@ the following distribution is normal:
 
 {% include pagebreak.html canvas=25 %}
 
-TABLE II 
-
-A TYPICAL RESEARCH BOOK--COSTS AND RETURNS<sup>*</sup>
-
-| Price | | |
-| <span style="width: 2em"/>retail | $2.75 | ($.016 per page) |
-| <span style="width: 2em"/>members and booksellers | $2.20 | ($.013 per page) |
-| Cost of manufacture: | | |
-| <span style="width: 2em"/>Composition | $418.00 | |
-| <span style="width: 2em"/>Alterations | 112.15 | |
-| | 530.15 | (70% of total) |
-| <span style="width: 2em"/>Presswork, paper, binding | 242.00 |(30% of total) |
-| <span style="width: 2em"/>Assignable costs of marketing | 101.67 | |
-| | $873.82 | |
-| Receipts from the sale of 216 copies | 503.88 | (57% of costs) |
-| Loss (not including overhead) | $369.94 | | 
-
-Costs per copy: 
-
-| Costs | Sale of 500 | 300 | 216 (actual) |
-|-----|-----:|-----:|-----:|
-| Manufacture | $1.54 | $2.57 | $3.57 |
-| Marketing | .46 | .46 | .46 | 
-| Overhead | .30| .30 | .30 |
-| | $2.50 | $3.33 | $4.33 |
-| Average return | 2.30 | 2.33 | 2.33 |
-| Gain or loss | $.03 | $1.00- | $2.00- |
-
-<sup>*</sup> A monograph of The Medieval Academy, published October 15, 1930. 
+{% include table.html tab="02" %}
 
 Thus, everything points to the 
 marked difference between scholarly and 
@@ -417,30 +380,11 @@ Table III for the year 1930--31.
 
 [^n9]: Karl Brown, "Buying Power of Libraries," *Publishers Weekly*, June 20, 1931. 
 
+{% include table.html tab="03" %}
+
 These forty libraries spent a total of $3,226,000 and added to their resources, a total of 1,134,510 volumes in 
 1930--31. The list does not include certain 
-
-TABLE III 
-
-ACQUISITION SUMS SPENT BY FORTY OF THE LARGER UNIVERSITY AND COLLEGE LIBRARIES 
-
-| Harvard | $365,000 | Ohio | $79,000 | Washington | |
-| Columbia | 193,000 | Wisconsin | 70,000 | (St. Louis) | 36,000 |
-| Chicago | 184,000 | Princeton | 70,000 | Cornell | 34,000 | 
-| Yale | 183,000 | Brown | 67,000 | Virginia | 33,000 |
-| Duke | 171,000 | Western Reserve | 59,000 | Indiana | 32,000 |  
-| Illinois | 134,000 | Stanford | 59,000 | Kansas | 31,000 | 
-| California | 129,000 | Washington | | Oberlin | 31,000 | 
-| Michigan | 113,000 | (Seattle) | 55,000 | Missouri | 26,000 | 
-| Minnesota | 113,000 | Texas | 54,000 | Wellesley | 23,000 | 
-| Iowa | 104,000 | Iowa State | 53,000 | Vassar | 23,000 | 
-| Northwestern | 101,000 | California | Smith | 21,000 |
-| Dartmouth | 84,000 | (Los Angeles) | 52,000 | Nebraska | 20,000 | 
-| Pennsylvania | 83,000 | Qregon | 45,000 | Bryn Mawr | 19,000 | 
-| Rochester | 82,000 | North Carolina | 37,000 | North Dakota | 10,000 |
-| Johns Hopkins | 81,000 | | | | |
-
- {% include pagebreak.html canvas=27 %} of the largest reference libraries in the 
+{% include pagebreak.html canvas=27 %} of the largest reference libraries in the 
 country, such as the Library of Congress, 
 the New York Public Library, or the John 
 Crerar Library. 
@@ -471,8 +415,8 @@ students, and hence have little margin to
 be used in helping to finance the reproduction of research material. 
 
 [^n10]: William M. Randall, *The College Library. A Descriptive Study of the Libraries in Four-Year Liberal 
-Arts Colleges in the United States*, (American Library Association and University of Chicago Press, 
-1932). 
+    Arts Colleges in the United States*, (American Library Association and University of Chicago Press, 
+    1932). 
 
 Aside from the college libraries, 
 there are many agencies which in special 
@@ -493,7 +437,8 @@ The Association of University Presses maintains cooperatively on addressograph p
 an educational directory of 67,000 names, 
 distributed about as follows: 
 
-|-----|-----:|
+|  |  |
+| -- | --: |
 | Social Sciences | 18,630 |
 | Humanities | 21,192 |
 | Physical Sciences | 8,520 |
