@@ -36,10 +36,11 @@ into the library system of the country without requiring significant changes in 
 [^n1]: Average Retail Price of Books, per 100 Pages. 
     
     | | General Books | Scholarly Book | |
+    |-----|----:|----:|-----|
     | United States | $.53 | $1.20 | |
     | Great Britain | .86 | 1.20 | |
     | Germany | .75 | 1.04 | |
-    | France | .58 | .34 | (unbound)
+    | France | .58 | .34 | (unbound) |
     | Italy | | .65 | |
 
 ## Analysis of Production Costs[^n2]
@@ -116,6 +117,7 @@ sales of old books, is figured into Mr.
 Bean's costs of scholarly publishing, the 
 result is:
 
+|  |  |
 |-----|-----:|
 | Manufacturing | $.54 |
 | Editorial costs | .02 |
@@ -185,6 +187,7 @@ is to be made for additional impressions.[^n6]
     
     The percentages which fill in this formula in ordinary commercial publishing are estimated by Bean as follows: 
     
+    | | |
     |-----|-----:|
     | Author's royalty | 10% |
     | Overhead | 30% | 
@@ -297,16 +300,18 @@ TABLE II
 A TYPICAL RESEARCH BOOK--COSTS AND RETURNS<sup>*</sup>
 
 | Price | | |
+|----|---:|----|
 | &nbsp;&nbsp;&nbsp;retail | $2.75 | ($.016 per page) |
-| <span style="width: 2em"/>members and booksellers | $2.20 | ($.013 per page) |
+| &nbsp;&nbsp;&nbsp;members and booksellers | $2.20 | ($.013 per page) |
 | Cost of manufacture: | | |
-| <span style="width: 2em"/>Composition | $418.00 | |
-| <span style="width: 2em"/>Alterations | 112.15 | |
+| &nbsp;&nbsp;&nbsp;Composition | $418.00 | |
+| &nbsp;&nbsp;&nbsp;Alterations | <u>&nbsp;112.15</u> | |
 | | 530.15 | (70% of total) |
-| <span style="width: 2em"/>Presswork, paper, binding | 242.00 |(30% of total) |
-| <span style="width: 2em"/>Assignable costs of marketing | 101.67 | |
+| &nbsp;&nbsp;&nbsp;Presswork, paper, binding | <u>&nbsp;242.00</u> |(30% of total) |
+| | 772.15 | |
+| &nbsp;&nbsp;&nbsp;Assignable costs of marketing | <u>&nbsp;101.67</u> | |
 | | $873.82 | |
-| Receipts from the sale of 216 copies | 503.88 | (57% of costs) |
+| Receipts from the sale of 216 copies | <u>&nbsp;503.88</u> | (57% of costs) |
 | Loss (not including overhead) | $369.94 | | 
 
 Costs per copy: 
@@ -315,12 +320,12 @@ Costs per copy:
 |-----|-----:|-----:|-----:|
 | Manufacture | $1.54 | $2.57 | $3.57 |
 | Marketing | .46 | .46 | .46 | 
-| Overhead | .30| .30 | .30 |
+| Overhead | <u>&nbsp;.30</u> | <u>&nbsp;.30</u> | <u>&nbsp;.30</u> |
 | | $2.50 | $3.33 | $4.33 |
-| Average return | 2.30 | 2.33 | 2.33 |
+| Average return | <u>&nbsp;2.30</u> | <u>&nbsp;2.33</u> | <u>&nbsp;2.33</u> |
 | Gain or loss | $.03 | $1.00- | $2.00- |
 
-<sup>*</sup> A monograph of The Medieval Academy, published October 15, 1930. 
+<sup>\*</sup> A monograph of The Medieval Academy, published October 15, 1930. 
 
 Thus, everything points to the 
 marked difference between scholarly and 
