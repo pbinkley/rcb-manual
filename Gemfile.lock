@@ -141,6 +141,7 @@ GEM
       jekyll (>= 3.0, < 5.0)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
+    jekyll-regex-replace (1.1.0)
     jekyll-relative-links (0.6.1)
       jekyll (>= 3.3, < 5.0)
     jekyll-remote-theme (0.4.3)
@@ -272,6 +273,7 @@ DEPENDENCIES
   ed.
   github-pages (~> 228)
   jekyll
+  jekyll-regex-replace
   listen
   open-uri
   rmagick
