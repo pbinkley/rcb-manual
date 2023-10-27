@@ -74,7 +74,7 @@ is crossed to the field of the hectograph.
 
 ## II. The Hectograph Process 
 
-In this report the term hectographing is used to designate any process by 
+In this report the term *hectographing* is used to designate any process by 
 which approximately 100 to 150 copies of a 
 document may be reproduced in methyl-violet {% include pagebreak.html canvas=96 %} 
 
@@ -83,137 +83,53 @@ TABLE XIII
 VARIATION OF NORMAL COST OF LABOR AND MATERIALS IN ESTIMATING 
 COMPOSITION COSTS IN CARBON COPYING 
 
-TODO
-
-
-
-Low Normal High 
-
-Labor per hour $ .20 $ .40 $ .50 
-Sealy 2 - 60 
-taa| 1.50 
-Paper per 1000 sheets oO 
-CaO 
-Ono 
-8.40) 
-
-9.86) Japanese linen 
-rL0,50) 
-Onionskin per 1000 sheets Oeil 
-Si LO 
-5.90 
-DOO 
-Carbon paper per 100 sheets oo 5.00 
+| | Low | Normal | High |
+| Labor per hour | $ .20 <br/> $ .32½ | $ .40 | $ .50 <br/> .60 <br/> 1.50 |
+| Paper per 1000 sheets | .70 | 1.25 | 1.60 <br/> 2.90 <br/> 3.55 <br/> 9.40) <br/> 9.86) Japanese linen <br/> 10.50) |
+| Onionskin per 1000 sheets | 1.30 <br/> 1.40 | 2.50 | 2.67 <br/> 3.10 <br/> 3.90 <br/> 5.00 |
+| Carbon paper per 100 sheets | 1.35 <br/> .75 | 2.50 | 3.50 <br/> 4.00 |
 
 
 TABLE XIV 
 
-TODO
+A. CARBON COPY BOOKS: *COST* OF BOOK OF 100,000 WORDS, 334 PAGES
 
-A. CARBON COPY BOOKS: COST OF BOOK OF 100,000 WORDS, 354 PAGES 
+| Fair Copy | Fair Copy and 1 Carbon  | Fair Copy and 2 Carbons | Fair Copy and 3 Carbons | Fair Copy and 4 Carbons | 
+| Edition | 1 | 2 | 3 | 4 | 5 | 
+| Edition Costs | $40.00 | $40.00 | $46.93 | $53.86 | $60.79 | 
+| Unit Costs | 40.00 | 20.00 | 15.65 | 13.47 | 12.16 | 
 
+| Fair Copy | Fair Copy and 5 Carbon  | Fair Copy and 6 Carbons | Fair Copy and 7 Carbons | Fair Copy and 8 Carbons | 
+| Edition | 6 | 7 | 8 | 9 | 
+| Edition Costs | $67.72 | $74.65 | $81.58 | $88.51 |  
+| Unit Costs | 11.29 | 10.67 | 10.20 | 9.84 |
 
-Fair Copy and Fair Copy and Fair Copy and Fair Copy and 
-1 Carbon £ Carbons 5 Carbons 4 Carbons 
+{% include pagebreak.html canvas=97 %} 
+{% include pagebreak.html canvas=98 %} 
 
+{% include figure.html fig="20" %}
 
-Edition 
-Costs $40.00 $40.00 $46.93 $53.86 $60.79 
-Unit 
-Costs 40.00 20.00 565 ae peel, 
-Fair Copy and Fair Copy and Fair Copy and Fair Copy and 
-ae Carbons 6 Saree 7? Carbons 8 Carbons 
-Edition 
+{% include pagebreak.html canvas=99 %} 
+{% include pagebreak.html canvas=100 %} 
 
+{% include figure.html fig="21" %}
 
-Edition 
-
-Costs $67.72 $74.65 $81.58 $88.51 
-Unit 
-
-Costs Hlse9 ORO INO AAG: 9.84 
-
-
-Fair Copy 
-
- {% include pagebreak.html canvas=97 %} 
-
- {% include pagebreak.html canvas=98 %} 
-
-FIGURE XX 
-
-
-The Ormig Duplicator 
-
- {% include pagebreak.html canvas=99 %} 
-
- {% include pagebreak.html canvas=100 %} 
-
-FIGURE XXI
-
-The Standard New Process Duplicator 
-
- {% include pagebreak.html canvas=101 %} 
-
+{% include pagebreak.html canvas=101 %} 
 
 TABLE XIV (Continued) 
 
-TODO 
-
-B. CARBON COPY BOOKS: PRICE OF BOOK OF 100,000 WORDS, 334 PAGES 
-
-
+B. CARBON COPY BOOKS: *PRICE* OF BOOK OF 100,000 WORDS, 334 PAGES 
 (typing bureau estimates) 
 
+| Fair Copy | Fair Copy and 1 Carbon  | Fair Copy and 2 Carbons | Fair Copy and 3 Carbons | Fair Copy and 4 Carbons | 
+| Edition | 1 | 2 | 3 | 4 | 5 | 
+| Edition Costs | $50.00 | $50.00 | $56.93 | $63.86 | $70.79 | 
+| Unit Costs | 50.00 | 25.00 | 18.65 | 15.47 | 14.16 | 
 
-Fair Copy and 
-1 Carbon 
-
-
-
-
-
-
-Hote NCopy 
-
-
-
-
-
-
-
-
-
-
-
-Fair Copy and 
-2 Carbons 
-
-
-Fair Copy and 
-4 Carbons 
-
-
-Fair Copy and 
-4 Carbons 
-
-
-Bdition 
-
-Costs $56.93 $63.86 $70.79 
-Unit 5 
-
-Costs 50.00 25 ACO 18.98 ao 14.16 
-
-Fair Copy and Fair Copy and Fair Copy and Fair Copy and 
-5 Carbons 6 Carbons 7 Carbons 8 Carbons 
-
-Edition 
-
-Costs tO $84.65 $91.58 $98.51 
-Unit 
-
-Costs 12.96 AOS ee) HOT) 
+| Fair Copy | Fair Copy and 5 Carbon  | Fair Copy and 6 Carbons | Fair Copy and 7 Carbons | Fair Copy and 8 Carbons | 
+| Edition | 6 | 7 | 8 | 9 | 
+| Edition Costs | $77.72 | $84.65 | $91.58 | $98.51 |  
+| Unit Costs | 12.96 | 12.09 | 11.45 | 10.95 |
 
 
 written or typed in methyl violet dye 
@@ -332,7 +248,9 @@ use of the liquid process.
 | Gelatin rolls (15′) | 4.00 to 6.00 each | 
 | Gelatin films (9″ x 15″) | $.50 to 1.00 each |
 
-## Cost Analysis of Hectographing: (a) Composition and Running Costs 
+## Cost Analysis of Hectographing
+
+### (a) Composition and Running Costs 
 
 Composition and running costs for 
 hectographing require little analysis. Fair 
@@ -356,176 +274,33 @@ regular copy paper it is really not economical.
 Area costs are those of the master 
 sheets ($1.50 to $3.00 per 1000 sheets) 
 and the hectograph carbon paper ($.04 to 
-$.06 per sheet in quantities of 100). These {% include pagebreak.html canvas=103 %} 
+$.06 per sheet in quantities of 100). These 
 
+{% include pagebreak.html canvas=103 %} 
 
-PLGURE ARAL 
+{% include figure.html fig="22" %}
 
 
-This sample page has been made on @ Standard Kh 
-'Duplicator, en machine. tt is claimed that as » 
-'38. 200 legibie copies may 'be obteined from one 
-| 'sheet. This is the —84 copy from the master sheot 
-gelatin film is nade ina 9″ x 15″ size and is placed 
+{% include pagebreak.html canvas=104 %} 
+{% include pagebreak.html canvas=105 %} 
 
-tt machine much the same as a stencil ie placed on 
 
-'drum of a Mimeograph machine. 5 The gelatin film is 
-"subjected to the strain of winding and unwinding, such 
 
+{% include figure.html fig="23a" %}
 
-is necessary with the gelatin roll. | 
+{% include pagebreak.html canvas=106 %} 
+{% include pagebreak.html canvas=107 %} 
 
+{% include figure.html fig="23b" %}
 
-tha 
+{% include pagebreak.html canvas=108 %} 
+{% include pagebreak.html canvas=109 %} 
 
+{% include figure.html fig="24" %}
 
-Gelatin cost is determined vy 'several factors, 
+{% include pagebreak.html canvas=110 %} 
 
-
-'thom being the number of copies run, the length of 
-'yon, the: quality of work desired, and the color used 
-te ela ined that the Stendard Duplicator film can be 
-'for '@ total run of 4,000 sheets before At is worn 
-'Ie red ink is used, the film or roll will wear out 
-
-
-SCrte 
-
-
-'faster than if purple ink is used. Gelatin cost 1: 
-
-
-'eines * 
-
-as constant a cost factor as hectograph fluid cost. 
-range. * 
-: The methods of meking master sheets for all tyo 
-
-
-gelatin machines are: pencils, ink, eibbous, and carb: 
-
-
-Py VOSA As 
-All of these methods may be combined in 4s single : 
-
-
-a5 ©. Zaha 
-
-om which wil reproduce copies at one operation 
-Pimoaaren hi juagy 6 
-
-| cost dis governed by the number of words, while 
-
-
-"gost ds determined by page area. 
-
- {% include pagebreak.html canvas=104 %} 
-
- {% include pagebreak.html canvas=105 %} 
-
-FIGURE XXIIIa 
-
-This is a sample page made by the hectograph Jliguid 
-process on a Standard New Process machine costing $187.00. 
-'This is the 44 copy from the master sheet. To produce a 
-eo sce of 50,000 words by this process, arene format, 
-- would cost $60.00 for an edition of 100 copies {not includ- 
-ing binding). The carbon used for this page, New Process 
-Duplicating carbon paper, costa $4.50 in quantities of 100 
-sheets, with hedtations in price as the quantity increases. 
-
-A comparison of this page with Figure XXIIIb will give 
-the reader an opportunity to observe the legibility of 
-copies taken from two different places in runs; an exemina- 
-
-tion of Figure &AXxII (the product of the gelatin hectograph — 
-process) will bring out the main points of difference 
-Dre tvaen the products of the two hectograph methods. 
-
-Standard Duplicator copy paper, used for this work, 
-costs $1.60 per 1000 sheets,with reductions in price start- 
-ing at the 10,000 mark. It is a 204 highly absorbent paper 
-manufactured especially for hectograph work. 
-
-The BX Duplicating fluid used with the Standard New | 
-
-
-Process machines costs $2.75 a gallon in six gallon lots, 
-
-
-$3.25 a gallon for smaller quantities. A gallon wiil 
-
-
- {% include pagebreak.html canvas=106 %} 
-
- {% include pagebreak.html canvas=107 %} 
-
-FIGURE XXIIIb 
-
-This is a sample page meade by the hectogranph 
-process on a Standard New Process machine costing $187.00. 
-This is the 176 copy from the master shest. To produce a 
-book of 50,000° words by this process, using this format, 
-ae cost ®6O0 00 for an edition of 100 copies (not inelud~ 
-ing binding). The carbon used for this page, New Process 
-Duplicating carbon paper, costs #4.50 in quantities of 100 
-sneets, with reductions in price as the Quantity inoresses 
-
-A comparison or this page with Pigure XXiiIa will give 
-
-the reader an opportunity to boserve the legibility of 
-ecopiss taken from two diffcsrent places in runs; an examina- 
-tion of Figure XXTi (the product of the gelatin hectogrech 
-process) will bring out the main points of difference 
-between the oroducts of the two hectogranh methods. 
-Seorilead Duplicator copy paper, seed for this work, 
-eosts $1.60 per 1000 sheets,with reductions in price start- 
-ing at the 10,000 makr. It 4s a 20¥ highly absorbent paper 
-manufactured especially for hectograph work. 
-
-The BX Duplicating fluid used with the Standard New 
-
-_ Froges® wachines eosts $2.75 a gallon in six galion lots, 
-
-
-$3.25 a gallon for smaller quantities. A gallon wiil 
-
-
-moisten at least 6,000 copies, or as many as 10,000. 
-
-
- {% include pagebreak.html canvas=108 %} 
-
- {% include pagebreak.html canvas=109 %} 
-
-FIGURE XXIV 
-
-This page is a sample of the hectograph work made 
-with No.35=M Ormig carbon costing $4.00 per 100 sheets, with 
-a reduction in price for larger quantities. This is she 129 
-copy from the master sheet. | 
-
-Ormig duplicators range in price from $165.00 to 
-$285.00 for the hand operated machines, and $395.00 to 
-$495.00 for the electrically operated machines. The V-8 
-models take maximum size sheets 9″ X 14″ and the larger 
-models V-6 takes shgets up to 14″ kK 17″, 
-
-The Ormigtin (liquid) needed for producing the copies 
-cost $2.50 a gallon; a gallon is sufficient to moisten 
-15,000 sheets of copy paper. 
-
-There are three grades of carbon to suit different 
-lenghts and sharpness of run. No.5 carbon from 1 to 75 
-copies. No.d-M up to 200 copies, and No.H=2 for 200 copies 
-
-
-and over. These carbons are all priced the same. 
-
- {% include pagebreak.html canvas=110 %} 
-
- {% include pagebreak.html canvas=111 %} costs are the ones most subject to variation and they are the most important on account of their relationship to legibility. 
+{% include pagebreak.html canvas=111 %} costs are the ones most subject to variation and they are the most important on account of their relationship to legibility. 
 If a saving in area costs is attempted by 
 using single rather than double-spaced typescript to get more words on the master 
 sheet, the legibility of the product diminishes accordingly, but a more important 
@@ -597,7 +372,7 @@ COST OF BOOK OF 100,000 WORDS, 334 PAGES, MADE BY LIQUID PROCESS HECTOGRAPH
 | Edition Costs | $77.76 | $82.26 | $87.48 | $91.16 | $96.08 | $107.28 | $127.01 | $146.11 | $182.06 | 
 | Unit Costs | 7.78 | 5.49 | 4.38 | 3.65 | 2.75 | 2.15 | 1.70 | 1.47 | 1.27 |
 
-<sup>*</sup>Paper at $1.25 per 1000 in lots of 10,000 or more. {% include pagebreak.html canvas=112 %} 
+<sup>\*</sup>Paper at $1.25 per 1000 in lots of 10,000 or more. {% include pagebreak.html canvas=112 %} 
 
 ### c) Application of Hectographing to the Problems of Scholarship 
 
@@ -625,13 +400,13 @@ and mailing to eighteen libraries cost
 $6.72. The reader may examine this work 
 at one of the following libraries: 
 
-- Carnegie Library of Pittsburgh 
-- Cleveland Public Library 
-- Columbia University Library 
-- Duke University Library 
-- Free Library of Philadelphia 
-- Harvard College Library 
-- Historical Society of Pennsylvania 
+- Carnegie Library of Pittsburgh
+- Cleveland Public Library
+- Columbia University Library
+- Duke University Library
+- Free Library of Philadelphia  
+- Harvard College Library  
+- Historical Society of Pennsylvania
 - Historical Society of Western Pennsylvania 
 - Library of Congress 
 - New York Public Library 
@@ -847,213 +622,25 @@ ON THE STENCIL
 
  {% include pagebreak.html canvas=115 %} 
 
-FIGURE XXV 
+{% include figure.html fig="25" %}
 
-Direct typing on a Rotaplate is done by using either 
-a special Rotaprint carbon paper in the typewriter, a 
-Rotaprint "G" ribbon, or a Royal Photo-offset typewriter 
-using carbon ribbon which does not require any preparatory 
-treatment, is placed in the typewriter the same as a sheet 
-of paper. In the typing, a very light impression against 
-the Rotaplate should be made; a hard platen that will give 
-a sharp outline of the characters is best. Errors are corrected in the usual manner. 
+{% include pagebreak.html canvas=116 %} 
+{% include pagebreak.html canvas=117 %} 
 
-When the typing is done, the sheet is dusted with a 
-special Rotaprint powder. A small amount of liquid solution is then poured on the sheet and spread over the surface with a piece ef cotton. The excess fluid is wiped 
-off, leaving a thin coating on the surface. The Rotaplate 
-is now ready to be used on the machine. It can be filed 
-indefinitely. 
+{% include figure.html fig="26" %}
 
-One Rotaplate will make 25,000 or more copies. The 
-Rotaplate used for this work costs $.20. 
+{% include pagebreak.html canvas=118 %} 
+{% include pagebreak.html canvas=119 %} 
 
-This sample page of direct typing Rotaprint work can 
-be compared with Figure XXVI, which illustrates direct 
-typing on a Multilith machine. 
+{% include figure.html fig="27" %}
 
- {% include pagebreak.html canvas=116 %} 
+{% include pagebreak.html canvas=120 %} 
+{% include pagebreak.html canvas=121 %} 
 
- {% include pagebreak.html canvas=117 %} 
+{% include figure.html fig="28" %}
 
-FIGURE XXVI 
-
-This sample page demonstrates Multilith direct typing. This 
-page was produced by direct typing on a Multilith Duplex plate, 
-which requires no preparation to receive the image. A special 
-carbon typewriter ribbon was then used and the typing was done in 
-the usual manner. The plate was then run off on the Model 1200 
-Multilith, at the speed of approximately 5,000 impressions per hour. 
-
-The cost of the Duplex plate was $.25, but since it is possible 
-to use both sides of the plate the cost is reduced to $.12½ per image. 
-The solutions necessary to prepare the plate for running were $.02½ 
-bringing the total cost of the printing surface to $.15 an image in 
-this form. 
-
-The surface of the duplex plate is also receptive to crayon, 
-ink, and regular fabric typewriter ribbons of the proper inking. 
-The surface of this plate can be used only once to each side. It is 
-possible to obtain five to ten thousand impressions from the duplex 
-plate. 
-
-The Multilith Zinc plate, which has a grain on only one side, 
-is also receptive to the above mentioned methods of direct work, after 
-being treated with a solution of Deoxit. 
-
-The cost of the zinc plate is $.35, but the surface of this 
-plate can be cleaned, and re-employed three or four times. The plate 
-is cleaned by applying a solution of Blankrolla to the surface to 
-wipe out the first image. It is then resensitized with a solution 
-of Deoxit. 
-
-The life of the Multilith zinc plate direct image is from five to 
-ten thousand impressions, but by the application of a solution called 
-intensifier it can be extended from five to ten thousand impressions. 
-
- {% include pagebreak.html canvas=118 %} 
-
- {% include pagebreak.html canvas=119 %} 
-
-FIGURE XXVII 
-
-This sample page is to illustrate the use of special interlinear spacing and the use of a wax stencil. The interlinear spacing used is five lines to the inch; the stencil used 
-is the inexpensive wax stencil costing $.05¼ each, instead of 
-the usual Mimeotype stencil costing $.13½ each. 
-
-The length of run that is possible with the wax stencil 
-is much less than that which can be obtained with the Mimeotype stencil, possibly 300 copies being the limit. 
-
-The preparation of the wax stencil printing surface is 
-no more difficult than the Mimeotype printing surface. The 
-chief danger is the creasing of the wax sheet, which would result in ink being squeezed through the abraded parts. Corrections are made in the usual manner.
-
-This sample page is to illustrate the use of special interlinear spacing and the use of a wax stencil. The interlinear spacing used is five lines to the inch; the stencil used 
-is the inexpensive wax stencil costing $.05¼ each, instead of
-the usual Mimeotype stencil costing $.13½ each. 
-
-The length of run that is possible with the wax stencil 
-is much less than that which can be obtained with the Mimeotype stencil, possibly 300 copies being the limit. 
-
-The preparation of the wax printing surface is no more 
-difficult than the Mimeotype printing surface. The chief danger is the creasing of the wax sheet, which would cause ink 
-to squeeze through the abraded parts. Corrections are made 
-in the usual manner. 
-
-This sample page is to illustrate the use of special interlinear spacing and the use of a wax stencil. The interlinear spacing used is five lines to the inch; the stencil used 
-is the inexpensive wax stencil costing $.05¼ each, instead of 
-the usual Mimeotype stencil costing $.13½ each. 
-
-The length of run that is possible with the wax stencil 
-is much less than that which can be obtained with the Mimeotype stencil, possibly 300 copies being the limit. 
-
-The preparation of the wax printing surface is no more 
-difficult than the Mimeotype printing surface. The chief danger is the creasing of the wax sheet, which would cause ink 
-to squeeze through the abraded parts. Corrections are made 
-in the usual manner. 
-
-This sample page is to illustrate the use of special interlinear spacing and the use of a wax stencil. The interlinear spacing used is five lines to the inch; the stencil used 
-is the inexpensive wax stencil costing $.05¼ each, instead of 
-
- {% include pagebreak.html canvas=120 %} 
-
- {% include pagebreak.html canvas=121 %} 
-
-FIGURE XXVIII 
-
-This is a sample page done with micro-elite type. In this format, 800 words are 
-contained on one page. Compare this figure 
-with Figure XXVII, containing 400 words per 
-page and using special interlinear spacing. 
-
-To mimeograph a book of 100,000 words 
-in this format would mean tremendous savings 
-in stencil cost and paper cost. Composition 
-cost would, of course, be no less, and might 
-even be somewhat more expensive, due to the 
-two-column arrangement. 
-
-The inference, of course, is obvious: 
-there is a close tieup between cost and legibility. The more money that is put into a 
-job, the more likely it is that the resulting product will have greater legibility and 
-be more pleasing to the eve. This brings up 
-the problem of how we are to determine the 
-exact point at which cost, legibility, and 
-beauty of appearance come together in the 
-best balance. This problem has not yet received its final analysis. It is known, 
-however, that beyond a certain point there 
-is no need to spend more money for increased 
-legibility, because the factor of legibility 
-has already reached its maximum point, and a 
-more expensive format would add to nothing 
-except, perhaps, the printer's profit. 
-
-In order to exhibit as many as possible 
-of the different varieties of the mimeograph 
-process, sample pages have been run off on 
-various paper stocks from Rotaprint and Multilith metal sheets, and from Vimeotype and 
-wax stencils. The reader must make allowance for the fact that paper stocks, formats 
-and processes are all on display, and must 
-decide for himself which differences in the 
-sample pages are due to format variables, 
-which to paper, and which to the reproduction methods.
-
-The mimeograph process multiplies typescript by means of a stencil printing surface 9n which the letters of the format copy 
-are cut by the typewriter; the stencil is 
-fastened on a cylinder. and as sheets of papae are fed into the machine. an impression 
-is produced on the copy paper by the squeezing of ink through the abraded portions of 
-the stencil. Mimeograph equipment ranges in 
-price from $30.00 to $375.00 for hand-run 
-models, and from $255.00 to $450.00 for the 
-electrically operated models with automatic 
-feed. The preparation of the printing surface is almost as simple as ordinary tvpewriting, so that, although this form of duplication is commercially available through 
-service agencies, almost every office of any 
-size possesses its own Mimeograph machine. 
-
-The Rotaprint and the Multilith have 
-been mentioned in connection with the discussion of photo-offset as a reprinting 
-method. The press plates for reprinting are 
-prepared photographically, of course, but 
-there is an alternative way of putting on 
-such plates the format cooy of the text to 
-be reproduced. The metal sheets that are 
-used on these small offset presses can be 
-inserted in a typewriter as if they were 
-sheets of paper, to receive typescript directly. The making of typescript books from 
-press plates prepared in this manner may 
-perhaps be called "direct typing" offset, as 
-compared with photo-offset. It is much less 
-common than photo-offset, but also much less 
-expensive, and it is therefore worthy of consideration by any institution possessing sufficient resources to purchase a Rotaprint or 
-a Multilith for either commercial or non-commercial use. 
-
-From the standpoint of cost behaviour, 
-mimeographing and direct typing offset are 
-very closely related. Thev will therefore 
-be referred to in this report as the "mimeograph" techniques, and their costs will 
-be analyzed together. 
-
-This is a sample page done with micro-elite type. In this format, 800 words per 
-page are accomodated. Compare this figure 
-with Figure XXVII, containing 400 words per 
-page and using special interlinear spacing. 
-
-To mimeograph a book of 100,000 words 
-in this format would mean tremendous sovings 
-in stencil cost and paper cost. Composition 
-cost would, of course, be no less, and might 
-even be somewhat more expensive, due to the 
-two-column arrangement. 
-
-The inference, of course, is obvious: 
-there is a close tieup between cost and legibility. The more money that is put into a 
-job, the more likely it is that the resulting product will have greater legibility and 
-be more pleasing to the eye. This brings up 
-the problem of how we are to determine the 
-exact point at which cost, legibility, and 
-
- {% include pagebreak.html canvas=122 %} 
-
- {% include pagebreak.html canvas=123 %} 
+{% include pagebreak.html canvas=122 %} 
+{% include pagebreak.html canvas=123 %} 
 
 In designing a format for the maximum utilization of this surface five factors must be considered: 
 
@@ -1155,7 +742,7 @@ can be seen in one instance in the comparison as shown in Table XXI, page 52.  {
 TABLE XX
 
 MIMEOGRAPH COSTS FOR PRODUCING A BOOK OF 100,000 WORDS IN A VARIETY OF FORMATS WITH ORDINARY
-8½″ x 11″ MIMEOTYPE STENCILS (NO BINDING COSTS)<sup>*</sup>
+8½″ x 11″ MIMEOTYPE STENCILS (NO BINDING COSTS)<sup>\*</sup>
 
 <table>
   <thead>
@@ -1536,9 +1123,9 @@ MIMEOGRAPH COSTS FOR PRODUCING A BOOK OF 100,000 WORDS IN A VARIETY OF FORMATS W
 </table>
 
 
-<sup>*</sup>Costs for 50,000 words are one-half these figures.
+<sup>\*</sup>Costs for 50,000 words are one-half these figures.
 
-<sup>**</sup>Need 8½″ x 14″ stencils and paper.
+<sup>\*\*</sup>Need 8½″ x 14″ stencils and paper.
 
 {% include pagebreak.html canvas=126 %} 
 
@@ -1571,7 +1158,7 @@ be a variation of 35% for the maximum and
 
 TABLE XXII 
 
-COSTS FOR REPRODUCING A BOOK OF 100,000 WORDS BY DIFFERENT "MIMEOGRAPH" PROCESSES IN A FORMAT YIELDING 400 WORDS TO THE PAGE<sup>*</sup> 
+COSTS FOR REPRODUCING A BOOK OF 100,000 WORDS BY DIFFERENT "MIMEOGRAPH" PROCESSES IN A FORMAT YIELDING 400 WORDS TO THE PAGE<sup>\*</sup> 
 
 TODO
 
@@ -1609,7 +1196,7 @@ Rotaprint ADS 1.43 Sit) 59 59
 (1 use for 
 each sheet ) 
 
-<sup>*</sup> Hoch estimates that multigraphing is about 30% higher than mimeographing, and that 
+<sup>\*</sup> Hoch estimates that multigraphing is about 30% higher than mimeographing, and that 
 printing is about 70% higher than mimeographing. {% include pagebreak.html canvas=127 %} 
 
 ## IV. Photo-Offset from Typescript 
@@ -1782,118 +1369,9 @@ mimeograph process is so much a part of office routine that its costs can be cal
 most appropriate comparisons, therefore, are 
 those that stand between commercial mimeographing as quoted by office service shops%nbsp;{%- include pagebreak.html canvas=129 %} 
 
-FIGURE XXIX 
-
-Exhibit to illustrate the comparative legibility of typescript and print 
-face when they are so set or reduced that they lay the same amount of 
-reading matter on the same area. 
-
-It is worth noting that among 
-those who have studied the 
-subject there is by no means 
-a general agreement as to the 
-effects of line lengths, type 
-faces, type sizes, and leading 
-upon the reading rate of a 
-
-
-given material. Very little 
-
-
-It 2 worth noting that among those who 
-have studied the subject there is by no 
-means a general agreement as to the 
-effects of line lengths, type faces, type 
-sizes, and leading upon the reading rate of 
-a given material. Very little has been 
-done to show how typescript compares 
-with print face in legibility. While the 
-
-
-effects of variations in line lengths and 
-
-
-It is worth noting that among those who have 
-studied the subject there is by no means a general 
-agreement as to the effects of line lengths, type 
-faces, type sizes, and leading upon the reading rate 
-of a given material. Very little has been done to 
-show how typescript compares with print face in 
-legibility. While the effects of variations in line 
-lengths and type sizes in printed matter have been 
-experimentally tested by Tinker and Paterson, it is 
-with great caution that their evidence must be 
-applied in recommending line lengths and photo- 
-graphic reductions of typescript. It is worth noting 
-
-
-that among those who have studied the subject 
-
-
-It is worth noting that 
-among those who have 
-studied the subject there 
-is by no means a general 
-agreement as to the ef- 
-fecussch tine lengths, 
-type faces, type sizes, 
-and leading upon the 
-reading rate of a given 
-material. Very little 
-
-
-It is worth noting that among those 
-who have studied the subject there 
-is by no means a general agreement 
-as to the effects of line lengths, 
-type faces, type sizes, and lead- 
-ing upon the reading rate of a giv- 
-en material. Very little has been 
-done to show how typescript com- 
-pares with print face in legibil- 
-ity. While the effects of va- 
-
-
-riations in line lengths and 
-
-
-It is worth noting that among those 
-who have studied the subject there 
-
-is by no means a general agreement 
-
-as to the effects of line lengths, 
-type faces, type sizes, and leading 
-upon the reading rate of a given ma- 
-terial. Very little has been done 
-to show how typescript compares with 
-print face in legibility. While the 
-effects of variations in line lengths 
-and type sizes in printed matter have 
-been experimentally tested by Tinker 
-and Paterson, it is with great cau- 
-tion that their evidence must be ap- 
-plied in recommending line lengths 
-and photographic reductions of type- 
-script. It is worth noting that among 
-those who have studied the subject 
-
-
-: = a, 
-+4 Ff Lt 
-i aq =—— ¢ 
-wl e =e 4 
-¢ jmP° Due ri I ane 2 Ps 
-¥ =- OF es f 
-ee ee Pee i : 
-ob @\ pate sar aan: _ 
-
-
-© BAN LeWNiepet 
-'wep Tene 
+{% include figure.html fig="29" %}
 
 {% include pagebreak.html canvas=130 %}
-
 {% include pagebreak.html canvas=131 %}
 
 and commercial photo-offset quotations. 
@@ -2094,81 +1572,10 @@ keep the formula perfectly general, however,
 let K be the number of keystrokes per word 
 (including allowance for inter-word spacing {% include pagebreak.html canvas=133 %} 
 
-<div style="text-align: center">
+{% include figure.html fig="30" %}
 
-A PROJECT FOR THE REPRODUCTION AND DISTRIBUTION OF   
-MATERIALS FOR RESEARCH IN SMALL EDITIONS   
-under consideration by the   
-Joint Committee on Materials for Research   
-of the   
-American Council of Learned Societies   
-and the   
-Social Science Research Council 
-
-</div>
-
-I. The Problem. 
-
-The term, materials for research, is 
-here understood to refer to materials of 
-three types: (1) reprints of out-of-print 
-or rare items, --- books, pamphlets, newspaper or periodical files; (2) source material of considerable bulk, which in most 
-cases would be copied and edited, but in 
-some cases, merely reproduced in facsimile; (3) the original work of scholars, 
-generally in the form of monographs. 
-
-Such materials for research are at 
-present published by agencies of three 
-types, each specializing in publications 
-for which a sale of different size may be 
-expected: (1) commercial publishers ordinarily issue books of which a thousand 
-or more copies will be sold; (2) university presses specialize in books with a 
-total sale averaging less than a thousand 
-copies; (3) learned societies for the most 
-part issue books with a total sale of 
-less than three hundred copies. 
-
-Since the cost of printing materials 
-for research can seldom be covered by a 
-sale of less than four hundred copies at 
-normal prices (1.2 cents per page, or 375 
-words for a cent), almost all such publications as the learned societies now issue 
-must be subsidized, usually to the extent 
-of two-thirds of their cost. Books issued 
-by the university presses, of which as 
-many as six hundred copies are sold, must {% include columnbreak.html canvas=133 col=2 %} also ordinarily be subsidized, to the extent of one-third of their cost. Nor is 
-the need for subsidies confined to agencies 
-of the second and third types: commercial
-publishers have frequently found it necessary to ask subsidies for books for which 
-a sale of a thousand copies cannot be anticipated. In fact, experience has shown 
-that the publication of materials for research is seldom possible at present without a subsidy to cover at least a part of 
-the loss incurred. 
-
-The small sale for these publications 
-is probably due in the last analysis to 
-the rapid advance of specialization, which 
-has so far removed from general knowledge 
-publications that are essential to further
-advance as to restrict their appreciation 
-to specialists. But the restricted market 
-that they might command is still further 
-diminished by the apparent preference of 
-American scholars for depending on libraries to obtain the materials they need, 
-rather than for purchasing them for personal use. So long as this preference prevails, provision will have to be made for 
-reproducing and distributing materials for 
-research in the small editions that the 
-market can absorb, if material essential 
-to the progress of research is to be made 
-available for the use of scholars. 
-
-For most publications of this kind, 
-subsidies will in any case be necessary, 
-
-FIGURE XXX 
-
- {% include pagebreak.html canvas=134 %} 
-
- {% include pagebreak.html canvas=135 %} 
+{% include pagebreak.html canvas=134 %} 
+{% include pagebreak.html canvas=135 %} 
 
 and loss of keystrokes at the uneven right-hand margin). Then NK/CP is the number of 
 keystrokes per column. 
@@ -2335,741 +1742,30 @@ column instead of 595. This could be accomplished by reducing the typescript onl
 It often happens that a manuscript 
 is submitted to a photo-offset shop and a {% include pagebreak.html canvas=137 %} 
 
-FIGURE XXXI 
+{% include figure.html fig="31" %}
 
-This page illustrates a photo-offset 
-format that has been designed to conform to 
-the cost levels of medium-priced mimeographing. The essential significance of 
-this page is to show that (a) photo-offset 
-costs can be brought down to the level of 
-mimeographing, and (b) when photo-offset 
-formats are designed for this cost level, 
-their legibility diminishes below that of 
-the corresponding mimeograph copy. To 
-demonstrate this fact, the reader is asked 
-to compare this page with Figure XXVII, a 
-mimeograph format that is in the same cost 
-range. A book of 50,000 words, reproduced 
-in this format, would cost $158.00, including the cost of typing the master copy. Allowing $62.50 for the composition cost, a 
-sum of $95.50 is left to pay for the running costs. This amount of money will buy 
-500 copies of forty-four pages, size 6″ 
-x 94″, To put 50,000 words on forty-four 
-pages, there must be 1136 words on a page, 
-or 568 words per column in a two-column 
-format such as this one. 
+{% include pagebreak.html canvas=138 %} 
+{% include pagebreak.html canvas=139 %} 
 
-To fit these specifications, the master copy is typed in two columns, each column being 4.4″ wide and 17″ long. Pica 
-type with an interlinear spacing of five 
-lines to the inch is used. The master copy 
-is then given to the photo-offset establishment with instructions that it is to be 
-reduced 50%. This sample page illustrates 
-the appearance of the final product. The 
-reader may judge for himself the diminishing curve of legibility as the amount of 
-money available for running costs decreases. 
-This extremely low-priced photo-offset format may be compared with a medium-priced 
-mimeographing format which also costs 
-$158.00 for 50,000 words. 
+{% include figure.html fig="32" %}
 
-This page illustrates a photo-offset 
-format that has been designed to conform to 
-the cost levels of medium-priced mimeo-
+{% include pagebreak.html canvas=140 %}
+{% include pagebreak.html canvas=141 %}
+{% include pagebreak.html canvas=142 %}
 
- {% include columnbreak.html canvas=137 col=2 %} This page illustrates a photo-offset 
-format that has been designed to conform to 
-the cost levels of medium-priced mimeographing. The essential significance of 
-this page is to show that (a) photo-offset 
-costs can be brought down to the level of 
-mimeographing, and (b) when photo-offset 
-formats are designed for this cost level, 
-their legibility diminishes below that of 
-the corresponding mimeograph copy. To 
-demonstrate this fact, the reader is asked 
-to compare this page with Figure XXVII, a 
-mimeograph format that is in the same cost 
-range. A book of 50,000 words, reproduced 
-in this format, would cost $158.00, including the cost of typing the master copy. Allowing $62.50 for the composition cost, a 
-sum of $95.50 is left to pay for the running costs. This amount of money will buy 
-500 copies of forty-four pages, size 6″ 
-x 9½″, To put 50,000 words on forty-four 
-pages, there must be 1136 words on a page, 
-or 568 words per column in a two-column 
-format such as this one. 
+{% include figure.html fig="33" %}
 
-To fit these specifications, the master copy is typed in two columns, each column being 4.4″ wide and 17″ long. Pica 
-type with an interlinear spacing of five 
-lines to the inch is used. The master copy 
-is then given to the photo-offset establishment with instructions that it is to be 
-reduced 50%. This sample page illustrates 
-the appearance of the final product. The 
-reader may judge for himself the diminishing curve of legibility as the amount of 
-money available for running costs decreases, 
-This extremely low-priced photo-offset format may be compared with a medium-priced 
-mimeographing format which also costs 
-$158.00 for 50,000 words. 
+{% include pagebreak.html canvas=143 %} 
+{% include pagebreak.html canvas=144 %} 
 
-This page illustrates a photo-offset 
-format that has been designed to conform to 
-the cost levels of medium-priced mimeographing. The essential significance of 
-this page is to show that (a) photo-offset 
-costs can be brought down to the level of 
-mimeographing, and (b) when photo-offset 
-formats are designed for this cost level, 
-their legibility diminishes below that of 
-the corresponding mimeograph copy. To 
-demonstrate this fact, the reader is asked 
-to compare this page with Figure XXVII, a 
-mimeograph format that is in the same cost 
-range. A book of 50,000 words, reproduced 
-in this format, would cost $158.00, including the cost of typing the master copy. Al- 
-lowing $62.50 for the composition cost, a 
-sum of $95.50 is left to pay for the running costs. This amount of money will buy 
-500 copies of forty-four pages, size 6″ 
-x 9½″. To put 50,000 words on forty-four 
-pages, there must be 1136 words on a page, 
-or 568 words per column in a two-column 
-format such as this one. 
+{% include figure.html fig="34" %}
 
-To fit these specifications, the master copy is typed in two columns, each column being 4.4″ wide and 17″ long. Pica 
-type with an interlinear spacing of five 
-lines to the inch is used. The master copy 
-is then given to the photo-offset establishment with instructions that it is to be 
-reduced 50%. This sample page illustrates 
-the appearance of the final product. The 
-reader may judge for himself the diminishing curve of legibility as the amount of 
-money available for running costs decreases. 
-This extremely low-priced photo-offset format may be compared with a medium-priced 
-mimeographing format which also costs 
-$158.00 for 50,000 words. 
-
-This page illustrates a photo-offset 
-format that has been designed to conform to 
-the cost levels of medium-priced mimeo-
-
- {% include pagebreak.html canvas=138 %} 
-
- {% include pagebreak.html canvas=139 %} 
-
-Figure XXXII
-
-This photo-offset format is 
-to accommodate 1768 words to the 
-reproduce a book of 50,000 words 
-offset at the same cost level as that of 
-mimeographing, this three-column photo-offset format can be used, putting 595 
-words in each column; or the format illustrated in Figure XXXI can be followed, using 
-a two-column arrangement on a 6″ x 9½″
-page. Both pages, of course, by attempting to approximate the cost range of the 
-Mimeograph approach very close to the lower limits of legibility. The $158.00 that 
-is necessary either for the mimeographing 
-of 50,000 words or for the photo-offsetting of 50,000 words in this format, is 
-probably best used for the mimeograph. 
-
-Using Hoch's figures, as given in 
-Chapter III, it is found that $95.50 will 
-buy twenty-eight pages of size 84″ x 11″. 
-This means the putting of 1768 words on a 
-page to accommodate the 50,000 words of the 
-manuscript. The reader may judge for 
-himself the difference in legibility between this format, the format illustrated 
-in Figure XXXI, and the mimeograph format 
-of Figure XXVII. 
-
-Again, as has been explained in the 
-text, it is possible to give a larger proportion of the $158.00 to the running costs 
-by either doing the typing personally and 
-not counting the cost in, or by having it 
-done by cheap labor. However, it is 
-quite possible that the typing would be of 
-such inferior quality that the amount 
-saved for running costs would be much better spent for composition. 
-
-This format again illustrates the saving that is made possible by the use of a 
-special spacer. Five lines to the inch is 
-used for this format, instead of the usual 
-six lines to the inch (regular single 
-spacing) which is too crowded for good 
-legibility, or the three lines to the inch 
-(regular double spacing) which is too widespread to be economical. 
-
-This photo-offset format is 
-to accommodate 1768 words to the 
-reproduce a book of 50,000 words 
-offset at the same cost level as that of 
-mimeographing, this three-column photo-offset format can be used, putting 595 
-words in each column; or the format illustrated in Figure XXXI can be followed, using 
-a two-column arrangement on a 6″ x 9½″
-page. Both pages, of course, by attempting to approximate the cost range of the 
-Mimeograph approach very close to the lower limits of legibility. The $158.00 that 
-is necessary either for the mimeographing 
-of 50,000 words or for the photo-offsetting of 50,000 words in this format, is 
-probably best used for the mimeograph. 
-
-Using Hoch's figures, as given in 
-Chapter III, it is found that $95.50 will 
-buy twenty-eight pages of size 84″ x 11″. 
-This means the putting of 1768 words on a 
-page to accommodate the 50,000 words of the 
-manuscript. The reader may judge for 
-himself the difference in legibility between this format, the format illustrated 
-in Figure XXXI, and the mimeograph format 
-of Figure XXVII. 
-
-Again, as has been explained in the 
-text, it is possible to give a larger proportion of the $158.00 to the running costs 
-by either doing the typing personally and 
-not counting the cost in, or by having it 
-done by cheap labor. However, it is 
-quite possible that the typing would be of 
-such inferior quality that the amount 
-saved for running costs would be much better spent for composition. 
-
-This format again illustrates the saving that is made possible by the use of a 
-special spacer. Five lines to the inch is 
-used for this format, instead of the usual 
-six lines to the inch (regular single 
-spacing) which is too crowded for good 
-legibility, or the three lines to the inch 
-(regular double spacing) which is too widespread to be economical. 
-
-This photo-offset format is 
-to accommodate 1768 words to the 
-
- {% include columnbreak.html canvas=139 col=2 %}
-
-This photo-offset format is 
-to accommodate 1768 words to the 
-reproduce a book of 50,000 words 
-offset at the same cost level as that of 
-mimeographing, this three-column photo-offset format can be used, putting 595 
-words in each column; or the format illustrated in Figure XXXI can be followed, using 
-a two-column arrangement on a 6″ x 9½″
-page. Both pages, of course, by attempting to approximate the cost range of the 
-Mimeograph approach very close to the lower limits of legibility. The $158.00 that 
-is necessary either for the mimeographing 
-of 50,000 words or for the photo-offsetting of 50,000 words in this format, is 
-probably best used for the mimeograph. 
-
-Using Hoch's figures, as given in 
-Chapter III, it is found that $95.50 will 
-buy twenty-eight pages of size 84″ x 11″. 
-This means the putting of 1768 words on a 
-page to accommodate the 50,000 words of the 
-manuscript. The reader may judge for 
-himself the difference in legibility between this format, the format illustrated 
-in Figure XXXI, and the mimeograph format 
-of Figure XXVII. 
-
-Again, as has been explained in the 
-text, it is possible to give a larger proportion of the $158.00 to the running costs 
-by either doing the typing personally and 
-not counting the cost in, or by having it 
-done by cheap labor. However, it is 
-quite possible that the typing would be of 
-such inferior quality that the amount 
-saved for running costs would be much better spent for composition. 
-
-This format again illustrates the saving that is made possible by the use of a 
-special spacer. Five lines to the inch is 
-used for this format, instead of the usual 
-six lines to the inch (regular single 
-spacing) which is too crowded for good 
-legibility, or the three lines to the inch 
-(regular double spacing) which is too widespread to be economical. 
-
-This photo-offset format is 
-to accommodate 1768 words to the 
-reproduce a book of 50,000 words 
-offset at the same cost level as that of 
-mimeographing, this three-column photo-offset format can be used, putting 595 
-words in each column; or the format illustrated in Figure XXXI can be followed, using 
-a two-column arrangement on a 6″ x 9½″
-page. Both pages, of course, by attempting to approximate the cost range of the 
-Mimeograph approach very close to the lower limits of legibility. The $158.00 that 
-is necessary either for the mimeographing 
-of 50,000 words or for the photo-offsetting of 50,000 words in this format, is 
-probably best used for the mimeograph. 
-
-Using Hoch's figures, as given in 
-Chapter III, it is found that $95.50 will 
-buy twenty-eight pages of size 84″ x 11″. 
-This means the putting of 1768 words on a 
-page to accommodate the 50,000 words of the 
-manuscript. The reader may judge for 
-himself the difference in legibility between this format, the format illustrated 
-in Figure XXXI, and the mimeograph format 
-of Figure XXVII. 
-
-Again, as has been explained in the 
-text, it is possible to give a larger proportion of the $158.00 to the running costs 
-by either doing the typing personally and 
-not counting the cost in, or by having it 
-done by cheap labor. However, it is 
-quite possible that the typing would be of 
-such inferior quality that the amount 
-saved for running costs would be much better spent for composition. 
-
-This format again illustrates the saving that is made possible by the use of a 
-special spacer. Five lines to the inch is 
-used for this format, instead of the usual 
-six lines to the inch (regular single 
-spacing) which is too crowded for good 
-legibility, or the three lines to the inch 
-(regular double spacing) which is too widespread to be economical. 
-
-This photo-offset format is 
-to accommodate 1768 words to the 
-
- {% include columnbreak.html canvas=139 col=3 %}
-
-This photo-offset format is 
-to accommodate 1768 words to the 
-reproduce a book of 50,000 words 
-offset at the same cost level as that of 
-mimeographing, this three-column photo-offset format can be used, putting 595 
-words in each column; or the format illustrated in Figure XXXI can be followed, using 
-a two-column arrangement on a 6″ x 9½″
-page. Both pages, of course, by attempting to approximate the cost range of the 
-Mimeograph approach very close to the lower limits of legibility. The $158.00 that 
-is necessary either for the mimeographing 
-of 50,000 words or for the photo-offsetting of 50,000 words in this format, is 
-probably best used for the mimeograph. 
-
-Using Hoch's figures, as given in 
-Chapter III, it is found that $95.50 will 
-buy twenty-eight pages of size 84″ x 11″. 
-This means the putting of 1768 words on a 
-page to accommodate the 50,000 words of the 
-manuscript. The reader may judge for 
-himself the difference in legibility between this format, the format illustrated 
-in Figure XXXI, and the mimeograph format 
-of Figure XXVII. 
-
-Again, as has been explained in the 
-text, it is possible to give a larger proportion of the $158.00 to the running costs 
-by either doing the typing personally and 
-not counting the cost in, or by having it 
-done by cheap labor. However, it is 
-quite possible that the typing would be of 
-such inferior quality that the amount 
-saved for running costs would be much better spent for composition. 
-
-This format again illustrates the saving that is made possible by the use of a 
-special spacer. Five lines to the inch is 
-used for this format, instead of the usual 
-six lines to the inch (regular single 
-spacing) which is too crowded for good 
-legibility, or the three lines to the inch 
-(regular double spacing) which is too widespread to be economical. 
-
-This photo-offset format is 
-to accommodate 1768 words to the 
-reproduce a book of 50,000 words 
-offset at the same cost level as that of 
-mimeographing, this three-column photo-offset format can be used, putting 595 
-words in each column; or the format illustrated in Figure XXXI can be followed, using 
-a two-column arrangement on a 6″ x 9½″
-page. Both pages, of course, by attempting to approximate the cost range of the 
-Mimeograph approach very close to the lower limits of legibility. The $158.00 that 
-is necessary either for the mimeographing 
-of 50,000 words or for the photo-offsetting of 50,000 words in this format, is 
-probably best used for the mimeograph. 
-
-Using Hoch's figures, as given in 
-Chapter III, it is found that $95.50 will 
-buy twenty-eight pages of size 84″ x 11″. 
-This means the putting of 1768 words on a 
-page to accommodate the 50,000 words of the 
-manuscript. The reader may judge for 
-himself the difference in legibility between this format, the format illustrated 
-in Figure XXXI, and the mimeograph format 
-of Figure XXVII. 
-
-Again, as has been explained in the 
-text, it is possible to give a larger proportion of the $158.00 to the running costs 
-by either doing the typing personally and 
-not counting the cost in, or by having it 
-done by cheap labor. However, it is 
-quite possible that the typing would be of 
-such inferior quality that the amount 
-saved for running costs would be much better spent for composition. 
-
-This format again illustrates the saving that is made possible by the use of a 
-special spacer. Five lines to the inch is 
-used for this format, instead of the usual 
-six lines to the inch (regular single 
-spacing) which is too crowded for good 
-legibility, or the three lines to the inch 
-(regular double spacing) which is too widespread to be economical. 
-
-This photo-offset format is 
-to accommodate 1768 words to the 
-
- {% include pagebreak.html canvas=140 %}
-
- {% include pagebreak.html canvas=141 %}
-
- {% include pagebreak.html canvas=142 %}
-
-FIGURE XXXIII 
-
-This photo-offset page is made up in a format that costs 
-the same to reproduce as an economical print format. The 
-$365.00 that would be required to print 50,000 words is here 
-devoted to making a photo-offset reproduction from typescript. 
-$62.50 of it is allotted to the composition cost, leaving 
-$302.50 to pay for the running costs. This amount will buy 
-500 copies of sixty-nine pages, 93″ x 12″, or, as with this 
-format, 138 pages, 6″ x 9½″. With the larger size page, only 
-725 words need be put on each page; with this 6″ x 9½″ page, 
-only 363 words need be put on each page. 
-
-Leaving wide margins and typing in a single column with 
-four-lines-to-the-inch spacing, a reduction of 33% takes care 
-of the word content. The resulting page is a very legible 
-and very expensive way of putting the photo-offset process 
-into use. 
-
-If it should happen that the format copy were then sent 
-to a photo-offset printer for quotation who was using a press 
-with a 17″ x 22″ metal sheet, his quotation for the job would 
-be substantially higher than the figure of $302.50 that is 
-the basis of this calculation, because he would have to run 
-the whole printing surface to get four pages of 6″ x 9½″, 
-and the wastage of his metal sheet printing surface would be 
-almost 40%. This fact is brought into the picture to emphasize the importance of considering, in the planning of a format, not only the arrangement of typescript columns that will 
-lay the required number of words on a page, but also the relation of the page size chosen to the dimensions of the metal 
-sheet of the press upon which it is to be run. 
-
-This photo-offset page is made up in a format that costs 
-the same to reproduce as an economical print format. The 
-$365.00 that would be required to print 50,000 words is here 
-devoted to making a photo-offset reproduction from typescript. 
-$62.50 of it is allotted to the composition cost, leaving 
-$302.50 to pay for the running costs. This amount will buy 
-500 copies of sixty-nine pages, 94″ x 12″, or, as with this 
-format, 138 pages, 6″ x 93″, With the larger size page, only 
-725 words need be put on each page; with this 6″ x 94″ page, 
-
- {% include pagebreak.html canvas=143 %} 
-
- {% include pagebreak.html canvas=144 %} 
-
-TODO
-
-PRINCIPLES OF ACCOUNTING 
-
-
-
-
-
-WAGES EXPENSE 
-
-1935 1935 
-Dec.| S51|/Balance ...cecsens oe 10,000] 00|\Dec. |31|To P. & Le weeeeeeeee | I74 | 10,25010 
-Sl) Accrued wcccesesees (SIA 200 | OO 
-
-
-| 10,250] 00] 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-___|[70,250]0 
-
-
-
-
-
-
-1936 
-
-
-Jan. | Ll) Accrued seccecec cw ewe ul oo 250] 0 
-
-
-Assume that on pay day, January 4, $440.00 is paid to workmen. This payment 
-would represent the discharge of a wage liability of $250.00 already on the books (the 
-credit balance in the Wages Expense accowmt), and the payment of $190.00 labor expense 
-of the new period. The entire $440.00 should be charged to the Wages Expense accounts 
-
-
-WAGES EXPENSE 
-1936 1936 
-alte |r|) ecotelevaraveleteleelevetens vote eeu AAOWOO NS ata sai) PTAC Cr Ue Catal erevel crete! suenetateneni elms 250 | 00 
-
-
-The balance of the account, $190.00, is the correct wage expense for the new pe 
-riod. | 
-Other examples of accrued expenses are advertising, commissions, interest, sal 
-aries, workmen's compensation insurance; also the utility services, gas, electricity, 
-and water. 
-Adjusting entries for accrued expenses are necessary, for, without such adjust 
-ments: 
-
-
-- the expenses of the period will be understated, 
-
-- the net income overstated, and 
-
-- the balance sheet will be incorrect because of the omis-— 
-sion of accrued expenses from its liability side. 
-
-
-DEFERRED INCOME 
-
-Some incomes may be recorded on the books before they are earned. Suppose foi 
-instance, that an insurance company credits Insurance Income for an initial annual pre 
-mium of $2,400.00, which it receives on December 1, from a new policy holder. When tl 
-books are closed December 31, it would not be correct to consider all of the $2,400.00 
-as income earned in the period ending that date. This is because the insurance prote 
-tion is rendered not for one month but for twelve months. It follows that since ¹⁄₁₂ | 
-the insurance protection is rendered during December, ¹⁄₁₂ of the income, or $200.00, 
-should be credited to that month. The remaining ¹¹⁄₁₂ths, or $2,200.00, should be cret 
-ited to the income of the new year. . 
-
-A statement of principle may therefore be made: income which has been record 
-on the books but which is, in whole, or in part, unearned income at the end of an ac-— 
-counting period, should be removed from the income account of the -current period and ¢ 
-ried forward to the next period as unearned, or deferred, income. The accounting en 
-tries are as follows: 
-
-Income accounts are debited with the amowmt to be deferred, and the credits ar 
-made either to separate liability accowmts,--one account for each type of deferred in 
-come,--or to one summary account called Deferred Income. The latter method is ordina- 
-rily to be preferred. Unless further-other adjustments are necessary, the income ac- 
-counts are closed to Profit and Loss, and the account with Deferred Income is carried 
-to the balanee sheet as a liability. It is a liability because it isvan oplipation 
-which is payable, not in cash, but in services. 
-
-
-FIGURE XXXIV 
-
- {% include pagebreak.html canvas=145 %} 
-
- {% include pagebreak.html canvas=146 %} 
-
-TODO
-
-
+{% include pagebreak.html canvas=145 %} 
+{% include pagebreak.html canvas=146 %} 
 
 it causes toxic changes of the liver. 
 
-
-
-
-
-
-
-
-Eee A 
-C Tore COOC; H, 
-NCH, Hcoocé \ 
-| a ars 
-C—— C—— C 
-oe ae He 
-
-
-The benzoyl ecgonine iso-propyl 
-ester has, according to His (1894), local 
-
-
-ee H H 
-G C—— C._ COOCH(CHg ). 
-NCE HCooc ) 
-== oe a 
-Ho H He 
-
-
-
-
-
-
-
-
-anesthetic properties and causes also de- 
-generative changes of the liver (Ehrlich, 
-1890). 
-
-The benzoyl ecgonine iso-butyl 
-ester does not differ materially from ico 
-
-
-
-
-
-C—— c———C_ C00C,H,(CH;), 
-
-
-NG cam ) 
-
-
-Vena een 
-
-
-cainewin ts ocalwanes tie tic  amdE rome 
-
-properties (Ehrlich, 1890; His, 1894). 
-The benzoyl ecgonine allyl ester 
-
-was prepared by Poulson and Weidemann 
-
-
-oa H 
-
-c C—— C_ COOCH,CH = CH, 
-NCH, HCooc ) 
-| ge — 
-
-
-
-
-
-C—— C—— C 
-Bay ee H 
-(1924). The free base melts at 98°C and 
-
-
-is nearly insoluble in water but easily 
-soluble in organic solvents; the solutions 
-are levorotatory. The hydrochloride is 
-easily soluble in water. The systemic ac- 
-tion and the toxicity are similar to that 
-of cocaine, the local anesthetic action 
-being, however, more marked. This was 
-confirmed in human eyes by Hagen who found 
-that in opposition to cocaine, even solu- 
-tions of 0.5 per cent cause complete anes- 
-thesia. With 5 per cent solutions the ef- 
-fect is also more lasting than with co- 
-caine and the mydriatic action is less 
-
-
-
-
-
-THERAPEUTIC AGENTS OF THE PYRROLE AND PYRIDINE GROUP 
-
-
-marked at the same time. Although it 
-causes a Slight primary irritation, no 
-permanent injury of the eye could be ob- 
-served. 
-
-The benzoyl ecgonine benzyl ester 
-was also prepared by Poulson and Weidemann 
-
-
-
-
-
-
-
-
-Hoe oo H \ 
-C Ceemeern cooc ¢ 
-| ie 
-NCH, acooc€ 
-| 
-pet sl eaelee eae 
-eee He 
-(1924). The hydrochloride forms well-de- 
-
-
-fined crystals which melt at 123°C and 
-which are easily soluble in water and al- 
-cohol, the porous being levorotatory 
-bela Sle. 5° With intravenous adminis- 
-eoteae the toxiedey is of the same order 
-as that of cocaine. On the rabbit's 
-cornea it was found to be more effective 
-than the latter as to the local anesthetic 
-action, but it causes marked irritation 
-and swelling and for this reason is of no 
-elinical value. 
-
-Chemical changes around the nitro- 
-gen atom of the ecgonine molecule have led 
-to the following compounds: 
-
-Nor-ecgonine has, like ecgonine, 
-no local anesthetic action (His, 1894) 
-and also causes no degenerative changes of 
-
-
-
-
-
-H, 4H H 
-
-C a COOH 
-EY HCOH 
-
-c——c——c 
-
-eee He 
-
-
-the liver. 
-
-
-The benzoyl ester, benzoyl-nor- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ecgonine, has no local anesthetic action 
-
-HS H H 
-C Cae GU 
-
-| ae IT 
-
-HN Hcooc' = \ 
-
-l eee 
-C C——€ 
-He H He 
-
-
-(Poulson, 1890; His, 1894) and causes no 
-characteristic degenerative changes of 
-the liver. According to Poulson the 
-systemic action in frogs differs from 
-that of cocaine in that the subcutaneous 
-
-
-FIGURE XXXV 
+{% include figure.html fig="35" %}
 
  {% include pagebreak.html canvas=147 %} printing shop for quotations, and that the 
 quotations for a printed product are about 
@@ -3117,7 +1813,7 @@ photo-offset printer who was using a press
 with a 17″ x 22″ metal sheet, his quotation 
 for the job would be substantially higher 
 than the figure of $302.50 that is the basis of this calculation, because he would 
-_have to run the whole 17″ x 22″ to get four 
+have to run the whole 17″ x 22″ to get four 
 pages 6″ x 9½″, and the wastage of his 
 metal sheet printing surface would be almost 40%. This fact is brought into the {% include columnbreak.html canvas=147 col=2 %} picture to emphasize the importance of considering, in the planning of a format, not 
 only the arrangement of typescript columns 
@@ -3421,43 +2117,12 @@ Our habits of judgment have been so
 formed that we always expect to see certain 
 kinds of thought going around in their
 
- {% include pagebreak.html canvas=151 %} 
+{% include pagebreak.html canvas=151 %} 
+{% include pagebreak.html canvas=152 %} 
 
- {% include pagebreak.html canvas=152 %} 
+{% include figure.html fig="36" %}
 
-SPECIMEN PAGE OF A SCRIBE BOOK 
-
-
-For the artistic reproduction of a manuscript an alternative to the 
-use of the usual type faces and of typescript presents itself that is as 
-intriguing as it is simple. This alternative is the preparation by a trained 
-scribe of the copy to be photographically reproduced by the photo-offset or 
-photo-gelatine processes. 
-
-The transition from writing to printing only gradually changed the appearance of book pages. The first printers, in fact, strove to make their 
-books as nearly like manuscripts as possible. The Blasius copy of the Gutenberg 
-Bible is said to have been represented as a manuscript by John Fust and to 
-have been sold as such in Paris. The early printers designed type faces 
-which imitated the form of letters with which they were familiar. The 
-German printers copied the pointed style which later acquired the name 
-of gothic and which had been used during the Middle Ages for producing the psalters, missals, breviaries, and the Bibles of the Church. The 
-Italian printers developed a face in the humanistic style: a round, neat 
-Script coming in with the Renaissance. This style became known as 
-roman and reached its greatest perfection under Nicholas Jenson. Only 
-gradually were type faces designed which were quite unlike the writing 
-of the copyists of the Middle Ages. 
-
-With the mass production of the twentieth century, there has come 
-a standardization of type faces which tends to minimize the individuality 
-of a book. But with the application of photography to printing the unique quality of the writing of trained scribes can recapture the artistry 
-of individual workmanship. The books prepared by scribes possess a 
-personality all their own. A conspicuous example of such a book is that produced by Anna Simons, the "Sonetti, Ballate, Sestine" of Dante 
-Alighieri in the "Bibliotheca Manu Scripta". The cost of creating such 
-books, of course, would vary with the individual scribes.
-
-FIGURE XXXVI 
-
- {% include pagebreak.html canvas=153 %} working clothes; others we expect to see 
+{% include pagebreak.html canvas=153 %} working clothes; others we expect to see 
 parading in formal dress. Typescript and 
 newsprint are the clothes that thought 
 wears in its daily work; the typography of 
