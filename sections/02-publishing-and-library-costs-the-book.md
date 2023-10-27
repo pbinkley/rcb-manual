@@ -145,7 +145,7 @@ COSTS IN COMMERCIAL AND SCHOLARLY PUBLISHING
 | Editorial costs | .02 | .03 |
 | Royalties | .17 | .06 |
 | Selling and advertising | .19 | .23 |
-| Shipping and mailing | .02 |.02 |
+| Shipping and mailing | .02 | .02 |
 | Overhead | .18 | |
 | Bad debts, losses, profits | .06 | |
 | | $1.00 | $1.00 |
@@ -211,7 +211,7 @@ method of pricing, which bears some resemblance to the Meiner formula:
 | 2. Add 20% for editorial overhead costs. | 260 | 440 |
 | | $1560 | $2640 | 
 | 3. Subtract from the edition 100 copies for review and promotion, and divide the total by the salable edition (900 copies) to get unit cost. | 1.73 | 2.93 | 
-| {% include pagebreak.html canvas=24 %} 4. The sales price should then be fixed at three times this unit cost of the book if the book is to return cost of publication and a small royalty to author. | 5.19 ($.013 per page) | 8.79 ($022 per page) | 
+| 4. The sales price should then be fixed at three times this unit cost of the book if the book is to return cost of publication and a small royalty to author. | 5.19 ($.013 per page) | 8.79 ($022 per page) | 
 | 5. If this price, considering the final appearance of the book, and the average price of scholarly publications ($.022 per page), is so high as to discourage sales, it must be cut down. | | |
 
 These figures indicate that even 
@@ -233,6 +233,8 @@ the following averages:
 
 [^n7]: This table refers only to books published by the Medieval Academy, not to the fifty-nine titles published by all learned societies. 
 
+| | | |
+|----|---:|----|
 | Size of edition | 1133 | |
 | Number of pages | 266 | | 
 | Manufacturing cost | $1651 | | 
@@ -295,7 +297,7 @@ TABLE II
 A TYPICAL RESEARCH BOOK--COSTS AND RETURNS<sup>*</sup>
 
 | Price | | |
-| <span style="width: 2em"/>retail | $2.75 | ($.016 per page) |
+| &nbsp;&nbsp;&nbsp;retail | $2.75 | ($.016 per page) |
 | <span style="width: 2em"/>members and booksellers | $2.20 | ($.013 per page) |
 | Cost of manufacture: | | |
 | <span style="width: 2em"/>Composition | $418.00 | |
@@ -424,6 +426,8 @@ TABLE III
 
 ACQUISITION SUMS SPENT BY FORTY OF THE LARGER UNIVERSITY AND COLLEGE LIBRARIES 
 
+| | | | | | |
+|----|----:|----|----:|----|----:| 
 | Harvard | $365,000 | Ohio | $79,000 | Washington | |
 | Columbia | 193,000 | Wisconsin | 70,000 | (St. Louis) | 36,000 |
 | Chicago | 184,000 | Princeton | 70,000 | Cornell | 34,000 | 
@@ -493,7 +497,8 @@ The Association of University Presses maintains cooperatively on addressograph p
 an educational directory of 67,000 names, 
 distributed about as follows: 
 
-|-----|-----:|
+|  |  |
+| -- | --: |
 | Social Sciences | 18,630 |
 | Humanities | 21,192 |
 | Physical Sciences | 8,520 |
