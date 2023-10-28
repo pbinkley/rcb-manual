@@ -8,7 +8,7 @@
   {{ canvas | strip | prepend: 'https://iiif.archive.org/image/iiif/3/manualonmethodso00robe%2fmanualonmethodso00robe_jp2.zip%2fmanualonmethodso00robe_jp2%2fmanualonmethodso00robe_' | append: '.jp2/full/200,/0/default.jpg' | absolute_url }}
 {%- endcapture -%}
 {%- capture output -%}
-<span title="Page {{ thispage.label | strip}}" style="color: red">∣</span><label title="Show p.{{ thispage.label | strip }} thumbnail" style="color: red" for="mn-page-{{ include.canvas }}" class="margin-toggle">&#128196;</label><input type="checkbox" id="mn-page-{{ include.canvas }}" class="margin-toggle"/><span class="marginnote">
+<span id="page_{{ thispage.label | strip}}" title="Page {{ thispage.label | strip}}" style="color: red">∣</span><label title="Show p.{{ thispage.label | strip }} thumbnail" style="color: red" for="mn-page-{{ include.canvas }}" class="margin-toggle">&#128196;</label><input type="checkbox" id="mn-page-{{ include.canvas }}" class="margin-toggle"/><span class="marginnote">
   {%- if thispage['content']!='blank' -%}
   <a href="https://archive.org/details/manualonmethodso00robe/page/{{ linkpage | strip }}/mode/1up">
     <img style="width: 150px; border: 1px solid black; margin-bottom: 0" src="{{ thumbnail }}">

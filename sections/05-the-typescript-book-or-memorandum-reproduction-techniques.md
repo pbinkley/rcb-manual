@@ -48,7 +48,7 @@ $.40 per hour, paper for the fair copy typing at $1.25 per 1000 sheets, onionski
 $2.50 per 1000 sheets, and carbon paper at 
 $2.50 per 100 sheets. Quotations received 
 by the Joint Committee show that prices 
-and costs are highly variable, as indicated by Table XIII on the following page. 
+and costs are highly variable, as indicated by [Table XIII](#table_13) on the following page. 
 
 A normal cost may be taken as $.40 
 per 1000 words and an additional charge of 
@@ -127,9 +127,9 @@ special duplicating fluid as they are fed
 into the machine. 
 
 There are three kinds of liquid 
-process equipment: the Ormig (Figure XX), 
+process equipment: the Ormig ([Figure XX](#figure_20)), 
 made in Germany and sold for $160.00 to 
-$475.00; the Standard New Process Duplicator (Figure XXI), which sells for $187.50 
+$475.00; the Standard New Process Duplicator ([Figure XXI](#figure_21)), which sells for $187.50 
 to $440.00; and the Ditto Liquid Duplicator, fixed at $200.00 for the hand-run 
 model and $265.00 for the power-run machine. 
 
@@ -285,16 +285,16 @@ where it crosses the carbon paper technique
 and runs up toward 200. Bound in place 
 here are four samples of hectograph work. 
 They are numbered to indicate their place 
-in the run. Figure XXII is made with the 
+in the run. [Figure XXII](#figure_22) is made with the 
 gelatin process; note that the letters are 
 smoother and more blurred than those made 
-by the liquid process. Figures XXIIIa and 
-XXIIIb are made with the Standard New Process Duplicator, one page being taken from 
+by the liquid process. Figures [XXIIIa](figure_23a) and 
+[XXIIIb](figure_23b) are made with the Standard New Process Duplicator, one page being taken from 
 an early place in a run, the other being 
 selected from a later part of the run. A 
 comparison of these two pages will show the 
 difference in legibility of work taken from 
-two different places in runs. Figure XXIV 
+two different places in runs. [Figure XXIV](#figure_24) 
 is made with the Ormig liquid duplicator. 
 By comparing these four sample pages, the 
 reader will be able to note the variations 
@@ -313,6 +313,8 @@ the run. The best possible hectographed
 product will result. 
 
 {% include table.html tab="15" %}
+
+{% include pagebreak.html canvas=112 %} 
 
 ### c) Application of Hectographing to the Problems of Scholarship 
 
@@ -375,7 +377,7 @@ articles in periodicals. No binding costs
 other than simple wire stapling need intervene to increase the charge upon the author; 
 hectographed memoranda up to twenty or 
 thirty pages in length would probably find 
-their place of storage in a vertical file, 
+their place of storage in a vertical file. 
 An example of this use of the process is 
 the reproduction by the Joint Committee office of Dr. Robert C. Binkley's thirty-four-page memorandum, "New Tools, New Recruits for the Republic of Letter," at a 
 unit cost of $.17. 
@@ -414,7 +416,7 @@ prices, therefore, must be analyzed for
 mimeograph work. 
 
 The rotaprint and multilith have 
-been briefly mentioned in Chapter III in {% include pagebreak.html canvas=113 %} connection with the discussion of photo-offset as a reprinting method. The press 
+been briefly mentioned in [Chapter III](03-printed-books.html) in {% include pagebreak.html canvas=113 %} connection with the discussion of photo-offset as a reprinting method. The press 
 plates for reprinting are, of course, prepared photographically. But there is an 
 alternative way of putting on such plates 
 the format copy of the text to be reproduced: the metal sheets that are used on 
@@ -490,12 +492,12 @@ far beyond the mimeograph. Large government orders are filled at discounts up to
 The wax stencil is used for runs {% include pagebreak.html canvas=114 %} not exceeding 500. It cannot be saved, and 
 more care is needed to produce a good copy 
 with the wax stencil than with the mimeotype stencil. A sample of work done on a 
-wax stencil is seen in Figure XXVII. The 
+wax stencil is seen in [Figure XXVII](#figure_27). The 
 Cellotype stencil, a white stencil with a 
 carbon back, is used when very high visibility is desired; the dermatype, a wet 
 process stencil, is seldom used and is almost obsolete; the mimeotype stencil, referred to as the "universal stencil," is 
 used for every purpose except the photographic work. The dermaprint stencil has 
-been discussed at length in Chapter III.
+been discussed at length in [Chapter III](03-printed-books.html).
  
 There are two kinds of metal sheets 
 that can be used directly in the typewriter---the rotaplate: and the multilith metal 
@@ -550,7 +552,7 @@ lines, and a wide-margin format.
 By a combination of experiment and 
 guesswork, the writers have reached the 
 conclusion that the formats shown in 
-Table XIX are advisable for the number of 
+[Table XIX](#table_19) are advisable for the number of 
 words per page indicated. 
 
 ## Explanation of Sample Pages and Cost Table 
@@ -558,8 +560,8 @@ words per page indicated.
 In order to exhibit as many as possible of the different varieties of the 
 mimeograph process, the sample pages following have been run off on mimeograph and 
 bond paper of different weights, from rotaprint and multilith metal sheets and from 
-wax and mimeotype stencils (Figures XXV to 
-XXVIII). The reader must make allowance 
+wax and mimeotype stencils (Figures [XXV](#figure_25) to 
+[XXVIII](#figures_26)). The reader must make allowance 
 for the fact that paper stock, format, and 
 process are all on display; and he must 
 decide for himself which differences in 
@@ -582,7 +584,7 @@ let fourteen stencils do the work of twenty. The price of the special spacing
 equipment can be earned, therefore, by the 
 economies in cost of stencils in a mimeographing job of less than 50,000 words.[^n1]
 
-[^n1]: For prices of special spacing equipment, see Chapter IV.
+[^n1]: For prices of special spacing equipment, see [Chapter IV](04-the-typescript-book-or-memorandum-typescript.html).
 
 The cost and prices of mimeographing a manuscript of 100,000 words in each 
 of these formats are estimated in the following chart. But in order to make the 
@@ -596,7 +598,7 @@ hypotheses regarding composition cost:
 first, that the format copy is typed directly from the draft copy without an intervening fair copy; and second, that the 
 fair copy is made on paper and then retyped as format copy on the mimeograph 
 stencil. Labor for operating the duplicating machine is estimated at $.40 per hour. 
-The choice of format would control a variation in area costs of 350% from the mini{%- include columnbreak.html canvas=124 col=2 -%}mum and a corresponding variation in running costs. (See Table XX on the following page.) 
+The choice of format would control a variation in area costs of 350% from the mini{%- include columnbreak.html canvas=124 col=2 -%}mum and a corresponding variation in running costs. (See [Table XX](#table_22) on the following page.) 
 
 {% include table.html tab="19" %}
 
@@ -605,7 +607,7 @@ estimates for office work; prices vary
 greatly from this calculated cost basis. 
 The comparison of cost and price, i.e., of 
 work done in an office and work sent out, 
-can be seen in one instance in the comparison as shown in Table XXI, page 52.  {% include pagebreak.html canvas=125 %} 
+can be seen in one instance in the comparison as shown in [Table XXI](#table_21), [page 52](#page_52).  {% include pagebreak.html canvas=125 %} 
 
 {% include table.html tab="20" %}
 
@@ -615,12 +617,14 @@ can be seen in one instance in the comparison as shown in Table XXI, page 52.  {
 
 The following table shows the costs
 of producing a book by each of the "mimeograph" processes in a 400-word format page, 
-as displayed in Figure XXVII. Price esti{%- include columnbreak.html canvas=126 col=2 -%}mates are based on several quotations and 
+as displayed in [Figure XXVII](#figure_27). Price esti{%- include columnbreak.html canvas=126 col=2 -%}mates are based on several quotations and 
 represent an average from which there may 
 be a variation of 35% for the maximum and 
 25% for the minimum. 
 
 {% include table.html tab="22" %}
+
+{% include pagebreak.html canvas=127 %} 
 
 ## IV. Photo-Offset from Typescript 
 
@@ -675,7 +679,7 @@ Typescript is wasteful of page
 areas because of the large size of the type. 
 Photo-offset permits a photographic reduction of typescript in any degree.[^n2] Therefore, by the photo-offset process a typescript can be brought down to the equivalent of 8- and 10-point type as used in 
 books, or to the equivalent of 7-point 
-newsprint. A table of equivalents was suggested in Chapter IV, by which various reductions of typescript could be correlated 
+newsprint. A table of equivalents was suggested in [Chapter IV](04-the-typescript-book-or-memorandum-typescript.html), by which various reductions of typescript could be correlated 
 with corresponding point sizes of book type 
 by a photographic process. 
 
@@ -701,7 +705,7 @@ the inch instead of ten) was just as legible as full-sized pica typescript.[^n3]
 The reader should be given an opportunity to test this judgment and to compare 
 the legibility of typescript in various reductions with the legibility of book-face 
 type. To make the comparison possible, six {% include pagebreak.html canvas=128 %} areas of four square inches each are filled 
-with reading matter (Figure XXIX). The 
+with reading matter ([Figure XXIX](#figure_29)). The 
 first square is filled with text in 10-point type, and typescript that will lay 
 down the same number of words in the same 
 area is set beside it; the second pair of 
@@ -812,7 +816,7 @@ justify the right-hand margin also calls
 for calculation, whether the method used 
 should be that of a second format typing 
 or the special paper invented by Spielvogel 
-(see Chapter IV). The cost of this operation will not be figured into the estimates. 
+(see [Chapter IV](04-the-typescript-book-or-memorandum-typescript.html)). The cost of this operation will not be figured into the estimates. 
 
 Taking all of these factors into 
 account, it seems that mimeographing 50,000 
@@ -844,8 +848,8 @@ full available printing surface of the
 photo-offset metal sheet, energy and material are wasted. The sensitizing and preparation of the metal sheet are substantially 
 the same whether all or merely a part of 
 the surface is used; the waste that occurs {% include columnbreak.html canvas=131 col=2 %} when the page is not planned to fit the 
-metal sheet has been discussed in Chapter 
-III in connection with reprinting. 
+metal sheet has been discussed in [Chapter 
+III](03-printed-books.html) in connection with reprinting. 
 
 The ideal typescript format, from 
 the standpoint of printshop efficiency, 
@@ -909,7 +913,7 @@ to offset work because they lead either to
 an undue extent of margin, an undue length 
 of line, or an inadequate use of the reducing power of the photographic process. A 
 column of maximum width (3.9″) can be 
-printed in the 5½″) x 8½″ page with
+printed in the 5½″ x 8½″ page with
 only 42.4% of the area surrendered to margins, but this volume is too small for convenient library shelving. The best format 
 for library shelving convenience and low 
 margin ratio would be just short of 10″ 
@@ -920,12 +924,12 @@ external margins of about ¾″, The percentage of area given over to margins wo
 be about 26%. The book page would have an 
 unusual appearance---more nearly square than 
 an ordinary octavo page. Yet it would be 
-very efficient (Figure XXX). 
+very efficient ([Figure XXX](#figure_30)). 
 
 Now the curious fact emerges that 
 despite all the variety of sizes available 
 in photo-offset press, there is none that 
-will take without waste of printing surface al page 9 ¾″ x 7 ¾″. Thus the limitations of equipment impose themselves in 
+will take without waste of printing surface a page 9 ¾″ x 7 ¾″. Thus the limitations of equipment impose themselves in 
 planning a model photo-offset page. 
 
 Planning a photo-offset page is 
@@ -945,10 +949,10 @@ photo-offset page, an exercise is here carried out in calculating a format for a
 of 50,000 words to meet two different cost 
 situations: first, to cost as much in an 
 edition of 500 as low-cost printing; second, to cost as much in an edition of 500 
-as medium-cost mimeographing. By consulting the tables in Chapter III, it appears 
+as medium-cost mimeographing. By consulting the tables in [Chapter III](03-printed-books.html), it appears 
 that an edition of this size, in an "economy format," can be printed at $365.00 
 (6 ¾″ x 9½″ page size, two columns); 
-and the same text, mimeographed in a 400-word format, will cost $158.00 (see page 51). 
+and the same text, mimeographed in a 400-word format, will cost $158.00 (see [page 51](#page_51)). 
 
 The question may then be asked, is 
 photo-offset as expensive as printing? Is 
@@ -967,12 +971,12 @@ worked out from data already presented in
 this volume. 
 
 Given N (a number of words) and D 
-(a sum of money available), from the information in Chapter IV on costs of typing, 
+(a sum of money available), from the information in [Chapter IV](04-the-typescript-book-or-memorandum-typescript.html) on costs of typing, 
 calculate the cost of making a format copy 
 of this number of words, which will be D'
 (the composition cost). D minus D' will be 
 available for photo-offset work---the area 
-and running cost. From the tables in Chapter III, calculate the number and size of 
+and running cost. From the tables in [Chapter III](03-printed-books.html), calculate the number and size of 
 photo-offset pages that can be produced in 
 the required number of copies for D minus 
 D' dollars. Then lay off on these pages 
@@ -991,15 +995,13 @@ per word is greater or smaller than six,
 but six can be taken as a good average. To 
 keep the formula perfectly general, however, 
 let K be the number of keystrokes per word 
-(including allowance for inter-word spacing {% include pagebreak.html canvas=133 %} 
+(including allowance for inter-word spacing {% include pagebreak.html canvas=133 %} and loss of keystrokes at the uneven right-hand margin). Then NK/CP is the number of 
+keystrokes per column. 
 
 {% include figure.html fig="30" %}
 
 {% include pagebreak.html canvas=134 %} 
 {% include pagebreak.html canvas=135 %} 
-
-and loss of keystrokes at the uneven right-hand margin). Then NK/CP is the number of 
-keystrokes per column. 
 
 The formula for making NK/CP keystrokes on a reduced size (or enlarged size) 
 photo-offset column of given dimensions 
@@ -1025,12 +1027,12 @@ a column from which the photo-offset page
 is to be photographically copied, in a reduction ratio or enlargement ratio which 
 will have the value R. 
 
-$$ {W \over L} = {W' \over L'} $$; and $$ {AW' \times BL'} = {NK \over CP} $$. $$ {L'} = {NKL \over CPABW } $$; $$ W' = {NKW \over CPABLE } $$; therefore, $$ {L \over L'} = {W \over W'} = R $$.
+It is known that $$ {W \over L} = {W' \over L'} $$; and $$ {AW' \times BL'} = {NK \over CP} $$. $$ {L'} = {NKL \over CPABW } $$; $$ W' = {NKW \over CPABLE } $$; therefore, $$ {L \over L'} = {W \over W'} = R $$.
 
- {% include columnbreak.html canvas=135 col=2 %}  The composition costs of typescript 
+{% include columnbreak.html canvas=135 col=2 %}  The composition costs of typescript 
 books, it has been proved, are highly variable; the principal levels for a book of 
 50,000 words are determined by the five 
-situations shown in Table XXIII. 
+situations shown in [Table XXIII](#table_23). 
 
 To simplify cost calculations, composition cost will be taken for the third 
 situation only---i.e., for typing done by a 
@@ -1044,19 +1046,49 @@ mimeographed and price of a printed book),
 the following amounts remain for the production of a photo-offset book, exclusive 
 of typing:
 
-|----|----:|----|
-| Photo-offset price to equal mimeographing | $158.00 | |
-| less composition cost | 62.50 | |
-| leaves | 95.50 | for photo-offset metal sheets and press work. |
+<table>
+  <tbody>
+    <tr>
+      <td>Photo-offset price to equal mimeographing</td>
+      <td style="text-align: right">$158.00</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>less composition cost</td>
+      <td style="text-align: right">62.50</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>leaves</td>
+      <td style="text-align: right">95.50</td>
+      <td>for photo-offset metal sheets and press work.</td>
+    </tr>
+  </tbody>
+</table>
 
-|----|----:|----|
-| Photo-offset price to equal mimeographing | $365.00 | |
-| less composition cost | 62.50 | |
-| leaves | 302.50 | for photo-offset metal sheets and press work. |
+<table>
+  <tbody>
+    <tr>
+      <td>Photo-offset price to equal mimeographing</td>
+      <td style="text-align: right">$365.00</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>less composition cost</td>
+      <td style="text-align: right">62.50</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>leaves</td>
+      <td style="text-align: right">302.50</td>
+      <td>for photo-offset metal sheets and press work.</td>
+    </tr>
+  </tbody>
+</table>
 
 {% include table.html tab="23" %}
 
-{% include pagebreak.html canvas=136 %} In Chapter III area costs of photo-offset work are found. These indicate that 
+{% include pagebreak.html canvas=136 %} In [Chapter III](03-printed-books.html) area costs of photo-offset work are found. These indicate that 
 the sums listed above will purchase the 
 following amounts of page area in a photo-offset edition of 500 copies: 
 
@@ -1095,7 +1127,7 @@ The square root of four is two. The pica
 typescript must, therefore, stand at a reduction of two diameters. Since 42 keystrokes reduced two diameters will fill the 
 2⅛″ column, the typewriter should be 
 set to make columns of this width (42 keystrokes, or 4.2″) and carried to a column 
-length of 17″. When this is reduced photographically, it is a reduction of approximately 50%. (Figure XXXI.) 
+length of 17″. When this is reduced photographically, it is a reduction of approximately 50%. ([Figure XXXI](#figure_31).) 
 
 In the 8½″ x 11″ size of page 
 the necessary 1786 words would probably 
@@ -1108,7 +1140,7 @@ necessary. Pica typescript reduced to 50%
 of original size will suffice in this format. In the format copying, the typist 
 should make each line 43 keystrokes long 
 (4.3″) and the column should be typed to 
-18″ in height. (Figure XXXII.) 
+18″ in height. ([Figure XXXII](#figure_32).) 
 
 Thus it appears that there are at 
 least two formats in which a photo-offset 
@@ -1179,7 +1211,7 @@ the same as those for a photo-offset book
 from typescript. This is invariably the 
 result of the choice of format for the 
 photo-offset book. The printing prices, as 
-has been proved in Chapter III above, cannot respond as actively to change in format as the photo-offset prices. To ask "is 
+has been proved in [Chapter III](03-printed-books.html) above, cannot respond as actively to change in format as the photo-offset prices. To ask "is 
 photo-offset as expensive as printing?" is 
 to avoid the essential element in photo-offset pricing, namely area cost and reduction ratio of the typescript. By calculations corresponding to those used above, 
 it is easy to determine a format in which a 
@@ -1208,8 +1240,7 @@ the 6″ x 9½″ page, the typist would set
 the stops to write 54 to 55 keystrokes, 
 type 47 lines at four-lines-to-the-inch 
 Spacing, and ask the printer to reduce it 
-33% to 67% of full size. (See Figure 
-XXXIII.) The resulting pages would be very 
+33% to 67% of full size. (See [Figure XXXIII](#figure_33).) The resulting pages would be very 
 neat, very legible, and a very expensive 
 way of using the photo-offset process. 
 
@@ -1242,7 +1273,7 @@ typescript, several formats are designed,
 and the manufacturing prices of a book in 
 each format are calculated. These prices 
 are sufficiently checked with actual quotations to make them indicative of the general price levels at which photo-offset can 
-be used. (See Figures XXXIV and XXXV.) 
+be used. (See Figures [XXXIV](#figure_34) and [XXXV](#figure_35).) 
 
 ## Photo-Offset from Normal Fair Copy, without Additional Format Typing 
 
@@ -1331,7 +1362,7 @@ that fill the shelves of graduate schools
 could be brought conveniently into print 
 without retyping. 
 
-If the sum of $265.00) is to be 
+If the sum of $265.00 is to be 
 spent to reproduce typescript in a retyped 
 format, it can be made to yield a two-column page 8½″ x 11″, with each column 
 3.6″ wide, and ½″ margins top and bottom, 
@@ -1370,39 +1401,6 @@ have been calculated by the author from the
 Edwards figures. 
 
 {% include table.html tab="24" %}
-
-The difference between the "Edwards type" and the "author type" figures for 20,000 
-words is $18.00; the price of the typing is therefore to be reckoned at $.90 per 
-1000 words in this format. 
-
-(For 8½″ x 11″ page, format 700-D, 700 words per page, quoted in units 
-of 72 pages, 50,000 words, including cheap binding) 
-
-Composition Cost Included Composition Cost Excluded 
-Edwards Type (area plus composition) Author Type (area cost) 
-
-Price per Pricer on Price per Price of 
-. Page in Whole es Page in Whole 
-Copies Copies 
-ee This Edition Edition a This Edition Edition 
-
-$118.00 
-160.00 
-225.00 
-
-
-$157.00 100 
-EO iO) 200 
-265.00 
-
-
-200 
-
-The difference between the "Edwards type" and the "author type" figures for 50,000 
-words is $39.00; the price of the typing is therefore to be reckoned at $.78 per 
-1000 words in this format. 
-
-
 
  {% include pagebreak.html canvas=150 %} The Edwards' model 700-D requires 
 seventy-two pages for the 50,000 words; the 
@@ -1556,7 +1554,7 @@ rule of constant costs which placed it at
 such a disadvantage in competing with diminishine costs of the printing craft. The 
 illustration on the preceding page serves 
 to show what might be done in this line. 
-(Figure XXXVI.) 
+([Figure XXXVI](#figure_36).) 
 
 ## Cost Analysis: Composition Costs 
 
