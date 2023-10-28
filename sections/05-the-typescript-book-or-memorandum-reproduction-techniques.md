@@ -18,15 +18,7 @@ making the impression, exhibits great efficiencies here. The following table ind
 made with one typing and the corresponding 
 weights of carbon paper and copy paper. 
 
-TABLE XII 
-
-NUMBER OF CARBONS POSSIBLE WITH ONE TYPING 
-
-| No. of Copies | Weight of Paper | Weight of Carbon Paper |
-|-----|-----|-----|
-| 1--5 | Over 9 lb.to 6 lb. | 7--8 lb. (standard) |
-| 5--10 | 9 lb. onionskin | 5--5½ 1b. (medium) |
-| 10--20 (Electromatic) | 9 lb. onionskin | 4 1b. (light) |
+{% include table.html tab="12" %}
 
 The thin paper will increase the 
 number of legible copies, but it is useful 
@@ -72,40 +64,18 @@ Before the technological limit of
 carbon paper copying is reached, the border 
 is crossed to the field of the hectograph. 
 
+{% include table.html tab="13" %}
+
+{% include table.html tab="14" %}
+
+{% include pagebreak.html canvas=97 %} 
+{% include pagebreak.html canvas=98 %} 
+
 ## II. The Hectograph Process 
 
 In this report the term *hectographing* is used to designate any process by 
 which approximately 100 to 150 copies of a 
-document may be reproduced in methyl-violet {% include pagebreak.html canvas=96 %} 
-
-TABLE XIII
-
-VARIATION OF NORMAL COST OF LABOR AND MATERIALS IN ESTIMATING 
-COMPOSITION COSTS IN CARBON COPYING 
-
-| | Low | Normal | High |
-| Labor per hour | $ .20 <br/> $ .32½ | $ .40 | $ .50 <br/> .60 <br/> 1.50 |
-| Paper per 1000 sheets | .70 | 1.25 | 1.60 <br/> 2.90 <br/> 3.55 <br/> 9.40) <br/> 9.86) Japanese linen <br/> 10.50) |
-| Onionskin per 1000 sheets | 1.30 <br/> 1.40 | 2.50 | 2.67 <br/> 3.10 <br/> 3.90 <br/> 5.00 |
-| Carbon paper per 100 sheets | 1.35 <br/> .75 | 2.50 | 3.50 <br/> 4.00 |
-
-
-TABLE XIV 
-
-A. CARBON COPY BOOKS: *COST* OF BOOK OF 100,000 WORDS, 334 PAGES
-
-| Fair Copy | Fair Copy and 1 Carbon  | Fair Copy and 2 Carbons | Fair Copy and 3 Carbons | Fair Copy and 4 Carbons | 
-| Edition | 1 | 2 | 3 | 4 | 5 | 
-| Edition Costs | $40.00 | $40.00 | $46.93 | $53.86 | $60.79 | 
-| Unit Costs | 40.00 | 20.00 | 15.65 | 13.47 | 12.16 | 
-
-| Fair Copy | Fair Copy and 5 Carbon  | Fair Copy and 6 Carbons | Fair Copy and 7 Carbons | Fair Copy and 8 Carbons | 
-| Edition | 6 | 7 | 8 | 9 | 
-| Edition Costs | $67.72 | $74.65 | $81.58 | $88.51 |  
-| Unit Costs | 11.29 | 10.67 | 10.20 | 9.84 |
-
-{% include pagebreak.html canvas=97 %} 
-{% include pagebreak.html canvas=98 %} 
+document may be reproduced in methyl-violet {% include pagebreak.html canvas=96 %} {% include columnbreak.html canvas=101 col=1 %} dye from a single master sheet. 
 
 {% include figure.html fig="20" %}
 
@@ -115,26 +85,6 @@ A. CARBON COPY BOOKS: *COST* OF BOOK OF 100,000 WORDS, 334 PAGES
 {% include figure.html fig="21" %}
 
 {% include pagebreak.html canvas=101 %} 
-
-TABLE XIV (Continued) 
-
-B. CARBON COPY BOOKS: *PRICE* OF BOOK OF 100,000 WORDS, 334 PAGES 
-(typing bureau estimates) 
-
-| Fair Copy | Fair Copy and 1 Carbon  | Fair Copy and 2 Carbons | Fair Copy and 3 Carbons | Fair Copy and 4 Carbons | 
-| Edition | 1 | 2 | 3 | 4 | 5 | 
-| Edition Costs | $50.00 | $50.00 | $56.93 | $63.86 | $70.79 | 
-| Unit Costs | 50.00 | 25.00 | 18.65 | 15.47 | 14.16 | 
-
-| Fair Copy | Fair Copy and 5 Carbon  | Fair Copy and 6 Carbons | Fair Copy and 7 Carbons | Fair Copy and 8 Carbons | 
-| Edition | 6 | 7 | 8 | 9 | 
-| Edition Costs | $77.72 | $84.65 | $91.58 | $98.51 |  
-| Unit Costs | 12.96 | 12.09 | 11.45 | 10.95 |
-
-
-written or typed in methyl violet dye 
-
- {% include columnbreak.html canvas=101 col=1 %} dye from a single master sheet. 
 
 ### a) Gelatin Hectograph Process 
 
@@ -269,13 +219,6 @@ work, ordinary bond paper at a slightly
 lower price per 1000 sheets is satisfactory, but as it absorbs more fluid than the 
 regular copy paper it is really not economical. 
 
-### (b) Area Costs and Legibility 
-
-Area costs are those of the master 
-sheets ($1.50 to $3.00 per 1000 sheets) 
-and the hectograph carbon paper ($.04 to 
-$.06 per sheet in quantities of 100). These 
-
 {% include pagebreak.html canvas=103 %} 
 
 {% include figure.html fig="22" %}
@@ -300,6 +243,12 @@ $.06 per sheet in quantities of 100). These
 
 {% include pagebreak.html canvas=110 %} 
 
+### (b) Area Costs and Legibility 
+
+Area costs are those of the master 
+sheets ($1.50 to $3.00 per 1000 sheets) 
+and the hectograph carbon paper ($.04 to 
+$.06 per sheet in quantities of 100). These 
 {% include pagebreak.html canvas=111 %} costs are the ones most subject to variation and they are the most important on account of their relationship to legibility. 
 If a saving in area costs is attempted by 
 using single rather than double-spaced typescript to get more words on the master 
@@ -356,23 +305,14 @@ sheet increases.
 
 The table below shows the cost of 
 hectographing by the liquid process a book 
-of) 100,000 words, "with typing figured at 
+of 100,000 words, "with typing figured at 
 $.50 per hour, labor for running the duplicating machine figured at $.40 an hour, a 
 fresh sheet of carbon used for each master 
 sheet, and hectograph copy paper used for 
 the run. The best possible hectographed 
 product will result. 
 
-TABLE XV 
-
-COST OF BOOK OF 100,000 WORDS, 334 PAGES, MADE BY LIQUID PROCESS HECTOGRAPH 
-
-| Edition | 10 | 15 | 20 | 25 | 35<sup>*</sup> | 50<sup>*</sup> | 75<sup>*</sup> | 100<sup>*</sup> | 150<sup>*</sup> |
-|----|----:|----:|----:|----:|----:|----:|----:|----:|----:|
-| Edition Costs | $77.76 | $82.26 | $87.48 | $91.16 | $96.08 | $107.28 | $127.01 | $146.11 | $182.06 | 
-| Unit Costs | 7.78 | 5.49 | 4.38 | 3.65 | 2.75 | 2.15 | 1.70 | 1.47 | 1.27 |
-
-<sup>\*</sup>Paper at $1.25 per 1000 in lots of 10,000 or more. {% include pagebreak.html canvas=112 %} 
+{% include table.html tab="15" %}
 
 ### c) Application of Hectographing to the Problems of Scholarship 
 
@@ -442,8 +382,7 @@ unit cost of $.17.
 
 Hectographing is not recommended as 
 a means of preserving original source material because of the impermanence of the 
-dye, which fades rapidly if exposed to sun- 
-light for any length of time. However, the 
+dye, which fades rapidly if exposed to sunlight for any length of time. However, the 
 kind of monographic work that becomes out 
 of date in thirty or forty years may be circulated in hectographed form without loss 
 to scholarship from its impermanence. If a 
@@ -546,27 +485,7 @@ but by that time technology may have moved
 far beyond the mimeograph. Large government orders are filled at discounts up to 
 50% in competitive bidding. 
 
-TABLE XVI 
-
-PRICES OF MIMEOGRAPH STENCILS 
-
-| | Per Quire | Each |
-|---|---:|---:|
-| *Wax stencil* | | | 
-| 8½″ x 11″ | $1.25 | $.05 ¼ |
-| 8½″ x 14″ | 1.50 | 06 ¼ |
-| *Dermatype stencil* | | |
-| 8½″ x 11″ | 3.00 | .12½ | 
-| 8½″ x 14″ | 3.50 | .14½ |
-| *Cellotype stencil* | | | 
-| 8½″ x 11″ | 3.00 | .12½ | 
-| 8½″ x 14″ | 3.25 | .13½ |
-| *Mimeotype stencil* | | | 
-| 8½″ x 14″ | 3.25 | .13½ |
-| 8½″ x 14″ | 3.50 | .14½ |  
-| *Dermaprint stencil* (unsensitized) | | |
-| 8½″ x 11″ | 3.00 | .12½ |
-| 8½″ x 14″ | 3.50 | .14½ |
+{% include table.html tab="16" %}
 
 The wax stencil is used for runs {% include pagebreak.html canvas=114 %} not exceeding 500. It cannot be saved, and 
 more care is needed to produce a good copy 
@@ -584,43 +503,11 @@ sheet. The claim is made that the multilith sheet can be used over again for abo
 three times; the rotaprint people say that {% include columnbreak.html canvas=114 col=2 %} they have not found any process whereby the 
 rotaplate can be used over again with satisfactory results. 
 
-TABLE XVII 
+{% include table.html tab="17" %}
 
-PRICES OF METAL SHEETS    
-(for direct typing) 
+{% include table.html tab="18" %}
 
-| Rotaprint | Each |
-|----|----:|
-| 8 ⅜″ x 11″ | $20 |
-| 8 ⅜″ x 13″ | .20 |
-| 11″ x 16½″ | .48 |
-
-| Multilith | |
-|----|----:|
-| 9½″ x 12½″ | .35 |
-| 11″ x 17″ | .50 |
-| 9½″ x 12½″ (duplex) | .25 |
-
-
-TABLE XVIII 
-
-COST OF PRINTING SURFACE: PLATE PREPARED BY TYPING DIRECTLY 
-ON THE STENCIL 
-
-|Name | Size of Printing Surface | Price of One Stencil of Metal Sheet | Price per 6″ x 9″ Page| Price per 8½″ x 11″ Page | Price per 8½″ x 14″ Page|
-|----|----|----:|----:|----:|----:|
-| Rotaprint (standard) | 8 ⅜″ x 11″ | $.20 | $.20 | $.20 | |
-| Rotaprint (longprint) | 11″ x 17″ | .48 | .48 | .48 | $.48 |
-| Rotaprint (sheetfeed) | 8 ⅜″ x 13″ | .20 | .20 | | |
-| Multilith | 9½″ x 9½″ | .35 | .175 | .35 | .35 |
-| Multilith | 11″ x 17″ | .50 | .25 | .25 | .50 |
-| Multilith (duplex, two uses) | 9½″ x 12½″ | .25 | .06 ¼ | .125 | |
-| Mimeograph (wax) | 7 ¼″ x 1O ¼″ | .05 ¼ | .05 ¼ | .05 ¼ | |
-| (wax) | 7 ¼″ x 14″ | .06 ¼ | .06 ¼ | .06 ¼ | .06 ¼ |
-| Mimeograph (mimeotype) | 7 ¼″ x 10 ¼″ | .13½ | .13½ | .13½ | |
-| (mimeotype | 7 ¼″ x 14″ | .14½ | .14½ | .14½ | .14½ |
-
- {% include pagebreak.html canvas=115 %} 
+{% include pagebreak.html canvas=115 %} 
 
 {% include figure.html fig="25" %}
 
@@ -705,32 +592,13 @@ ordinary 8½″ x 11″ mimeotype stencil,
 except with formats requiring 600 or 700 
 words to a page, which require an 8½″ 
 x 14″ stencil. In each case the cost figure is given under two alternative {% include pagebreak.html canvas=124 %} 
-
-TABLE XIX 
-
-TABLE INDICATING FORMATS FOR ACCOMMODATING VARIOUS NUMBER 
-OF WORDS PER PAGE 
-
-| No. of Words per Page | Type Size | Interlinear Spacing | Length of  Line | Upper and Lower Margins | Size of Paper |
-|----|----|----|----|----|----|
-| 200 | Pica | 3 to inch | 5½″ | 1 ¼″ upper<br/>1 ¾″ lower | 8½″ x 11″ |
-| 250 | Pica | 4 to inch | 5½″ | 1½″ upper<br/>1 ¾″ lower | 8½″ x 11″ |
-| 300 | Pica | 5 to inch | S ½″ | 1½″ upper<br/>1 ¾″ lower | 8½″ x 11″ |
-| 350 | Pica | 4 to inch | S ½″ 2-column | 1 ¼″ upper<br/>1½″ lower | 8½″ x 11″ |
-| 400 | Elite | 5½ to inch | 5½″ | 1½″ upper | 8½″ x 11″ |
-| or 400 | Pica | 5 to inch | 6″ | 1 ¾″ lower | |
-| 450 | Pica | 5½ to inch | 3½″ 2-column | 1 ¼″ upper<br/>1½″ lower | 8½″ x 11″ | 
-| 500 | Elite | 5 to inch | 3½″ 2-column | 1 ¼″ upper<br/>1½″ lower | 8½″ x 11″ |
-| 550 | Elite | 5½ to inch | 3½″ 2-column | 1½″ upper<br/>1 ¾″ lower | 8½″ x 11″ |
-| 600 | Elite | 5½ to inch | 5½″ | 1 ¼″ upper<br/>1½″ lower |  8½″ x 14″ |
-| 700 | Elite | 5½ to inch | 3½″ 2-column | 1 ¾″ upper<br/>2″ lower | 8½″ x 14″ |
-| 800 | Micro-elite | 6 to inch | 3 ¼″ 2-column | 1 ¼″ upper<br/>1 ¾″ lower | 8½″ x 11″ |
-
 hypotheses regarding composition cost: 
 first, that the format copy is typed directly from the draft copy without an intervening fair copy; and second, that the 
 fair copy is made on paper and then retyped as format copy on the mimeograph 
 stencil. Labor for operating the duplicating machine is estimated at $.40 per hour. 
 The choice of format would control a variation in area costs of 350% from the mini{%- include columnbreak.html canvas=124 col=2 -%}mum and a corresponding variation in running costs. (See Table XX on the following page.) 
+
+{% include table.html tab="19" %}
 
 These are costs based on average 
 estimates for office work; prices vary 
@@ -739,415 +607,11 @@ The comparison of cost and price, i.e., of
 work done in an office and work sent out, 
 can be seen in one instance in the comparison as shown in Table XXI, page 52.  {% include pagebreak.html canvas=125 %} 
 
-TABLE XX
-
-MIMEOGRAPH COSTS FOR PRODUCING A BOOK OF 100,000 WORDS IN A VARIETY OF FORMATS WITH ORDINARY
-8½″ x 11″ MIMEOTYPE STENCILS (NO BINDING COSTS)<sup>\*</sup>
-
-<table>
-  <thead>
-    <tr>
-      <th>Format</th>
-      <th>No. of Pages</th>
-      <th colspan=6>A. <em>Edition Costs</em>—Total Cost of Edition with Format Copy Made Directly from Draft Copy</th>
-      <th colspan=6>Total Cost of Edition with Format Copy Made from Fair Copy</th>
-    </tr>
-    <tr>
-      <th> </th>
-      <th> </th>
-      <th style="text-align: right">50</th>
-      <th style="text-align: right">100</th>
-      <th style="text-align: right">200</th>
-      <th style="text-align: right">300</th>
-      <th style="text-align: right">500</th>
-      <th style="text-align: right">1000</th>
-      <th style="text-align: right">50</th>
-      <th style="text-align: right">100</th>
-      <th style="text-align: right">200</th>
-      <th style="text-align: right">300</th>
-      <th style="text-align: right">500</th>
-      <th style="text-align: right">1000</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>200</td>
-      <td>500</td>
-      <td style="text-align: right">$184.05</td>
-      <td style="text-align: right">$211.00</td>
-      <td style="text-align: right">$265.50</td>
-      <td style="text-align: right">$321.40</td>
-      <td style="text-align: right">$431.60</td>
-      <td style="text-align: right">$714.10</td>
-      <td style="text-align: right">$234.05</td>
-      <td style="text-align: right">$261.00</td>
-      <td style="text-align: right">$316.50</td>
-      <td style="text-align: right">$371.40</td>
-      <td style="text-align: right">$481.60</td>
-      <td style="text-align: right">$764.10</td>
-    </tr>
-    <tr>
-      <td>250</td>
-      <td>400</td>
-      <td style="text-align: right">163.30</td>
-      <td style="text-align: right">185.00</td>
-      <td style="text-align: right">229.30</td>
-      <td style="text-align: right">273.60</td>
-      <td style="text-align: right">362.50</td>
-      <td style="text-align: right">584.00</td>
-      <td style="text-align: right">213.30</td>
-      <td style="text-align: right">235.00</td>
-      <td style="text-align: right">279.30</td>
-      <td style="text-align: right">375.60</td>
-      <td style="text-align: right">412.30</td>
-      <td style="text-align: right">634.00</td>
-    </tr>
-    <tr>
-      <td>300</td>
-      <td>334</td>
-      <td style="text-align: right">149.81</td>
-      <td style="text-align: right">167.94</td>
-      <td style="text-align: right">205.19</td>
-      <td style="text-align: right">242.44</td>
-      <td style="text-align: right">316.54</td>
-      <td style="text-align: right">502.39</td>
-      <td style="text-align: right">199.81</td>
-      <td style="text-align: right">217.94</td>
-      <td style="text-align: right">255.19</td>
-      <td style="text-align: right">292.44</td>
-      <td style="text-align: right">366.54</td>
-      <td style="text-align: right">552.39</td>
-    </tr>
-    <tr>
-      <td>350</td>
-      <td>286</td>
-      <td style="text-align: right">139.94</td>
-      <td style="text-align: right">155.47</td>
-      <td style="text-align: right">187.53</td>
-      <td style="text-align: right">219.59</td>
-      <td style="text-align: right">283.31</td>
-      <td style="text-align: right">443.31</td>
-      <td style="text-align: right">189.94</td>
-      <td style="text-align: right">205.47</td>
-      <td style="text-align: right">237.53</td>
-      <td style="text-align: right">269.59</td>
-      <td style="text-align: right">333.31</td>
-      <td style="text-align: right">493.31</td>
-    </tr>
-    <tr>
-      <td>400</td>
-      <td>250</td>
-      <td style="text-align: right">132.33</td>
-      <td style="text-align: right">146.00</td>
-      <td style="text-align: right">174.05</td>
-      <td style="text-align: right">202.20</td>
-      <td style="text-align: right">258.30</td>
-      <td style="text-align: right">398.45</td>
-      <td style="text-align: right">182.33</td>
-      <td style="text-align: right">196.00</td>
-      <td style="text-align: right">224.05</td>
-      <td style="text-align: right">252.20</td>
-      <td style="text-align: right">308.30</td>
-      <td style="text-align: right">448.45</td>
-    </tr>
-    <tr>
-      <td>450</td>
-      <td>223</td>
-      <td style="text-align: right">126.88</td>
-      <td style="text-align: right">139.04</td>
-      <td style="text-align: right">163.97</td>
-      <td style="text-align: right">189.30</td>
-      <td style="text-align: right">239.66</td>
-      <td style="text-align: right">365.41</td>
-      <td style="text-align: right">176.88</td>
-      <td style="text-align: right">189.04</td>
-      <td style="text-align: right">213.97</td>
-      <td style="text-align: right">239.30</td>
-      <td style="text-align: right">289.66</td>
-      <td style="text-align: right">415.41</td>
-    </tr>
-    <tr>
-      <td>500</td>
-      <td>200</td>
-      <td style="text-align: right">122.10</td>
-      <td style="text-align: right">133.00</td>
-      <td style="text-align: right">155.60</td>
-      <td style="text-align: right">178.20</td>
-      <td style="text-align: right">223.40</td>
-      <td style="text-align: right">337.00</td>
-      <td style="text-align: right">172.10</td>
-      <td style="text-align: right">183.00</td>
-      <td style="text-align: right">205.6</td>
-      <td style="text-align: right">228.20</td>
-      <td style="text-align: right">273.40</td>
-      <td style="text-align: right">387.00</td>
-    </tr>
-    <tr>
-      <td>550</td>
-      <td>182</td>
-      <td style="text-align: right">118.40</td>
-      <td style="text-align: right">128.43</td>
-      <td style="text-align: right">149.69</td>
-      <td style="text-align: right">169.75</td>
-      <td style="text-align: right">211.27</td>
-      <td style="text-align: right">314.87</td>
-      <td style="text-align: right">168.40</td>
-      <td style="text-align: right">178.43</td>
-      <td style="text-align: right">199.69</td>
-      <td style="text-align: right">219.75</td>
-      <td style="text-align: right">261.27</td>
-      <td style="text-align: right">364.87</td>
-    </tr>
-    <tr>
-      <td>600<sup>**</sup></td>
-      <td>167</td>
-      <td style="text-align: right">118.09</td>
-      <td style="text-align: right">128.16</td>
-      <td style="text-align: right">149.20</td>
-      <td style="text-align: right">170.14</td>
-      <td style="text-align: right">212.52</td>
-      <td style="text-align: right">318.02</td>
-      <td style="text-align: right">168.09</td>
-      <td style="text-align: right">178.16</td>
-      <td style="text-align: right">100.20</td>
-      <td style="text-align: right">220.14</td>
-      <td style="text-align: right">262.52</td>
-      <td style="text-align: right">368.02</td>
-    </tr>
-    <tr>
-      <td>700<sup>**</sup></td>
-      <td>143</td>
-      <td style="text-align: right">112.91</td>
-      <td style="text-align: right">121.68</td>
-      <td style="text-align: right">140.12</td>
-      <td style="text-align: right">158.56</td>
-      <td style="text-align: right">195.64</td>
-      <td style="text-align: right">288.14</td>
-      <td style="text-align: right">162.91</td>
-      <td style="text-align: right">171.68</td>
-      <td style="text-align: right">190.12</td>
-      <td style="text-align: right">208.56</td>
-      <td style="text-align: right">245.64</td>
-      <td style="text-align: right">338.14</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th>Format</th>
-      <th>No. of Pages</th>
-      <th colspan=6>B. <em>Unit Costs</em>—Cost per Copy with Format Copy Made Directly from Draft Copy</th>
-      <th colspan=6>Cost per Copy, Including Two Typings with Format Copy Made from Fair Copy</th>
-    </tr>
-    <tr>
-      <th> </th>
-      <th> </th>
-      <th style="text-align: right">50</th>
-      <th style="text-align: right">100</th>
-      <th style="text-align: right">200</th>
-      <th style="text-align: right">300</th>
-      <th style="text-align: right">500</th>
-      <th style="text-align: right">1000</th>
-      <th style="text-align: right">50</th>
-      <th style="text-align: right">100</th>
-      <th style="text-align: right">200</th>
-      <th style="text-align: right">300</th>
-      <th style="text-align: right">500</th>
-      <th style="text-align: right">1000</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>200</td>
-      <td>500</td>
-      <td style="text-align: right">3.69</td>
-      <td style="text-align: right">2.11</td>
-      <td style="text-align: right">1.34</td>
-      <td style="text-align: right">1.08</td>
-      <td style="text-align: right">.87</td>
-      <td style="text-align: right">.72</td>
-      <td style="text-align: right">4.69</td>
-      <td style="text-align: right">2.61</td>
-      <td style="text-align: right">1.5</td>
-      <td style="text-align: right">1.24</td>
-      <td style="text-align: right">.97</td>
-      <td style="text-align: right">.77</td>
-    </tr>
-    <tr>
-      <td>250</td>
-      <td>400</td>
-      <td style="text-align: right">3.27</td> 
-      <td style="text-align: right">1.85</td>
-     <td style="text-align: right">1.15</td>
-     <td style="text-align: right">.92</td>
-     <td style="text-align: right">.76</td>
-     <td style="text-align: right">.59</td>
-     <td style="text-align: right">4.27</td>
-     <td style="text-align: right">2.35</td>
-     <td style="text-align: right">1.40</td>
-     <td style="text-align: right">1.08</td>
-     <td style="text-align: right">.83</td>
-     <td style="text-align: right">.64</td>
-    </tr>
-    <tr>
-      <td>300</td>
-      <td>334</td>
-      <td style="text-align: right">3.00</td>
-      <td style="text-align: right">1.68</td>
-      <td style="text-align: right">1.03</td>
-      <td style="text-align: right">.81</td>
-      <td style="text-align: right">.64</td>
-      <td style="text-align: right">.51</td>
-      <td style="text-align: right">4.00</td>
-      <td style="text-align: right">2.18</td>
-      <td style="text-align: right">1.28</td>
-      <td style="text-align: right">.98</td>
-      <td style="text-align: right">.74</td>
-      <td style="text-align: right">.56</td>
-    </tr>
-    <tr>
-      <td>350</td>
-      <td>286</td>
-      <td style="text-align: right">2.80</td>
-      <td style="text-align: right">0.56</td>
-      <td style="text-align: right">.94</td>
-      <td style="text-align: right">.74</td>
-      <td style="text-align: right">.57</td>
-      <td style="text-align: right">.45</td>
-      <td style="text-align: right">3.80</td>
-      <td style="text-align: right">2.06</td>
-      <td style="text-align: right">1.19</td>
-      <td style="text-align: right">.90</td>
-      <td style="text-align: right">.67</td>
-      <td style="text-align: right">.50</td>
-    </tr>
-    <tr>
-      <td>400</td>
-      <td>250</td>
-      <td style="text-align: right">2.65</td>
-      <td style="text-align: right">1.46</td>
-      <td style="text-align: right">.88</td>
-      <td style="text-align: right">.68</td>
-      <td style="text-align: right">.52</td>
-      <td style="text-align: right">.40</td>
-      <td style="text-align: right">3.65</td>
-      <td style="text-align: right">1.96</td>
-      <td style="text-align: right">1.93</td>
-      <td style="text-align: right">.85</td>
-      <td style="text-align: right">.62</td>
-      <td style="text-align: right">.45</td>
-    </tr>
-    <tr>
-      <td>450</td>
-      <td>223</td>
-      <td style="text-align: right">2.54</td>
-      <td style="text-align: right">1.40</td>
-      <td style="text-align: right">.82</td>
-      <td style="text-align: right">.64</td>
-      <td style="text-align: right">.48</td>
-      <td style="text-align: right">.37</td>
-      <td style="text-align: right">3.54</td>
-      <td style="text-align: right">1.90</td>
-      <td style="text-align: right">1.07</td>
-      <td style="text-align: right">.80</td>
-      <td style="text-align: right">.58</td>
-      <td style="text-align: right">.42</td>
-    </tr>
-    <tr>
-      <td>500</td>
-      <td>200</td>
-      <td style="text-align: right">2.45</td>
-      <td style="text-align: right">1.33</td>
-      <td style="text-align: right">.78</td>
-      <td style="text-align: right">.60</td>
-      <td style="text-align: right">.45</td>
-      <td style="text-align: right">.34</td>
-      <td style="text-align: right">3.45</td>
-      <td style="text-align: right">1.83</td>
-      <td style="text-align: right">1.83</td>
-      <td style="text-align: right">.77</td>
-      <td style="text-align: right">.55</td>
-      <td style="text-align: right">.39</td>
-    </tr>
-    <tr>
-      <td>550</td>
-      <td>182</td>
-      <td style="text-align: right">2.37</td>
-      <td style="text-align: right">1.29</td>
-      <td style="text-align: right">.75</td>
-      <td style="text-align: right">.57</td>
-      <td style="text-align: right">.43</td>
-      <td style="text-align: right">.32</td>
-      <td style="text-align: right">3.37</td>
-      <td style="text-align: right">1.79</td>
-      <td style="text-align: right">1.00</td>
-      <td style="text-align: right">.74</td>
-      <td style="text-align: right">.53</td>
-      <td style="text-align: right">.37</td>
-    </tr>
-    <tr>
-      <td>600<sup>**</sup></td>
-      <td>167</td>
-      <td style="text-align: right">2.37</td>
-      <td style="text-align: right">1.29</td>
-      <td style="text-align: right">.75</td>
-      <td style="text-align: right">.57</td>
-      <td style="text-align: right">.43</td>
-      <td style="text-align: right">.32</td>
-      <td style="text-align: right">3.37</td>
-      <td style="text-align: right">1.79</td>
-      <td style="text-align: right">1.00</td>
-      <td style="text-align: right">.74</td>
-      <td style="text-align: right">.53</td>
-      <td style="text-align: right">.37</td>
-    </tr>
-    <tr>
-      <td>700<sup>**</sup></td>
-      <td>143</td>
-      <td style="text-align: right">2.26</td>
-      <td style="text-align: right">1.22</td>
-      <td style="text-align: right">.71</td>
-      <td style="text-align: right">.53</td>
-      <td style="text-align: right">.40</td>
-      <td style="text-align: right">.29</td>
-      <td style="text-align: right">3.25</td>
-      <td style="text-align: right">1.72</td>
-      <td style="text-align: right">.96</td>
-      <td style="text-align: right">.70</td>
-      <td style="text-align: right">.50</td>
-      <td style="text-align: right">.34</td>
-    </tr>
-  </tbody>
-</table>
-
-
-<sup>\*</sup>Costs for 50,000 words are one-half these figures.
-
-<sup>\*\*</sup>Need 8½″ x 14″ stencils and paper.
+{% include table.html tab="20" %}
 
 {% include pagebreak.html canvas=126 %} 
 
-TABLE XXI 
-
-COMPARISON OF OFFICE AND SHOP CHARGES FOR MIMEOGRAPHING A BOOK OF 100,000 WORDS 
-
-TODO
-
-Format A. Edition Costs, Office Charges 
-50 100 200 300 500 1000 
-400 $132.33 $146.00 $174.05 $202.20 $258.30 $398.45 
-a. B. Unit Costs, Office Charges 
-400 eos 1.46 .88 -68 spe -40 
-
-C. Edition Prices, Shop Charges 
-
-250.00 250.00 
-
-250.00 
-D. Unit Prices, Shop Charges 
-400 BOO 2.50 1s 2S mcs 65 44 
+{% include table.html tab="21" %}
 
 The following table shows the costs
 of producing a book by each of the "mimeograph" processes in a 400-word format page, 
@@ -1156,48 +620,7 @@ represent an average from which there may
 be a variation of 35% for the maximum and 
 25% for the minimum. 
 
-TABLE XXII 
-
-COSTS FOR REPRODUCING A BOOK OF 100,000 WORDS BY DIFFERENT "MIMEOGRAPH" PROCESSES IN A FORMAT YIELDING 400 WORDS TO THE PAGE<sup>\*</sup> 
-
-TODO
-
-Printing Cost per Copy When Format Copy Cost per Copy When Format Copy 
-Surface Is Made Directly from Draft ee Made from Fair re 
-
-
-|_s0 | 100 | 200 | 300 | 500 | 1000 | 
-
-
-| 500 | 1000 
-
-
-Mimeotype | $2.65 | $1.46 | $ .88 san $.52 | $.40 os 65 ee 96 ce 13 | $.85 | $.62 | $.45 
-gin x 11″ 
-
-Stencil eee 
-Mimeograph| 2.24 eo Salta 5 ole 
-Wax Sten- 
-
-equ 
-
-gan x 11″ 
-Maltilithe! 3:46 |01.88)> 1.09)|) 182 4 q 
-(1 use for 
-
-each sheet) 
-Multilith 2.54 lea aie BOL 5 
-(3 uses 
-for each 
-
-sheet) 
-Rotaprint ADS 1.43 Sit) 59 59 
-
-(1 use for 
-each sheet ) 
-
-<sup>\*</sup> Hoch estimates that multigraphing is about 30% higher than mimeographing, and that 
-printing is about 70% higher than mimeographing. {% include pagebreak.html canvas=127 %} 
+{% include table.html tab="22" %}
 
 ## IV. Photo-Offset from Typescript 
 
@@ -1367,14 +790,12 @@ basis of actual price quotations by firms
 engaged in the printing business; while the 
 mimeograph process is so much a part of office routine that its costs can be calculated in terms of labor and materials. The 
 most appropriate comparisons, therefore, are 
-those that stand between commercial mimeographing as quoted by office service shops%nbsp;{%- include pagebreak.html canvas=129 %} 
+those that stand between commercial mimeographing as quoted by office service shops&nbsp; {%- include pagebreak.html canvas=129 %} and commercial photo-offset quotations.
 
 {% include figure.html fig="29" %}
 
 {% include pagebreak.html canvas=130 %}
-{% include pagebreak.html canvas=131 %}
-
-and commercial photo-offset quotations. 
+{% include pagebreak.html canvas=131 %} 
 
 A further complication increasing 
 the difficulty of cost comparison is the 
@@ -1633,20 +1054,9 @@ of typing:
 | less composition cost | 62.50 | |
 | leaves | 302.50 | for photo-offset metal sheets and press work. |
 
-TABLE XXIII 
+{% include table.html tab="23" %}
 
-COMPOSITION COST OF MAKING A FORMAT COPY FOR A BOOK OF 50,000 WORDS OF 
-STRAIGHT TEXTUAL MATTER UNDER VARYING CONDITIONS OF COST DISTRIBUTION 
-
-|----|----|----:|
-| 1. | When the author provides the format copy, not charging the composition cost to the manufactureof the book | $.00 |
-| 2. | When format copying is done as part of an office expense, and figured into the cost of manufacture in the form of wages | $50.00 |
-| 3. | When format copying is charged at typing bureau estimates and figured into the manufacturing of the book (interpolated from quotations) | $62.50 |
-| 4. | When format copying is charged by shop in connection with manufacturing job quotation (composite quotation) | $75.00 |
-| 5. | When format copying includes cost of justifying the right-hand margin (interpolated from quotations) | $100.00 |
-
- {% include pagebreak.html canvas=136 %} In Chapter III area costs of photo- 
-offset work are found. These indicate that 
+{% include pagebreak.html canvas=136 %} In Chapter III area costs of photo-offset work are found. These indicate that 
 the sums listed above will purchase the 
 following amounts of page area in a photo-offset edition of 500 copies: 
 
@@ -1737,10 +1147,7 @@ to pay for the photo-offset work. It would
 then be necessary to put only 1560 words on 
 a page instead of 1786, only 520 words in a 
 column instead of 595. This could be accomplished by reducing the typescript only 
-47%, to 53% of its full size.
-
-It often happens that a manuscript 
-is submitted to a photo-offset shop and a {% include pagebreak.html canvas=137 %} 
+47%, to 53% of its full size. {% include pagebreak.html canvas=137 %} 
 
 {% include figure.html fig="31" %}
 
@@ -1763,11 +1170,10 @@ is submitted to a photo-offset shop and a {% include pagebreak.html canvas=137 %
 {% include pagebreak.html canvas=145 %} 
 {% include pagebreak.html canvas=146 %} 
 
-it causes toxic changes of the liver. 
-
 {% include figure.html fig="35" %}
 
- {% include pagebreak.html canvas=147 %} printing shop for quotations, and that the 
+It often happens that a manuscript 
+is submitted to a photo-offset shop and a {% include pagebreak.html canvas=147 %} printing shop for quotations, and that the 
 quotations for a printed product are about 
 the same as those for a photo-offset book 
 from typescript. This is invariably the 
@@ -1963,27 +1369,7 @@ for price of edition and price per page
 have been calculated by the author from the
 Edwards figures. 
 
-TABLE XXIV 
-
-PHOTO-OFFSET PRICES 
-
-TODO
-
-(For 8½″ x 5½″ page, format 350-J, 350 words per page, quoted in units 
-of 57 pages, or 20,000 words, including cheap binding) 
-
-Composition Cost Included 
-Edwards Type (area plus composition) 
-
-Composition Cost Excluded 
-Author Type (area cost) 
-
-PrVcesper Price of Price per Price sony 
-No. of Page in Whole Nome Or Page in Whole 
-E> This Edition | Edition Copies This Edition | Edition 
-$75.00 100 $1.00 $57.00 
-250 97.50 250 1.40 80.00 
-500 TSaeo0 500 Oe ANS) ON0) 
+{% include table.html tab="24" %}
 
 The difference between the "Edwards type" and the "author type" figures for 20,000 
 words is $18.00; the price of the typing is therefore to be reckoned at $.90 per 
@@ -2116,12 +1502,6 @@ preparatory process.
 Our habits of judgment have been so 
 formed that we always expect to see certain 
 kinds of thought going around in their
-
-{% include pagebreak.html canvas=151 %} 
-{% include pagebreak.html canvas=152 %} 
-
-{% include figure.html fig="36" %}
-
 {% include pagebreak.html canvas=153 %} working clothes; others we expect to see 
 parading in formal dress. Typescript and 
 newsprint are the clothes that thought 
@@ -2133,6 +1513,10 @@ suit after all: calligraphy offers to
 clothe thought in much richer and more 
 beautiful tailor-made attire, which should 
 have a higher prestige value than book typography. 
+{% include pagebreak.html canvas=151 %} 
+{% include pagebreak.html canvas=152 %} 
+
+{% include figure.html fig="36" %}
 
 The beauty of the manuscript has 
 been increasingly appreciated as the centuries have confirmed the triumph of letterpress. Precisely the same qualities 

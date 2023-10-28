@@ -1,11 +1,10 @@
-<script src="https://openseadragon.github.io/openseadragon/openseadragon.min.js"></script>
-<div id="osd" class="image-viewer" style="border: 1px solid red; height: 80vh">
+<div id="osd_{{ include.id }}" class="image-viewer" style="border: 1px solid red; height: 120vh">
 <script>
   var conf = {
-    id:           "osd",
+    id:           "osd_{{ include.id }}",
     prefixUrl:    "https://openseadragon.github.io/openseadragon/images/",
     sequenceMode: true,
-    tileSources:  ["https://iiif.archivelab.org/iiif/manualonmethodso00robe${{ include.canvas }}/info.json"]
+    tileSources:  ["https://iiif.archive.org/image/iiif/3/manualonmethodso00robe%2fmanualonmethodso00robe_jp2.zip%2fmanualonmethodso00robe_jp2%2fmanualonmethodso00robe_{{ include.canvas | prepend: '0000' | slice: -4, 4 }}.jp2/info.json"]
   };
 
   var viewer = OpenSeadragon(conf);
