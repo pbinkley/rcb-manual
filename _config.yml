@@ -26,8 +26,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Manual on Methods of Reproducing Research Materials (1936)
 baseurl: "/rcb-manual" # the subpath of your site, e.g. /blog
 url: "https://pbinkley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pabinkley
+
 github_username:  pbinkley
+mastodon_username: pbinkley
+mastodon_instance: code4lib.social 
 
 # Build settings
 remote_theme: minicomp/ed
