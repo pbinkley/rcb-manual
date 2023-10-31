@@ -1,5 +1,6 @@
 ---
 section: Chapter VII
+toc_id: VII
 title: "Books Containing Characters Not in the Roman Alphabet, Tabular Matter, Diagrams and Illustrations"
 layout: narrative
 ---

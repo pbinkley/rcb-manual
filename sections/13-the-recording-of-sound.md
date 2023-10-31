@@ -1,5 +1,6 @@
 ---
 section: Chapter XIII 
+toc_id: XIII
 title: The Recording of Sound
 layout: narrative
 ---

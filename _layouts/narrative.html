@@ -10,6 +10,27 @@ layout: default
   {% if page.author %}
     <p class="byline">by {{ page.author }}</p>
   {% endif %}
+  {% if page.toc_id %}
+    <div class="chapter_toc">
+      <h4>Contents</h4>
+      {% assign entries = site.data.toc | where: "id",page.toc_id %}
+      <ul>
+      {% for entry in entries %}
+        {% for subentry in entry.subsections %}
+        <li><a href="#{{ subentry.title | remove: "'" | slugify }}">{{ subentry.title }}</a>
+          {% if subentry.subsections %}
+            <ul>
+              {% for subsubentry in subentry.subsections %}
+              <li><a href="#{{ subsubentry.title | remove: "'" | slugify }}">{{ subsubentry.title }}</a>
+              {% endfor %}             
+            </ul>
+          {% endif %}
+        </li>
+        {% endfor %}
+      {% endfor %}
+    </ul>
+    </div>
+  {% endif %}
   {{ content }}
 </article>
 
