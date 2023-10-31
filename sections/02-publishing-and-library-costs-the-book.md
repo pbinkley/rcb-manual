@@ -1,5 +1,6 @@
 ---
 section: Chapter II
+toc_id: II
 title: "Publishing and Library Costs: The Book"
 layout: narrative
 ---

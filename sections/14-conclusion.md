@@ -1,5 +1,6 @@
 ---
 section: Chapter XIV
+toc_id: XIV
 title: "Conclusion"
 layout: narrative
 ---

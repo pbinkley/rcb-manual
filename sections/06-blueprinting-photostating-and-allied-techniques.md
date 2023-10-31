@@ -1,5 +1,6 @@
 ---
 section: Chapter VI
+toc_id: VI
 title: "Blueprinting, Photostating, and Allied Techniques"
 layout: narrative
 ---

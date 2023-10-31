@@ -1,5 +1,6 @@
 ---
 section: Chapter XII
+toc_id: XII
 title: "Photographic and Projecting Apparatus"
 layout: narrative
 ---
@@ -1193,7 +1194,7 @@ some respect inconclusive, they do support
 the conclusion that the problems of design 
 in reading machines are rapidly finding solution.
 
-## Projector—and-Enlargement Equipment 
+## Projector-and-Enlargement Equipment 
 
 The combination of projector reading with enlarging machinery has already 
 been noted as a possibility, and the possible development of low cost levels in {% include columnbreak.html canvas=343 col=2 %} making enlargements on paper from film has 

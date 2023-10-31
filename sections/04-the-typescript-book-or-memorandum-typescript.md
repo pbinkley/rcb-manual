@@ -1,25 +1,9 @@
 ---
 section: Chapter IV
+toc_id: IV
 title: "The Typescript Book or Memorandum: Typescript"
 layout: narrative
 ---
-
-- [The Standard Typewriter](#the-standard-typewriter)
-- [The Equivalence of Type and Typescript](#the-equivalence-of-type-and-typescript)
-- [The Uneven Right-Hand Margin](#the-uneven-right-hand-margin)
-- [The Varityper and the Electromatic Typewriter](#the-varityper-and-the-electromatic-typewriter)
-  * [TYPES OF VARITYPER MACHINES](#types-of-varityper-machines)
-- [Typing Stages in Book Production: Draft, Fair, and Format Copies](#typing-stages-in-book-production-draft-fair-and-format-copies)
-- [The Fair Copy as a Stage in the Writing Process](#the-fair-copy-as-a-stage-in-the-writing-process)
-  * [Estimate of Costs of Typescript Copying, per 1000 Words, in Units of More Than a 1000 Words:](#estimate-of-costs-of-typescript-copying-per-1000-words-in-units-of-more-than-a-1000-words-)
-- [The Fair Copy as a Stage in the Multiplication of a Book: the Merging of the Fair and Format Copies](#the-fair-copy-as-a-stage-in-the-multiplication-of-a-book-the-merging-of-the-fair-and-format-copies)
-- [The Preparation of the Format Copy from the Fair Copy](#the-preparation-of-the-format-copy-from-the-fair-copy)
-- [Area Costs and Format](#area-costs-and-format)
-  * [(a) Size of Type](#a-size-of-type)
-  * [(b) Interlinear Spacing](#b-interlinear-spacing)
-  * [(c) Length of Line](#c-length-of-line)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
  {% include pagebreak.html canvas=75 %} The typewriter has been well established as the device by which all scholarly 
 work is prepared for publication. Authors 
