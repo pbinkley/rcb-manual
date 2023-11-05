@@ -1,0 +1,1 @@
+{% include osd_iiif_image_viewer.html region="full" id="bb" canvas="160" height="120vh" %}
