@@ -1,5 +1,6 @@
 ---
 section: Chapter X
+toc_id: X
 title: "Reduced-Scale Photographic and Photolithographic Copying on Paper for Reading through Magnifying Glasses"
 layout: narrative
 ---

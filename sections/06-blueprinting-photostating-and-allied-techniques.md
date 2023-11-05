@@ -1,5 +1,6 @@
 ---
 section: Chapter VI
+toc_id: VI
 title: "Blueprinting, Photostating, and Allied Techniques"
 layout: narrative
 ---
@@ -115,7 +116,6 @@ Prices for tracing-cloth reproductions
 start at $.65 per square foot, with reductions in price starting at fifty square 
 feet. 
 
-
 ## Blueprinting and Photostating (First Costs Low, Running Costs High) 
 
 Most of the processes of the blueprint type exhibit a different kind of cost 
@@ -175,256 +175,17 @@ which ammonia fumes are released. The ammonia fumes darken to a dark red the lin
 on the paper that have not been exposed to 
 light. Therefore a dark-on-white copy can 
 be made at one step from a black-on-white 
-original.
+original. {% include pagebreak.html canvas=157 %}
 
-A number of possible manipulations {% include pagebreak.html canvas=157 %}
-
-TODO 
-
-ieee If now the pressure on the ice-water mixture is reauced 
-» its former value, water will re-freeze to ice, heet will be liber- 
-ia hand. thie Whole mass will come back up to 0°¢; The whole process 
-Moeesoribed to called regelation, I.e,,; & re- conyeu ling efter a 
-rene under pressure. 
-Phy It Aeskater weighing, 150 1b. supports his weight on a 
-Powe sOuGnes one Ite GVer an eared Of 0.01 'sg.dt., the pressure 
-Pdernesti the Skate runner will be 1309 atmospneres, and tue nelting 
-ie ee he Ace still be Lowered several degrees. The. ice melts be~ 
-fun tne skate and the skater glides elong on tne wet ice sith little 
-fection. As the skate moves off the water, the water re-freezes at 
-he losered pressure, amd the ite is as solid as before. 
-; Dige akecnycol wlaciercfiox is that ace melts uncer «os 
-sure, Plows around an obstacle in its patn, and re-freezes*woen tne 
-Bresoure is relieved. bnowball meking and tne cutting of a blocx of 
-Bice by & toaded wire aré also illustrations of regelation,,, 
-+ iY sune, Case Of4a Loddea wire gutting 2 block of ice, 
-ae fie ee DeMea tn iie Wire can melt if meat is suppiied. Once 
-tne process is started, water below O°C. "Ls fo 
-
-dermestn the wire; this water flows-up past the wire, 
-woere the pressure is less and where the water 
-Pveetes. tae Irceezing DT ibberates neat thet is: conducted 
-Uinouei he Wire: LO the ice bellows. and So the cutting 
-continves. 
-
-
-n 
-
-
-The ebove considerations should enatle 
-the student' to answer toe two following oft-asked ques— 
-Clonee) Gay Wee the: loaded wire 'cut throuen if. the 
-whole apparetus is set up in 4 place where the tempers- 
-
-, : Dore Perel yolow, Say, -UO°C,?: <b) Wid) -e copper wires 
-Bete eee OC cConuuCLOr On Dealt, cut through at tne same rate as. an 
-iron' Wire, which ise poorer conductor? 
-1G | be pubstences thet expend upon solidifying are few; emong 
-them are water, Wey pe «me tal" used by printers, end tne metal bismuth. 
-
-Mor substances thet contract when they solidify, the student cen forau- )" 
-te the Statement thet connects pressure increase with change of melt— 
-gE point. Among the Substances thet, melt under pressure only at nign- 
-temperatures, lead and mercury show a pressure effect of about. the 
-BAe Maphitude 25 that for ice. 
-
-
-.— eco. THE BFRECT OF A DISSOLVED SUBSTANCE GN Toh -FPRELZING 
-DINTa-Icée-crean makers learn Cheap wurting salt offele¢e Causes A melting 
-Pierce and the formation of a mixture that. is much colder than 0°C, 
-ae reason ror tne melting wien ice is) brought into contact with equal 
-fool salt or brine (galt, Solivtion)<is evidently to be sought in tne 
-
-teraction of the nolecules of the two substances. But if we accept 
-
-melting as @n. observable fect, wecan "explain" the lowering of, thaw. 
+{% include figure.html fig="aa" %}
 
 {% include pagebreak.html canvas=158 %}
-
 {% include pagebreak.html canvas=159 %}
-
 {% include pagebreak.html canvas=160 %}
 
-Using x and y to designate the un- 
-known photographic plane coordinates of 
-the nadir point v. Then on the space co- 
-ordinate system Leing used, 
-on v are x, y, -f3 the length of iv ds ex- 
-pressed by 
+{% include figure.html fig="bb" %}
 
-
-x ee y* af £2 
-
-
-and the direction cosines of Lv are ex- 
-pressed by 
-x Se tt oe zit 
-
-
-x2 + y2 + £2′ /x? + y= + £2 >|/x? + oy? + £2″ 
-
-
-
-
-
-
-
-
-— 
-
-
-
-
-
-E 
-L Fig. 72 
-
-
-Tie unknown angles vLa, vLb and 
-vLle are designated by Ma, Mp, and mg. By 
-. following the usual method of Space ana- 
-3 lytic geometry |! finding 
-t tween two lines, these ang le s (in terms of 
-' the unknown quantities x and a are ex- 
-a" ' pressea by the following relations: 
-He 
-
-
-for " angle be- 
-
-
-ek) Yay + £* 
-
-
-La/x® + y® + £2 
-
-
-(pe 
-
-
-Seer uy ease oe 
-Tg Var any = a Pe 
-
-
-Cos ma = 
-
-
-Cos mp 
-
-
-
-
-
-the coordinates 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ley x? 4 7? ee £2″ 
-
-
-; Inasmuch as the space coordin 
-of L, A, B, and C with respect to 
-vey axes are all known, if ds poas 
-calculate the cosines of thie angles t b 
-tween the line LV and each of the Lin 
-LB, and L¢. (See Pisses 
-
-If we use Ly to designate th 
-Jection of L upon a horizontal plangl 
-
-
-through A, as shown in Fig. 73 the fol 
-ing Raleeiane existe 
-a oo 
-: Cos mya = - 
-Cos mp = 
-
-
-Cos me 
-
-
-The final values @ 
-LA, LB, and LC fem 
-already been cala 
-ed in the precedi 
-CUsicuis smo ; 
-
-To find the plate coordinates % 
-y of the nadir point v, the problem req 
-sclves itself into finding values for 
-quantities which will satisfy the equ iG 
-in the preceding column when the known Y 
-merical values of the cosines are used 
-therein. These equations constitute th 
-Simultaneous equations with but two un 
-knowns (x and y). Two of these equatit 
-could be used to solve for x and y, 4 
-the exposure station has been A6te neem 
-termined the values obtained will satis: 
-the third equation. However, the soluti 
-would be difficult, for the equations wea 
-be complicated quadratics. A Simpler wa 
-to find x and y is to combine the equati 
-in the preceding column algebraically te 
-obtain two linear equations. This trans 
-formation is as follows: 
-
-
-
-
-
-Kok * Yayir f* 
-
-
-2 pe oe 
-+ = 
-x La cos mp 
-
-
-Ko Kt yn ye ae 
-Lb cos Mp 
-
-
-2 
-Xekit Vox te. 
-Lie sens me Ts, 
-
-{% include pagebreak.html canvas=161 %}
-
-permit a variety of results in copying by one or another of the blueprint 
+A number of possible manipulations {% include pagebreak.html canvas=161 %} permit a variety of results in copying by one or another of the blueprint 
 techniques. The original copy must 
 always be a strong black-on-white, and 
 the paper or cloth must be reasonably 
@@ -489,7 +250,7 @@ lowest reasonable price for paper negatives
 should therefore stand about as follows: 
 multiply the cost of the paper by three and 
 add the same non-paper cost (labor, chemicals, overhead, profit) that is shown on a 
-photostat price list. An ordinary photostat 8½″) x 11″ costs $.25 a page if one 
+photostat price list. An ordinary photostat 8½") x 11" costs $.25 a page if one 
 to five pages are ordered, and $.15 a page 
 if 100 or more are ordered. There is no 
 point in considering the production of a 
@@ -505,7 +266,7 @@ would probably be more.
 
 Another way of figuring the differences is to consider the quoted price of 
 photostats utilizing a roll of paper 350′ 
-x 18″. The ordinary paper costs $18.70 in 
+x 18". The ordinary paper costs $18.70 in 
 this amount, and the paper negative $50.50. 
 This amount of paper is used in photostat 
 work that, at ordinary prices, costs $119.00. 
@@ -527,14 +288,14 @@ for $150.00. {% include pagebreak.html canvas=161 col=2 %}
 The standard dimensions in which 
 square footage measurements and prices are 
 calculated in the blueprint industry are 
-shown on the chart. Any area over 42″ in 
+shown on the chart. Any area over 42" in 
 width gives rise to a surcharge. The ordinary book or typescript page is too small 
 a unit area to utilize the blueprint economically, but pages can be pasted together in large sheets to fit one or another 
 of the fixed dimensions that are the basis 
 of the price structure. Thus it would cost 
-$.03 to blueprint a page 6″ x 9″; but if 
+$.03 to blueprint a page 6" x 9"; but if 
 four such pages were pasted together, the 
-area of 18″ x 12″ would be blueprinted for 
+area of 18" x 12" would be blueprinted for 
 $.045, a price per page of $.0125 instead 
 of $.03.
 
@@ -622,228 +383,11 @@ Any darkened room will serve for the work.
 It should preferably be equipped with electric lighting so that two points or a double plug are available, one for any ordinary electric light bulb and the other for 
 the safelight or red bulb lamp. {% include pagebreak.html canvas=163 %}
 
-TABLE XXV
-
-TODO
+{% include table.html tab="25" %}
 
 {% include pagebreak.html canvas=164 %}
 
-TABLE XXVI
-
-TODO
-
-
-
-Process 
-
-
-Blueprint 
-on Paper 
-
-
-Van Dyke 
-Negative 
-
-
-Ferro- 
-gallic 
-
-
-Lithoprint 
-
-
-B-W and 
-Ozalia** 
-
-
-Van Dyke 
-Positive 
-
-
-Blue Line 
-Print 
-(positive) 
-
-
-Photostat 
-Negative 
-Cos /2 
-
-xe tait) 
-
-
-Photostat 
-Positive 
-(aly. 
-
-x 11″) 
-from same 
-negative 
-
-
-
-
-
-TABLE XXVI 
-
-
-PRICES PER SQUARE FOOT OF BLUEPRINT AND ALLIED PROCESSES* 
-
-
-Black on translu-— 
-
-
-cent white, 
-
-
-on one side of page 
-only (as typescript 
-or drawing on linen) 
-
-
-text 
-
-
-
-
-
-Paper negative (as 
-
-
-for phovo-oftsen)aat 
-$.30 —~ $.57 per sq. 
-ft.; Van Dyke nega— 
-Civeradueh. Obes sue 
-
-
-Same as for Van Dyke 
-positive 
-
-
-ing prices 
-
-
-strictly comparable, 
-but for approximate 
-comparisons, price 
-of one copy is given) 
-
-
-
-
-
-
-
-
-(Method of calculat-— 
-
-
-Te not 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-_ Form of Original Form of Copy 
-
-
-White on blue 
-
-
-White on brown 
-
-
-Running Cost of Prints 
-
-
-$.03 square foot; $.04 sq. ft. in 
-widths over 42″ 
-
-
-$08 'square Toots elo tss yee 
-widths over 4e" 
-
-
-
-
-
-Black on white 
-
-
-
-
-
-Black on white 
-Black on white 
-
-
-os 
-Blue on white 
-
-
-*Usually there is a minimum order per print of one 
-handling charge on orders of less than 100 square 
-SePrinigsy curd. 
-
-
-Perishable; not recommended 
-
-
-$.06 square foot in quentiziescsos 
-six or more 
-
-
-$205 square Toots G.06rso.. poem 
-widths over 4@" 
-
-
-£.10 square Toot; $.leisq. fuse 
-widths over 42″. First copy with 
-paper negative will cost $#.40- $.47 
-per sq. £t., and' $210 each adc 
-tional) ft<.3. first scopy wwirtaevem 
-Dykes will Cost $218 perils yeni, 
-and $.10 for each additional 
-
-
-$.05 square foot; $.06 sq. fr. in 
-widths over 42″. First copy with 
-paper negative will cosa $.o5— 9.42 
-per sq. ft.5 amd #.05 each acdi= 
-tional; first copy with Van Dyke 
-negative will cost. >. ljecc.at Gey 
-and $.05 each additional 
-
-
-$.20 — $.25.* Note that wthice wild 
-very with successive full use of 
-area and with size of job 
-
-
-$.20 —- $.25. Full use of area eas— 
-ily achieved; variation principally 
-WG SiZC. OR S)ODe as Hissin post pave 
-will cost $.40 - $.50, and each ad- 
-ditional wililcost ¢. 20, = 4.25 
-
-
-square foot, and a service and 
-LESS 
-
-
-
-
+{% include table.html tab="26" %}
 
 {% include pagebreak.html canvas=164 %}
 
@@ -923,11 +467,10 @@ washing, and in this way time can be saved.
 The contrast in this process can be 
 improved considerably if the original negative is made by printing in yellow light 
 rather than white light. For this purpose 
-the Wratten Series OO safelight or the 
+the Wratten Series 00 safelight or the 
 Wratten No. 12 filter is quite satisfactory,
 and the printing paper must be orthochromatic such as Kodalith Ortho or Insurance Bromide. A suitable printing lamp can be made 
-by using a regular pyramid safelight containing the Series OO glass, and costing 
-$3.00. 
+by using a regular pyramid safelight containing the Series 00 glass, and costing $3.00. 
 
 The cost of copying pages) by this 
 method as compared with copying pages 
@@ -981,11 +524,11 @@ To these costs of paper there must
 added the costs of labor and chemicals. 
 The New York Public Library and the printing department of the Cleveland Bell Telephone Company very kindly contributed {% include columnbreak.html canvas=166 col=2 %}
 statements of their operating costs. In 
-the New York Public Library the great majority of the prints were 11½″ by 14″, 
+the New York Public Library the great majority of the prints were 11½" by 14", 
 usually one copy only, and the average cost 
 of the paper was $.055. In the Telephone 
 Company the average size of paper was 
-8½″ x 11″, and in many cases several 
+8½" x 11", and in many cases several 
 copies of the same object were required. 
 The cost of the paper averaged $.03 per 
 page. In the Public Library the $.055 
@@ -1000,8 +543,7 @@ $.033. These operating room costs in the
 Public Library amount to $.06. The figures 
 in total operating room cost are as follows: 
 
-
-| | Library |Telephone Co. | 
+| | Library |Telephone&nbsp;Co. | 
 |----|----:|----:|
 | Paper (per 100 pages) | $5.50 | $3.00 | 
 | Operating costs (") | 6.00 | 3.30 |
@@ -1013,34 +555,17 @@ $.082 on every page to cover clerical help,
 postage, and desk supplies--charges which 
 are due to the special character of the 
 
-
-TABLE XXVII
-
-COSTS OF PHOTOSTAT PAPER TO PRODUCE A BOOK OF 100 PAGES, IN DIFFERENT 
-PAGE SIZES AND WITH DIFFERENT GRADES OF PAPER USED 
-
-| Dimensions of Book Page in Inches | Ordinary Stock | "H" Stock |"HH" Stock (Used on Both Sides) |
-| 4½″ x 8″ | $ .62 to $ .82 | $ .99 to $1.04 | $ .91 |
-| 5½″ x 8″ | 1.22 to 1.51 | 1.72 to 1.95 |1.57 to 1.91 |
-| 6″ x 9″ | 1.40 to 1.83 | 1.97 to 2.06 | 1.81 to 2.35 |
-| 8½″ x 11″ | 2.41 to 3.00 | 3.38 to 3.73 | 3.09 to 3.81 |
-| 11″ x 14″ | 3.95 to 5.01 | 5.57 to 6.22 | 5.09 to 6.08 |
-| 11″ x 17″ | 4.81 to 7.68 | 6.76 to 9.55 | 6.18 |
-| 18″ x 22″ (page of New York Times) | 10.18 | 14.30 | |
+{% include table.html tab="27" %}
 
 {% include pagebreak.html canvas=167 %}
-
 {% include pagebreak.html canvas=168 %}
 
-FIGURE XXXVIII
-
-The Photostat
+{% include figure.html fig="38" %}
 
 {% include pagebreak.html canvas=169 %}
-
 {% include pagebreak.html canvas=170 %}
 
-FIGURE XXXIX
+{% include figure.html fig="39" %}
 
 {% include pagebreak.html canvas=171 %} library work. The inescapable operating 
 costs are 10% more than the cost of the paper and may be more than twice the cost of 
@@ -1081,10 +606,10 @@ that every dollar's worth of photostat paper requires from $.50 to $1.10 in oper
 
 Commercial prices for photostating 
 service are standardized on the basis of 
-four sizes: 8½″ x 11″; 11″ x 14; 14″ 
-x 18″; and 16″ x 24″. The price falls 
+four sizes: 8½" x 11"; 11" x 14; 14" 
+x 18"; and 16" x 24". The price falls 
 with the number of pages copied, from the 
-high of $.25 a page (8½″ x 11″) when 
+high of $.25 a page (8½" x 11") when 
 one page only is copied, to the low of 
 $.15 when 100 pages are copied. The following table charts the prices of any number of pages from one to 100, in any of {% include columnbreak.html canvas=171 col=2 %}
 the four sizes. The price falls by $.01 a 
@@ -1092,10 +617,10 @@ page with every increment of five pages.
 This table will be used in making estimates 
 of cost of photostat work, although actual 
 photostat service may be available at lower prices in some places, or may cost more 
-elsewhere. A spread of two book pages, 6″ 
-x 9″, will go on a photostat page 14″ x 18″. 
+elsewhere. A spread of two book pages, 6" 
+x 9", will go on a photostat page 14" x 18". 
 If slightly reduced in size, two pages 
-would go on one photostat page 11″ x 14″, 
+would go on one photostat page 11" x 14".
 
 The "number" is the number of photostat sheets, and may be either duplications 
 of the same pages or reproductions of successive pages of a book. The price is the 
@@ -1107,8 +632,8 @@ figure indicating price-per-page.
 
 The two appliances which compete 
 in the field of photographic copying are 
-the photostat (Figure XXXVIII) and the 
-Rectigraph (Figure XXXIX). The photostat 
+the photostat ([Figure XXXVIII](#figure_38)) and the 
+Rectigraph ([Figure XXXIX](#figure_39)). The photostat 
 is the better known and has succeeded in 
 making a common noun of its trade name. 
 The differences between the two kinds of 
@@ -1138,9 +663,7 @@ out the surplus developer, into a rinsing
 tank of running water, and then face down 
 into a shallow fixing tank which is continuously agitated by a motor. The Rectigraph apparatus grasps the end of the paper and pushes it down into the developer, {% include pagebreak.html canvas=172 %}
 
-TABLE XXVIII 
-
-CHART OF PHOTOSTAT PRICES 
+{% include table.html tab="28" %}
 
 {% include pagebreak.html canvas=173 %} withdraws it up again by the same end, 
 passes it through a roller (but not a bath 
@@ -1242,7 +765,7 @@ of negative photostats.
 
 ## The Dexigraph 
 
-Another type of photocopying equipment is the Dexigraph, (Figure XL), manufactured by Remington Rand. It is a fixed 
+Another type of photocopying equipment is the Dexigraph, ([Figure XL](#figure_40)), manufactured by Remington Rand. It is a fixed 
 focus camera, copying from a fixed size of 
 object to a fixed size of copy. One of 
 its principal uses in scholarship is for 
@@ -1279,7 +802,7 @@ this model an operator can Dexigraph from
 Dexigraph is portable and occupies only a 
 few feet of space. The automatic Dexigraph 
 handles all copy from 7½cm. x 12½cm. 
-up to and including 8½″ x 14″, and is 
+up to and including 8½" x 14", and is 
 recommended for mass reproduction. The 
 rate of 3,000 cards an hour is claimed for {% include columnbreak.html canvas=174 col=2 %}
 it. It can be leased for a one-year period for $50.00 a month, but Remington Rand 
@@ -1290,10 +813,10 @@ some magnitude is required.
 Dexigraph copies, like photostat 
 copies, are produced as negatives. Sensitized paper is used, and it comes in pre-cut or roll form. The price varies according to weight, size, and type of paper. 
 Standard Record paper ranges in price from 
-$6.80 per 1,000 sheets 5″ x 3″, up to $32.00 
-for 1,000 sheets 8″ x 8″; Permanent Record 
-paper begins at $8.80 per 1,000 cards 5″ x 
-3″ and goes up to $39.75 for the 8″ x 8″ 
+$6.80 per 1,000 sheets 5" x 3", up to $32.00 
+for 1,000 sheets 8" x 8"; Permanent Record 
+paper begins at $8.80 per 1,000 cards 5" x 
+3" and goes up to $39.75 for the 8" x 8" 
 size; Duplex Permanent Record paper is more 
 expensive. The roll paper is priced from 
 $8.60 to $19.00, according to weight and 
@@ -1331,17 +854,9 @@ a fixed size. Such a device would bring
 photostat costs down very close to mere 
 photostat paper costs. If such a device 
 should then be developed to take full 
-
 {% include pagebreak.html canvas=175 %}
-
-FIGURE XL 
-
-The Dexigraph 
-
 {% include pagebreak.html canvas=176 %}
-
 {% include pagebreak.html canvas=177 %}
-
 advantage of the possibility of saving 
 photographic surface by reducing the size 
 of the reading matter, photostatic copies 
@@ -1353,6 +868,8 @@ heard that there is some prospect of development along this line.
 
 [^n2]: A paper read at American Law Library Convention in Montreal in 1934. 
 
+{% include figure.html fig="40" %}
+
 Typescript can serve as the master 
 copy from which B-W and blueprints are 
 made, provided it is written with a very 
@@ -1361,9 +878,9 @@ for the photostat process without special
 preparation. To bring together all the 
 processes for multiplying a typescript 
 book, it is only necessary to imagine that 
-a typescript of lOO,000 words as submitted 
+a typescript of 100,000 words as submitted 
 for multiplication in the form of a fair 
-copy, 334 pages, 8½″ x 11″. 
+copy, 334 pages, 8½" x 11". 
 
 How shall this be multiplied? It 
 can be retyped for the format copy and reproduced by hectograph, mimeograph, or 
@@ -1386,11 +903,11 @@ in book production.
 
 The original to be reproduced may 
 be either a printed book or a.pile of typescript. An octavo book of 100,000 words, 
-6″ x 9″ page, with 400 words to the page 
+6" x 9" page, with 400 words to the page 
 would cover ninety-four square feet. A 
 typescript of normal format, 300 words to 
-the page, would require 334 pages, 8½″ 
-x 11″, or 217 square feet. 
+the page, would require 334 pages, 8½" 
+x 11", or 217 square feet. 
 
 The alternatives that present themselves in the reproduction of these texts 
 are (a) typescript copying, (b) photostat, 
@@ -1408,9 +925,9 @@ governing factor alike in first and running costs, the cost levels are highly se
 the preceding chapter. That is to say, a
 reduction of approximately 30% in the size 
 of the page will reduce costs by 50%. The 
-6″ x 9″ page would have to be reduced to 
-something like 4″ x 6″; the 8½″ x 11″ 
-page to something like 5½″ x 8½″, to 
+6" x 9" page would have to be reduced to 
+something like 4" x 6"; the 8½" x 11" 
+page to something like 5½" x 8½", to 
 effect this reduction in cost. 
 
 In respect of size of edition, the
@@ -1431,14 +948,14 @@ the reproduction of the typescript page
 they meet at a smaller edition---thirteen 
 copies. That is to say, in an edition of 
 thirteen copies the photo-offset of an 
-8½″ x 11″ page will cost the same as the 
+8½" x 11" page will cost the same as the 
 photostat, and there will be eighty-seven 
 extra photo-offset copies, the cost of 
 which has been absorbed in the edition of 
 thirteen. 
 
 Why is there this difference? 
-Chiefly because the negatives in the dimension 6″ x 9″ can be laid on the frame for 
+Chiefly because the negatives in the dimension 6" x 9" can be laid on the frame for 
 photostating in a very economical way, and 
 eight pages can be copied at a time. 
 
@@ -1447,37 +964,13 @@ photostat and blueprint techniques are all
 elastic in that additional copies can be 
 run at constant cost, once the first costs
 are assumed. With the photo-offset {% include pagebreak.html canvas=178 %}
-
-TABLE XXIX
-
-TODO
-
 {% include pagebreak.html canvas=179 %}
-
-TABLE XXX 
-
-KEY FIGURES OF UNIT COSTS OF REPRODUCTION 
-
-| *One Copy of 100,000 Words, Unit Cost* | | |
-| Typescript | $40.00 | (from either book or typescript) | 
-| Photostat negative | 37.50 | (from book only) |
-| Ozalid or B-W | 10.85 | (from typescript only) |
-| *Five Copies, Unit Cost* | | |
-| Typescript and carbons | $12.16 | (from 6″ x 9″ book or typescript) |
-| \*Blue line print from paper negative | 15.95 | (from book only) |
-| Ozalid or B-W | 10.85 | (from typescript only) |
-| *Twenty-five Copies, Unit Cost* | | |
-| Photostat | $13.46 | (from 6″ x 9″ book or typescript) |
-| Photo-offset | 13.72 | " " " " " |
-| Van Dyke positive from paper negative | 11.65 | " " " " " | 
-| Blue line print from paper negative | 6.95 | " " " " " |
-| Blue line print from Van Dyke negative | 11.55 | " " " " " |
-| Ozalid or B-W | 10.85 | " " " " " |
-| Photo-offset | 26.72 | " " " " " |
-| Photostat | 50.10 | " " " " " |
-
 technique, the full edition must be made 
 at one running. 
+
+{% include table.html tab="29" %}
+
+{% include table.html tab="30" %}
 
 The foregoing discussion has dealt 
 with printed and typescript texts. It is 
@@ -1487,3 +980,5 @@ as easily as texts. This aspect of the
 problem of reproducing research materials 
 will receive more complete analysis in the 
 next chapter. 
+
+## Notes

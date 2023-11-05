@@ -1,10 +1,11 @@
 ---
 section: Chapter XIV
+toc_id: XIV
 title: "Conclusion"
 layout: narrative
 ---
 
- {% include pagebreak.html canvas=353 %} Since the first edition of this 
+{% include pagebreak.html canvas=353 %} Since the first edition of this 
 manual was issued in 1931, the whole scene 
 has been changed by technological developments. Predictions of that time have been 
 realized in the actual appearance, not 
@@ -32,8 +33,8 @@ of a variety of techniques. The point of
 view must be functional, and the functions 
 of technics in this field are simple; to 
 convey to a certain *number* of readers a 
-certain number of words with a certain *degree* of legibility and convenience, at a 
-certain cost. If publishing can be treated 
+certain *number* of words with a certain *degree* of legibility and convenience, at a 
+certain *cost*. If publishing can be treated 
 as a process in which these four variables 
 appear, and to which any one of a number of 
 technical devices may be applied, the results will be nothing less than revolutionary. 
@@ -98,7 +99,7 @@ edition at which they reach efficiency.
 
 The efficiency point is specific 
 for each technique. The simplest point at 
-which to. set it for each technique is at 
+which to set it for each technique is at 
 the size of edition at which running costs 
 are just equal to first costs. In an edition that is smaller than the efficiency 
 edition, a preponderant element in the cost 
@@ -113,9 +114,9 @@ The simplest common denominator for finding
 this point is the percentage relation of 
 running cost of 100 copies to the first
 cost of an edition. In photo-offset, for 
-instance, the first cost of an 8½″ x 11″ 
+instance, the first cost of an 8½" x 11" 
 page is estimated at $2.00 for 100 copies, 
-and running costs: at $.50 for each. additional 100 copies. It will cost $.30 to 
+and running costs at $.50 for each additional 100 copies. It will cost $.30 to 
 increase an edition from 100 to 200, and it 
 will also cost $.30 to increase an edition 
 from 2000 to 2100. The $.30 running cost 
@@ -132,24 +133,7 @@ hectograph it is 10. In photostat and
 microphotography the minimum edition is one 
 copy. Running costs for 100 copies, stated as percentages of the first cost in minimum edition, stand as follows: {% include columnbreak.html canvas=354 col=2 %} 
 
-TABLE XLIX 
-
-RUNNING COSTS STATED AS PERCENTAGES OF FIRST COST 
-
-|--------|--------:|
-| Printing | 5% |
-| Mimeoform | 8 |
-| Photo-offset, with composition, in the format of this book | 10 |
-| Photo-offset, without composition, as in all reprint work | 15 |
-| Mimeograph, (normal 300-word format) including compositions | 25 |
-| Hectograph, including composition | 130 |
-| Microphotography, long runs with high first costs (as calculated for reproducing books printed before 1640) | | 
-| High running costs | 730 |
-| Low running costs | 1,500 |
-| Microphotography, long runs with low first cost conditions (met 
-in photographing NRA and AAA hearings) | 6,000 |
-| Microcopying, short runs under cost conditions of Bibliofilm service, where cost of second copy is identical with cost of first copy, since negative film is not held for second copies | 10,000 |
-| (This is the mathematical limit of the percentage relation) | |
+{% include table.html tab="49" %}
 
 From these percentage figures on 
 running costs, the points of comparable efficiency in edition size can be calculated 
@@ -158,54 +142,21 @@ size of the total edition rises. At a certain point the curve will rise to twice
 height of the starting point. In printing,
 this point will be reached at 2000 copies, 
 in photo-offset (including composition) at 
-1000, in mimeograph at 400, etc. The full 
-table stands as shown on the following 
+1000, in mimeograph at 400, etc. The [full 
+table](#table_50) stands as shown on the following 
 page. 
 
 It would be possible to select some 
-others point in edition size for purposes 
+other point in edition size for purposes 
 of comparing the various processes. For 
 instance, we might ask, "At what size of 
 edition will the unit costs be so compounded that only 10% of the cost of a copy is {% include pagebreak.html canvas=355 %} 
-
-TABLE L 
-
-EFFICIENCY POINT IN EDITION FOR VARIOUS PROCESSES 
-
-| Process | Size of edition at which running cost equals first cost, and hence total cost of edition is double the first cost |
-|-----|-----:|
-| Printing | 2,000 (plus 100 in first cost) |
-| Mimeoform | 1,200 (plus 100 in first cost) |
-| Photo-offset, including composition | 1,000 (plus 100 in first cost) |
-| Photo-offset, without composition | 660 (plus 100 in first cost) |
-| Mimeograph, (300-word format) with composition | 400 (plus 50 in first cost) |
-| Hectograph, with composition | 77 (plus 10 in first cost) |
-| Hectograph, without composition, as an alternative to typescript | 40 (plus 10 in first cost) |
-| Microphotography, long run, high cost of filming and low cost of processing | 14 (plus 1 in first cost) |
-| Microphotography, long run, high cost of filming and high cost of processing | 7 plus 1 in first cost) |
-| Microphotography, long run, low cost of filming (NRA and AAA) | 2 (plus 1 in first cost) |
-| Microphotography, short run, cost of filming and processing not separated | 1 |
-
 incurred as a first cost in setting up the 
-edition?" The edition sizes for the various processes would then stand as follows: {% include columnbreak.html canvas=355 col=2 %} On the chart (Table LII, on the 
-following page), the curve of cost-per- 
-copy has been computed for three processes, 
+edition?" The edition sizes for the various processes would then stand as follows: {% include columnbreak.html canvas=355 col=2 %} On the chart ([Table LII](#table_52), on the 
+following page), the curve of cost-per-copy has been computed for three processes. 
 
-TABLE LI 
-
-EDITION SIZE AT WHICH 90% OF THE UNIT COST IS RUNNING COST, AND 10% FIRST COST 
-
-| Process | |
-|-----|-----:|
-| Printing | 20,000 |
-| Mimeoform | 12,000 |
-| Photo-offset, including composition | 10,000 |
-| Photo-offset, without composition | 6,600 |
-| Mimeograph | 4,000 |
-| Hectograph (not technically possible) | |
-| Microcopying, high first cost and low running cost | 140 |
-| Microcopying, high first cost and high running cost | 70 |
-| Microcopying, low first cost and low running cost | 20 |
+{% include table.html tab="50" %}
+{% include table.html tab="51" %}
 
 These tables indicate edition sizes 
 so far out of line with the demands of 
@@ -219,25 +170,6 @@ different scales, but the behavior of the
 cost curve is the same for each. In each 
 case most of the economies in cost-per-copy 
 that are obtainable are secured before the {% include pagebreak.html canvas=356 %} 
-
-TABLE LII
-
-EFFICIENCY POINTS FOR THREE PROCESSES 
-
-Costs of English Books Published Before 1640 
-
-Microcopy curve
-
-Efficiency Point: 6 copies $5050.00
-
-Photo-offset Curve (not including Composition) 
-
-Efficiency Point 800 copies, $.51 each
-
-Printing Cost Curve (Inclusive of Composition)
-
-Efficiency Point 2000 copies $.31 each
-
 efficiency point is reached. When the edition is carried beyond the efficiency 
 point, the cost-per-copy continues to fall, 
 but it does not fall so rapidly. This fact
@@ -252,6 +184,8 @@ printing and photo-offset are out of the
 question, for their costs-per-copy are 
 above photostat. If 2000 copies are needed, most of the cost advantages of microcopying disappear. {% include columnbreak.html canvas=356 col=2 %} 
 
+{% include table.html tab="52" identifier="" page="186" canvas="0356" region="100,316,2742,2089" size="1000," %}
+
 ## Comparative Costs per 100,000 Words at Efficiency Point 
 
 If each technique is understood to 
@@ -263,30 +197,14 @@ costs, apply to page or film areas, rather
 than to number of words, and that the number of words on a given area of paper or 
 film is related to a factor of legibility 
 and convenience. But this variable can be 
-taken into account.in the statement of comparisons. (See Table LIII on the following. page.) 
+taken into account in the statement of comparisons. (See [Table LIII](#table_53) on the following page.) 
+
+{% include table.html tab="53" %}
 
 The highest production cost at the 
 efficiency point is that of the hectograph {% include pagebreak.html canvas=357 %} 
-
-TABLE LIII
-
-COSTS PER THOUSAND WORDS AT EFFICIENCY POINT 
-
-| Process | Efficiency Edition | Cost per Copy of 100,000 Words, Not Including Binding |
-| Printing | 2,100 | | $.58 | (See table on economy format in Chapter III) |
-| Mimeoform | 1,300 | .42 | |
-| Photo-offset, without composition as reprint from economy format slightly reduced to fit photo-offset plate | 800 | .50 | (This is a 6¾″ x 9½″ page reduced to 6 x 9. The cost will vary with the degree of photographic reduction or enlargement) |
-| Photo-offset, with typescript composition, in the format of this book | 1,100 | .77 | (This is an 8½″ x 11″ page. Note that the cost is a variable dependent on format and degree of reduction or enlargement from typescript) |
-| Mimeograph, in 300-word format | 450 | .64 | |
-| Hectograph, including composition | 87 | 1.58 | |
-| Hectograph, without composition, when it is conceived as an alternative to the preparation of a fair-copy typescript, as in the doctoral dissertation published by Stanton L. Davis | 50 | 1.00 | |
-| Microcopy, high first cost and low running cost | 14 | .33 | (Figures from Short Title Catalogue, at 400 words per page) |
-| Microcopy, high first cost and high running cost | 8 | .62 | (Figures from Short Title Catalogue, at 400 words per page) |
-| NRA and AAA type, with typescript pages figured at 300 words | 2 | .77 | (at 300 words per page) |
-
 (including composition), roughly $1.50 for 
-100,000 words in an edition just short of 
-100. Another cost comparison of processes 
+100,000 words in an edition just short of 100. Another cost comparison of processes 
 is that determining the edition size at 
 which other techniques will multiply words 
 at the same cost-per-copy ($1.50 for 
@@ -294,7 +212,7 @@ at the same cost-per-copy ($1.50 for
 one to accept as a standard, because it is 
 a manufacturing cost that will permit the {% include columnbreak.html canvas=357 col=2 %} distribution of books at prices that would 
 be regarded by the book-buying world as 
-moderate. (See Table LIV on the following 
+moderate. (See [Table LIV](#table_54) on the following 
 page.) 
 
 The comparisons have been made with 
@@ -302,25 +220,10 @@ the costs of printings as a base line. But
 scholars often encounter another situation; 
 they are familiar with another cost level. 
 They will often wish to have a unique copy {% include pagebreak.html canvas=358 %} 
-
-TABLE LIV 
-
-EDITION SIZE AT WHICH COST OF PRODUCTION IS APPROXIMATELY $1.50 PER 100,000 WORDS 
-
-| Process | |
-| Printing, (economy format) | 550 |
-| Mimeoform | 200 |
-| Photo-offset, without composition, (reprint of pages, 700 words, 6″ x 9″) | 150 |
-| Photo-offset, with typescript composition, (format of this book) | 250 |
-| Mimeograph | 115 |
-| Hectograph | 90 |
-| Microcopying, long run, high first cost, low running cost, at 400 words per page | 2 | 
-| Microcopying, long run, low first cost low running cost (as with NRA hearings) | 1 (negative at 90¢, price does not rise to $1.50) |
-| Microcopying, short run, Bibliofilm Service (Pages figured at 500 words to the page). The number of copies makes no difference, but the number of articles and their average length is crucial. 100,000 on 200 pages would be copied for $200, if all in ten-page lots; for $1.05, if all in one lot. The average length of item to be copied at $1.50 per 100,000 words would be twenty | 1 copy each of ten articles of twenty pages each |
-| Microcopy, short run. The services at Yale, Library of Congress, New York Public Library, etc., at $3.00 per hundred double frames, or 200 pages. At this rate the 100,000 words would be available as unique copy for $3.00. | 1 copy, or 200 pages. 100,000 words as unique copy for $3.00 |
-
 of a document made and will face the alternative of having it photostated or copied 
 on a typewriter. 
+
+{% include table.html tab="54" %}
 
 The material which is normally thus 
 photostated or copied in typescript is of 
@@ -371,8 +274,8 @@ techniques will exhibit different costs,
 following the number of words per page and 
 page area. A minimum for an octavo book is 
 perhaps 400 words, a maximum 900 words. The 
-table on the following page is calculated 
-on the basis of a 400-word page, 6″ x 9″, 
+[table on the following page](#table_55) is calculated 
+on the basis of a 400-word page, 6" x 9", 
 and hence 250 pages of print as against 334 
 pages of typescript. The larger the number 
 of words per page in the book, the greater 
@@ -429,195 +332,7 @@ The use of the techniques that are
 operative in the range below a hundred copies permits a similar change in the financial perspective. Here also the high promotion charge can be avoided, because the 
 effective market is pretty well known in advance. Moreover, some of these techniques, 
 notably the hectograph, operate at so low a {% include pagebreak.html canvas=360 %} 
-
-TABLE LV
-
-UNIT COSTS FOR REPRODUCING 100,000 WORDS IN A VARIETY OF PROCESSES IN EDITIONS OF 1 TO 100
-
-<table>
-<thead>
-<tr>
-<th>Process</th>
-<th colspan="6">Cost per Copy by Size of Edition</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td colspan="7">I. Processes in which the first stage is the making of a fresh typescript copy. (For these processes,
-the two original forms of the text are equivalent to each other)</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td>5</td>
-<td>10</td>
-<td>25</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Typescript and carbons</td>
-<td>$40.00</td>
-<td>$12.16</td> 
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Hectograph, 300 words per page, with typing</td>
-<td></td>
-<td>15.56</td>
-<td>$7.78</td>
-<td>$3.65</td>
-<td>$2.15</td>
-<td>$1.47</td>
-</tr>
-<tr>
-<td>Mimeograph, 300 words per page, with typing</td>
-<td></td>
-<td></td>
-<td>13.24</td>
-<td>5.58</td>
-<td>2.99</td>
-<td>1.67</td>
-</tr>
-<tr>
-<td>Mimeograph, 600 words per page, with typing</td>
-<td></td>
-<td></td>
-<td>10.77</td>
-<td>4.42</td>
-<td>2.36</td>
-<td>1.28</td>
-</tr>
-<tr>
-<td>Typescript-Photo-offset Model 700-D</td>
-<td></td>
-<td></td>
-<td></td>
-<td>12.56</td>
-<td>6.28</td>
-<td>3.14</td>
-</tr>
-<tr>
-<td colspan="7">II. Processes which begin with photography or blueprinting, from 334 pages of typescript</td>
-</tr>
-<tr>
-<td>B-W or Ozalid (black or dark red on white)</td>
-<td>10.85</td>
-<td>10.85</td>
-<td>10.85</td>
-<td>10.85</td>
-<td>10.85</td>
-<td></td>
-</tr>
-<tr>
-<td>Blueprint (white on blue)</td>
-<td>6.51</td>
-<td>6.51</td>
-<td>6.51</td>
-<td>6.51</td>
-<td>6.51</td>
-<td></td>
-</tr>
-<tr>
-<td>Blue line print (blue on white)</td>
-<td></td>
-<td>14.32</td>
-<td>12.58</td>
-<td>11.55</td>
-<td>11.20</td>
-<td></td>
-</tr>
-<tr>
-<td>Photo-offset, full size</td>
-<td></td>
-<td></td>
-<td>66.80</td>
-<td>26.72</td>
-<td>13.36</td>
-<td>6.68</td>
-</tr>
-<tr>
-<td>Photo-offset, reduced to 70% in linear diameter</td>
-<td></td>
-<td></td>
-<td>33.40</td>
-<td>13.36</td>
-<td>6.68</td>
-<td>3.34</td>
-</tr>
-<tr>
-<td>Photostat, full size, with negative as 1st copy</td>
-<td>50.10 (neg.)</td>
-<td>50.10</td>
-<td>50.10</td>
-<td>50.10</td>
-<td>50.10</td>
-<td>50.10</td>
-</tr>
-<tr>
-<td>Microcopying, 16 diameters, part of long run, Recordak</td>
-<td>.60</td>
-<td>.45</td>
-<td>.42</td>
-<td>.40</td>
-<td>.40</td>
-<td>.40</td>
-</tr>
-<tr>
-<td>Microcopying, 8 diameters, short run</td>
-<td>1.72</td>
-<td>1.72</td>
-<td>1.72</td>
-<td>1.72</td>
-<td>1.72</td>
-<td>1.72</td>
-</tr>
-<tr>
-<td colspan="7">III. Processes which begin with photography, from 250-page octavo book</td>
-</tr>
-<tr>
-<td>Photostat, full size</td>
-<td>37.50 (neg.)</td>
-<td>26.50 (all positives)</td>
-<td>18.35</td>
-<td>13.46</td>
-<td>11.62</td>
-<td></td>
-</tr>
-<tr>
-<td>Blue line print from paper negative</td>
-<td></td>
-<td>15.95</td>
-<td>10.32</td>
-<td>6.95</td>
-<td>5.85</td>
-<td></td>
-</tr>
-<tr>
-<td>Photo-offset, full size</td>
-<td></td>
-<td></td>
-<td>34.37</td>
-<td>13.72</td>
-<td>6.86</td>
-<td>3.43</td>
-</tr>
-<tr>
-<td>Microcopy, 9 diameters, short run</td>
-<td>1.30</td>
-<td>1.30</td>
-<td>1.30</td>
-<td>1.30</td>
-<td>1.30</td>
-<td>1.30</td>
-</tr>
-</tbody>
-</table>
-
- {% include pagebreak.html canvas=361 %} cost level that the author himself can absorb the cost of production and the risk of 
+{% include pagebreak.html canvas=361 %} cost level that the author himself can absorb the cost of production and the risk of 
 loss. A substantial amount of scholarly 
 publishing is carried on at present by 
 means of subsidies from the author or from 
@@ -625,9 +340,11 @@ some institution representing an author interest. By shifting the technique of r
 be diminished far below that which would be 
 needed for publication in print. 
 
+{% include table.html tab="55" %}
+
 Of course if an author expects to 
 receive revenue from his research writing, 
-he can not get it unless his writing is of 
+he cannot get it unless his writing is of 
 the type that is appropriate for commercial publishing. The technical problem in 
 the reproduction of his writing appears at 
 another level, where the author is interested in the intangible rewards that are 
@@ -695,7 +412,7 @@ given out by Dr. Watson Davis in the following circular to the editors of scient
     cents for photocopies readable without optical aid." The author will 
     have his paper typed in an acceptable 
     standard form (black fresh ribbon on 
-    8½″ x 11″ bond paper, single 
+    8½" x 11" bond paper, single 
     spaced, preferably pica type) and he 
     will have photographs mounted separately on same sized sheets. This material will be deposited by you with 
     Science Service as a document. Science 
@@ -723,8 +440,8 @@ The agreement to be entered into by
 the editors of scientific publications 
 using the service is drafted as follows: 
 
-> COOPERATIVE AGREEMENT FOR UTILIZATION 
-    OF THE PUBLICATION SERVICE OF THE DOCUMENTATION DIVISION OF SCIENCE SERVICE 
+<p style="text-align: center;">COOPERATIVE AGREEMENT FOR UTILIZATION 
+    OF THE PUBLICATION SERVICE OF THE DOCUMENTATION DIVISION OF SCIENCE SERVICE</p>
   
 THIS AGREEMENT made and entered 
 into this \_\_\_\_\_\_\_\_\_\_\_\_ day of
@@ -796,7 +513,7 @@ the Cooperator.
 2. Assign to such documents serial 
 document numbers and set prices for which 
 copies of such documents will be furnished 
-on order in form of microfilms (photographic images approximately 6″ x 8″ on paper). 
+on order in form of microfilms (photographic images approximately 6" x 8" on paper). 
 
 3. Make photographic negatives of 
 documents received and file them so that 
@@ -1479,7 +1196,7 @@ other to make an inventory of federal records outside of Washington. The Histori
 Records Survey, under the direction of 
 Dr. Luther Evans, is also covering some of 
 the manuscript records, especially those in 
-historical societies, and consolidating information regarding then, 
+historical societies, and consolidating information regarding them. 
 
 There are three questions relating 
 to public archives which deeply concern research scholars. First is the question of 

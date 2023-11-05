@@ -1,5 +1,6 @@
 ---
 section: Chapter XI
+toc_id: XI
 title: Cost Levels and Applications of Microcopying and Projection Reading 
 layout: narrative
 ---

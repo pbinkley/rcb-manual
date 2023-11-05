@@ -1,5 +1,6 @@
 ---
 section: Chapter VIII
+toc_id: VIII
 title: "A Study of Paper Permanence"
 layout: narrative
 ---
