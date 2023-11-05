@@ -1,9 +1,11 @@
-<div id="osd_{{ include.id }}" class="image-viewer" style="border: 1px solid red; height: 120vh">
+<div id="osd_{{ include.id }}" class="image-viewer" style="height: {{ include.height | default: '120vh' }}">
 <script>
   var conf = {
     id:           "osd_{{ include.id }}",
     prefixUrl:    "https://openseadragon.github.io/openseadragon/images/",
     sequenceMode: true,
+    showRotationControl: true,
+    degrees: {{ include.degrees | default: 0 }},
     tileSources:  ["https://iiif.archive.org/image/iiif/3/manualonmethodso00robe%2fmanualonmethodso00robe_jp2.zip%2fmanualonmethodso00robe_jp2%2fmanualonmethodso00robe_{{ include.canvas | prepend: '0000' | slice: -4, 4 }}.jp2/info.json"]
   };
 
@@ -11,7 +13,7 @@
 
   viewer.addHandler('open', function() {
     var tiledImage = viewer.world.getItemAt(0); 
-    var imageRect = new OpenSeadragon.Rect({{ include.xywh }}); 
+    var imageRect = new OpenSeadragon.Rect({{ include.region }}); 
     var viewportRect = tiledImage.imageToViewportRectangle(imageRect);
     viewer.viewport.fitBounds(viewportRect, true);
   });

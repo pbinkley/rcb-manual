@@ -31,6 +31,7 @@ layout: default
     </ul>
     </div>
   {% endif %}
+  <p>Word count: {{ content | strip_html | number_of_words | divided_by: 100.0 | round | times: 100 }}</p>
   {{ content }}
 </article>
 

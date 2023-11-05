@@ -1,0 +1,5 @@
+{% capture identifier %}{{ include.identifier | default: 'manualonmethodso00robe' }}{% endcapture %}
+
+<a href="https://archive.org/details/{{ identifier }}/page/{{ include.page }}/mode/1up">
+<img src="https://iiif.archive.org/image/iiif/3/{{ identifier }}%2f{{ identifier }}_jp2.zip%2f{{ identifier }}_jp2%2f{{ identifier }}_{{ include.canvas }}.jp2/{{ include.region | default: 'full' }}/{{ include.size | default: 'full' }}/{{ include.rotation | default: '0' }}/{{ include.quality | default: 'default' }}.{{ include.format | default: 'jpg'}}"/>
+</a>

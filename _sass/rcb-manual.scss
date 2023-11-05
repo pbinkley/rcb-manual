@@ -132,10 +132,11 @@ label.margin-toggle:not(.sidenote-number) {
 
 }
 
-/* allow horizontal scrolling of wide tables */
+/* allow horizontal scrolling of wide tables; use tabular numerals */
 table {
     display: block;
     overflow-x: auto;
+    font-variant-numeric: tabular-nums;
 }
 
 .figure, .table {
