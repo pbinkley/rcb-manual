@@ -54,7 +54,7 @@ into the library system of the country without requiring significant changes in 
     Typothetae of America, which analyzes printing costs; John Marshall, *Publication of Books and Monographs by Learned Societies* (1931), a survey made for the American Council of Learned Societies, Bulletin No. 16.
 
 The cost accountancy of book production is very complicated, but the basic 
-fact is simple: the unit cost of producing  
+fact is simple: the unit cost of producing
 a book falls rapidly as the size of the edition increases. This is the essential accountancy difference between the printed 
 and the photographic (photostat or film-slide) copy of a text.) The unit costs in
 the one case diminish rapidly as the size 
@@ -118,15 +118,38 @@ sales of old books, is figured into Mr.
 Bean's costs of scholarly publishing, the 
 result is:
 
-|  |  |
-|-----|-----:|
-| Manufacturing | $.54 |
-| Editorial costs | .02 |
-| Royalties | .05 |
-| Selling and advertising | .19 |
-| Shipping and mailing | .02 |
-| Overhead | .18 |
-| | $1.00 | 
+<table>
+  <tbody>
+    <tr>
+      <td>Manufacturing</td>
+      <td style="text-align: right">$.54</td>
+    </tr>
+    <tr>
+      <td>Editorial costs</td>
+      <td style="text-align: right">.02</td>
+    </tr>
+    <tr>
+      <td>Royalties</td>
+      <td style="text-align: right">.05</td>
+    </tr>
+    <tr>
+      <td>Selling and advertising</td>
+      <td style="text-align: right">.19</td>
+    </tr>
+    <tr>
+      <td>Shipping and mailing</td>
+      <td style="text-align: right">.02</td>
+    </tr>
+    <tr>
+      <td>Overhead</td>
+      <td style="text-align: right">.18</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: right">$1.00</td>
+    </tr>
+  </tbody>
+</table>
 
 The larger manufacturing cost ratio in 
 scholarly publishing is the result of the 
@@ -174,20 +197,37 @@ is to be made for additional impressions.[^n6]
     
     The percentages which fill in this formula in ordinary commercial publishing are estimated by Bean as follows: 
     
-    | | |
-    |-----|-----:|
-    | Author's royalty | 10% |
-    | Overhead | 30% | 
-    | Profit | 5% |
-    | Discount | 30% |
-    | | 75% |
+    <table>
+    <tbody>
+      <tr>
+        <td>Author’s royalty</td>
+        <td style="text-align: right">10%</td>
+      </tr>
+      <tr>
+        <td>Overhead</td>
+        <td style="text-align: right">30%</td>
+      </tr>
+      <tr>
+        <td>Profit</td>
+        <td style="text-align: right">5%</td>
+      </tr>
+      <tr>
+        <td>Discount</td>
+        <td style="text-align: right">30%</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td style="text-align: right">75%</td>
+      </tr>
+    </tbody>
+    </table>
     
     Consequently, the book described above, with manufacturing cost of $1.30 in lots of 1000, $.40 in lots 
     of 10,000, would be priced: 
     
     $$ {Selling\ price} = {$1.30 \over {1 - ($.10;.30;.05;.30)}} = {$1.30 \over .25} = $5.20\ ($.013\ per\ page)$$
     
-    But if the manufacturing cost is $.40, it would be $$ {$.40 \over .25}=$1.60\ ($.004\ per\ page) $$. 
+    But if the manufacturing cost is \$.40, it would be $$ {$.40 \over .25}=\$1.60\ (\$.004\ per\ page) $$. 
 
 [^n6]: Cf. Bean, p.72.
   
@@ -223,16 +263,50 @@ the following averages:
 
 [^n7]: This table refers only to books published by the Medieval Academy, not to the fifty-nine titles published by all learned societies. 
 
-| | | |
-|----|---:|----|
-| Size of edition | 1133 | |
-| Number of pages | 266 | | 
-| Manufacturing cost | $1651 | | 
-| Cost per copy | 1.69 | |
-| Cost per page | 5.89 | (for whole edition) |
-| Price per copy | 4.80 | |
-| Price per page | .021 | (for each book sold) |
-| Copies sold | 219 | |
+<table>
+  <tbody>
+    <tr>
+      <td>Size of edition</td>
+      <td style="text-align: right">1133</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Number of pages</td>
+      <td style="text-align: right">266</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Manufacturing cost</td>
+      <td style="text-align: right">$1651</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Cost per copy</td>
+      <td style="text-align: right">1.69</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Cost per page</td>
+      <td style="text-align: right">5.89</td>
+      <td>(for whole edition)</td>
+    </tr>
+    <tr>
+      <td>Price per copy</td>
+      <td style="text-align: right">4.80</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Price per page</td>
+      <td style="text-align: right">.021</td>
+      <td>(for each book sold)</td>
+    </tr>
+    <tr>
+      <td>Copies sold</td>
+      <td style="text-align: right">219</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
 
 These small sales certainly could 
 not be expected to support publication at 
@@ -438,14 +512,34 @@ The Association of University Presses maintains cooperatively on addressograph p
 an educational directory of 67,000 names, 
 distributed about as follows: 
 
-|  |  |
-| -- | --: |
-| Social Sciences | 18,630 |
-| Humanities | 21,192 |
-| Physical Sciences | 8,520 |
-| Biological Sciences | 17,412 |
-| College Presidents | 1,277 |
-| | 67,031 |
+<table>
+  <tbody>
+    <tr>
+      <td>Social Sciences</td>
+      <td style="text-align: right">18,630</td>
+    </tr>
+    <tr>
+      <td>Humanities</td>
+      <td style="text-align: right">21,192</td>
+    </tr>
+    <tr>
+      <td>Physical Sciences</td>
+      <td style="text-align: right">8,520</td>
+    </tr>
+    <tr>
+      <td>Biological Sciences</td>
+      <td style="text-align: right">17,412</td>
+    </tr>
+    <tr>
+      <td>College Presidents</td>
+      <td style="text-align: right">1,277</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: right">67,031</td>
+    </tr>
+  </tbody>
+</table>
 
 
 These lists are used by the various university presses in circularizing announcements of books. Presumably they constitute the active market list. Fifty great 
@@ -565,4 +659,4 @@ filmslide. To the extent that the filmslide replaces the book, the housing costs
 become negligible. In the Library of Congress the visitor may see copies of a million manuscripts stored in filmslide form
 upon a few inconspicuous shelves. 
 
-## Footnotes
+## Notes
