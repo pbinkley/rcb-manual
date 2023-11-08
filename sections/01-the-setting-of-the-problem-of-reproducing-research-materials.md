@@ -118,3 +118,5 @@ possibilities lie in the realm of dream and prophecy. For the present
 there is required only an attentive watching of the new processes and
 an effort to compare them, fitting each one into its most appropriate
 place.
+
+## Notes
