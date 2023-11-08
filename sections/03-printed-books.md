@@ -166,15 +166,21 @@ printing machine cylinder (called the tym-
 pan sheet) so that even pressure is given 
 on every part on the type. This operation 
 which is a most laborious affair if conscientiously done, is called "make-ready." 
-Without careful make-ready, satisfactory 
+Without careful make-ready, satisfactory {% include pagebreak.html canvas=39 %} results are unobtainable. 
+{% include pagebreak.html canvas=33 %}
+{% include pagebreak.html canvas=34 %}
 
 {% include figure.html fig="01" %}
 
+{% include pagebreak.html canvas=35 %} 
+{% include pagebreak.html canvas=36 %} 
+
 {% include figure.html fig="02" %}
 
-{% include figure.html fig="03" %}
+{% include pagebreak.html canvas=37 %} 
+{% include pagebreak.html canvas=38 %} 
 
-{% include pagebreak.html canvas=39 %} results are unobtainable. 
+{% include figure.html fig="03" %}
 
 ## Printing: Composition Costs 
 
@@ -244,9 +250,9 @@ page of a certain number of ems of Granjon
 would contain 7% to 10% more words than a 
 corresponding page with the same number of 
 ems of Century Expanded, as is obvious by 
-comparing the word content of Figure I. 
+comparing the word content of [Figure I](#figure_01). 
 Two economical print-face formats are shown 
-in figures II and III.
+in figures [II](#figure_02) and [III](#figure_03).
 
 The difference in words per 1000 
 ems between a compact and expanded type 
@@ -371,6 +377,9 @@ to the square inch:
 | 10-point | 21 | 16 |
 | 12-point | 14 | 11 |
 
+{% include pagebreak.html canvas=41 %} 
+{% include pagebreak.html canvas=42 %} 
+
 {% include figure.html fig="04" %}
 
 {% include pagebreak.html canvas=43 %} The number of pages, and hence the number 
@@ -418,7 +427,7 @@ words per form (according to an actual
 count of words). Eight-point type, leaded 
 one point would put 25,000 words on a form; 
 100-point type in the same type face, leaded one point, would put 17,500 words on a 
-form. Figure IV shows the increase in word 
+form. [Figure IV](#figure_04) shows the increase in word 
 content per page that is made possible by 
 shifting from 10-point Bodoni type to 8-point Bodoni, both being leaded one point. 
 The shift from 10-point to 8-point type 
@@ -473,7 +482,7 @@ of the cost goes for composition, about
 There is, however, great dissimilarity in 
 the amount which the different departments 
 contribute to the cost of the finished 
-product in various shops of the country, {% include pagebreak.html canvas=44 %} 
+product in various shops of the country. {% include pagebreak.html canvas=44 %} 
 
 | For hour costs of composing 50,000 words at a composite rate of $3.55 per hour for Chicago printers, without allowance for profit, the total would be ... | $127.50 | 
 | For hour costs of printing 250 impressions, the time allowed per form being .35 ours: according to Hoch,[^n4] or a total of 2.80 hours, at a composite rate of $4.90 per hour for flat-bed cylinder presses for Chicago printers, without allowance for profit, the total would be ... | 13.72 |
@@ -504,7 +513,7 @@ he is trying to find an economical means of
 making small runs that will look like printing rather than typescript, the business 
 man is trying to make large runs that will 
 look like typescript rather than print. The 
-multigraph (Figure V) is a small rotary 
+multigraph ([Figure V](#figure_05)) is a small rotary 
 printing machine designed for office use 
 and employed chiefly for printing form letters and circulars of one or more pages in 
 imitation of typescript and for making office forms from print-face type in imitation of printing.[^n5] 
@@ -522,16 +531,29 @@ imitation of typescript and for making office forms from print-face type in imit
     be attached to or removed from a smooth-faced segment. The embossed strips are always mounted on a 
     similar sort of blanket. The most popular multigraph prints only one 8½″ x 11″ page at a time, but 
     a machine is manufactured with a drum large enough for two 8½″ x 11″ pages; this is fairly common. 
-  
-The best adaptation of multigraph 
+
+{% include pagebreak.html canvas=45 %} 
 
 {% include figure.html fig="05" %}
-{% include figure.html fig="06" %}
-{% include figure.html fig="07" %}
-{% include figure.html fig="08-09" %}
-{% include figure.html fig="10" %}
 
- {% include pagebreak.html canvas=51 %} printing to the purpose of book production 
+{% include pagebreak.html canvas=46 %} 
+{% include pagebreak.html canvas=47 %} 
+
+{% include figure.html fig="06" %}
+
+{% include pagebreak.html canvas=48 %} 
+
+{% include figure.html fig="07" %}
+
+{% include pagebreak.html canvas=49 %} 
+
+{% include figure.html fig="08" %}
+
+{% include pagebreak.html canvas=50 %} 
+
+{% include figure.html fig="09" %}
+
+The best adaptation of multigraph {% include pagebreak.html canvas=51 %} printing to the purpose of book production 
 has been made by the Mimeoform Service under the direction of Dr. Ernest Kletsch, 
 who styles his process the mimeoform process.[^n6] He uses a Lanston Monotype for setting the type, which is cast in a low type 
 mold, 8-, 10-, or 12-point. A special 
@@ -570,7 +592,7 @@ fixed, permitting not more than six lines
 to the inch, regardless of size of type. 
 Thus all four type sizes available (6-, 8-, 
 10-, and 12-point) are cast on a 12-point 
-body (note Figure VI, set in 12-point and 
+body (note [Figure VI](#figure_06), set in 12-point and 
 8-point type). This means that lines of {% include columnbreak.html canvas=51 col=2 %} 10-point type, the most commonly used for 
 book composition, would be leaded two 
 points; 8-point type, four points; and 6-point type, used for footnotes, six points. 
@@ -588,7 +610,7 @@ large page, 8½" x 11". Running costs
 are the same for this large page as for a 
 smaller one, and indeed, in the writer's 
 opinion, the best possible format for mimeoform work is an 8½" x 11" page set in 
-10-point type in two columns (Figure VII).
+10-point type in two columns ([Figure VII](#figure_07)).
  
 One further limitation of the multigraph as a book-printing device must be 
 mentioned: it is quite unsuited to any 
@@ -627,8 +649,7 @@ press in printing sixteen pages at a time {% include columnbreak.html canvas=52 
     The effect of the change would be a 
     slight increase in costs. 
   
-The following figures show the com- 
-parative prices of mimeoform and flat-bed 
+The following figures show the comparative prices of mimeoform and flat-bed 
 cylinder publication, and show the mimeoform process lowest in cost as a means of 
 presenting straight textual matter in print-face type in small editions. The advantage of the mimeoform fades out when the 
 size of the edition passes the 600 mark. 
@@ -636,115 +657,28 @@ The costs per page as here quoted in 1934
 are within the range of those that Bean 
 found normal in 1927---from $2.25 to $4.00. 
 
-TABLE IV 
+{% include table.html tab="04" %}
 
-ESTIMATE FOR COMPOSING AND PRINTING BY MIMEOFORM AND STRAIGHT PRINTING 
-A BOOK OF 50,000 WORDS, 6″ x 9″ TRIM SIZE, 128 PAGES 
-
-(Not an economy format for either process) 
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: center">PROCESS</th>
-      <th style="text-align: center" colspan=7>EDITION SIZE AND ESTIMATE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td></td>
-      <td style="text-align: center">100</td>
-      <td style="text-align: center">150</td>
-      <td style="text-align: center">200</td>
-      <td style="text-align: center">300</td>
-      <td style="text-align: center">400</td>
-      <td style="text-align: center">500</td>
-      <td style="text-align: center">600</td>
-    </tr>
-    <tr>
-      <td>Mimeoform</td>
-      <td style="text-align: right">$160.00</td>
-      <td style="text-align: right">$160.00</td>
-      <td style="text-align: right">$160.00</td>
-      <td style="text-align: right">$179.20</td>
-      <td style="text-align: right">$198.40</td>
-      <td style="text-align: right">$217.60</td>
-      <td style="text-align: right">$236.80</td>
-    </tr>
-    <tr>
-      <td>Printing (a composite of five estimates)</td>
-      <td style="text-align: right">$286.68</td>
-      <td style="text-align: right">$289.00</td>
-      <td style="text-align: right">$290.00</td>
-      <td style="text-align: right">$294.66</td>
-      <td style="text-align: right">$298.17</td>
-      <td style="text-align: right">$301.87</td>
-      <td style="text-align: right">$305.36</td>
-    </tr>
-  </tbody>
-</table>
-
-TABLE V 
-
-ESTIMATE FOR COMPOSING AND PRINTING A BOOK OF 50,000 WORDS 
-IN VARIOUS FORMATS 
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: center">PROCESS</th>
-      <th style="text-align: center" colspan=7>EDITION SIZE AND ESTIMATE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td></td>
-      <td style="text-align: center">100</td>
-      <td style="text-align: center">150</td>
-      <td style="text-align: center">200</td>
-      <td style="text-align: center">300</td>
-      <td style="text-align: center">400</td>
-      <td style="text-align: center">500</td>
-      <td style="text-align: center">600</td>
-    </tr>
-    <tr>
-      <td>Mimeoform<br/>(8½″ x 11″ trim size in 10-pt., 2 cols.)</td>
-      <td style="text-align: right">$143.00</td>
-      <td style="text-align: right">$143.00</td>
-      <td style="text-align: right">$143.00</td>
-      <td style="text-align: right">$160.00</td>
-      <td style="text-align: right">$177.00</td>
-      <td style="text-align: right">$194.00</td>
-      <td style="text-align: right">$211.00</td>
-    </tr>
-    <tr>
-      <td>Printing<br/>(6 ¾″ x 9½″ trim size, 11-pt. on 12 Granjon, 2 cols.&mdash;newsprint format)</td>
-      <td style="text-align: right">$280.00</td>
-      <td style="text-align: right">$285.00</td>
-      <td style="text-align: right">$290.00</td>
-      <td style="text-align: right">$299.00</td>
-      <td style="text-align: right">$307.00</td>
-      <td style="text-align: right">$315.00</td>
-      <td style="text-align: right">$323.00</td>
-    </tr>
-    <tr>
-      <td>Printing<br/>(8½″ x 11″ trim size, 7-pt. solid, 3 cols.&mdash;economy format)</td>
-      <td style="text-align: right">$300.00</td>
-      <td style="text-align: right">$308.50</td>
-      <td style="text-align: right">$317.00</td>
-      <td style="text-align: right">$334.00</td>
-      <td style="text-align: right">$350.00</td>
-      <td style="text-align: right">$365.00</td>
-      <td style="text-align: right">$380.00</td>
-    </tr>
-  </tbody>
-</table>
+{% include table.html tab="05" %}
 
 Note: 
 The quotation on the "economy format" from one firm turned out to be higher than the average of five quotations on a less economical format. 
 If the specifications had been sent out for quotations to the five firms who estimated for the upper table, the price would be lower. 
 The point of this 
 table is to compare estimates on a newsprint format with estimates on a good sound book format. 
+
+{% include pagebreak.html canvas=53 %} 
+{% include pagebreak.html canvas=54 %} 
+
+{% include figure.html fig="cc" %}
+
+{% include pagebreak.html canvas=55 %} 
+{% include pagebreak.html canvas=56 %} 
+
+{% include figure.html fig="10" %}
+
+{% include pagebreak.html canvas=57 %} 
+{% include pagebreak.html canvas=58 %} 
 
 {% include figure.html fig="11" %}
 
@@ -791,9 +725,9 @@ bichromate). An exposure to an arc light
 hardens the portions of the emulsion under 
 the transparent parts of the negative so 
 that they remain on the plate after development as an image of the copy to be reproduced. Thus, the process is photographic. A 
-sample sheet of the negative (Figure VIII) 
+sample sheet of the negative ([Figure VIII](#figure_08)) 
 and a sample piece of a used metal sheet 
-from the multilith (Figure IX) are bound 
+from the multilith ([Figure IX](#figure_09)) are bound 
 herewith. 
 
 The emulsion image is of such a 
@@ -839,7 +773,7 @@ of "offset printing."[^n8]
   
 For scholarly publication, two 
 small offset presses, the "rotaprint" and 
-the multilith (Figures X and XI), which 
+the multilith (Figures [X](#figure_10) and [XI](#figure_11)), which 
 are used by business offices doing small {% include pagebreak.html canvas=60 %} runs of advertising matter or publishing a 
 house organ, deserve special attention. 
 When soliciting business, the users of the 
@@ -849,7 +783,7 @@ of the NRA the large offset press people
 tried to make rotaprint and multilith come 
 into the Graphic Arts Code, while they held 
 out on the claim of being merely office appliances. Examples of their work will enable the reader to judge of their relative 
-quality (see Figures XXV and XXVI in Chapter V). This volume is planographed with a Harris press (Figure XII), which has also 
+quality (see Figures [XXV](05-the-typescript-book-or-memorandum-reproduction-techniques.html#figure_25) and [XXVI](05-the-typescript-book-or-memorandum-reproduction-techniques.html#figure_26) in [Chapter V](05-the-typescript-book-or-memorandum-reproduction-techniques.html)). This volume is planographed with a Harris press (Figure [XII](#figure_12)), which has also 
 been used in reproducing pictures in the 
 chapter on illustrations. 
 
@@ -950,10 +884,11 @@ will be no way of bringing the original
 copy of the book to be reproduced to the 
 photo-offset printer. In such a case, a 
 skilled photostat operator or commercial 
-photographer, acting under instructions 
+photographer, acting under instructions {% include pagebreak.html canvas=61 %} 
 
 {% include figure.html fig="12" %}
 
+{% include pagebreak.html canvas=62 %} 
 {% include pagebreak.html canvas=63 %} 
 
 given him for the purpose, can prepare the 
@@ -971,7 +906,7 @@ for the book, but not the metal sheets.
 This discount when given runs near to 15%. 
 
 [^n10]:  Figured on basis of quotations given for producing a book of 128 pages, 6″ x 9″, in an edition of fifty, 
-    exclusive of paper and bindipoong costs. 
+    exclusive of paper and binding costs. 
 
 ### (b) The Preparation of the Metal Plate 
 
@@ -997,24 +932,8 @@ factor in the determination of area costs,
 photo-offset work pages should be planned 
 to use all of the surface of the sheets.
 
-TABLE VI 
-
-PRICES ON PHOTO-OFFSET PRINTING SURFACE 
-
-| | First 100 Copies | Per Additional 100's |
-|--------------|------:|------:|
-| 8 1.2″ x 11″ | $2.00 | $0.30 | 
-| 8½″ x 14″ | 2.75 | 0.40 | 
-| 9½″ x 12″ | 2.75 | 0.40 |
-| 11″ x 17″ | 4.00 | 0.60 |
-| 14″ x 17″ | 5.50 | 0.80 |
-| 12″ x 19″ | 5.50 | 0.80 |
-| 17″ x 22″ | 8.00 | 1.00 |
-| 17″ x 28″ | 11.00 | 1.40 |
-| 19″ x 24″ | 11.00 | 1.40 |
-| 22″ x 34″ | 16.00 | 2.40 |
-
- {% include pagebreak.html canvas=64 %} 
+{% include table.html tab="06" %}
+{% include pagebreak.html canvas=64 %} 
 
 This raises the question of the relation of 
 page, plate, and press sizes. 
@@ -1108,7 +1027,7 @@ naked eye.
     to a sheet, and this material was sent to the Rudge Company for reproduction by the offset process. 
     The microphotographic reproduction contained 154 pages. 
     The reduction is six diameters to one." From 
-    letter of the Hispanic Society of America to Robert Binkley, February 18, 1932. 
+    letter of the Hispanic Society of America to Robert Binkley, February 18, 1932. {% include pagebreak.html canvas=65 %}{% include pagebreak.html canvas=66 %} 
 
 {% include figure.html fig="13" %}
 
@@ -1118,11 +1037,11 @@ Donald G. Paterson and Miles A. Tinker of
 the University of Minnesota in examining 
 this problem. By a speed-of-reading test 
 these scholars studied the legibility of 
-mewsprint of normal size (7-point) and 
+newsprint of normal size (7-point) and 
 newsprint reduced to 80%, 50% and 30% of 
 normal size. The result of their work is a 
 curve of diminishing legibility, as shown 
-in Figure XIII.
+in [Figure XIII](#figure_13).
 
 To summarize: the relationships of 
 legibility, type size, and area cost in 
@@ -1269,6 +1188,13 @@ library rarities for sale or exchange with
 other libraries and sometimes multiplying 
 overused library materials for teaching 
 purposes, great results in the intellectual 
+{% include pagebreak.html canvas=69 %}
+{% include pagebreak.html canvas=70 %}
+{% include pagebreak.html canvas=71 %}
+world would be likely to follow. How far 
+is technology from that possibility? Certain new developments tending in this direction have come to the knowledge of the 
+writer, but must for the time being be 
+kept confidential. 
 
 [^n13]: Technological developments having their principal bearing on long-run work are the *Uhertype* apparatus, 
     consisting of a photo-composing machine, by which letters are photographed on a film strip, and a 
@@ -1281,13 +1207,6 @@ purposes, great results in the intellectual
     Cf. *Printing Progress*, a report prepared by a special committee of the Printing Industries Division for the Engineering Week Meeting, June 25-July 1, 1933. 
 
 {% include figure.html fig="14" %}
-
-{% include pagebreak.html canvas=71 %}  
-
-world would be likely to follow. How far 
-is technology from that possibility? Certain new developments tending in this direction have come to the knowledge of the 
-writer, but must for the time being be 
-kept confidential. 
 
 The rotaprint was the first machine to offer itself as a piece of office 
 equipment. The cost of a rotaprint installation is about $1000 (9″ x 14″ model, 
@@ -1326,9 +1245,9 @@ does the same kind of work that the cheaper
 offset presses do. The relative fineness 
 of the products of these processes can be 
 compared if the sample dermaprint page 
-bound herewith (Figure XIV) is compared 
+bound herewith ([Figure XIV](#figure_14)) is compared 
 with the sample products of the multilith 
-and rotaprint (Figures XXV and XXVI). 
+and rotaprint (Figures [XXV](#figure_15) and [XXVI](#figure_16)). 
 
 The page to be dermaprinted was 
 selected because it was yellowed with age 
@@ -1409,35 +1328,7 @@ rotaprint and multilith metal sheets is
 shown in Table VII below. 
 
 The supplementary photographic supplies needed for the dermaprint should normally cost more than those for photo-offset, 
-except in the case of the direct method, 
-
-TABLE VII 
-
-COST OF PRINTING SURFACE FOR DERMAPRINT, ROTAPRINT, AND 
-MULTILITH 
-
-| Process | Size of Printing Surface | Price of 1 Stencil or Metal Sheet<sup>*</sup> | Price per 100 sq. in. | Price per 6″ x 9″ Page | Price per 8½″ x 11″ Page |
-| Rotaprint | 8 ⅜″ x 11″ | $.28 | $.318 | $.28 | $.28 |
-| Rotaprint | 8 ⅜″ x 13″ | .28 | .257 | .14 | .28 |
-| Dermaprint | 7 ¼″x 10 ¼″| .13 | .174 | .13 | .13 |
-| Dermaprint | 7 ¼″ x 14″ | .15 | .147 | .075 | .15 |
-| Multilith | 9½″ x 12½″ | .35 | .294 | .175 | .35 | 
-| Rotaprint | 11″ x 16½″ | .48 | .264 | .24 | .24 |
-| Multilith | 11″ x 17″ | .50 | .263 | .25 | .25 | 
-
-<sup>*</sup> Prices in quantities of 100. 
-
-[^n14]: The photographic equipment needed for transferring matter to the stencil may cost from $20.00 to 
-    $1300, with many possible combinations in between. 
-    The $20.00 equipment, which may be used for the 
-    direct process only, does not include a vacuum frame; the same equipment, with a $60.00 Eastman pressure frame, costs $75.00, and with a vacuum frame, $150.00. This same equipment may be used to prepare the photographic stencils if the user purchases his film positives from a maker of offset plates. 
-    If a photostat and a special adapting holder are used, the equipment will cost about $260.00, figuring $85.00 for a holder, $155.00 for a vacuum frame, and about $20.00 for dark-room equipment; if the 
-    photostat prepares a film positive, the $23.00 equipment may be used, the total cost of the equipment 
-    being about $110.00. Mimeographs vary in price from $30.00 to $450.00. 
-  
- {% include pagebreak.html canvas=73 %} 
-
-because the dermaprint must have a positive 
+except in the case of the direct method, {% include pagebreak.html canvas=73 %} because the dermaprint must have a positive 
 copy, while photo-offset can use the negative. The photographer is through when he 
 has made his negative for photo-offset, but 
 if he is preparing for the dermaprint, he 
@@ -1453,7 +1344,17 @@ out that film negatives are required, the
 cost of photographic materials mounts even 
 further above the level of the photographic requirements of photo-offset. 
 
- {% include columnbreak.html canvas=73 col=2 %} Whether the dermaprint allows genuine operating economies is still an open 
+{% include table.html tab="07" %}
+
+[^n14]: The photographic equipment needed for transferring matter to the stencil may cost from $20.00 to 
+    $1300, with many possible combinations in between. 
+    The $20.00 equipment, which may be used for the 
+    direct process only, does not include a vacuum frame; the same equipment, with a $60.00 Eastman pressure frame, costs $75.00, and with a vacuum frame, $150.00. This same equipment may be used to prepare the photographic stencils if the user purchases his film positives from a maker of offset plates. 
+    If a photostat and a special adapting holder are used, the equipment will cost about $260.00, figuring $85.00 for a holder, $155.00 for a vacuum frame, and about $20.00 for dark-room equipment; if the 
+    photostat prepares a film positive, the $23.00 equipment may be used, the total cost of the equipment 
+    being about $110.00. Mimeographs vary in price from $30.00 to $450.00. 
+  
+{% include columnbreak.html canvas=73 col=2 %} Whether the dermaprint allows genuine operating economies is still an open 
 question. The A. B. Dick Company offers to 
 prepare these stencils, but the prices are 
 so high that the service has no place in 
@@ -1468,45 +1369,7 @@ seem to be a practical reproduction method
 for any institution possessing photographic 
 equipment and a mimeograph.[^16] 
 
-Table VIII
-
-PRICES OF DERMAPRINT SERVICE 
-
-<table>
-  <tbody>
-    <tr>
-      <td>Original stencils</td>
-      <td>Letter size (8½” x 11”) …</td>
-      <td style="text-align: right">$3.50 each stencil</td>
-      <td style="max-width: 10em;" rowspan="6">(Compare with each stencil $1.25 to $2.00 as the price of preparing printing surface and running 100 copies by photo-offset)</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Legal size (8½” x 14”) …</td>
-      <td style="text-align: right">4.00 each stencil</td>
-    </tr>
-    <tr>
-      <td>Duplicate stencils</td>
-      <td>Letter size …</td>
-      <td style="text-align: right">1.75 each stencil</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Legal size …</td>
-      <td style="text-align: right">2.00 each stencil</td>
-    </tr>
-    <tr>
-      <td>Special stencils</td>
-      <td>Letter size …</td>
-      <td style="text-align: right">2.25 each stencil</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>Legal size …</td>
-      <td style="text-align: right">2.50 each stencil</td>
-    </tr>
-  </tbody>
-</table>
+{% include table.html tab="08" %}
 
 [^15]: A letter recently received indicates that a method has been devised whereby, without any further 
     photographic process, the negative can be reversed into a positive.
@@ -1531,11 +1394,6 @@ PRICES OF DERMAPRINT SERVICE
 
  {% include pagebreak.html canvas=74 %} The following table is a summary comparison of the factors affecting book {% include columnbreak.html canvas=74 col=2 %} manufacturing costs by three processes---printing, mimeoform, and photo-offset. 
 
-TABLE IX 
+{% include table.html tab="09" %}
 
-| | PRINTING | MIMEOFORM | PHOTO-OFFSET |
-|-----|-----|-----|-----|
-| First Costs (composition) | Varies directly with number of words or ems, and only slightly affected by type face, leading, etc. Time and a half and double time are charged for footnotes, tabular matter, etc. |  Varies directly with number of words or ems, and only slightly affected by type size, type face. Composition about 30% less compact than for ordinary printing. Cost reckoned on a page basis. All type sizes on a 12-point body. | No composition costs for reprinting. (The behavior of typescript composition costs will be analyzed in the next chapter. |
-| First Costs (area) | Make-up varies directly with number of forms and complexity of work) (e.g., footnotes, illlustrations, tabular matter, etc.). Make-ready varies in the same way as make-up. Neither is affected by size of edition. | No make-up since type is automatically transferred to multigraph drum by monotype caster. No make-ready. | The step the equivalent of make-up in printing is the preparation of plates. The cost equals that of make-up and make-ready in printing of small editions. Practically no make-ready. |
-| Running Costs | Varies directly with size of edition, number om forms, grade of paper, and type of binding. | Variations similar to those in printing. Since pages are printed separately, the binding costs rise above those of printed 16-page signatures. | Variations similar to those in printing. Binding costs rise slightly for small press. |
-| Reprint Costs | Electrotype takes $1.50 a page. This cost makes new composition costs unnecessary. By storing type or making stereotypes and electrotypes, new composition costs are unnecessary. | None | Storage of metal sheets at $.00 to $.10 per page reduces cost by approximately 50%; storage of negative by about 15%. |
+## Notes
