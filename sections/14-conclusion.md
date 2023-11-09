@@ -184,7 +184,7 @@ printing and photo-offset are out of the
 question, for their costs-per-copy are 
 above photostat. If 2000 copies are needed, most of the cost advantages of microcopying disappear. {% include columnbreak.html canvas=356 col=2 %} 
 
-{% include table.html tab="52" identifier="" page="186" canvas="0356" region="100,316,2742,2089" size="1000," %}
+{% include table.html tab="52" identifier="" canvas="0356" region="100,316,2742,2089" size="1000," %}
 
 ## Comparative Costs per 100,000 Words at Efficiency Point 
 

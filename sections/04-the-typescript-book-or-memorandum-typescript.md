@@ -135,22 +135,22 @@ typescript were taken as the basis in assigning it a position in the point syste
 of typography, the following table of 
 equivalents would result: 
 
-- Pica typescript would be equivalent to 14-pt. type. 
-- Elite typescript would be equivalent to 12-pt. type. 
-- Pica reduced to 80% of normal size to 10-pt. type. 
-- Pica reduced to 70% of normal size to 9-pt. type. 
-- Pica reduced to 60% of normal size to 8-pt. type. 
-- Pica reduced to 50% of normal size to 7-pt. type. 
-- Pica reduced to 40% of normal size to 6-pt. type. 
-- Pica reduced to 30% of normal size to 5-pt. type. 
+Pica typescript would be equivalent to 14-pt. type.   
+Elite typescript would be equivalent to 12-pt. type.   
+Pica reduced to 80% of normal size to 10-pt. type.   
+Pica reduced to 70% of normal size to 9-pt. type.   
+Pica reduced to 60% of normal size to 8-pt. type.   
+Pica reduced to 50% of normal size to 7-pt. type.   
+Pica reduced to 40% of normal size to 6-pt. type.   
+Pica reduced to 30% of normal size to 5-pt. type.   
 
 If, on the other hand, the vertical measurement of typescript were 
 taken, it would be obvious that
 
-- Pica typescript would be equivalent to 10-pt. type. 
-- Elite typescript would be equivalent to 8-pt. type. 
-- Pica reduced to 80% of normal size to 7-pt. type. 
-- Pica reduced to 70% of normal size to 6-pt. type. 
+Pica typescript would be equivalent to 10-pt. type.   
+Elite typescript would be equivalent to 8-pt. type.   
+Pica reduced to 80% of normal size to 7-pt. type.   
+Pica reduced to 70% of normal size to 6-pt. type.   
 
 The relative importance of the horizontal and vertical measurements of type 
 controlling legibility has not been determined; it is, therefore, difficult to 
@@ -171,7 +171,7 @@ is so reduced as to lay down the same word
 content as print-face type on an identical 
 area, the reader is asked to examine Figure XXIX. 
 
- {% include pagebreak.html canvas=77 insert=true %} Exhibit to illustrate comparison of print face types of various sizes and styles with typescript 
+{% include pagebreak.html canvas=77 insert=true %} Exhibit to illustrate comparison of print face types of various sizes and styles with typescript 
 of varying reductions, having approximately the same legibility. 
 
 11-POINT PRINT-FACE 
@@ -183,7 +183,6 @@ typescript.
 This is a specimen of 11-point Bruce Old Style, 
 which is assumed to be the equivalent of Pica 
 typescript. 
-
 
 This is a specimen of 12-point Garamont, 
 which is assumed to be the equivalent of 
@@ -245,7 +244,6 @@ FIGURE XV
  {% include pagebreak.html canvas=78 insert=true %} 
  {% include pagebreak.html canvas=79 insert=true %} 
 
-
 THE MOST REVOLUTIONARY INVENTION
 SINCE the ADVENT of PHOTOLITHOGRAPHY
 
@@ -270,7 +268,6 @@ without any attempt at justification. It was
 then reset, as it would appear if the type 
 used were attached to the conventional typewriter. The lower case 'w' was used as the 
 standard of horizontal spacing. 
-
 
 > Authorities agree that William Caslon was influenced greatly in the design of his famous face 
   by Dutch types which were used widely in England when he started his work. As D. B. Updike 
@@ -548,21 +545,7 @@ typist to choose among a number of type
 faces, type sizes, and corresponding vertical and horizontal spacings. These alternatives are here tabulated and some of the 
 faces available are shown in Figure XVIII. 
 
-TABLE X 
-
-### TYPES OF VARITYPER MACHINES 
-
-| A. | Motor Varitypers: | |
-|    | "Q" | 10 and 12 and 14 characters to the inch. |
-|    | "T" | 10 and 12 and 16 characters to the inch. |
-|    | "L" | 10 and 14 and 16 characters to the inch. |
-|    | "W" | 12 and 14 and 16 characters to the inch. |
-
-| B. | Non-motor Varitypers: | | 
-|    | "Y" | 10 and 14 characters to the inch. |
-|    | "S" | 10 characters to the inch. |
-|    | "K" | 12 characters to the inch. |
-|    | "J" | 10 and 12 characters to the inch. |
+{% include table.html tab="10" %}
 
 Eighteen characters to the inch may 
 be had on the "T", "L", and "W" in place of 
@@ -617,100 +600,11 @@ comes back from the typist. Sometimes the
 author prepares his own fair copy; sometimes the so-called fair copy is not very 
 fair. But as a normal stage in the normal 
 
- {% include pagebreak.html canvas=85 insert=true %} 
+{% include pagebreak.html canvas=85 insert=true %} 
 
-FIGURE XVIII 
+{% include figure.html fig="18" %}
 
-This is a sample mimeographed page to illustrate some of the type faces, type sizes, and 
-corresponding vertical and horizontal spacings possible with the *Varityper machine*. This 
-paragraph is written with *Miniature Roman type, in nine point size, with six lines to the 
-inch.* This type lays down fourteen letters to the inch and is similar to the micro-elite 
-type of the standard typewriter. When typing a text in which there are characters not in 
-the Roman alphabet, the non—Roman characters may be available in a Varityper type plate, 
-which costs $500 ($8.50 in metal). 
-
-This is a paragraph written with *Petite 
-type in eight point size, nine lines to  
-the inch*. This type lays down sixteen 
-letters to the inch and corresponds to 
-the ultra-micro-elite type of the standard typewriter. For emphasis, bold 
-characters of the same style as the rest 
- {% include columnbreak.html canvas=85 col=2 %} 
-of the copy can be employed by the use 
-of the hammer repeat key. Italic type
-may also be used for emphasis. This is
-an advantage over ordinary typing, where
-underlining is the only method available
-to indicate emphasis.
-
-*To justify the right-hand margin, a 
-page is typed in the ordinary way on 
-sheet of paper; then the copy is
-blue-pencilled to indicate places 
-where the spaces can be extended or 
-contracted. In the second typing, 
-the extra letters are absorbed by  
-crowding the spacing between the  
-words or letters, using the half- 
-back spacer, and the short lines
-stretched out by increasing the 
-spaces between the words or letters.*
- {% include columnbreak.html canvas=85 col=1 %} 
-
-To justify the right-hand margin, a 
-page is typed in the ordinary way on 
-a sheet of paper; then the copy is
-blue-pencilled to indicate places 
-where the spaces can be extended or 
-contracted. In the second typing, 
-the extra letters are absorbed by  
-crowding the spacing between the  
-words or letters, using the half- 
-back spacer, and the short lines
-stretched out by increasing the 
-spaces between the words or letters.
-
- {% include columnbreak.html canvas=85 col=2 %} 
-
-*This paragraph demonstrates the Varityper's ability to condense statistics into a smaller area than is 
-possible with the standard typewriter using ordinary pica or elite type:*
-
-Comparison of a Quoted Printer's Estimate and a Quoted 
-Varityper Estimate for 50 copies of a Forty-six Page 
-Pamphlet. 
-
-Printing
-
-------:|--------
-$117.50 | typesetting  
-15.00 | make up 
-22.00 | printing 
-2.00 | stock 
-4.00 | binding and collating 
-$160.50 | 
-
-Varityping 
-
------|-----:
-Varityping, justifying the lines, and running off on the Mimeograph . . . . |
-| $60.00 
-
-250 kinds of English and foreign type, 6 to 14 point can be used on one Varityper. 
-
-THIS IS OVERSIZE PICA GOTHIC  
-
-This is SMALL PRINT TYPE  
-
-This is DIACRITICAL  
- {% include columnbreak.html canvas=85 col=2 %} 
-
-This is MEDIUM PRINT 
-
-This is ELITE GOTHIC 
-
-THIS IS PETITE GOTHIC 
-
- {% include pagebreak.html canvas=86 insert=true %} 
+{% include pagebreak.html canvas=86 insert=true %} 
 
  {% include pagebreak.html canvas=87 %} 
 
@@ -753,7 +647,7 @@ cost.
 
 ## The Fair Copy as a Stage in the Writing Process
  
-The author on a book is usually ex{%- include columnbreak.html canvas=87 col=2 -%}pected to bring his work through the fair 
+The author of a book is usually ex{%- include columnbreak.html canvas=87 col=2 -%}pected to bring his work through the fair 
 copy stage at his own expense. The cost 
 of preparing the fair copy depends in part 
 upon the condition of the draft copy. There 
@@ -880,7 +774,6 @@ The argument in favor of merging
 the different typing operations is the 
 greater the cheaper the reproduction process. Thus the typist who makes a carbon 
  {% include pagebreak.html canvas=89 insert=true %} 
-
  {% include pagebreak.html canvas=90 insert=true %} 
 
 FIGURE XIX 

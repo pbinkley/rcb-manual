@@ -1,4 +1,4 @@
 <div id="figure_{{ include.fig }}" class="figure">
-{% capture figure %}{% include_relative _figures/{{ include.fig }}.md %}{% endcapture %}
+{% capture figure %}{% include_relative _figures/{{ include.fig }}.md type="figure" %}{% endcapture %}
 {{ figure | markdownify }}
 </div>
