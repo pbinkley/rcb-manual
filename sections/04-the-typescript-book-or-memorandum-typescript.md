@@ -94,6 +94,8 @@ A change of the spacing system that would
 give the "i" a narrow space and the "m" a 
 broad one would greatly complicate the machine and make it more expensive. 
 
+{% include iiif_image.html canvas="76" region="72,1216,1285,1600" size="500," format="jpg" page="32" %}
+
 A new spacing mechanism has 
 recently appeared in Germany. One model 
 is available in America, in the hands of 
@@ -135,22 +137,22 @@ typescript were taken as the basis in assigning it a position in the point syste
 of typography, the following table of 
 equivalents would result: 
 
-- Pica typescript would be equivalent to 14-pt. type. 
-- Elite typescript would be equivalent to 12-pt. type. 
-- Pica reduced to 80% of normal size to 10-pt. type. 
-- Pica reduced to 70% of normal size to 9-pt. type. 
-- Pica reduced to 60% of normal size to 8-pt. type. 
-- Pica reduced to 50% of normal size to 7-pt. type. 
-- Pica reduced to 40% of normal size to 6-pt. type. 
-- Pica reduced to 30% of normal size to 5-pt. type. 
+Pica typescript would be equivalent to 14-pt. type.   
+Elite typescript would be equivalent to 12-pt. type.   
+Pica reduced to 80% of normal size to 10-pt. type.   
+Pica reduced to 70% of normal size to 9-pt. type.   
+Pica reduced to 60% of normal size to 8-pt. type.   
+Pica reduced to 50% of normal size to 7-pt. type.   
+Pica reduced to 40% of normal size to 6-pt. type.   
+Pica reduced to 30% of normal size to 5-pt. type.   
 
 If, on the other hand, the vertical measurement of typescript were 
 taken, it would be obvious that
 
-- Pica typescript would be equivalent to 10-pt. type. 
-- Elite typescript would be equivalent to 8-pt. type. 
-- Pica reduced to 80% of normal size to 7-pt. type. 
-- Pica reduced to 70% of normal size to 6-pt. type. 
+Pica typescript would be equivalent to 10-pt. type.   
+Elite typescript would be equivalent to 8-pt. type.   
+Pica reduced to 80% of normal size to 7-pt. type.   
+Pica reduced to 70% of normal size to 6-pt. type.   
 
 The relative importance of the horizontal and vertical measurements of type 
 controlling legibility has not been determined; it is, therefore, difficult to 
@@ -171,285 +173,26 @@ is so reduced as to lay down the same word
 content as print-face type on an identical 
 area, the reader is asked to examine Figure XXIX. 
 
- {% include pagebreak.html canvas=77 insert=true %} Exhibit to illustrate comparison of print face types of various sizes and styles with typescript 
+{% include pagebreak.html canvas=77 insert=true %} Exhibit to illustrate comparison of print face types of various sizes and styles with typescript 
 of varying reductions, having approximately the same legibility. 
 
-11-POINT PRINT-FACE 
+{% include figure.html fig="15" %}
 
-This is a specimen of 11-point Modern No. 8, 
-which is assumed to be the equivalent of Pica 
-typescript. 
+{% include pagebreak.html canvas=78 insert=true %} 
+{% include pagebreak.html canvas=79 insert=true %} 
 
-This is a specimen of 11-point Bruce Old Style, 
-which is assumed to be the equivalent of Pica 
-typescript. 
+{% include figure.html fig="16a" %}
 
+{% include pagebreak.html canvas=80 insert=true %} 
 
-This is a specimen of 12-point Garamont, 
-which is assumed to be the equivalent of 
-Pica typescript. 
+{% include figure.html fig="16b" %}
 
-9-POINT PRINT-FACE 
+{% include pagebreak.html canvas=81 insert=true %} 
+{% include pagebreak.html canvas=82 insert=true %} 
 
-This is a specimen of 9-point Modern No. 8, which is assumed to be the equivalent of Elite typescript. 
+{% include figure.html fig="17" %}
 
-This is a specimen of g-point Bruce Old-Style, a beautiful 
-book face. 
-
-This is a specimen of 10-point Garamont, a very economical book face. 
-
-7-POINT PRINT-FACE 
-
-This is a specimen of 7-point Modern No. 8, which is assumed to 
-be the equivalent of Pica typescript reduced 30 per cent 
-
-This is a specimen of 7-point Bruce Old Style. This size of type is generally used for newsprint. 
-
-This is a specimen of 8-point Garamont. 
-
-6-POINT PRINT-FACE 
-
-This is a specimen of 6-point Modern No. 8, which is assumed to be the 
-equivalent of Pica typescript reduced 50 per cent. 
-
-This is a specimen of 6-point Bruce Old Style. Occasionally this type size is used 
-for footnotes. 
-
-This is a specimen of 6-point Garamont.{%- include columnbreak.html canvas=77 col=2 %} 
-
-FULL SIZE PICA TYPE 
-
-This is a specimen of pica type 
-photographed full size. 
-
-FULL SIZE ELITE TYPE 
-
-This is a specimen of elite type 
-photographed full size. 
-
-PICA TYPE REDUCED 
-
-This is a specimen of pica type 
-reduced 30%. 
-
-This is a specimen of micro-elite type photo- 
-graphed full size, which is assumed to be the 
-equivalent of pica reduced 28% to 30%. 
-
-PICA TYPE REDUCED 
-
-This is a specimen of pica type reduced 50 per cent. 
-
-FIGURE XV 
-
- {% include pagebreak.html canvas=78 insert=true %} 
- {% include pagebreak.html canvas=79 insert=true %} 
-
-
-THE MOST REVOLUTIONARY INVENTION
-SINCE the ADVENT of PHOTOLITHOGRAPHY
-
-Simple Paper Permits Alignment of Typewriting 
-
-Scholars have been slow to accept photolithography as a solution of the problem of 
-scholarly publishing because of the unconventional format which is produced by typescript.
-Because of the equal spacing produced by the 
-conventional typewriter, a compromise had to 
-be made in the design of the letters so that 
-wide and narrow letters would occupy the same 
-space. The result was that a letter such as 
-'m' had to be condensed, and a narrow letter 
-such as 'i' had to be extended. 
-
-The fallacy of attempting to put regular 
-printing types on the ordinary equal space 
-typewriter is illustrated in the following 
-paragraphs. The copy in the first paragraph 
-was set up by a printer in the usual manner, 
-without any attempt at justification. It was 
-then reset, as it would appear if the type 
-used were attached to the conventional typewriter. The lower case 'w' was used as the 
-standard of horizontal spacing. 
-
-
-> Authorities agree that William Caslon was influenced greatly in the design of his famous face 
-  by Dutch types which were used widely in England when he started his work. As D. B. Updike 
-  points out, while Caslon "modelled his letters on
-
-> wwwwwwwwwwwwwwwwww
-
-> Authorities agree that William Caslon was influenced greatly in the design of his famous face 
-  by Dutch types which were used widely in England when he started his work. As D. B. Updike 
-  points out, while Caslon "modelled his letters on
-
-The typewriter, moreover, does not produce 
-justified lines, leaving an uneven right-hand 
-margin so unusual in book printing that conventional taste will prevent the ready acceptance of typescript books. Fortunately it is 
-now possible by the use of Vogeltype Aligning 
-Paper to overcome one of the greatest objections to the use of typescript in scholarly 
-work. The invention also permits the production of many sizes and styles of type without 
-any change in the typewriter keyboard, as 
-illustrated in the headlines on this page. 
-
-By producing a justified right-hand margin, 
-typescript approaches printface in appearance. 
-Doubtless through the development of a typewriter having automatic variable spacing, 
- {% include columnbreak.html canvas=79 col=2 %} 
-such as was built into the first typewriters 
-invented, and type similar to ordinary printface, it will be possible for a scholar at 
-his desk to produce a page format which can 
-not be distinguished from real typeset matter. 
-Thus modern technology, curiously, will bring 
-man back to the conditions of the Middle Ages, 
-when the scholar often was his own scribe. 
-
-{% include osd_iiif_image_viewer.html xywh="1314, 1171, 1232, 1300" canvas="79" %}
-
-A new stretchable paper permits typewritten 
-copy to be aligned evenly on right-hand edges, 
-allows lithographic production of books, briefs, 
-etc., closely resembling printing, but cheaper 
-
-Scholars, moreover, Will be able to illustrate their texts with photographs, graphs 
-and tabular matter simply by making a pasteup 
-combining illustrations and text. The photolithographic process allows great flexibility 
-in preparing copy. Thus the above photograph 
-of Vogeltype Aligning Paper was reproduced on 
-a plate for the offset press by simply pasting a clipping from a magazine into its position in the text. 
-
-The greatly reduced reproductions on the 
-reverse side of this page illustrate some of 
-the many applications of Vogeltype Aligning 
-Paper. Books, bulletins, house organs, proceedings of meetings, circulars, theses and 
-lectures are now produced without the expense 
-of type composition and engravings. 
-
- {% include pagebreak.html canvas=80 insert=true %} 
-
-- Vogeltype samples
-
- {% include pagebreak.html canvas=81 insert=true %} 
-
-- blank
-
- {% include pagebreak.html canvas=82 insert=true %} 
-
-FIGURE XVII 
-
-MASTER COPY FOR PHOTO OFFSET PRINTING
-
-
-Business men throughout the country, particularly 
-those known as printers, are well aware of the fact 
-that a new printing process is here, and that very 
-large savings are possible from its use. This new 
-method is known as *Offset Lithography*. It is a simple process, fast and inexpensive. Illustrations 
-can be used at no extra cost for plates. Business 
-offices are finding it desirable to install offset 
-presses, and many hundreds of these machines are turning out work that is satisfactory in every way. Speed 
-and economy are the factors that create interest. 
-Where the cost of the offset press is too much for 
-the smaller business offices, it is the practice for 
-such offices to make their own master copy and send 
-same to a commercial offset house to be printed. 
-
-The great problem in Photo Offset work is met in the 
-making of the *master copy*. The copy may be printed 
-from type set up by a printer, composed on a linotype, written by a typewriter, or by the *Vari-typer 
-Composing Machine*, built especially for this work. 
-Type-set or linotype copy is too expensive, for after the matter is set up, the greatest part of the 
-printing cost has then been incurred. Typewriting 
-is very unsatisfactory, because only one style of 
-type can be used on any one machine. Typewritten 
-matter is cold and anemic to the artistic eye, and 
-creates the very effect most business men are trying 
-to escape. The only real composing machine which 
-will write copy at a low cost, and at the same time 
-absolutely delight the person interested, is the 
-*Vari-typer*, manufactured in New York City by the 
-Ralph C. Coxhead Corporation. It must be stated here, 
-however, that as with most machines, the degree of 
-satisfaction will vary with the intelligence and artistry of the operator. 
-
-The *Vari-typer* is constructed to use different type 
-plates, of which more than sixty in English are available, and more than two-hundred in foreign languages. 
-Type may be changed instantly. *Variable character 
-spacing* is a feature of each machine, which means that 
-letters may be written at as many characters to the 
-inch as the different sizes of type make necessary, 
-limited, of course, to 3 different spacings on any 
-one machine. These three may be any combination of 
-the spacings 10, 12, 14 or 16 letters to the inch. 
-This machine also permits the use of six *different 
-vertical or line spacings*. The keyboard is easy to 
-operate especially if the operator has had typewriter 
-experience as the touch system is used for both and 
-the keyboards are almost exactly alike. 
-
-Provision is made for **LARGE BOLD HEADINGS** *and this 
-effect is very cleverly produced. Justification of 
-the right hand margin* requires first writing of the 
-copy so as to determine what adjustment is necessary 
-and to so indicate at the end of each line. This 
-adjustment is provided for by absorption or extension in the second writing by use of a device called 
-the *half-back spacer*. This method prevents the rivers of white space so common to justification when 
-attempted by typewriters and which is so objectionable to good printers. 
- {% include columnbreak.html canvas=82 col=2 %} 
-
-*Vari-typer* is manufactured in many models to meet 
-different requirements. The special machine which 
-the Coxhead Corporation builds for the *Photo Offset* 
-Field, is equipped with special mechanism to handle 
-carbon paper ribbon in addition to cotton and silk 
-ribbons. The *carbon paper ribbons* produce remarkably 
-clean cut work and a specially constructed ribbon, 
-300 feet in length, is used which is different than 
-any other ribbon on the market. This ribbon does 
-not travel when the space bar is used, thus producing a considerable economy. 
-
-Recently this Company produced a new type plate with 
-all metal construction which is a great improvement 
-over anything so far offered to the trade. It is 
-called *Krometal* and produces copy that should please 
-those who like artistic results. Most of the plates 
-used on the *Vari-typer Composing Machines* are being 
-built under the new *Krometal* process. 
-
-Writers of manuscript find many features that *Vari-typer* provides, of unusual value. The advantages 
-that follow the ability to use *italics* in marking 
-passages for emphasis is an example. As the machine 
-is always loaded with two type plates, the operator 
-may change instantly from one to the other by a simple movement of the wrist. The *variation of type* is 
-of tremendous interest to all writers. 
-
-Statisticians, librarians, accountants are very enthusiastic over the condensation possibilities of 
-the *Vari-typer* through the use of proper typography. 
-Large statements may be reduced as much as 50% without detracting from the readability. One large concern in Cleveland, Ohio, we are told, uses nine *Vari-typers* on the writing of statements in *condensed 
-form*. The results are very pleasing to executives. 
-
-Footnotes are outstanding in their effect when written with the type appropriate for this purpose. 
-
-The Coxhead Company is continually working on new 
-styles of type and are always interested in discussing this subject with the business and professional 
-man. 
-
-Considering the work that this composing machine 
-does, the cost is very reasonable. It is well known 
-that composition forms the greater part of printing 
-prices and it does seem that the *Vari-typer* can soon 
-save its cost to any business man interested in the 
-subject. The fact that this machine is sold in almost every country of the world, is indication that 
-it solves one problem of the office executive, that 
-of doing necessary work at a saving in cost and with 
-the desired effect. 
-
-Much thought should be given to the matter of composition for photo offset presses, as the saving to 
-be made from the use of this process will soon disappear, if either the results are unsatisfactory, or 
-the method used for composition proves too costly. 
-It should not be forgotten that some reduction of 
-copy through the camera will enhance the result. 
-
- {% include pagebreak.html canvas=83 %} 
+{% include pagebreak.html canvas=83 %} 
 
 ## The Uneven Right-Hand Margin 
 
@@ -548,21 +291,7 @@ typist to choose among a number of type
 faces, type sizes, and corresponding vertical and horizontal spacings. These alternatives are here tabulated and some of the 
 faces available are shown in Figure XVIII. 
 
-TABLE X 
-
-### TYPES OF VARITYPER MACHINES 
-
-| A. | Motor Varitypers: | |
-|    | "Q" | 10 and 12 and 14 characters to the inch. |
-|    | "T" | 10 and 12 and 16 characters to the inch. |
-|    | "L" | 10 and 14 and 16 characters to the inch. |
-|    | "W" | 12 and 14 and 16 characters to the inch. |
-
-| B. | Non-motor Varitypers: | | 
-|    | "Y" | 10 and 14 characters to the inch. |
-|    | "S" | 10 characters to the inch. |
-|    | "K" | 12 characters to the inch. |
-|    | "J" | 10 and 12 characters to the inch. |
+{% include table.html tab="10" %}
 
 Eighteen characters to the inch may 
 be had on the "T", "L", and "W" in place of 
@@ -617,102 +346,12 @@ comes back from the typist. Sometimes the
 author prepares his own fair copy; sometimes the so-called fair copy is not very 
 fair. But as a normal stage in the normal 
 
- {% include pagebreak.html canvas=85 insert=true %} 
+{% include pagebreak.html canvas=85 insert=true %} 
 
-FIGURE XVIII 
+{% include figure.html fig="18" %}
 
-This is a sample mimeographed page to illustrate some of the type faces, type sizes, and 
-corresponding vertical and horizontal spacings possible with the *Varityper machine*. This 
-paragraph is written with *Miniature Roman type, in nine point size, with six lines to the 
-inch.* This type lays down fourteen letters to the inch and is similar to the micro-elite 
-type of the standard typewriter. When typing a text in which there are characters not in 
-the Roman alphabet, the non—Roman characters may be available in a Varityper type plate, 
-which costs $500 ($8.50 in metal). 
-
-This is a paragraph written with *Petite 
-type in eight point size, nine lines to  
-the inch*. This type lays down sixteen 
-letters to the inch and corresponds to 
-the ultra-micro-elite type of the standard typewriter. For emphasis, bold 
-characters of the same style as the rest 
- {% include columnbreak.html canvas=85 col=2 %} 
-of the copy can be employed by the use 
-of the hammer repeat key. Italic type
-may also be used for emphasis. This is
-an advantage over ordinary typing, where
-underlining is the only method available
-to indicate emphasis.
-
-*To justify the right-hand margin, a 
-page is typed in the ordinary way on 
-sheet of paper; then the copy is
-blue-pencilled to indicate places 
-where the spaces can be extended or 
-contracted. In the second typing, 
-the extra letters are absorbed by  
-crowding the spacing between the  
-words or letters, using the half- 
-back spacer, and the short lines
-stretched out by increasing the 
-spaces between the words or letters.*
- {% include columnbreak.html canvas=85 col=1 %} 
-
-To justify the right-hand margin, a 
-page is typed in the ordinary way on 
-a sheet of paper; then the copy is
-blue-pencilled to indicate places 
-where the spaces can be extended or 
-contracted. In the second typing, 
-the extra letters are absorbed by  
-crowding the spacing between the  
-words or letters, using the half- 
-back spacer, and the short lines
-stretched out by increasing the 
-spaces between the words or letters.
-
- {% include columnbreak.html canvas=85 col=2 %} 
-
-*This paragraph demonstrates the Varityper's ability to condense statistics into a smaller area than is 
-possible with the standard typewriter using ordinary pica or elite type:*
-
-Comparison of a Quoted Printer's Estimate and a Quoted 
-Varityper Estimate for 50 copies of a Forty-six Page 
-Pamphlet. 
-
-Printing
-
-------:|--------
-$117.50 | typesetting  
-15.00 | make up 
-22.00 | printing 
-2.00 | stock 
-4.00 | binding and collating 
-$160.50 | 
-
-Varityping 
-
------|-----:
-Varityping, justifying the lines, and running off on the Mimeograph . . . . |
-| $60.00 
-
-250 kinds of English and foreign type, 6 to 14 point can be used on one Varityper. 
-
-THIS IS OVERSIZE PICA GOTHIC  
-
-This is SMALL PRINT TYPE  
-
-This is DIACRITICAL  
- {% include columnbreak.html canvas=85 col=2 %} 
-
-This is MEDIUM PRINT 
-
-This is ELITE GOTHIC 
-
-THIS IS PETITE GOTHIC 
-
- {% include pagebreak.html canvas=86 insert=true %} 
-
- {% include pagebreak.html canvas=87 %} 
+{% include pagebreak.html canvas=86 insert=true %} 
+{% include pagebreak.html canvas=87 %} 
 
 movement of a book, this fair copy typing 
 can be set apart from the making of the 
@@ -753,7 +392,7 @@ cost.
 
 ## The Fair Copy as a Stage in the Writing Process
  
-The author on a book is usually ex{%- include columnbreak.html canvas=87 col=2 -%}pected to bring his work through the fair 
+The author of a book is usually ex{%- include columnbreak.html canvas=87 col=2 -%}pected to bring his work through the fair 
 copy stage at his own expense. The cost 
 of preparing the fair copy depends in part 
 upon the condition of the draft copy. There 
@@ -879,62 +518,12 @@ format.
 The argument in favor of merging 
 the different typing operations is the 
 greater the cheaper the reproduction process. Thus the typist who makes a carbon 
- {% include pagebreak.html canvas=89 insert=true %} 
+{% include pagebreak.html canvas=89 insert=true %} 
+{% include pagebreak.html canvas=90 insert=true %} 
 
- {% include pagebreak.html canvas=90 insert=true %} 
+{% include figure.html fig="19" %}
 
-FIGURE XIX 
-
-The effect of a variation in apparatus and typists' skill 
-in the preparation of the format copy for photo-offset work 
-is illustrated in this sample page. The page has been printed 
-on the same press as the other pages of the book; it would not 
-be different from other pages except for the differences in 
-the original typings. These differences are exhibited by dividing the page into sections, each section showing the effect of the varying conditions under which the format copy was typed. 
-
- {% include columnbreak.html canvas=90 col=2 %} 
-
-This paragraph was typed with a 
-lightly-inked ribbon and a fairly 
-even touch.
-
-This paragraph was typed with a 
-lightly-inked ribbon and a fairly 
-light but uneven touch.
-
-This paragraph was typed with a 
-lightly-inked ribbon but with a 
-heavily touch.
-
-This paragraph was typed with a 
-well-inked ribbon and a light and 
-even touch. 
-
-This paragraph was typed with a 
-well-inked ribbon and a light but 
-uneven touch. 
- {% include columnbreak.html canvas=90 col=2 %} 
-
-This paragraph was typed with a 
-heavily-inked ribbon and with a 
-heavy touch. The effect is very 
-unpleasant and hard to read. 
-
-This paragraph was typed with a 
-heavily-inked ribbon but with a 
-lighter more even touch. 
-
-This paragraph was typed with a 
-heavily-inked ribbon and an uneven 
-touch. 
-
-This paragraph was typed by a 
-trained typist at the Edwards 
-Brothers establishment, using a 
-carbon ribbon and a photo-offset 
-typewriter. 
-
- {% include pagebreak.html canvas=91 %} 
+{% include pagebreak.html canvas=91 %} 
 
 copy makes it customarily while preparing 
 the fair copy. She does not plan to make 
@@ -1130,29 +719,9 @@ the elite typewriters are distinctly less
 common than the pica, the most useful information about formats must be worked out 
 with the less efficient apparatus, namely, {% include pagebreak.html canvas=93 %} 
 
-TABLE XI 
+{% include table.html tab="11" %}
 
-SHOWING HIGH VARIATION IN TYPESCRIPT COMPOSITION COSTS PER ONE THOUSAND 
-WORDS IN PREPARING A TYPESCRIPT BOOK OF 100,000 WORDS 
-
-| FAIR COPY | FORMAT COPY |
-| 1. One-column, straight matter, typed by typist at low wage and high efficiency ... $.20 | 1. One-column, straight matter, made from fair copy and typed at typing bureau estimates ... $.50 |
-| 2. One-column, straight matter, typed by typist at high wage and high efficiency ... $.35 | 2. Two-column, straight matter, made from draft copy and typed at typing bureau estimates ... $.80 |
-| 3. One-column, straight matter, typed at typing bureau estimates ... $.40 | 5. One-column, straight matter, made  from fair copy and typed by typist at normal wages and normal efficiency for photo-offset work ... $.85 |
-| 4. One-column, straight matter, typed by typist at low wage and low efficiency ... $.48 | 4. One-column, straight matter, made from fair copy and typed at typing bureau estimates for photo-offset work ... $.90 
-| 5. One column, straight matter, typed from bad draft copy at typing bureau estimates ... $.60 | 5. One-column, technical symbols, made from fair copy and typed by typist at normal wage and normal efficiency for photo-offset work ... $1.00 | 
-| 6. Two-column, straight matter, typed by typist at normal wage and normal efficiency ... $.65 | 6. Two-column, straight matter, typed by typist at normal wage and normal efficiency for photo-offset work ... $1.00 |
-| 7. Two-column, straight matter, typed at typing bureau estimates ...  $.70| 7. One-column, straight matter, made from fair copy and cut on mimeograph stencils at typing bureau estimates ... $1.00 |
-| 8. One-column, straight matter, typed by typist at high wage and low efficiency ... $.72 | 8. One-column, straight matter, made from fair copy and typed by photo-offset concern at quoted prices ... $1.25 |
-| 9. One-column, many technical terms and unusual symbols, typed at typing bureau estimates ... $.75 | 9. One-column, technical symbols, made from fair copy and typed by photo-offset concern at quoted prices ... $1.50 |
-| 10. Two-column, technical matter, typed by typist at normal wage and normal efficiency ... $.90 | 10. Two-column, atratent matter, typed by photo-offset concern at quoted prices ...  $.56 to $1.50 | 
-| 11. Two-column, technical matter, typed at typing bureau estimates ... $1.00 | 11. Two-column, technical matter, typed by typist at normal wage and normal efficiency for photo-offset work ... $1.50 |
-| | 12. Two-column, straight matter, made from draft copy and cut on mimeograph stencil at typing bureau estimates ... $1.50 |
-| | 13. One-column, straight matter, made from fair copy, with justified lines and typed by photo-offset concern at quotes prices ... $1.70 |
-| | 14. Two-column, technical matter, typed by photo-offset concern at quoted prices ... $1.50 to $2.00 |
-| | 15. Two-column, technical matter, with justified lines, typed by photo-offset concern at quoted prices ... $2.00 to $2.50 | 
-
- {% include pagebreak.html canvas=94 %} pica typescript set either single or double 
+{% include pagebreak.html canvas=94 %} pica typescript set either single or double 
 space. 
 
 ### (c) Length of Line 
@@ -1191,3 +760,5 @@ photo-offset reproduction, certain alternative formats will be presented, togeth
 with the cost differentials that separate 
 them. The reader can judge whether the 
 difference an legibility is worth the cost. 
+
+## Notes
