@@ -18,11 +18,15 @@
     -->
     <div class="wrap">
       <header class="masthead">
-        <div class="container">
+        <div class="container" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
           <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title | newline_to_br }}</a>
+            <a href="{{ site.baseurl }}/" title="Home" property="dct:title" rel="cc:attributionURL" href="{{ site.baseurl }}/">{{ site.title | newline_to_br }}</a>
             <br><small>{{ site.tagline }}</small>
           </h3>
+          <br/>
+          <small>
+Edited by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://pbinkley.github.io/">Peter Binkley</a>; licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0</a></p> 
+          </small>
         </div>
       </header>
 
