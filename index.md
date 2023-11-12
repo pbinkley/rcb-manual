@@ -24,6 +24,7 @@ Work in progress, toward an online edition of the *Manual*.
 - <span class="chapternumber">XII.</span> [Photographic and Projecting Apparatus](sections/12-photographic-and-projecting-apparatus.html)
 - <span class="chapternumber">XIII.</span> [The Recording of Sound](sections/13-the-recording-of-sound.html)
 - <span class="chapternumber">XIV.</span> [Conclusion](sections/14-conclusion.html)
+- <span class="chapternumber"></span> [Back matter](sections/15-back.html)
 
 ## Search
 
