@@ -1,4 +1,4 @@
-canvas_id,page_id,label,content,width,height
+canvas,page,label,content,width,height
 0,colour,colour,,2700,3787
 1,front,front,,2694,3708
 2,pastedown,pastedown,,2711,3651

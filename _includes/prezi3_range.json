@@ -1,5 +1,5 @@
 {% for section in include.sections %}
-{%- assign thispage = site.data.pages | where: "canvas_id", section.canvas_id | first -%}
+{%- assign thispage = site.data.pages | where: "canvas", section.canvas | first -%}
   {%- assign sectionnum = forloop.index0 -%}
   {%- capture label -%}
     {% if section.id %}{{ section.id }} {% endif %}
@@ -12,7 +12,7 @@
     "label": { "en": [ "{{ label | normalize_whitespace }}" ] },
     "items": [
       {
-        "id": "https://iiif.archive.org/iiif/manualonmethodso00robe${{ section.canvas_id }}/canvas",
+        "id": "https://iiif.archive.org/iiif/manualonmethodso00robe${{ section.canvas }}/canvas",
         "type": "Canvas"
       }{% if section.subsections %},
         {% include prezi3_range.json sections=section.subsections root=root %}

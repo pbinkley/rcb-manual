@@ -1,4 +1,4 @@
-{% assign sections = site.data.toc | where_exp: "item", "item.last_canvas_id" %} 
+{% assign sections = site.data.toc | where_exp: "item", "item.last_canvas" %} 
 {
   "id": "{{ '/iiif/manualonmethodso00robe/range/toc' | absolute_url }}",
   "type": "Range",

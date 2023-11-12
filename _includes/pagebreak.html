@@ -1,7 +1,7 @@
-{%- assign thispage = site.data.pages | where: "canvas_id", include.canvas | first -%}
+{%- assign thispage = site.data.pages | where: "canvas", include.canvas | first -%}
 {%- capture linkpage -%}
   {%- if thispage['content']=="insert" or thispage['content']=='blank' -%}n{{- include.canvas | minus: 1 -}}
-  {%- else -%}{{ thispage['page_id'] }}{%- endif -%}
+  {%- else -%}{{ thispage['page'] }}{%- endif -%}
 {%- endcapture -%}
 {%- assign canvas = include.canvas | prepend: '0000' | slice: -4, 4 -%}
 {%- capture thumbnail -%}
