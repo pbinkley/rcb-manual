@@ -3,6 +3,10 @@ layout: narrative
 ---
 
 <div style="text-align: center">
+ {% include pagebreak.html canvas=1 insert=true %} 
+ {% include pagebreak.html canvas=2 insert=true %} 
+ {% include pagebreak.html canvas=3 insert=true %} 
+ {% include pagebreak.html canvas=4 insert=true %} 
  {% include pagebreak.html canvas=5 insert=true %} 
 MANUAL ON METHODS<br/>
 OF<br/>

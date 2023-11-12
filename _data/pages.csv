@@ -1,9 +1,8 @@
 canvas,page,label,content,width,height,ia_page
-0,colour,colour,,2700,3787,""
-1,front,front,,2694,3708,n0/
+1,front,front,,2694,3708,""
 2,pastedown,pastedown,,2711,3651,n1/
-3,flyleaf,flyleaf,,2694,3708,n2/
-4,flyleaf,flyleaf,,2739,3719,n3/
+3,flyleaf,flyleaf,blank,2694,3708,n2/
+4,flyleaf,flyleaf,blank,2739,3719,n3/
 5,i,[i],,2694,3708,n4/
 6,ii,[ii],,2711,3696,n5/
 7,iii,iii,,2694,3708,n6/
