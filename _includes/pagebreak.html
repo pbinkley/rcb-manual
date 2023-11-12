@@ -1,8 +1,5 @@
 {%- assign thispage = site.data.pages | where: "canvas", include.canvas | first -%}
-{%- capture linkpage -%}
-  {%- if thispage['content']=="insert" or thispage['content']=='blank' -%}n{{- include.canvas | minus: 1 -}}
-  {%- else -%}{{ thispage['page'] }}{%- endif -%}
-{%- endcapture -%}
+{%- capture linkpage %}{{ thispage['ia_page'] }}{% endcapture -%}
 {%- assign canvas = include.canvas | prepend: '0000' | slice: -4, 4 -%}
 {%- capture thumbnail -%}
   {{ canvas | strip | prepend: 'https://iiif.archive.org/image/iiif/3/manualonmethodso00robe%2fmanualonmethodso00robe_jp2.zip%2fmanualonmethodso00robe_jp2%2fmanualonmethodso00robe_' | append: '.jp2/full/200,/0/default.jpg' | absolute_url }}
@@ -10,9 +7,9 @@
 {%- capture output -%}
 <span id="page_{{ thispage.label | strip}}" title="Page {{ thispage.label | strip}}" style="color: red">∣</span><label title="Show p.{{ thispage.label | strip }} thumbnail" style="color: red" for="mn-page-{{ include.canvas }}" class="margin-toggle">&#128196;</label><input type="checkbox" id="mn-page-{{ include.canvas }}" class="margin-toggle"/><span class="marginnote">
   {%- if thispage['content']!='blank' -%}
-  <a href="https://archive.org/details/manualonmethodso00robe/page/{{ linkpage | strip }}/mode/1up">
+  <a href="https://archive.org/details/manualonmethodso00robe/page/{{ linkpage }}mode/1up">
     <img style="width: 150px; border: 1px solid black; margin-bottom: 0" src="{{ thumbnail }}">
   </a>{%- endif -%}p.{{ thispage.label | strip }}
-  {% if thispage['content']=='blank' %}<a href="https://archive.org/details/manualonmethodso00robe/page/{{ linkpage | strip }}/mode/1up">\(blank\)</a>{% endif %}</span>
+  {% if thispage['content']=='blank' %}<a href="https://archive.org/details/manualonmethodso00robe/page/{{ linkpage }}mode/1up">\(blank\)</a>{% endif %}</span>
 {%- endcapture -%}
 {{- output | strip -}}
