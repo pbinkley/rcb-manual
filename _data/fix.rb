@@ -7,7 +7,7 @@ input.each do |row|
 	if row['page'].is_a? Integer
 		row['ia_page'] = row['page']
 	else
-		row['ia_page'] = "n#{row['canvas']}"
+		row['ia_page'] = "n#{row['canvas']-1}"
 	end
 end
 
