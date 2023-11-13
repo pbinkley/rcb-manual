@@ -1,8 +1,8 @@
 canvas,page,label,content,width,height,ia_page,section
 1,front,front,,2694,3708,"",00-front
-2,pastedown,pastedown,,2711,3651,n1/,00-front
-3,flyleaf,flyleaf,blank,2694,3708,n2/,00-front
-4,flyleaf,flyleaf,blank,2739,3719,n3/,00-front
+2,front-pastedown,front pastedown,,2711,3651,n1/,00-front
+3,front-flyleaf-a,front flyleaf a,blank,2694,3708,n2/,00-front
+4,front-flyleaf-b,front flyleaf b,blank,2739,3719,n3/,00-front
 5,i,[i],,2694,3708,n4/,00-front
 6,ii,[ii],,2711,3696,n5/,00-front
 7,iii,iii,,2694,3708,n6/,00-front
@@ -377,5 +377,5 @@ canvas,page,label,content,width,height,ia_page,section
 376,206,206,,2683,3680,206/,15-back
 377,207,207,,2773,3820,207/,15-back
 378,208,[208],,2717,3702,208/,15-back
-379,pastedown,pastedown,blank,2683,3680,n378/,15-back
+379,back-pastedown,back pastedown,blank,2683,3680,n378/,15-back
 380,back,back,insert,2773,3820,n379/,15-back

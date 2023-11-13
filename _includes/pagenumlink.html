@@ -1,0 +1,2 @@
+{%- assign thispage = site.data.pages | where: "page", include.page | first -%} 
+<a href="{{ thispage.section }}.html#page_{{ thispage.page }}">{{ thispage.label }}</a>
