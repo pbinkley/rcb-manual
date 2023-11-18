@@ -500,7 +500,7 @@ of detail. The reader who would appraise
 the effect of refinement in screening upon 
 rendition of detail and richness of tone is 
 referred to the exhibits bound herewith. 
-(Figures XLVI-XLIX.) The photographic work 
+(Figures [XLVI](#figure_46)-[XLIX](#figure_49).) The photographic work 
 on the finer screens is no more costly than 
 on the coarse screens, but the printing is 
 more difficult. The finer the screen the 
@@ -513,12 +513,12 @@ contrast with the products of photoengraving.
 
 ## The Large and Small Offset Presses in Pictorial Work 
 
-In Chapter III, on reprinting of 
+In [Chapter III](03-printed-books.html), on reprinting of 
 books, it was stated that there are two 
 kinds of photo-offset presses: the large 
 press, such as the Harris press, used by 
 printers for commercial work; and the smaller presses, such as the rotaprint and multilith, used also as office equipment by 
-non-professional operators. In Chapter V, 
+non-professional operators. In [Chapter V](05-the-typescript-book-or-memorandum-reproduction-techniques.html), 
 on the typescript book, there was included 
 a discussion of plate size in connection 
 with format, and of the use of direct typing on the metal sheet of the smaller 
@@ -560,8 +560,8 @@ a manuscript---and had them both screened at
 85, 133, 150, and 175 lines to the inch. 
 This negative, with its four different 
 screenings, was then run on the rotaprint 
-(Figure XLII), the multilith (Figure XLIII), 
-and the Harris press (Figure XLI). The 
+([Figure XLII](#figure_42)), the multilith (Figure [XLIII](#figure_43)), 
+and the Harris press ([Figure XLI](#figure_41)). The 
 differences between fineness of screening 
 can be noted by comparing, on the same 
 page, the first and last reproductions; the 
@@ -686,9 +686,9 @@ There is no technological obstacle to the
 preparation of copy for the photogelatin 
 process in the form of typescript text and 
 unscreened photographic prints or negatives. 
-Two full—tone collotype reproductions are 
-shown herewith (Figure XLIV, XLV). Note {% include columnbreak.html canvas=194 col=2 %} also the enlargement of microcopied print 
-in Chapter XI, Exhibit LXITI. 
+Two full-tone collotype reproductions are 
+shown herewith (Figure [XLIV](#figure_44), [XLV](#figure_45)). Note {% include columnbreak.html canvas=194 col=2 %} also the enlargement of microcopied print 
+in [Chapter XI](11-cost-levels-and-applications-of-microcopying-and-projection-reading.html), [Exhibit LXIII](11-cost-levels-and-applications-of-microcopying-and-projection-reading.html#figure_63). 
 
 The limitation imposed upon this 
 process by the rapid wearing out of the 
@@ -792,7 +792,7 @@ Inc., of Philadelphia being the only establishment the author knows of that does
 this kind of work,[^n2] but it makes very fine 
 reproductions. It has many similarities 
 to the photogelatin method. An example of 
-aquatone work is displayed herewith (Figure L). 
+aquatone work is displayed herewith ([Figure L](#figure_50)). 
 
 [^n2]: Edward Stern and Company, Inc., has made available an excellent booklet, "What Is Aquatone?" which gives a detailed description of the process. 
 
@@ -975,7 +975,6 @@ black-and-white drawings, charts, or maps. {% include pagebreak.html canvas=211 
 {% include figure.html fig="52" %}
 
 {% include pagebreak.html canvas=215 %}
-
 {% include pagebreak.html canvas=216 %}
 
 {% include table.html tab="31" %}
@@ -1001,7 +1000,7 @@ used in publishing.
 If his edition is to be less than 
 fifty, he will probably fare best if he 
 makes up a typescript book by one of the 
-processes and in one of the formats discussed in Chapter V, and then has the {% include columnbreak.html canvas=215 col=2 %} photographic material duplicated by a blueprint or bromide-print process. In binding his book, he will simply gather the 
+processes and in one of the formats discussed in [Chapter V](05-the-typescript-book-or-memorandum-reproduction-techniques.html), and then has the {% include columnbreak.html canvas=215 col=2 %} photographic material duplicated by a blueprint or bromide-print process. In binding his book, he will simply gather the 
 illustrative sheets with the typescript 
 pages and have them bound in place. 
 
@@ -1024,148 +1023,7 @@ most important decision lies between publication of illustrations on separate pa
 
 {% include pagebreak.html canvas=216 %}
 
-TABLE XXXII 
-
-TODO
-
-COSTS OF REPRODUCING BOOK OF PICTORIAL MATTER IN 
-VARYING PAGE AND PICTURE SIZES 
-
-Page Size Picture Size 
-6" xX gq x 6" 
-
-an x 10" x nv 
-AOS sce ee gn 
-11" x 14" aa 
-
-
-100 
-4" x 6" picture Line cut, zinc 100.38 120.38 147.88 705.68 
-Half-—tone, zinc 99.70 19.70 147.20 
-Toz.50_| 122.50 | 150.00 
-
-
-6" x 9" page 
-
-
-Collotype 450,.00° 555.00 
-
-
-5" x 7" picture Line cut, zinc LOLS Ly LoL Ly 148.67 206.17 
-
-
-page 
-
-
-Bltx LOM 
-
-
-
-
-
-
-
-
-7" x 9" picture 
-10" x 12" page 
-
-
-
-
-
-
-
-ON x LIN picture 
-11" x 14" page 
-Half-tone, zinc 100.47 120.47 147.97 44 
-104.20 | 124.20 | 151.70 
-
-
-Collotype 550.00 885.00 1325.00 2000.00 
-Line cut, zine 103.14 123.14 150.64 
-
-
-Half-—tone, zinc 102.89 122.359 149.89 
-108.88 | 128.88 | 155.88 
-
-
-Collotype 
-Line euc. zinc 106.04 126.04 153.54 
-
-
-Half-tone, zinc 106.39 126.39 153.89 
-Nn n" copper EBS. SSeS GINOIZ 
-Collotype 1100.00 | L770. 00M e2650200 
-
-
-
-
-
-No. of Pages at a Time 
-
-
-a a 
-
-
-oP iW oO 
-
-
-Edition of 
-
-
-250 500 1000 
-
-
-204.70 
-207.50 
-
-
-780.00 1150.00 
-
-
-205.47 
-209.20 
-
-
-
-
-
-208.14 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5900.00 
-
-
-1000.00 1670.00 2550.00 
-
-
-
-
-
-ce a i care er Eg i ni a a 
-
-
-211.04 
-
-
-
-
-
-4000.00 
-
+{% include table.html tab="32" %}
 
 For the drawings the author has two 
 choices: he may elect relief printing with 
@@ -1235,7 +1093,7 @@ text might be issued in an edition of appropriate size, and the illustrative mat
 of film, to be used by projection on a 
 screen or in a reading machine. The cost 
 levels at which such films can be manufactured and distributed will be discussed 
-in Chapter XII; it need only be noted at 
+in [Chapter XII](12-photographic-and-projecting-apparatus.html); it need only be noted at 
 this point that the technique is at hand, 
 and that it might lead to a practice of 
 far more copious pictorial illustrations 
@@ -1271,314 +1129,9 @@ the varieties of product that technology
 now puts at their disposal. If they can 
 but accommodate themselves to the new techniques, important barriers to intellectual 
 intercourse can be made to fall. 
-
 {% include pagebreak.html canvas=218 %}
 
-TABLE XXXIII
-
-TODO
-
-ANALYSIS OF PRODUCTION COSTS OF ILLUSTRATIONS COMBINED WITH TEXT 
-
-Stages in 
-Manufacture 
-Composition See Chapter 
-of Textual III on lLino- 
-Matter type or mono- 
-
-
-type 
-
-
-Truing up the Illustrative Material: 
-
-
-er scale. 
-
-Text with Line Drawings 
-
-
-See Chapter V on 
-typescript 
-
-
-This step in the process is common to 
-
-
-Text with Toned Illustrations 
-
-
-Printing Photo-offset Printing Photo-offset 
-
-
-See Chapter III 
-
-
-
-
-
-
-
-on linotype or 
-monotype 
-
-
-
-
-
-
-
-
-i ee 
-
-
-
-
-
-
-
-
-Photogelatin 
-
-
-See Chapter V |See Chapter V . 
-on typescript jon typescript 
-
-
-
-
-
-
-
-
-
-
-
-reducing or enlarging photographs to bring them to prop—- 
-all techniques. 
-
-
-The author can assume it 
-
-
-himself by having all the drawings or photographs in such a size that they can be reproduced 
-A discount of 10% to 30% is usually accorded 
-
-
-in the same degree of enlargement or reduction. 
-
-
-in quotations on a job that does not call for special truing up of photographs, or one that 
-has all photographic work reproduced in size as submitted, or in the same degree of reduction 
-
-
-or enlargement. 
-
-
-tones; $4.28 for zinc etchings. 
-
-
-
-
-
-
-
-
-
-screening 
-of Tllustra— 
-
-
-tions 
-
-
-Le ee cee 
-
-
-Making Photographic Negatives: apart from the screening, 
-
-
-Screening is 
-about 40% of 
-the cost of a 
-photoengraving 
-plate 
-
-
-
-
-
-This discount applies only to plates which scale at less than $5.62 if half 
-
-
-
-
-
-Not 
-necessary 
-
-
-Screening proc- 
-ess is techni- 
-cally identi- 
-cal with that 
-used in photo- 
-engraving; 
-prices are not 
-so highly 
-standardized 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-this element in the process is 
-
-
-artes are kt ee for all techniques, but trade practice has standardized the use of the wet plate in 
-photoengraving, while the photo-offset operators utilize film or paper, which is cheaper. 
-
-
-Making the Zine line 
-Printing cuts, $5.58 
-Surface standard 
-
-
-price for 
-one 4" x 6" 
-cut 
-
-
-Setting the 
-
-
-Printing Sur- 
-face in the 
-
-
-Press 
-
-
-Make-up more 
-eelsheitay alae 
-line cuts and 
-text fitted 
-
-
-on same page 
-
-
-Running Costs: 
-text. 
-
-
-
-
-
-Illustrative mat- 
-ter and text re- 
-ceive same treat- 
-ment in prepara- 
-blOnM POM printing 
-surface; icost is 
-simple area cost. 
-See Chapter III 
-
-
-Illustrative mat— 
-ter and text re- 
-ceive same treat- 
-ment 
-
-
-Copper plate 
-engraving 
-$7.55 standard 
-price Lora 
-
-4n x 6" cut 
-
-
-Make-up more 
-costly 2f icuts 
-and text fit- 
-ted on same 
-page; make- 
-ready more ex- 
-pensive in the 
-higher screen- 
-ings 
-
-
-
-
-
-Illustrative 
-matter and 
-
-text receive 
-same treat-— 
-ment; trade 
-
-
-Illustrative 
-matter and 
-text receive 
-same treatment 
-in reparation 
-of printing has not de- 
-surface; cost |veloped the 
-is simple area|production of 
-cost. See Chap-| typescript 
-ter DLL texts with 
-photogelatin 
-illustrations, 
-
-
-| 
-; 
-' 
-' 
-' 
-; 
-| 
-5 
-' 
-but there are no 
-technological 
-obstacles 
-Illustrative 
-matter and 
-text receive 
-
-
-same treat-— 
-ment 
-
-
-Illustrative 
-matter and 
-text receive 
-same treat-— 
-ment 
-
-
-are not affected by the presence or absence of illustrative material with the 
-
-
-are the chemical DUD yeOL mLMem ia Des 
-
+{% include table.html tab="33" %}
 
 ## Endnotes
 
