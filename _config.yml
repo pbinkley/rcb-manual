@@ -32,8 +32,8 @@ mastodon_username: pbinkley
 mastodon_instance: code4lib.social 
 
 # Build settings
-  #remote_theme: minicomp/ed
-theme: ed.
+remote_theme: minicomp/ed
+#theme: ed.
 
 plugins:
   - jekyll-tidy
