@@ -2,12 +2,17 @@
 - title: "Front matter"
   canvas: 1
   last_canvas: 18
-- id: I
+  label: ""
+- id: 1
+  label: I
   title: "The Setting of the Problem of Reproducing Research Materials"
+  page: 1
   canvas: 19
   last_canvas: 20
-- id: II
+- id: 2
+  label: II
   title: "Publishing and Library Costs: The Book"
+  page: 3
   canvas: 21
   last_canvas: 30
   subsections:
@@ -19,8 +24,10 @@
       canvas: 26
     - title: "Library Costs"
       canvas: 27
-- id: III
+- id: 3
+  label: III
   title: "Printed Books and Reprints"
+  page: 13
   canvas: 31
   last_canvas: 74
   subsections:
@@ -59,8 +66,10 @@
       canvas: 68
     - title: "Reprint Processes: Dermaprint"
       canvas: 71
-- id: IV
+- id: 4
+  label: IV
   title: "The Typescript Book or Memorandum: The Typewriter and Typescript"
+  page: 31
   canvas: 75
   last_canvas: 94
   subsections:
@@ -89,8 +98,10 @@
           canvas: 92
         - title: "(c) Length of Line"
           canvas: 94
-- id: V
+- id: 5
+  label: V
   title: "The Typescript Book or Memorandum: Reproduction Techniques"
+  page: 41
   canvas: 95
   last_canvas: 154
   subsections:
@@ -143,8 +154,10 @@
       canvas: 150
     - title: "Cost Analysis: Composition Costs"
       canvas: 153
-- id: VI
+- id: 6
+  label: VI
   title: "Blueprinting, Photostating, and Allied Techniques"
+  page: 65
   canvas: 155
   last_canvas: 180
   subsections:
@@ -173,8 +186,10 @@
       canvas: 174
     - title: "Comparative Costs and Book Production"
       canvas: 177
-- id: VII
+- id: 7
+  label: VII
   title: "Books Containing Characters Not in the Roman Alphabet, Tabular Matter, Diagrams and Illustrations"
+  page: 81
   canvas: 181
   last_canvas: 218
   subsections:
@@ -206,8 +221,10 @@
       canvas: 210
     - title: "Summary"
       canvas: 217
-- id: VIII
+- id: 8
+  label: VIII
   title: "A Study of Paper Permanence"
+  page: 95
   canvas: 219
   last_canvas: 236
   subsections:
@@ -223,8 +240,10 @@
       canvas: 229
     - title: "Appendix"
       canvas: 230
-- id: IX
+- id: 9
+  label: IX
   title: "Binding, Vertical Filing, and Film Storage"
+  page: 111
   canvas: 237
   last_canvas: 242
   subsections:
@@ -242,8 +261,10 @@
       canvas: 239
     - title: "Film Storage"
       canvas: 239
-- id: X
+- id: 10
+  label: X
   title: "Reduced-Scale Photographic and Photolithographing Copying on Paper for Reading Through Magnifying Glasses"
+  page: 115
   canvas: 243
   last_canvas: 264
   subsections:
@@ -265,8 +286,10 @@
       canvas: 263
     - title: "Tru-Vue Apparatus"
       canvas: 263
-- id: XI
+- id: 11
+  label: XI
   title: "Cost Levels and Applications of Microcopying and Projection Reading"
+  page: 121
   canvas: 265
   last_canvas: 320
   subsections:
@@ -324,8 +347,10 @@
       canvas: 319
     - title: "Merging of Collecting and Publishing"
       canvas: 319
-- id: XII
+- id: 12
+  label: XII
   title: "Photographic and Projecting Apparatus"
+  page: 161
   canvas: 321
   last_canvas: 344
   subsections:
@@ -366,8 +391,10 @@
       canvas: 334
     - title: "Projector-and-Enlargement Equipment"
       canvas: 343
-- id: XIII
+- id: 13
+  label: XIII
   title: "The Recording of Sound"
+  page: 177
   canvas: 345
   last_canvas: 352
   subsections:
@@ -377,8 +404,10 @@
       canvas: 345
     - title: "Sound Recording Methods"
       canvas: 346
-- id: XIV
+- id: 14
+  label: XIV
   title: "Conclusion"
+  page: 183
   canvas: 353
   last_canvas: 372
   subsections:
@@ -421,7 +450,10 @@
       canvas: 370
     - title: "Simplified Research Techniques"
       canvas: 371
-- title: "Index"
+- id: 15
+  label: ""
+  title: "Index"
+  page: 203
   canvas: 373
   last_canvas: 380
   subsections:

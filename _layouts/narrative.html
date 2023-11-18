@@ -13,7 +13,7 @@ layout: default
   {% if page.toc_id %}
     <div class="chapter_toc">
       <h4>Contents</h4>
-      {% assign entries = site.data.toc | where: "id",page.toc_id %}
+      {% assign entries = site.data.toc | where: "label", page.toc_id %}
       <ul>
       {% for entry in entries %}
         {% for subentry in entry.subsections %}
