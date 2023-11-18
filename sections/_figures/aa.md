@@ -1,1 +1,1 @@
-{% include osd_iiif_image_viewer.html region="full" id="aa" canvas="157" height="120vh" %}
+{% include osd_iiif_image_viewer.html region="full" id="figure_aa" canvas="157" height="120vh" %}
