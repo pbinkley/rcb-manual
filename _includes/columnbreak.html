@@ -1,4 +1,4 @@
-{%- assign thispage = site.data.pages | where: "canvas_id", include.canvas | first -%}
+{%- assign thispage = site.data.pages | where: "canvas", include.canvas | first -%}
 {%- capture title -%}
   Page {{ thispage.label }}, column {{ include.col }}
 {%- endcapture -%}

@@ -1,0 +1,79 @@
+id,label,title,page,canvas
+1,I,Example of Century Expanded and of Granjon Type,15,33
+2,II,An Economical Print-Face Format,15,35
+3,III,An Economical Print-Face Format,15,37
+4,IV,Example of 8- and 10-point Bodoni Type,17,41
+5,V,Model 100 Multigraph,18,44
+6,VI,Page of Mimeoform Work,19,44
+7,VII,An Economical Mimeoform Format,19,46
+8,VIII,Sample Piece of Multilith Metal Sheet,21,52
+9,IX,Sample Piece of Rotaprint Metal Sheet,21,52
+10,X,The Rotaprint,21,55
+11,XI,Model 200 Multilith,21,57
+12,XII,Harris Press,22,60
+13,XIII,Curve of Diminishing Legibility,25,65
+14,XIV,Page Of Dermaprint Work,27,69
+15,XV,Comparison of Print and Reduced Typescript of Same Legibility,32,76
+16,XVI,Page Demonstrating Spielvogel Aligning Paper,33,78
+17,XVII,Sample of Varityper Work Reduced by Photo-Offset,33,81
+18,XVIII,Sample of Varityper Work Done on Mimeograph,34,84
+19,XIX,Page of Photo-Offset Work Done on Different Machines,37,89
+20,XX,The Ormig Duplicator,43,97
+21,XXI,The Standard New Process Duplicator,43,99
+22,XXII,Sample of Hectograph Gelatin Work,45,102
+23a,XXIIIa,Samples of Hectograph Liquid Work (Standard New Process),45,104
+23b,XXIIIb,,45,106
+24,XXIV,Sample of Hectograph Liquid Work (Ormig),45,108
+25,XXV,Sample of Rotaprint Direct Typing Work,49,114
+26,XXVI,Sample of Multilith Direct Typing Work,49,116
+27,XXVII,Sample of Mimeograph Work on Wax Stencil,49,118
+28,XXVIII,Sample of Micro-Elite Mimeograph Work,49,120
+29,XXIX,Comparison of Print and Reduced Typescript with Same Word Content,53,128
+30,XXX,An Economical Photo-Offset Format,55,132
+31,XXXI,An Inexpensive Photo-Offset Format,58,136
+32,XXXII,An Inexpensive Photo-Offset Format,58,138
+33,XXXIII,An Expensive Photo-Offset Format,59,141
+34,XXXIV,A Typical Photo-Offset Format,59,143
+35,XXXV,A Typical Photo-Offset Format,59,145
+36,XXXVI,A Manuscript Page Reproduced by Photo-Offset,63,151
+37a,XXXVIIa,Example of B-W Work,67,156
+37b,XXXVIIb,Example of Blue Line Print from Paper Negative,67,159
+38,XXXVIII,The Photostat,73,167
+39,XXXIX,The Rectigraph,73,169
+40,XL,The Dexigraph,76,174
+41,XLI,Screened Picture Run on Harris Press,86,187
+42,XLII,Screened Picture Run on Rotaprint Press,87,189
+43,XLIII,Screened Picture Run on Multilith Press,87,191
+44,XLIV,Sample of Collotype Work,88,194
+45,XLV,Sample of Collotype Work,88,196
+46,XLVI,Sample of 80-Line Zinc Cut,88,198
+47,XLVII,Sample of 133-Line Coppers Cut,88,200
+48,XLVIII,Sample of 80-Line Zinc Cut,88,202
+49,XLIX,Sample of 133-Line Copper Cut,88,204
+50,L,Page of Aquatone Work,89,207
+51,LI,Example of Photo-Offset Half-tone Work,91,211
+52,LII,Example of Photo-Offset Half-tone Work,91,213
+53,LIII,Sample of Newspaper Preservation,105,230
+54,LIV,Quarter-Size Page of New York *Times*,115,241
+55,LV,Photo-Offset Reproduction of Abstract Page Done by Peters' Method,116,244
+56,LVI,Fiskoscope,117,247
+57,LVII,Fiske Reading Strip,117,248
+58,LVIII,Spencer Magnifier,118,
+59,LIX,Bendikson's Microprints,118,256
+60,LX,Bendikson's Microscope,118,258
+61,LXI,Van Iterson's Device,119,
+62,LXII,Examples of Photo-Offset and Typescript Reduced and Enlarged,124,
+62a,LXIIa,,124,266
+62b,LXIIb,,124,268
+62c,LXIIc,,124,270
+63a,LXIIIa,Collotype Reproduction of Dagron Film,124,272
+64,LXIV,Sample of 16mm. Film,126,276
+65,LXV,Sample of 35mm. Film,126,278
+66,LXVI,"Leica Camera, Projector, and Accessory Lenses",165,
+67,LXVII,Draeger Camera (Early Model),170,
+68,LXVIII,New Folmer Graflex Camera,170,328
+69,LXIX,Recordak Copying Camera,172,
+70,LXX,Recordak Projector,172,332
+71,LXXI,Teledex Projector,174,336
+72,LXXII,Spencer Projector,174,338
+73,LXXIII,Professor Hanley's Phonographic Equipment,180,346

@@ -3,6 +3,10 @@ layout: narrative
 ---
 
 <div style="text-align: center">
+ {% include pagebreak.html canvas=1 insert=true %} 
+ {% include pagebreak.html canvas=2 insert=true %} 
+ {% include pagebreak.html canvas=3 insert=true %} 
+ {% include pagebreak.html canvas=4 insert=true %} 
  {% include pagebreak.html canvas=5 insert=true %} 
 MANUAL ON METHODS<br/>
 OF<br/>
@@ -143,14 +147,14 @@ April 14, 1936
 
 ## TABLE OF CONTENTS
 
-{% include toc.html unit="Chapter" table="toc" %}
+{% include toc.html unit="Chapter" group="toc" paging="Page" %}
  {% include pagebreak.html canvas=15 insert=true %} 
 
 ## LIST OF TABLES
 
-{% include toc.html unit="Table" table="tables" %}
+{% include toc.html unit="Table" group="table" paging="Page" %}
  {% include pagebreak.html canvas=17 insert=true %} 
 
 ## LIST OF ILLUSTRATIONS
 
-{% include toc.html unit="Figure" table="illustrations" %}
+{% include toc.html unit="Figure" group="figure" paging="Facing Page" %}
