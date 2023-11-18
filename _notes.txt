@@ -10,3 +10,5 @@ Info.json: https://iiif.archive.org/iiif/manualonmethodso00robe$2/info.json
 Thumbnail https://ia801400.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/manualonmethodso00robe/manualonmethodso00robe_jp2.zip&file=manualonmethodso00robe_jp2/manualonmethodso00robe_0031.jp2&id=manualonmethodso00robe&scale=11&rotate=0
 
 Page data spreadsheet: https://docs.google.com/spreadsheets/d/1AGJVVPSelCOsNIugh_XH2RiR-FjrIXfp119ha51Iiac/edit#gid=0
+
+photo in Fig. 50 is copyright "Geoffrey Landisman" - must be typo for Landesman, which appears on Fig. 51 and 52- see https://artsandculture.google.com/asset/die-walkure-geoffrey-landesman/5gGiJbs3yCgjNA https://digital.case.edu/islandora/object/ksl:cphima02188 etc.

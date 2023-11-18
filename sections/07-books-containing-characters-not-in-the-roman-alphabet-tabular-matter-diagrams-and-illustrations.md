@@ -25,34 +25,34 @@ classified as follows:
 I. Presentation of thought in words and 
 numerals. 
 
-A. Words in the Roman alphabet and 
+> A. Words in the Roman alphabet and 
 numerals arranged as usual in horizontal lines, but with variations 
 in size or body introduced for purposes of emphasis. (Use of italics, bold-face, or smaller point 
 size in footnote material.) 
 
-B. Words in the Roman alphabet and 
+> B. Words in the Roman alphabet and 
 numerals arranged in vertical as 
 well as horizontal lines. (Tabular 
 material of all kinds.) 
 
-C. Words interspersed with characters 
+> C. Words interspersed with characters 
 not in the Roman alphabet, or numerals not arranged in simple horizontal lines: (Texts that: include 
 quoted Greek, treatises with intricate formulae.) 
 
 II. Pictorial presentation of thought. 
 
-A. Black and white drawings. (From 
+> A. Black and white drawings. (From 
 the standpoint of reproduction 
 technique, diagrams, graphs, maps, 
 and pictures in black and white 
 are the same.) 
 
-B. Photographs or wash drawings. (The 
+> B. Photographs or wash drawings. (The 
 essential fact is that the reproduction must distinguish different {% include columnbreak.html canvas=181 col=2 %} 
 degrees of light and shade; instead of the sharp contrast of 
 black and white, there are continuous variations in tone.) 
 
-C. Color reproduction. 
+> C. Color reproduction. 
 
 In every case where one of these 
 vehicles for the presentation of thought 
@@ -304,13 +304,13 @@ In all of these processes there
 are different degrees of fidelity in reproduction of pictorial matter. These differences are of two kinds: differences in 
 fineness of detail and differences in fineness or accuracy of tone.
 
-The fineness of detail is primarily a resultant of size. an original picture multiplied in a copy 6″ x 9″ will 
+The fineness of detail is primarily a resultant of size. an original picture multiplied in a copy 6" x 9" will 
 show more detail than the same picture 
-multiplied in a copy 3″ x 4½″. But the 
+multiplied in a copy 3" x 4½". But the 
 method of reproduction has something to do 
-with it. The 3″ x 4½″ copy made by the 
+with it. The 3" x 4½" copy made by the 
 photosensitive paper process on a good bromide paper might show more detail than the 
-6″ x 9″ copy made on photostat paper; the 
+6" x 9" copy made on photostat paper; the 
 smaller copy carefully photoengraved with 
 a high screening would show more detail {% include columnbreak.html canvas=184 col=2 %} 
 than the larger copy done with a low 
@@ -535,29 +535,23 @@ the presswork becomes most important when
 screened photographs are to be reproduced, 
 for differences in quality of presswork 
 manifest themselves most clearly in the reproduction of half-tones. 
-
-The representatives of the {% include pagebreak.html canvas=187 %}
-
+{% include pagebreak.html canvas=187 %}
 {% include pagebreak.html canvas=188 %}
 
-This is 133-screen 
-
-
-This is 80-screen 
+{% include figure.html fig="41" %}
 
 {% include pagebreak.html canvas=189 %}
-
 {% include pagebreak.html canvas=190 %}
 
-WORK DONE ON ROTAPRINT
+{% include figure.html fig="42" %}
 
 {% include pagebreak.html canvas=191 %}
-
 {% include pagebreak.html canvas=192 %}
 
-FIGURE XLIII
+{% include figure.html fig="43" %}
 
-{% include pagebreak.html canvas=193 %} manufacturers of these presses make various 
+
+The representatives of the {% include pagebreak.html canvas=193 %} manufacturers of these presses make various 
 claims as to the quality of their products. 
 To lay the matter objectively before the 
 reader, the Joint Committee has taken two 
@@ -677,8 +671,8 @@ photoengraved prints were made.
 The presses used in the photogelatin process are of two types: the rotary 
 presses, taking large flexible metal sheets 
 (usually aluminum); and the flat-bed presses, which use a thick sheet of glass. The 
-dimensions of these presses vary. The Continental Lithograph Corporation of Cleveland has rotary presses 44″ x 64″; the 
-Meriden Gravure Company of Meriden, Connecticut, uses a flat-bed press 28″ x 39″. 
+dimensions of these presses vary. The Continental Lithograph Corporation of Cleveland has rotary presses 44" x 64"; the 
+Meriden Gravure Company of Meriden, Connecticut, uses a flat-bed press 28" x 39". 
 
 The principle explained in connection with the photo-offset process, that 
 that format is least costly which uses the 
@@ -745,75 +739,41 @@ those areas which correspond to the dark
 places in the positive photograph and 
 slightest in the places that correspond to 
 the light places in the original photograph. 
-
 {% include pagebreak.html canvas=195 %}
 
-FIGURE XLIV 
-
-Note fine treatment of lighter shades. 
+{% include figure.html fig="44" %}
 
 {% include pagebreak.html canvas=196 %}
-
 {% include pagebreak.html canvas=197 %}
 
-FIGURE XLV 
-
-Note lack of resolution in darker shades, but 
-fine gradations in lighter shades. 
+{% include figure.html fig="45" %}
 
 {% include pagebreak.html canvas=198 %}
-
 {% include pagebreak.html canvas=199 %}
 
-FIGURE XLVI 
-
-Zinc half-tone screened at 80 lines to the inch. The loss in the rendering of detail, 
-as compared with the 133 screening (FIGURE XLVII), can be seen in the statues, 
-windows, and automobiles. 
+{% include figure.html fig="46" %}
 
 {% include pagebreak.html canvas=200 %}
-
 {% include pagebreak.html canvas=201 %}
 
-FIGURE XLVII 
-
-Copper half-tone screened at 133 lines to the inch. The gain in the rendering of 
-detail, as compared with the 80 screening (FIGURE XLVI), can be noted in the 
-statues, windows, and automobiles. 
+{% include figure.html fig="47" %}
 
 {% include pagebreak.html canvas=202 %}
-
 {% include pagebreak.html canvas=203 %}
 
-FIGURE XLVIII 
-
-Zinc half-tone screened at 80 lines to the inch. Compare the flat rendering of 
-shadows in the vaulting with the higher screening (FIGURE XLIX), and note 
-also the finer detail of light and shadow in the higher screening. 
+{% include figure.html fig="48" %}
 
 {% include pagebreak.html canvas=204 %}
-
 {% include pagebreak.html canvas=205 %}
 
-FIGURE XLIX 
-
-Copper halftone screened at 133 lines to the inch. Note the resolution of the 
-darker shades in the vaulting as compared with FIGURE XLVIII. 
+{% include figure.html fig="49" %}
 
 {% include pagebreak.html canvas=206 %}
-
 {% include pagebreak.html canvas=207 %}
 
-FIGURE L
-
-Note accurate rendition of fine details 
-
-Reproduced by the Aquatone Process by 
-EDWARD STERN & COMPANY, INC. 
-PHILADELPHIA, PA. 
+{% include figure.html fig="50" %}
 
 {% include pagebreak.html canvas=209 %}
-
 One of the advantages of the photogravure method over others is the ease 
 with which the plate can be retouched by 
 The shadows can be darkened, for 
@@ -837,7 +797,7 @@ aquatone work is displayed herewith (Figure L).
 [^n2]: Edward Stern and Company, Inc., has made available an excellent booklet, "What Is Aquatone?" which gives a detailed description of the process. 
 
 The aquatone plate is made of a 
-thin sheet of zinc. Edward Stern and Company, Inc., uses a 45″ x 54″ plate for its 
+thin sheet of zinc. Edward Stern and Company, Inc., uses a 45" x 54" plate for its 
 presses. To furnish a base for the gelatin coating, the zinc sheet is "grained" 
 with quartz; the gelatin is then applied, 
 set, and washed in a hardening solution. 
@@ -959,11 +919,11 @@ those requiring only black-and-white contrast and those requiring half-tones.
 
 The starting point of cost comparisons must be a picture of a given area reproduced in editions of varying size. The 
 dimensions of the picture chosen for this 
-first comparative table are 4″ x 6″ because {% include columnbreak.html canvas=210 col=2 %} a picture of this size can be used in an 
-ordinary octavo 6″ x 9″. It is assumed, moreover, that 100 illustrations of 
+first comparative table are 4" x 6" because {% include columnbreak.html canvas=210 col=2 %} a picture of this size can be used in an 
+ordinary octavo 6" x 9". It is assumed, moreover, that 100 illustrations of 
 identical size are required. The book here 
-described is, therefore, a book of 100 pages of pictorial material, consisting of 6″ 
-x 9″ pages with pictorial matter 4″ x 6″ on 
+described is, therefore, a book of 100 pages of pictorial material, consisting of 6" 
+x 9" pages with pictorial matter 4" x 6" on 
 each page. 
 
 This crude comparison indicates 
@@ -1005,67 +965,20 @@ made for the different ways in which pictures may be combined with text.
 The simplest situation is that of 
 the photo-offset book illustrated with 
 black-and-white drawings, charts, or maps. {% include pagebreak.html canvas=211 %}
-
 {% include pagebreak.html canvas=212 %}
 
-FIGURE LI 
-
-Photo-Offset Halftone 
-(120 lines to the inch) 
-Geoffrey Landesman, Photographer 
+{% include figure.html fig="51" %}
 
 {% include pagebreak.html canvas=213 %}
-
 {% include pagebreak.html canvas=214 %}
 
-FIGURE LII 
-
-Photo-Offset Halftone 
-(120 lines to the inch) 
-Geoffrey Landesman, Photographer 
+{% include figure.html fig="52" %}
 
 {% include pagebreak.html canvas=215 %}
 
 {% include pagebreak.html canvas=216 %}
 
-TABLE XXXI 
-
-TODO
-
-COST, EXCLUSIVE OF BINDING, OF A BOOK OF 100 PAGES 6″ x 9″, EACH 
-PAGE CONTAINING PICTORIAL MATTER OF SIZE 4″ x 6″ 
-
-Process Edition 
-LO rs 0 100 250 500 1000 
-
-Blue line print from Y 
-
-paper negative $41.50 | $ 70.00 | $117.50 | $212.50 | $ 497.50 | $ 972.50 | $1922.50 
-B-W 19.00 47.50 95.00 190.00 475.00 950.00 1900.00 
-Photostat 
-
-(8 upon 18 x 24) 765.00 1890.00 3765.00 eae O.O) 
-Photo-offset black-— 
-
-and-white (includes 
-
-Maite wine etKten— 144.00 OO 167.00 193.00 
-ing) 
-
-Photo-offset half- 
-
-tone (includes sad- 560.00 365.00 569.00 577.00 392.00 418.00 
-dle wire stitching) 
-
-PL Cm Lane? Cust eee aad 0 100.48 120.38 147.88 £05.58 
-Zinc photoengraving, 
-
-sereened 100 99.70 or 20 147.20 204.70 
-Copper photoengrav— 
-ing, screened 150 OZR OO ee oO 150). OG ZOR cae) 
-Photogelatin 
-
-eolictyre) $50.00 Hon. 00 780.00 LLSORT OO 
+{% include table.html tab="31" %}
 
 Here the pictorial material is simply combined with the format copy, and no further effect upon cost is felt. 
 
@@ -1119,26 +1032,26 @@ COSTS OF REPRODUCING BOOK OF PICTORIAL MATTER IN
 VARYING PAGE AND PICTURE SIZES 
 
 Page Size Picture Size 
-6″ xX gq x 6″ 
+6" xX gq x 6" 
 
-an x 10″ x nv 
+an x 10" x nv 
 AOS sce ee gn 
-11″ x 14″ aa 
+11" x 14" aa 
 
 
 100 
-4″ x 6″ picture Line cut, zinc 100.38 120.38 147.88 705.68 
+4" x 6" picture Line cut, zinc 100.38 120.38 147.88 705.68 
 Half-—tone, zinc 99.70 19.70 147.20 
 Toz.50_| 122.50 | 150.00 
 
 
-6″ x 9″ page 
+6" x 9" page 
 
 
 Collotype 450,.00° 555.00 
 
 
-5″ x 7″ picture Line cut, zinc LOLS Ly LoL Ly 148.67 206.17 
+5" x 7" picture Line cut, zinc LOLS Ly LoL Ly 148.67 206.17 
 
 
 page 
@@ -1153,8 +1066,8 @@ Bltx LOM
 
 
 
-7″ x 9″ picture 
-10″ x 12″ page 
+7" x 9" picture 
+10" x 12" page 
 
 
 
@@ -1163,7 +1076,7 @@ Bltx LOM
 
 
 ON x LIN picture 
-11″ x 14″ page 
+11" x 14" page 
 Half-tone, zinc 100.47 120.47 147.97 44 
 104.20 | 124.20 | 151.70 
 
@@ -1543,7 +1456,7 @@ Surface standard
 
 
 price for 
-one 4″ x 6″ 
+one 4" x 6" 
 cut 
 
 
@@ -1594,7 +1507,7 @@ engraving
 $7.55 standard 
 price Lora 
 
-4n x 6″ cut 
+4n x 6" cut 
 
 
 Make-up more 
