@@ -5,7 +5,7 @@ title: "Binding, Vertical Filing, and Film Storage"
 layout: narrative
 ---
 
- {% include pagebreak.html canvas=237 %} The use of typescript and near-print in the production of small editions 
+{% include pagebreak.html canvas=237 %} The use of typescript and near-print in the production of small editions 
 of documents of internal circulation in 
 scholarship need not necessarily give rise 
 to new library problems. If most of these 
@@ -72,7 +72,7 @@ a labor cost of $.40. Wire stapling by a
 commercial service shop costs about $.02 a 
 copy. Machine stapling, including a suitable paper cover, is available at a cost 
 of a few cents a copy. This will take care 
-of items up to ¼″ in thickness. Wire 
+of items up to ¼" in thickness. Wire 
 stapling through the fold is not suitable 
 for ordinary typescript on typescript paper, but it can be used for any printed or 
 photo-offset items published in one signature of sixteen or thirty-two pages. 
@@ -90,8 +90,8 @@ is absolutely flexible, the inside margins
 are not obscured in any way, and there is 
 no trouble with a double spread of page. 
 The price is determined by two factors: 
-quantity and length of the side to be spiral bound. An 11″ side, which is the common one used in schools, in quantities of 
-1000, with each copy ¼″ in thickness, 
+quantity and length of the side to be spiral bound. An 11" side, which is the common one used in schools, in quantities of 
+1000, with each copy ¼" in thickness, 
 would cost approximately $50.00. The price 
 goes down as the quantity increases, 2500 
 copies getting a 10% discount; 10,000 having a 20% discount, etc. 
@@ -120,11 +120,11 @@ has been published in reduced-size offset.
 For items of pamphlet thickness, 
 four binding techniques are available: 
 namely, the spiral binding and the stapling 
-mentioned above, pasting, and wire stitching. Pasting, next to 'stapling, is the 
+mentioned above, pasting, and wire stitching. Pasting, next to stapling, is the 
 simplest method of fastening sheets of a 
 pamphlet together, one fold inside of another. This method, however, is for binding only a few sheets and is for very temporary work. 
 
- {% include columnbreak.html canvas=238 col=2 %} There are two common methods of 
+{% include columnbreak.html canvas=238 col=2 %} There are two common methods of 
 wire stitching: saddle-and side-wire 
 stitching. With saddle-wire stitching, the 
 pamphlet is opened in the middle and layed 
@@ -137,7 +137,7 @@ the same method, except that the stitching
 is done through the side of the collected 
 sheets instead of through the fold. Saddle-wire stitching is used when sheets are folded as one signature; side-wire stitching is 
 used when two or more signatures are gathered side by side. Wire stitchers can be 
-used for items up to ½″ in thickness. 
+used for items up to ½" in thickness. 
 
 Pamphlet producers, like periodical 
 publishers, usually pass their binding 
@@ -251,7 +251,7 @@ to speak of an "average" library book,
 nevertheless, a sample quotation on the 
 cost of bookbinding in a style suitable for 
 library shelving will illustrate the general cost level. The costs, as shown in 
-Table XXXVI on the following page, are based 
+[Table XXXVI](#table_36) on the following page, are based 
 on a good library binding of cloth vellum, 
 linen finish. 
 
@@ -273,95 +273,14 @@ about $1.50.
 There are three ways of storing 
 microcopied material on 16 mm. or 35 mm. {% include pagebreak.html canvas=240 %} 
 
-TABLE XXXVI 
-
-COST OF A GOOD LIBRARY BINDING FOR A BOOK 1½″ THICK 
-
-<table>
-  <thead>
-<tr>
-<th colspan=8>A. Edition Costs</th>
-</tr>
-</thead>
-<tbody>
-    <tr>
-<th rowspan=2>Page Size</th>
-<th colspan=7>Edition Size</th>
-</tr>
-<tr>
-<th>25</th>
-<th>50</th>
-<th>100</th>
-<th>200</th>
-<th>500</th>
-<th>750</th>
-<th>1000</th>
-</tr>
-<tr>
-<td>6″ x 9″</td>
-<td style="text-align: right">$24.50</td>
-<td style="text-align: right">$41.50</td>
-<td style="text-align: right">$73.00</td>
-<td style="text-align: right">$145.00</td>
-<td style="text-align: right">$240.00</td>
-<td style="text-align: right">$322.50</td>
-<td style="text-align: right">$380.00</td>
-</tr>
-<tr>
-<td>8½″ x 11″</td>
-<td style="text-align: right">$25.00</td>
-<td style="text-align: right">$42.50</td>
-<td style="text-align: right">$75.00</td>
-<td style="text-align: right">$150.00</td>
-<td style="text-align: right">$250.00</td>
-<td style="text-align: right">$337.50</td>
-<td style="text-align: right">$400.00</td>
-</tr>
-<tr>
-<th colspan=8>B. Unit Costs</th>
-</tr>
-    <tr>
-<th rowspan=2>Page Size</th>
-<th colspan=7>Edition Size</th>
-</tr>
-<tr>
-<th>25</th>
-<th>50</th>
-<th>100</th>
-<th>200</th>
-<th>500</th>
-<th>750</th>
-<th>1000</th>
-</tr>
-<tr>
-<td>6″ x 9″</td>
-<td style="text-align: right">$.98</td>
-<td style="text-align: right">$.83</td>
-<td style="text-align: right">$.73</td>
-<td style="text-align: right">$.58</td>
-<td style="text-align: right">$.48</td>
-<td style="text-align: right">$.43</td>
-<td style="text-align: right">$.38</td>
-</tr>
-<tr>
-<td>8½″ x 11″</td>
-<td style="text-align: right">1.00</td>
-<td style="text-align: right">.85</td>
-<td style="text-align: right">.75</td>
-<td style="text-align: right">.60</td>
-<td style="text-align: right">.50</td>
-<td style="text-align: right">.45</td>
-<td style="text-align: right">.40</td>
-</tr>
-</tbody>
-</table>
+{% include table.html tab=36 %}
 
 film strips. They can be mounted flat, 
 stored in rolls, or on spools. Flat mounting on cards (suggested by Mr. Atherton 
 Seidell) is adapted only to very short 
-strips, no wider than a card used in a vertical file system---hence 5″ to 11″ is a 
+strips, no wider than a card used in a vertical file system---hence 5" to 11" is a 
 maximum length of strip. Roll storage is 
-adapted to the lengths such as those produced in the Leica or EKA camera---5′ to 15′. 
+adapted to the lengths such as those produced in the Leica or EKA camera---5' to 15'. 
 The separate lengths of film are placed in 
 receptacles which may be either small tin 
 pill boxes or larger partitioned metal or 
@@ -369,7 +288,7 @@ paper boxes holding twenty-five rolls of
 film. The longer rolls of film require 
 spool storage. The Recordak Corporation 
 furnishes spools with its film. Each spool{%- include columnbreak.html canvas=240 col=2 %} will hold 200 feet of film; it fits in a 
-cardboard box 4″ x 4″ x 1″.
+cardboard box 4" x 4" x 1".
 
 It is not known with certainty how 
 much special care of atmospheric conditions is necessary in the preservation of 
@@ -380,11 +299,9 @@ storage of nitrate films is very expensive
 because of fire hazards; the storage of 
 cellulose acetate films is not complicated 
 by any fire hazard.
- 
- {% include pagebreak.html canvas=241 %} 
+{% include pagebreak.html canvas=241 %} 
+{% include pagebreak.html canvas=242 %} 
 
- {% include pagebreak.html canvas=242 %} 
+{% include figure.html fig="54" %}
 
-\[New York Times page\]
-
-## Footnotes
+## Notes
