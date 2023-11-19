@@ -3,7 +3,7 @@
   Page {{ thispage.label }}, column {{ include.col }}
 {%- endcapture -%}
 {%- capture output -%}
-<span title="{{ title | strip }}" style="color: red">∥</span><span class="marginnote">
+<span title="{{ title | strip }}" style="color: red; font-style: normal">∥</span><span class="marginnote">
 <img src="{{ site.baseurl }}/assets/columnbreak.png" style="width: 50px" title="{{ title | strip }}"/>
 </span>
 {%- endcapture -%}
