@@ -15,7 +15,7 @@ Standards, and the Permanence and Durability Committee of the Technical Associat
     Technical Association of the Pulp and Paper Industry. 
   
 
- {% include columnbreak.html canvas=219 col=1 %} The outstanding qualities required 
+{% include columnbreak.html canvas=219 col=1 %} The outstanding qualities required 
 of a book paper are four: printing surface, opacity, strength, and permanence 
 and durability. Other qualities of a greater or lesser importance are color, feel, 
 formation, aesthetic value, etc., depending on the purpose for which the paper is 
@@ -175,7 +175,7 @@ the paper. Raw cotton, on the other hand,
 represents a fiber containing about 90% 
 cellulose and a minimum of "impurities." 
 
- {% include columnbreak.html canvas=221 col=2 %} Tests which are often used to determine the purity and quality of the fibers composing a paper are: acidity, sizing, alpha cellulose, and copper number. In 
+{% include columnbreak.html canvas=221 col=2 %} Tests which are often used to determine the purity and quality of the fibers composing a paper are: acidity, sizing, alpha cellulose, and copper number. In 
 general, there is agreement among paper 
 technologists that the acidity and the rosin sizing should be kept low for a permanent paper. The alpha cellulose content of 
 a paper refers to that portion of the cellulose which is not soluble in a solution of 
@@ -268,7 +268,7 @@ of purity. Such papers could be used where
 moderate longevity is desired, such as in 
 reference periodicals. Papers in the fourth 
 class are those suitable for current use 
-only.[^n11] Table XXXIV, on the following 
+only.[^n11] [Table XXXIV](#table_34), on the following 
 pages, illustrates in detail how such a system of classification might be applied to 
 book papers. 
 
@@ -288,124 +288,9 @@ any way with the permanency of color or
 the serviceability and durability of the 
 paper. {% include pagebreak.html canvas=223 %} 
 
-TABLE XXXIV 
+{% include table.html tab="34" %}
 
-CLASSIFICATION OF BOOK PAPERS 
-
-*Class I. Papers of Maximum Purity for Permanent Records*
-
-Stock: Free from unbleached or groundwood fibers   
-Alpha cellulose: Not less than 90%   
-Copper number: Not more than 1.5    
-Acidity: pH value not less than 4.5 and acid number less than 25   
-Rosin: Not more than 1.0%   
-
-Stability: When heated for 72 hours at 100° C. the alpha cellulose content shall de- 
-crease not more than 1.5%, the folding endurance shall decrease not more than 25%, 
-and the copper number shall increase not more than 0.5 
-
-Weight, Strength and Opacity: 
-
-| Weight: (25 x 40,500)--pounds | 35 | 40 | 50 | 60 | 70 |
-| Weight: (25 x 38,500)--pounds | 33.3 | 38.0 | 47.5 | 57.0 | 66.5 |
-| Folding endurance: Average each direction, not less than double folds | 75 | 100 | 125 | 160 | 200 | 
-| Bursting strength: Average not less than--points | 20 | 25 | 30 | 35 | 40 |
-| Thickness: Average--inch | 0.0035 | 0.0040 | 0.0050 | 0.0060 | 0.0060 |
-| Tensile breaking strength <br/> Average not less than kg. per 15 mm. width | | | | | |
-| Machine direction | 4.0 | 5.0 | 6.0 | 7.0 | 8.0 | 
-| Across direction | 2.0 | 2.5 | 3.0 | 3.5 | 4.0 |
-| Opacity: Contrast ratio not less than--% | 84 | 86 | 89 | 90 | 90 |
-
-Color, finish, formation and printing quality    
-Shall be in accordance with sample 
-
-*Class II. Papers of High Purity for Semi-Permanent Records*
-
-Stock: Free from unbleached or groundwood fibers    
-Alpha cellulose: Not less than 80%    
-Copper number: Not more than 2.0    
-Acidity: pH value not less than 4.5 and acid number less than 25    
-Rosin: Not more than 1.5%    
-
-Weight, Strength and Opacity:   
-
-| Weight: (25 x 40,500)--pounds | 35 | 40 | 50 | 60 | 70 |
-| Weight: (25 x 38,500)--pounds | 33.3 | 38.0 | 47.5 | 57.0 | 66.5 | 
-| Folding endurance: Average each direction, not less than double folds | 30 | 40 | 60 | 80 | 100 | 
-| Bursting strength: Average not less than--points | 12 | 14 | 18 | 22 | 26 |
-| Thickness: Average--inch | 0.0030 | 0.0035 | 0.0045 | 0.0050 | 0.0050 | 
-| Tensile breaking strength: <br/> Average not less than kg. per 15 mm. width | | | | | | 
-| Machine direction | 3.0 | 3.0 | 4.0 | 5.0 | 6.0 |
-| Across direction | 1.5 | 1.5 | 2.0 | 2.5 | 3.0 | 
-| Opacity: Contrast ratio not less than--% | 84 | 86 | 89 | 90 | 90 |
-
-Color, finish, formation and printing quality:     
-Shall be in accordance with sample 
-
-Testing Methods: The testing methods shall be those approved by the Technical Association of the Pulp and Paper Industry. The physical specifications are for a relative 
-humidity of 65% and a temperature of 70 F°., which are the testing conditions approved 
-by this Association.  {% include pagebreak.html canvas=224 %} 
-
-*Class III. Papers of Fair Purity for Records Requiring Moderate Longevity*
-
-Stock: Free from unbleached or groundwood fibers    
-Alpha cellulose: Not less than 70%    
-Copper number: Not more than 3.5    
-Acidity: pH value not less than 4.5 and acid number less than 25    
-Rosin: Not more than 2.0%    
-
-Weight, Strength and Opacity: 
-
-| Weight: (25 x 40,500)--pounds | 35 | 40 | 50 | 60 | 70 |
-| Weight: (25 x 38,500)--pounds | 33.3 | 58.0 | 47.5 | 57.0 | 66.5 |
-| Folding endurance: Average each direction, not less than double folds | 15 | 20 | 30 | 40 | 50 |
-| Bursting strength: Average not less than--points | 11 | 12 | 15 | 19 | 22 |
-| Thickness: Average--inch | 0.0025 | 0.0030 | 0.0033 | 0.0040 | 0.0050 |
-| Tensile breaking strength: <br/> Average not less than kg. per 15 mm. width 
-| Machine direction | 3.0 | 3.0 | 3.5 | 3.5 | 4.0 |
-| Across direction | 1.5 | 1.5 | 2.0 | 2.0 | 2.5 |
-| Opacity: Contrast ratio not less than--% | 84 | 86 | 89 | 90 | 90 |
-
-Color, tinish, formation snd printing qualiicy:    
-Shall be in accordance with sample 
- 
-*Class IV. Papers for Temporary Use*
-
-Stock, Acidity and Rosin: No requirements   
-Weight, Strength and Opacity:   
-
-| Weight: (25 x 40,500)--pounds | 35 | 40 | 50 | 60 | 70 |
-| Weight: (25 x 38,500)--pounds | 33.3 | 38.0 | 47.5 | 57.0 | 66.5 |
-| Bursting strength: <br/> Average not less than--points | 9 | 10 | 12 | 14 | 15 | 
-| Thickness: Average--inch | 0.0025 | 0.0030 | 0.0033 | 0.0040 | 0.0050 | 
-| Tensile breaking strength: <br/> Average not less than kg. per 15 mm. width-- | | | | | |
-| Machine direction | 3.0 | 3.0 | 3.5 | 3.5 | 4.0 |
-| Across direction | 1.5 | 1.5 | 2.0 | 2.0 | 2.0 |
-| Opacity: Contrast ratio not less than--% | 84 | 86 | 89 | 90 | 90 |
-
-Color, finish, formation and printing quality:    
-Shall be in accordance with sample 
-
-Testing Methods: The testing methods shall be those approved by the Technical Association of the Pulp and Paper Industry. The physical specifications are for a relative 
-humidity of 65% and a temperature of 70° F., which are the testing conditions approved by this Association.
-
- {% include pagebreak.html canvas=225 %} 
-
-Stock: 100% new rags, white, cream or unbleached    
-Ash: Not to exceed 15%    
-Acidity: pH value not less than 5.0    
-Sizing: Rosin not to exceed 1.0%    
-
-| Weight: | 25 x 38, 10,000 | Lbs. | 90 | 140 |
-| Folding Endurance: | Average, each direction not less than \_\_\_\_ | double folds | 75 | 150 |
-| Bursting strength: | Average not less than \_\_\_\_ | points | 25 | 40 |
-| Thickness: | Average | inch | 0.0040 | 0.0055 |
-| Opacity: | Not less than \_\_\_\_ | % | 86 | 90 |
-
-Color, Finish, Formation, and Cleanliness: Deliveries must conform to the 
-standard sample. 
-
-*Note:* The physical specifications of the Government Printing Office are based on tests carried out at a relative humidity of 50% and a temperature of 70° F. {% include columnbreak.html canvas=225 col=1 %} 
+{% include columnbreak.html canvas=225 col=1 %} 
 
 ## The Paper Trade and the Proposed Specifications 
 
@@ -431,7 +316,7 @@ he is paying for permanence quality. Thus
 is the importance of careful specifications 
 brought out. 
 
- {% include columnbreak.html canvas=225 col=2 %} A list of the book papers investigated by John Burton[^n13] is herewith tabulated (Table XXXV, on the following page) with the proposed permanence classification indicated in each case. This is based on 
+{% include columnbreak.html canvas=225 col=2 %} A list of the book papers investigated by John Burton[^n13] is herewith tabulated ([Table XXXV](#table_35), on the following page) with the proposed permanence classification indicated in each case. This is based on 
 chemical and physical tests on the papers. 
 For this proposed classification, see an 
 earlier portion of this chapter.[^n14] According to this classification system only one 
@@ -457,42 +342,9 @@ matter of permanent and durable book papers, no single test or specifications be
 
 It is easy to understand why ordinary market book papers, whether of rag, {% include pagebreak.html canvas=226 %} 
 
-TABLE XXXV
+{% include table.html tab="35" %}
 
-BOOK PAPERS AND PROPOSED PERMANENCE CLASSIFICATIONS
-
-| Sample No. | Description of Materials Used in Manufacture as Furnished by Manufacturers | % Rag | % Chemical Wood Pulp | Permanence Classification |
-|----:|-----|----:|-----:|-----:|
-| 1 | New cotton rags, 85%, and new linen rags, 15% rosin sized | 100 | - | III |
-| 2 | Chemical wood pulp containing some highly purified wood pulp; rosin sized, clay filled | - | 100 | III |
-| 3 | Bleached cotton fiber, 75%, and bleached sulphite pulp, 25%; sized with 2% rosin and alum | 75 | 25 | III |
-| 4 | Bleached sulphite pulp, 50%, and unbleached sulphite pulp, 50%; rosin sized | - | 100 | IV |
-| 5 | Same as No. 2, except highly purified wood pulp was replaced with an equal amount of cotton linters | ? | ? | III |
-| 6 | Rag fiber, 50%, and sulphite pulp, 50%; rosin sized, clay filled | 50 | 50 | III |
-| 7 | Rag fiber, 85%, and sulphite pulp 15%; rosin sized, clay filled | 85 | 15 | III |
-| 8 | White, uncooked rags, 100%, rosin sized | 100 | - | III |
-| 9 | Rag fiber, "twos and blues" grade, 55%, and chemical wood pulp, 45%; rosin sized, clay filled | 55 | 45 | IV |
-| 10 | Rag fiber, "twos and blues" grade, 50%, and chemical wood fiber, 50%; rosin sized, clay filled | 50 | 50 | IV |
-| 11 | Bleached chemical wood pulp, 100%, rosin sized, clay filled | - | 100 | IV |
-| 12 | Rag fiber, "twos and blues" grade, 100%; rosin sized, clay filled | 100 | - | IV |
-| 13 | Rag fiber, "No. 1 White" grade, 100%; rosin sized, clay filled | 100 | - | IV |
-| 14 | Rag fiber, "No. 2 White" grade, 100%; rosin sized | 100 | - | IV |
-| 15 | Rag fiber, "No. 2 White" grade, 100%; rosin sized | 100 | - | III |
-| 17 | White linen and cotton rags, 100%; rosin sized | 100 | - | III |
-| 22 | Rag fiber, 50%, and bleached chemical wood pulp, 50%; rosin sized, clay filled | 50 | 50 | IV |
-| 24 | Bleached chemical wood pulp, 100%; rosin sized, clay filled | - | 100 | IV |
-| 25 |  Rag fiber, 100% rosin sized; used for permanent editions of newspapers and periodicals | 100 | - | II |
-| 28 | Rag fiber, 50%, and bleached chemical wood pulp, 50%; rosin sized, clay filled | 50 | 50 | III |
-| 31 | Bleached chemical wood pulp, 100%; double-coated book paper | - | 100 | III |
-| 32 | Rag fiber, 50%, and bleached chemical wood pulp, 50%; double-coated paper IAL
-| 37 | New rags, 100%; rosin sized | 100 | - | I |
-| 38 | "No. 1 White" grade of rags, 37.5%, "thirds and blues" grade of rags, 37.5%, and sulphite wood pulp, 25%, rosin Sized, clay filled | 75 | 25 | II |
-| 40 | Rag fiber, 50%, bleached chemical wood pulp, 50%; rosin sized, clay filled | 50 | 50 | III |
-| 41 | Rag fiber, 50%, and bleached chemical wood pulp, 50%; double-coated book paper | 50 | 50 | III |
-| 45 | New white and cream rags, 100%; rosin sized. This paper was manufactured especially with a view to permanence | 100 | - | II |
-| 46 | Same as paper No. 45, but from a different delivery | 100 | - | II |
-
- {% include pagebreak.html canvas=227 %} chemical wood pulp, or mixture, should not 
+{% include pagebreak.html canvas=227 %} chemical wood pulp, or mixture, should not 
 be permanent papers; and emphasis has been 
 on beauty and printability rather than on 
 permanence and durability. Paper technologists have the formulae for papers which 
@@ -591,7 +443,6 @@ of the sheet, but a small amount of the
 proper filler does no harm in the opinion 
 of many paper technologists. 
 
-
 ## The Influence of Price 
 
 The paper buyer can be sure that 
@@ -671,13 +522,13 @@ printer's mark-up should be anything from
 These mark-ups do not constitute an excessive charge for the distributing service 
 offered, nor do they greatly increase publishing cost.
 
-How does paper cost figure into ' 
+How does paper cost figure into 
 book cost? Paper is sold by the pound; a
-standard size of sheet is 25″ x 38″; the 
+standard size of sheet is 25" x 38"; the 
 weight of the paper is usually given as 
-that of 500 sheets, 25″ x 38″. Since a 
+that of 500 sheets, 25" x 38". Since a 
 sheet of this paper will print 24 pages, 
-8″ x 9½″, a ream will supply paper for {% include pagebreak.html canvas=229 %} 38 copies. Paper weighing 45 pounds to the 
+8" x 9½", a ream will supply paper for {% include pagebreak.html canvas=229 %} 38 copies. Paper weighing 45 pounds to the 
 ream---a good stout book paper weight, as 
 the paper samples indicate---will make up a 
 300-page book weighing a little over one 
@@ -766,7 +617,7 @@ similar plan for pasting a protective transparent layer over each newsprint surf
 It is possible that the preservation of the newspaper records will not be 
 feasible by way of the preservation of the 
 paper, and it may be that the files printed on the most impermanent stock can be 
-preserved only by film-copying them and letting the originals disappear. This problem will be discussed in Chapter XI in connection with the cost levels of microcopying on film. The question has already received some attention in Chapter III as a 
+preserved only by film-copying them and letting the originals disappear. This problem will be discussed in [Chapter XI](11-cost-levels-and-applications-of-microcopying-and-projection-reading.html) in connection with the cost levels of microcopying on film. The question has already received some attention in [Chapter III](03-printed-books.html) as a 
 special case of reprinting material by 
 photo-offset. 
 
@@ -834,7 +685,7 @@ are as follows:
     Also, as less strength is required in 
     book papers than in writing papers, 
     different strength ranges are necessary for these two classes of paper. 
-    The strength requirements, of course, 
+    The strength requirements, of course, {% include pagebreak.html canvas=231 %} 
 
 {% include figure.html fig="53" %}
 
@@ -1047,408 +898,6 @@ SPECIFICATIONS FOR A WOOD-PULP FIBER PAPER
     quality in the product is by using 
     the highest class of paper. {% include pagebreak.html canvas=236 %} 
 
-TABLE XXXVa
+{% include table.html tab="35a" %}
 
-CHART OF PAPER SPECIFICATIONS
-
-<table>
-  <thead>
-    <tr>
-      <th colspan=2></th>
-      <th colspan=7>Paper Specifications Proposed for Permanence</th>
-      <th colspan=13>Papers on Market are Available If Demanded</th>
-    </tr>
-
-<tr>
-<th colspan=2></th>
-<th colspan=3>Class I</th>
-<th colspan=4>Class I and III</th>
-<th colspan=8>Rag Papers</th>
-<th colspan=6>Mixed, or Wood—Pulp Papers</th>
-</tr>
-
-<tr>
-<td colspan=2></td>
-<td>British Library Association Class I<br/>"Highest quality permanent record"</td>
-<td>U. S. Rag Paper Mfg. Association specifications for highest permanence</td>
-<td>U. S. Rag Paper Mfg. Association specifications for highest permanence</td>
-<td>U. S. Bureau of Standards "Maximum purity for permanent record"</td>
-<td>British Library Association Class II Relative permanence and competitive price</td>
-<td>U. S. Rag Paper Mfg. Association<br/>Class II</td>
-<td>U. S. Bureau of Standards. Class II High purity; semi-permanent records</td>
-<td>U. S. Bureau of Standards. Class III Fair purity; moderate longevity</td>
-<td>Strathmore Paper Co. Permanent Book (made of new rags)</td>
-<td>U. S. Government Printing Office Permanent Record Book</td>
-<td>Harper Inc.<br/>100 B. R. Rag Newsprint</td>
-<td>Harper Inc.<br/>100 B. R. Rag Book</td>
-<td>Hurlbert Paper Company</td>
-<td>Worthy Paper Company<br/>(Worthy Hadrian)</td>
-<td>Worthy Paper Company<br/>Plain Laid Book</td>
-<td>Worthy Paper Company<br/>Low Price All-Rag Book</td>
-<td>U. S. Government Printing Office<br/>50% Rag Book</td>
-<td>U. S. Government Printing Office<br/>Offset Book</td>
-<td>Brown Company<br/>Paper A</td>
-<td>Brown Company<br/>Paper B</td>
-<td>Brown Company<br/>Paper C</td>
-<td>Warren Paper Company<br/>Paper A</td>
-</tr>
-
-</thead>
-<tbody>
-<tr>
-<td>Fiber </td>
-<td> Stock: rag or wood content, or alpha cellulose </td>
-<td> 100% new rags </td>
-<td> 100% new rags </td>
-<td> 90% alpha cell. </td>
-<td> 100% chem. wood </td>
-<td> 100% chem. wood</td>
-<td> 80% alpha cell. </td>
-<td> 70% alpha cell. </td>
-<td> 97% alpha cell. </td>
-<td> 100% new rags </td>
-<td> 100% mixed rag </td>
-<td> 100% mixed rag</td>
-<td> 100% new rags </td>
-<td> 100% new rags </td>
-<td> 100% old rag </td>
-<td> 100% old rag </td>
-<td> 50% new rags 50% chem. wood </td>
-<td> 100% chem. wood </td>
-<td> ⅘ 95% ⅕ 80% alpha cell. </td>
-<td> 95% alpha cellulose </td>
-<td> 95% alpha cellulose </td>
-<td> 93% alpha cellulose </td>
-</tr>
-
-<tr>
-<td rowspan=3>Quality and Aging Test</td>
-<td>Decreased alpha cell. after heating 72 hrs. 100°</td>
-<td></td>
-<td></td>
-<td>1.5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>0.5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>Copper number not over</td>
-<td></td>
-<td>0.5</td>
-<td>1.5</td>
-<td></td>
-<td>1.5</td>
-<td>2.0</td>
-<td>3.5</td>
-<td>0.25</td>
-<td></td>
-<td>.47</td>
-<td>1.35</td>
-<td></td>
-<td>1.12</td>
-<td>0.72</td>
-<td>0.58</td>
-<td></td>
-<td></td>
-<td>1.5–1.8</td>
-<td>1–1.2</td>
-<td>1–1.2</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Increased copper number after heating 72 hrs. 100° C.</td>
-<td></td>
-<td></td>
-<td>0.5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>0.1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>0.45</td>
-<td>0.39</td>
-<td>0.53</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td rowspan=2>Acidity</td>
-<td>Acidity: hydrogen-ion concentration not below</td>
-<td>5½–6 pH</td>
-<td>5 pH</td>
-<td>4½ pH</td>
-<td></td>
-<td>5 pH</td>
-<td>4.5 pH</td>
-<td>4.5 pH</td>
-<td>5.2 ph</td>
-<td>5 pH</td>
-<td></td>
-<td></td>
-<td>6.2pH</td>
-<td>4.62 pH</td>
-<td>4.30 pH</td>
-<td>4.4 pH</td>
-<td>4.7 pH</td>
-<td>4.5 pH</td>
-<td>5–6 pH</td>
-<td>5.5–5.9 pH</td>
-<td>5.5–5.8pH</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Acid number less than</td>
-<td></td>
-<td></td>
-<td>.25</td>
-<td></td>
-<td></td>
-<td>.25</td>
-<td>.25</td>
-<td></td>
-<td></td>
-<td>.21</td>
-<td>.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td rowspan=3>Size and Loading</td>
-<td>Percentage of rosin sizing not over</td>
-<td></td>
-<td>1.2</td>
-<td>1.0</td>
-<td>2</td>
-<td>1</td>
-<td>1.5</td>
-<td>2</td>
-<td>0.5</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>.5</td>
-<td>1.25</td>
-<td>1.55</td>
-<td>1.34</td>
-<td>1.5</td>
-<td></td>
-<td>1.25</td>
-<td>.5</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>Percentage of mineral loading not over</td>
-<td></td>
-<td></td>
-<td></td>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>Percentage of ash not over</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>3.5</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td>.600</td>
-<td>.601</td>
-<td>.994</td>
-<td>15</td>
-<td>15</td>
-<td>.2</td>
-<td>.15</td>
-<td>.15</td>
-<td></td>
-</tr>
-
-<tr>
-<td rowspan=3>Physical Quality and Aging Test</td>
-<td>Weight, (500 sheets, 25x38 inches) lbs.</td>
-<td></td>
-<td></td>
-<td>47.5</td>
-<td></td>
-<td></td>
-<td>47.5</td>
-<td>47.5</td>
-<td>60</td>
-<td>45</td>
-<td></td>
-<td>60</td>
-<td></td>
-<td>50</td>
-<td>80</td>
-<td>60</td>
-<td>45</td>
-<td>60</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>Folding endurance, average, double folds</td>
-<td></td>
-<td></td>
-<td>125</td>
-<td></td>
-<td></td>
-<td>60</td>
-<td>30</td>
-<td>100</td>
-<td>75</td>
-<td>64</td>
-<td>16</td>
-<td></td>
-<td>1371</td>
-<td>22</td>
-<td>16</td>
-<td></td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>Decreased folding endurance after heating 72 hrs.</td>
-<td></td>
-<td></td>
-<td>25%</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>10%</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>37%</td>
-<td>37%</td>
-<td>42%</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>Price</td>
-<td>Approximate or basic price</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>35¢?</td>
-<td>17¢?</td>
-<td>24½¢</td>
-<td>23½¢</td>
-<td></td>
-<td>35¢</td>
-<td>22¢</td>
-<td>16¢</td>
-<td>6½¢</td>
-<td>3½¢</td>
-<td>10¢</td>
-<td></td>
-<td>¹⁴⁄₁₅¢</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Availability</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>In stock</td>
-<td>1932 bid</td>
-<td>In stock</td>
-<td>In stock</td>
-<td>Not in stock</td>
-<td>In stock</td>
-<td>In stock</td>
-<td>In stock</td>
-<td>1932 bid</td>
-<td>1932 bid</td>
-<td colspan=3>Not in stock, but can be manufactured</td>
-<td>Can be mfg. in ton lots</td>
-</tr>
-</tbody>
-</table>
-
-## Footnotes
+## Notes
