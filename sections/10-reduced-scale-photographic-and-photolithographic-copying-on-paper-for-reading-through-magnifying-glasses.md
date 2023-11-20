@@ -52,6 +52,8 @@ systems may permit the reading of texts
 that have been copied with higher reduction 
 ratios, perhaps as much as eight or ten diameters from pica typescript. 
 
+[^n1]: See [Figure XIII](03-printed-books.html#figure_13), a graph of legibility of newsprint in photo-offset reductions. 
+
 Beyond the limit set to reduction 
 by these optical devices lies the zone in 
 which a projector will yield a legible 
@@ -60,8 +62,8 @@ image. Applications of the projection system will be discussed in the next chapt
 The different zones in which these 
 three methods---naked eye reading, reading 
 glass reading, and projection reading---are 
-operative can be charted as shown in Table 
-XXXVII on the following page. 
+operative can be charted as shown in [Table 
+XXXVII](#table_37) on the following page. 
 
 ## Reduced Size Newspapers 
 
@@ -86,20 +88,7 @@ paper edition to the reduced size edition.
 It appeared that, because of the additional 
 expense, the company could find it possible {% include pagebreak.html canvas=244 %}
 
-[^n1]: See Figure XIII, a graph of legibility of newsprint in photo-offset reductions. 
-
-TABLE XXXVII 
-
-THRESHOLDS OF LEGIBILITY IN REDUCTIONS OF TYPESCRIPT AND NEWSPRINT 
-
-| Typescript | Newsprint | Naked Eye | Reading Glass | Projection |
-|----|----|----|---|----|
-| Pica typescript full size. Pica typescript reduced to 80% of full size | Newsprint Full size | Easy | | |
-| Pica typescript reduced to 70% of full size | Newsprint reduced 50% | Difficult | Easy | | 
-| Pica typescript reduced seven diameters, to 10%-14% of full size | Newsprint reduced 55%-65% of full size | Impossible | Difficult | Easy | 
-| Pica typescript reduced twenty-two diameters, to 44% of full size | Newsprint reduced sixteen diameters, to 6% of full size | Impossible | Impossible | Easy | 
-| Pica typescript reduced to 4% of full size | Newsprint reduced twenty diameters, to 5% of full size | Impossible | Impossible | Difficult | 
-| Pica typescript reduced to less than 3½% of full size | Newsprint reduced more than twenty-five diameters, to less than 4% of full size | Impossible | Impossible | Impossible |
+{% include table.html tab="37" %}
 
 to make this shift only if a number of subscribers substantially greater than those 
 now taking the rag paper edition would desire the reduced size edition. 
@@ -125,34 +114,19 @@ Another plan for utilizing these
 low reductions has been put into effect by 
 Professor Charles C. Peters of the Pennsylvania State College in reproducing abstracts of theses of the Department of {% include pagebreak.html canvas=245 %}
 
-FIGURE LV
-
-TODO
+{% include figure.html fig="55" %}
 
 {% include pagebreak.html canvas=246 %}
-
 {% include pagebreak.html canvas=247 %}
-
 {% include pagebreak.html canvas=248 %}
 
-FIGURE LVI
-
-The Fiskoscope
+{% include figure.html fig="56" %}
 
 {% include pagebreak.html canvas=249 %}
 
-FIGURE LVII 
+{% include figure.html fig="57" %}
 
-FISKE READING STRIP 
-
-{% include pagebreak.html canvas=250 %}
-{% include pagebreak.html canvas=251 %}
-{% include pagebreak.html canvas=252 %}
-{% include pagebreak.html canvas=253 %}
-{% include pagebreak.html canvas=254 %}
-{% include pagebreak.html canvas=255 %}
 {% include pagebreak.html canvas=256 %}
-
 {% include pagebreak.html canvas=257 %} Education. A sample page of his work is 
 shown. On one side of a page, an abstract 
 of the thesis appears in pica typescript 
@@ -177,7 +151,7 @@ convenient for prolonged reading. Dr. Peters
 sells this adapted stereoscope for approximately $3.00. He also recommends an electric illuminated reading glass device, magnifying from two to four diameters and 
 selling for about $7.50. A third reading 
 apparatus which he suggests is the Clerevu 
-Table Magnifier, with a 6″ lens on an adjustable stand. This device, magnifying 
+Table Magnifier, with a 6" lens on an adjustable stand. This device, magnifying 
 two to four diameters, sells for $12.00. 
 
 Besides the abstracts, some of the 
@@ -221,8 +195,8 @@ it fatigues their eyes. This may be the
 result of habit, for microscope workers 
 train themselves to use without fatigue 
 lenses of higher magnifying power. A reproduction of a strip of Fiskoscope reading 
-matter (Figure LVII) and a picture of a 
-Fiskoscope (Figure LVI) are printed herewith. 
+matter ([Figure LVII](#figure_57)) and a picture of a 
+Fiskoscope ([Figure LVI](#figure_56)) are printed herewith. 
 
 The price of reproductions suited 
 to this apparatus is certainly attractive. 
@@ -230,7 +204,7 @@ In the *American Printer* of January, 1932,
 there is an article stating that Fiske 
 books of 100,000 words can be printed on 
 two strips of paper at a cost of $.05. Each 
-strip of paper is 2 ⅝″ wide and 23½″ 
+strip of paper is 2 ⅝" wide and 23½" 
 long, including margins. The typescript is 
 reduced to ½5 of original size, and is 
 printed on both sides of the strip of paper. Admiral Fiske secured a quotation of 
@@ -259,9 +233,7 @@ will be sold for $5.00 including the handle
 and an eye shade for the eye not used. A 
 picture of it is shown. The stand that can 
 
-FIGURE LVIII 
-
-Spencer Magnifier 
+{% include figure.html fig="58" %}
 
 be used with the device will sell for about 
 $3.00. This system will give about eight 
@@ -274,7 +246,7 @@ apparatus.
 
 Dr. Bendikson uses a Leica camera 
 to take photographs of pages on the ordinary moving picture film, with exposures 
-about 1″ x 1 ¼″. Then he lays down a few 
+about 1" x 1 ¼". Then he lays down a few 
 rows of these film copies side by side in a 
 printing frame and makes from them a positive copy on paper, exactly as if he were 
 making a print from any negative. A reproduction of one of Dr. Bendikson's prints is 
@@ -305,26 +277,20 @@ width of the available surface of the moving picture strip.
 Professor G. van Iterson, of the 
 Technical Univiersity at Delft, Holland, has 
 invented a reading device for microprints. 
-A picture of it is shown herewith (Figure LXI). {% include pagebreak.html canvas=259 %}
+A picture of it is shown herewith ([Figure LXI](#figure_61)). {% include pagebreak.html canvas=259 %}
 
-FIGURE LIX 
-
-Bendikson's Microprints
+{% include figure.html fig="59" %}
 
 {% include pagebreak.html canvas=260 %}
-
 {% include pagebreak.html canvas=261 %}
 
-FIGURE LX
-
-Bendikson's Microscope
+{% include figure.html fig="60" %}
 
 {% include pagebreak.html canvas=262 %}
-
 {% include pagebreak.html canvas=263 %}
 
 The apparatus was designed primarily for 
-use with 5″ x 7″ micro-prints, each print 
+use with 5" x 7" micro-prints, each print 
 containing eighteen pages of letterpress 
 material. Dr. Bendikson, who went into the 
 question of film copying with Professor 
@@ -335,9 +301,7 @@ illuminator with five small lamps that surround a plano-convex lens. On top of t
 drum-shaped illuminator is a second magnifier. The micro-print is slipped in a 
 pressure frame, which slides under the illuminator-magnifier. 
 
-FIGURE LXI 
-
-Van Iterson's device 
+{% include figure.html fig="61" %}
 
 ## Folmer Graflex Recording Camera 
 
@@ -346,8 +310,8 @@ developed a recording camera that is used
 to take photographs of meter readings on a 
 strip of paper. It is now adapting this 
 camera to the general work of record copying. The width of the photographic strip 
-in this camera is 2 ¼″, That is to say, 
-it would reduce an 8″ sheet of typescript 
+in this camera is 2 ¼", That is to say, 
+it would reduce an 8" sheet of typescript 
 a little less than four diameters, and 
 copy a column of newsprint full size. Obviously, the miniature copies made with 
 this camera will fall in that zone where 
@@ -373,16 +337,15 @@ used in copying for reading through magnifying glass systems is the principle of
 the multiple exposure machine. If the 
 Folmer Graflex multiple exposure camera 
 were adapted for document copying, it would 
-permit the division of a 5″ x 7″ sheet of 
+permit the division of a 5" x 7" sheet of 
 paper of film into any number of subdivisions, giving the user the chance to find 
 that degree of reduction that best suits 
 him from the standpoint of economy of materials on the one hand and prevention of 
 eyestrain on the other. 
 
-If a new positive photocopying pa- 
-per appears, as was suggested in the preceding chapters, it would be useful in the 
+If a new positive photocopying paper appears, as was suggested in the preceding chapters, it would be useful in the 
 preparation of these reduced-size copies 
-on paper. Reduced-size copying on photostat paper is always a possible alternative to reduced-size copying on film, To 
+on paper. Reduced-size copying on photostat paper is always a possible alternative to reduced-size copying on film. To 
 the extent that the use of a film copy negative introduces labor-saving features in 
 the making of paper copies, the effect is 
 to bring the costs of paper copies nearer 
