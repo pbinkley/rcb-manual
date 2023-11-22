@@ -294,8 +294,8 @@ LXIIc). The effective reduction from the
 {% include pagebreak.html canvas=275 %} 
 
 {% include figure.html fig="63a" %}
-{% include pagebreak.html canvas=276 %} 
 
+{% include pagebreak.html canvas=276 %} 
 {% include pagebreak.html canvas=277 %} 
 
 original text in the case of these clippings is double that of the reduction in 
@@ -461,188 +461,21 @@ standard in microcopying.
 
 The basic comparison of the three {% include pagebreak.html canvas=279 %} 
 
-THE USE OF 16MM. FILM IN LIBRARY WORK
-
-In the past year, considerable progress has been made in equipment and 
-technique for copying various records on film. The technique of micro-copying, 
-combined with the use of WPA labor, opens a new field for achievement of large-scale objectives, hitherto abandoned as too expensive for the average institution. 
-
-The Recordak Corporation, of 350 Madison Avenue, New York City, 
-using regular commercial equipment and specially developed equipment has done 
-considerable work along this line. Sometime ago, Recordak equipment was used 
-to photograph the NRA and AAA hearings in Washington on 16mm. film. Positive copies of this film record were sold to libraries throughout the country. 
-
-Recently, Dr. T. R. Schellenberg and others, with the cooperation of the 
-Recordak Corporation, worked out a plan for the photographing of library cards. 
-The general procedure as planned involves the filming of the catalogues of all the 
-libraries in a region, and the typing of library cards from the film copies to make a 
-master catalogue. For the reading of the film, the typists use Recordak projectors, 
-which enlarge the film copies to original size. 
-
-For $5.50 worth of film (200 feet), including developing, 10,000 library 
-catalogue cards can be copied. The plan is ideal, as cards can be photographed at 
-a high rate of speed with absolute accuracy, minimum disturbance of library 
-routine, simplicity of operation, and at a lower cost than could possibly be 
-attained with any other method. Two large centers, Cleveland and Philadelphia, 
-are pioneering in this field by making union catalogues of their library holdings. 
-
-The attached film contains pictures of a number of standard library cards. 
+{% include figure.html fig="64" %}
 
 {% include pagebreak.html canvas=280 %} 
 {% include pagebreak.html canvas=281 %} 
 
-PRESERVATION OF NEWSPAPERS 
-BY PHOTOGRAPHY 
-
-(Reprinted, by permission, from 
-Bulletin of American Newspaper 
-Publishers Association) 
-
-By W. E. WINES, 
-
-Manager Mechanical Department 
-
-A photographic method and apparatus for reproducing newspaper pages 
-in reduced size, so that newspaper files may consist of small reels of negative film 
-instead of bulky bound volumes, has been announced by Eastman Kodak Company 
-and was exhibited in New York by Charles Z. Case. This is a development of the 
-Recordak system which has been in use for eight years by banks and mercantile 
-companies for making photographic records of checks and bills. The process 
-consists of two steps or stages. The pages of any issue are first photographed consecutively on a sensitized film 1⅜ inches wide, by means of a special camera which 
-photographs the pages with great rapidity---approximately 30 pages a minute. For 
-viewing the film, a special projector or viewing apparatus has been devised which 
-produces an image the linear dimensions of which are 1½ times those of the 
-original printed page. A column 2 inches wide is enlarged by the projector to 
-3 inches and the height of the letters is magnified in the same ratio. 
-
-THE FILM. 
-
-The film used is similar to the standard 35-mm. film used in professional 
-moving picture cameras but differs in two important particulars. The first is 
-that the base which carries the sensitive emulsion is the non-inflammable cellulose 
-acetate, used in amateur movie cameras, instead of the highly combustible cellulose 
-nitrate, commonly used for professional moving picture work. Mr. Case says that 
-the National Board of Fire Underwriters rates this "safety" film as offering no 
-more fire hazard than the same quantity and form of newsprint. The second
+{% include figure.html fig="65" %}
 
 {% include pagebreak.html canvas=282 %} 
- 
-RECORDAK CORPORATION    
-SUBSIDIARY OF EASTMAN KODAK COMPANY    
-350 MADISON AVENUE    
-NEW YORK    
 
-Briefly stated, the outstanding advantages 
-of this method are: 
-
-A tremendous reduction in space required to 
-house newspaper files. The film record requires 
-less than 2% of the storage space required by 
-the original bound volumes. 
-
-The film record is a much more permanent one 
-than the present bound volumes. This record 
-can be renewed as desired thus preserving the 
-files indefinitely. 
-
-The files can be referred to much more easily 
-with the new method. They can be retained 
-where they are immediately available and the 
-moving about of large bound volumes is 
-eliminated. 
-
-The cost is exceedingly small = being only 
-1-⅕¢ per page for standard size newspaper 
-pages. Consequently 1,000 pages will cost 
-only $12.00 which is little more than the 
-present binding cost. 
-
-RECORDAK CORPORATION 
+{% include figure.html fig="ff" %} 
 
 {% include pagebreak.html canvas=283 %} 
 {% include pagebreak.html canvas=284 %} 
 
-difference is that this film is perforated on only one edge, thus allowing more 
-usable area on the same total width. One foot of film negative carries eight and 
-a fraction newspaper pages or approximately 825 to 850 pages on 100 feet of 
-film. The pages are arranged lengthwise on the film. 
-
-THE CAMERA. 
-
-The camera, which might more properly be called a photographing machine, 
-is almost wholly automatic in action. The newspapers to be photographed are 
-fed in one page at a time, very much as sheets are fed into a cylinder press or 
-mimeograph. Since the photographing of an entire month's edition will require 
-only thirty minutes, more or less, it would hardly pay any newspaper to purchase 
-one of these cameras. Newspaper publishers ship the month's file of newspapers to 
-Rochester each month and pay for the negative film at a price of 10 cents per foot. 
-If more than one film is desired from the same lot of papers, duplicates are made 
-at a cost of 5 cents per foot. These prices cover the film itself as well as the items 
-of exposure and development. This charge for the first negative is equivalent to 
-1⅕ cents per page, and for the positive duplicate copies, ⅗ of a cent per page. 
-
-A reel of one hundred feet of film occupies a storage space 1⅝x3¾x3¾ 
-inches and carries at least 850 newspaper pages. When asked concerning the life 
-of the film, Mr. Case replied that no one really knows how long a negative film 
-will last, as none has yet become useless from age. It may last 100 years or 
-more. As it is a comparatively simple and inexpensive matter to duplicate the film 
-at any time, the length of life of film is not really a vital matter. Mr. Case also 
-stated that bound volumes of old issues can be reproduced and preserved by this 
-method, but that to do so it would be necessary to take the volumes apart. 
-
-THE PROJECTOR. 
-
-The projector or viewing device is shown in the accompanying illustration. 
-The base measures approximately 15 by 18 inches, and the total height is a 
-little over 3 feet. The reel of film is mounted on a carrier on top of the apparatus, 
-as shown, and is unwound and rewound as desired by means of a crank mounted 
-on the right side of the casing, as is shown in the illustration. Since the pages are 
-arranged in consecutive order on the film, any page desired may be easily and 
-quickly located. The projector shows both 16 and 35 mm. film, 
-
-In the base of the projector is a roll of dull surfaced paper 15 inches wide. 
-The free end of this roll is pulled over the base and forms the screen upon which 
-the film pictures are projected. As the surface becomes soiled a clean section is 
-pulled down and the soiled portion is torn off. The screen shows one-quarter of 
-a newspaper page at a time. 
-
-It will be noticed from the illustration that four columns of an 8-column 
-page are visible. The knob and lever mounted on the left side of the case are 
-employed for shifting the film, carrier and optical system forward or backward or 
-to right or left so as to bring into the field of view the exact portion of the page 
-which the operator desires to read. Records photographed on 16 mm. film appear 
-in their entirety on the screen. The source of light is a 200-watt lamp protected 
-by a guard as shown. The apparatus is designed to prevent injury to the film by 
-heat, no matter how long the film may be exposed to the light of the lamp. The 
-cabinet protects the image on the screen from interference by extraneous light 
-sources, thus allowing the projector to be used in any room under normal lighting 
-conditions. 
-
-If a copy of any particular article or story is desired, this can be obtained 
-photographically by laying a piece of photographic paper on the screen so that 
-the sensitized surface receives the image. If a print of a whole page is desired, 
-this may be made from the negative by the process commonly employed for making 
-enlarged photographic prints. The price of the projector is $185.00. 
-
-Newspapers in various parts of the country are now photographing their 
-editions by the Recordak method and are using Recordak Library Projectors for 
-reading the film. Several libraries are now using film copies of newspapers that 
-they ordinarily kept on their shelves in bound form. The use of film copies 
-materially reduces the space required to house the bound volumes, eliminates the {% include pagebreak.html canvas= 285 %} cost of binding and provides a permanent record. These libraries are using 
-Recordak Library Projectors for reading from the films. 
-
-Recently the Recordak Corporation photographed the editions of the New 
-York Times from January 1, 1914, to December 31, 1918. Positive copies of this 
-New York Times film for the 5 years of the World War have been ordered by a 
-number of libraries. The cost of the film copies for the entire 5 years is $433.74. 
-Individual years may be purchased if desired. 
-
-(*This reprint contains revised prices and descriptions of equipment.*) 
-
-(*For additional information, address Recordak Corporation, Subsidiary 
-of Eastman Kodak Company, 350 Madison Avenue, New York, N. Y.*) 
-
-THE PROJECTOR 
+{% include figure.html fig="gg" %}
 
 {% include pagebreak.html canvas=286 %} 
 {% include pagebreak.html canvas=287 %} 
@@ -675,7 +508,7 @@ photography in scholarship. The zone
 from 6 to 8½ diameters of reduction on 
 *paper* corresponds in materials cost to 
 the zone of 11 to 16 diameters on *film*, 
-16 to 22½	 diameters on *glass*. Processing costs under present conditions probably give additional advantages to the 
+16 to 22½ diameters on *glass*. Processing costs under present conditions probably give additional advantages to the 
 film strips in the case of a long series 
 of pages that will fill 100 feet or more 
 of film, but this advantage in favor of 
@@ -997,8 +830,7 @@ cost of film and processing should stand
 somewhere near the labor cost---perhaps 
 $10.00 worth of labor will photograph 
 $12.00 to $15.00 worth of film (including 
-processing). At this rate the first cost 
----i.e., the finished negative---of microcopied material in large runs can be made 
+processing). At this rate the first cost---i.e., the finished negative---of microcopied material in large runs can be made 
 for $.22 to $.25 per 100 pages. This is 
 the cost at which a unique copy of a great 
 body of material could be made for a single 
