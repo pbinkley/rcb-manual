@@ -310,12 +310,9 @@ reasons it is not a suitable material for
 field recording. The Presto Recording Company of New York markets a disc somewhat 
 similar to the "Metallophone," which they {% include pagebreak.html canvas=349 %} 
 
-FIGURE LXXIII
-
-Professor Hanley's Phonographic Equipment
+{% include figure.html fig="73" %}
 
 {% include pagebreak.html canvas=350 %} 
-
 {% include pagebreak.html canvas=351 %} claim to be even better. The records, however, are just about as expensive. A steel 
 needle of a special type is used in reproduction. Under ideal conditions, the special discs referred to give considerable 
 better results than aluminum, but since 
