@@ -171,28 +171,7 @@ Berkmans, Brussels; a similar enterprise,
 the Cinescopie, is located at 29 Rue aux 
 Laines, Brussels. Cinescopie, like {% include pagebreak.html canvas=323 %}
 
-TABLE XLVII
-
-CHART SHOWING CHIEF CHARACTERISTICS OF COPYING CAMERAS
-  
-| Name of Camera | Manufacturer | Price | Portable | Width and Length of Film Used | Lens | Copy Bound Materials | Frame Exposure | Automatic Features |
-|----|----|----|----|----|----|----|----|----|
-| Leica | E. Leitz, Inc. 60 E. 10th St. New York City | $130.50 with lens | Yes | 35mm., perforated on one or both sides. 5 ¼ foot roll | f:3.5 50mm. | Yes | Fixed | Focal plane shutter makes double exposures impossible |
-| Contax | Carl Zeiss, Inc. 485 Fifth Avenue New York City | $130.50 with lens | Yes | 35mm., perforated on both sides. 5-foot roll | f:3.5 50mm. | Yes | Fixed | |
-| Photo-Record Microfilm Camera | Folmer Graflex Corp. Rochester N. Y. | Not set. About $200.00 | Yes | 16mm., perforated on one side; 35mm. perforated both sides; 70mm. perforated both sides; 70mm. paper. 100 foot rolls | f:3.5-2″ or f:3.5-3″ | Yes | Can be set for single or double frames | Automatic exposure time, film turning, and lighting |
-| Recordak | Recordak Corporation 350 Madison Ave. New York City | Rents for $35.00 to $50.00 per month | By truck | 16mm., perforated on one side | | No | Variable | Automatic control of exposure time and lighting, turning of film, and fixed focus |
-| Recordak Book-Copying Camera | Eastman Kodak Co. Rochester, N. Y. | Will be rented | Can be moved but not highly portable | 16mm. perforated on one side; 100 foot rolls | f:4.5 32mm. | Yes | Variable | Button takes care of glass plate cover, lighting, exposures, turning film, and raising of glass cover |
-| Recordak Book-Copying Camera | Eastman Kodak Co. Rochester, N. Y. | Will be rented | Can be moved but not highly portable  | 16mm. perforated on one side; 35mm. perforated; 100 foot rolls | | Yes | Variable | Same as Recordak bookcopying camera for 16mm. film alone |
-| Kennedy Copying Camera | Lloyd B. Kennedy 1556 Mahoning Ave. Warren, Ohio | About $300.00 | By truck | 16mm. and 35mm. perforated or unperforated. 400 foot rolls | | Yes | Variable | Automatic shutter and film moving attachments, automatic exposures |
-| Filmograph | Carl Lundberg and H. C. Lambach of Seattle, Washington | Not on market | By truck | 35mm., unperforated.  400 foot rolls | | Yes | Variable | Automatic exposures, lighting, and film turning |
-| Ansco Copying Camera | Agfa Ansco Corp.  Binghamton, N. Y. | $65.00 | Yes | 35mm. perforated. 3 foot rolls | f:6.3 | Yes | Fixed. One-half size of Leica frame | |
-| Ludwig Camera | Frederick Ludwig Yale University New Haven, Conn. | $300.00 | Yes | 35mm. perforated. 100 foot rolls | f:3.5 50mm. | Yes | Fixed. Same size as Leica frame | |
-| E.K.A. | Krause of Paris. Accessories by Lemare, 73 Rue Fondary, Paris | $165.00 | Yes | 35mm. unperforated 16½ foot rolls | Tessar f:3.5 or f:4.5 | Yes | Fixed. 30mm. x 45mm. | |
-| Argus | International Radio Corp. Ann Arbor, Michigan | $12.50 | Yes | 35mm., perforated one or both sides 5 feet | Ilex f:4.5 | Yes | Fixed. Same size as Leica frame; new | None |
-| Cinescopie | Cinescopie, Inc. 29, Rue aux Laines Brussels | Yes | 35mm., unperforated About 10 foot roll | f:3.5 | Yes | Fixed | Automatic exposure up to one second |
-| Bantam Kodak | Eastman Kodak Co. Rochester, N. Y. | $10.50 with supplementary lens | Yes | 35mm. 5 feet | | Yes | | |
-| Draeger Camera | Dr. R.H. Draeger c/o Bibliofilm Serv. Depart. of Agriculture, Washington, D. C. | Not set | Yes | 16mm., 35mm., and 70mm. film. 1000 foot rolls | Tessar f:6.3 | Yes | Ranges from ½″ x 1½″ | Automatic focusing, timing, lighting, and film turning |
-| Matson | Robert Matson | About $300.00 | No | 35mm. perforated on both sides. 200 foot rolls | | Yes | Fixed. ¾″ x 1″  | Automatic foot pedal controlling film turning and exposures |
+{% include table.html tab="47" %}
 
 {% include pagebreak.html canvas=324 %} Photoscopie, issues a general catalogue of 
 film subjects in all fields. The specifications of the Cinescopie camera are interesting. The machine is small: 9½ 
@@ -285,9 +264,7 @@ accessories. These catalogues are so extensive that the scholar may well ask for
 a Baedeker to guide him through them. The 
 following paragraphs are written as an {% include pagebreak.html canvas=325 %}
 
-FIGURE LXVI 
-
-Leica camera, projector, and accessory lenses 
+{% include figure.html fig="66" %}
 
 {% include columnbreak.html canvas=325 col=1 %} attempt at such a guide, with equipment 
 designated by number and code word. The 
@@ -314,8 +291,20 @@ trade name of *Elmar*, the Contax under the
 trade name *Tessar*. This standard lens, 
 sold separately from the camera, is priced: 
 
-| Leitz Elmar 50mm. f 3.5 | $49.50 (50,320 ELMAR) |
-| Contax Zeiss Tessar 50mm. £.35.5 | 49.50 |
+<table>
+<tbody>
+  <tr>
+    <td>Leitz Elmar 50mm. f 3.5</td>
+    <td style="text-align: right">$49.50</td>
+    <td>(50,320 ELMAR)</td>
+  </tr>
+  <tr>
+    <td>Contax Zeiss Tessar 50mm. £.35.5</td>
+    <td style="text-align: right">49.50</td>
+    <td> </td>
+  </tr>
+</tbody>
+</table>
 
 The cameras, with these lenses, are priced as follows: 
 
@@ -334,8 +323,18 @@ normal distance from the camera.
 The supplementary lenses are sold 
 at the following prices: 
 
-| Leitz Front Lens, No. 1 (minimum area covered in copying, 8″ x 12″; 57,730 ELPRO) | $6.30 | 
-| Leitz Front Lens, No. 2 (minimum area covered in copying, 5″ x 8″; 57.750 ELPIK) | $7.20 | 
+<table>
+  <tbody>
+    <tr>
+      <td>Leitz Front Lens, No. 1 (minimum area covered in copying, 8″ x 12″; 57,730 ELPRO)</td>
+      <td style="text-align: right">$6.30</td>
+    </tr>
+    <tr>
+      <td>Leitz Front Lens, No. 2 (minimum area covered in copying, 5″ x 8″; 57.750 ELPIK)</td>
+      <td style="text-align: right">$7.20</td>
+    </tr>
+  </tbody>
+</table>
 
 Contax (Zeiss) Proxar supplementary lenses, corresponding to 
 the above Leitz supplementary lenses, are listed but not priced 
@@ -418,8 +417,18 @@ screen sells for $4.50 (#5520).
 glass focusing, the extension tube principle can be applied. The Leica extension 
 tubes are priced as follows: 
 
-| 57,635 (FUROR), 1.2cm. extenston tube | $1.80 |
-| 57,640 (UBECD), 2.2cm. extension tube | 1.80 |
+<table>
+  <tbody>
+    <tr>
+      <td>57,635 (FUROR), 1.2cm. extenston tube</td>
+      <td style="text-align: right">$1.80</td>
+    </tr>
+    <tr>
+      <td>57,640 (UBECD), 2.2cm. extension tube</td>
+      <td style="text-align: right">1.80</td>
+    </tr>
+  </tbody>
+</table>
 
 Either of these extension tubes 
 will be sufficient for all ordinary document copying, but a tube that will permit 
@@ -500,19 +509,77 @@ Leica cameras in various designs.
 To summarize, the following minimum investment is required in setting up 
 Leica or Contax document copying equipment: 
 
-| Leica: | Camera and lens | $130.50 | |
-| | Optical adaptation for document copying | 6.50 | (or $14.70) |
-| | Sliding arm | 10.50 | |
-| | Pillar and baseboard (home manufacture) | 1.50 | |
-| | | $149.00 | |
+<table>
+    <tbody>
+      <tr>
+        <td>Leica:</td>
+        <td>Camera and lens</td>
+        <td style="text-align: right">$130.50</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Optical adaptation for document copying</td>
+        <td style="text-align: right">6.50</td>
+        <td>(or $14.70)</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Sliding arm</td>
+        <td style="text-align: right">10.50</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Pillar and baseboard (home manufacture)</td>
+        <td style="text-align: right">1.50</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td> </td>
+        <td style="text-align: right">$149.00</td>
+        <td> </td>
+      </tr>
+    </tbody>
+  </table>
 
 {% include pagebreak.html canvas=328 %} 
 
-| Contax: | Camera and lens | $130.50 | |
-| | Optical adaptation | 7.50 | |
-| | Sliding bracket | 27.00 | |
-| | Pillar and baseboard (home manufacture) | 1.50 | |
-| | | $166.50 | |
+<table>
+  <tbody>
+    <tr>
+      <td>Contax:</td>
+      <td>Camera and lens</td>
+      <td style="text-align: right">$130.50</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Optical adaptation</td>
+      <td style="text-align: right">7.50</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Sliding bracket</td>
+      <td style="text-align: right">27.00</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Pillar and baseboard (home manufacture)</td>
+      <td style="text-align: right">1.50</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td style="text-align: right">$166.50</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
 
 It remains to set up the lighting 
 system. The lighting fixtures included in 
@@ -753,9 +820,7 @@ the operator.
 
 There is a prospect that the camera will be manufactured to order for libraries that intend to use it for developing a microcopying service. Dr. Draeger {% include columnbreak.html canvas=330 col=2 %} 
 
-FIGURE LXVII 
-
-Draeger camera (early model) 
+{% include figure.html fig="67" %}
 
 is interested in developing the design of 
 the camera to meet the needs of scholars. 
@@ -783,9 +848,7 @@ without sacrificing simplicity and uniformity in projection and reading.
 
 The camera will be provided with a {% include pagebreak.html canvas=331 %}
 
-FIGURE LXVIII
-
-New Folmer Graflex Camera 
+{% include figure.html fig="68" %}
 
 {% include pagebreak.html canvas=332 %}
 
@@ -879,9 +942,7 @@ page to show exactly how much of the page
 is being covered at that particular degree 
 of reduction and setting the aperture diaphragm. The camera is then raised or lowered so that the width of this light {% include pagebreak.html canvas=334 %} 
 
-FIGURE LXIX
-
-Recordak copying camera
+{% include figure.html fig="69" %}
 
 exactly takes in the width of the printed
 matter to be copied. When this is set,
@@ -952,9 +1013,7 @@ roll.
 
 There are three families of {% include pagebreak.html canvas=335 %}
 
-FIGURE LXX 
-
-Recordak Projector 
+{% include figure.html fig="70" %}
 
 {% include pagebreak.html canvas=336 %}
 
@@ -1152,20 +1211,14 @@ The Recordak, and presumably the
 International Filmbook, Draeger, and Folmer 
 Graflex projectors, will be provided with {% include pagebreak.html canvas=339 %}
 
-FIGURE LXXI
-
-Teledex Projector
+{% include figure.html fig="71" %}
 
 {% include pagebreak.html canvas=340 %}
-
 {% include pagebreak.html canvas=341 %}
 
-FIGURE LXXII 
-
-Spencer Projector 
+{% include figure.html fig="72" %}
 
 {% include pagebreak.html canvas=342 %}
-
 {% include pagebreak.html canvas=343 %}
 
 either 16mm. or 35mm. film; but none of 
@@ -1223,24 +1276,4 @@ his own microcopy films, the resulting release from burdensome mechanical work i
 the collecting and organizing of material 
 should have a marked effect on intellectual standards in research. {% include pagebreak.html canvas=344 %}
 
-TABLE XLVIII 
-
-CHART GIVING CHIEF CHARACTERISTICS OF PROJECTORS 
-
-| Name of Projector | Manufacturer |  Price  | Portable | Film Used | Type of Machine | Screen | Loading System | 
-|---|---|---|---|---|---|---|---|
-| Balopticon | Bausch and Lomb Co. Rochester, N. Y. | | Yes | Can use 55mm. with  special attachment | Magic lantern | Reflected light | Side |   
-| Argus | International Radio Corp. Ann Arbor | $25 | Yes | 35mm. double frame | Magic lantern | Reflected light | Side |
-| Delineascope | Spencer Lens Co. Buffalo N. Y. | About $75.00 | Yes | Can use 35mm. | Magic lantern | Reflected light | Side |
-| Teledex | International Filmbook Corp. N. Y. | About $25.00 | Yes | 35mm. perforated or unperforated | Reading machine | Transmitted on translucent screen | Film cartridges |
-| Optigraph| International Filmbook Corp. N.Y. | About $50.00 | Yes | 16mm. or  35mm., perforated or non~perforated | Reading machine | Transmitted on translucent screen | Film cartridges |
-| UDIMO, 25515 | E. Leitz, Inc. 60 E. 10th St. New York City | $36.00 without lens or condenser | Yes | 35mm. | Magic lantern | Reflected light |
-| UMINO, 60,000 | E. Leitz, Inc. 60 E. 10th St. New York City | $45.00 with lens | Yes | 35mm. | Magic lantern | Reflected light | Side |
-| Recordak Model 4 | Recordak Corp. 350 Madison Ave. New York City | Rents for $2.50 per month | Yes | 16mm., perforated on one side | Reading machine | Transmitted light on ground glass screen | Long rolls |
-| Recordak Model 6 | Recordak Corp. 350 Madison Ave. New York City | Rents for $5.00 per month | Yes | 16mm., perforated on one side | Reading machine | Reflected light on reflecting screen | Long rolls |
-| Recordak Library Model |Recordak Corp. 350 Madison Ave. New York City | Rents for $5.00 per month | Yes | 16mm. and 35mm. perforated |  Reading machine | Reflected light on  reflecting screen | Long Rows |
-| Filmstat Projector |Spencer Lens Co. Buffalo,. N.Y. | Tentative at $50.00 | Yes | 35mm. | Reading machine | Image is projected on ground glass screen | | 
-| Draeger Projector | Dr. R.H. Draeger c/o Bibliofilm  Serv. Depart.  of Agriculture Library, Washington, D. C. | | Yes | 35mm. | Reading machine | Transmitted light | Long rolls |
-| Bibliofilm Reading Machine | Bausch and Lomb Co.<br/> Rochester, N. Y. | | Yes | 16mm. and 35mm. | Reading machine | | |
-| Graflex Projector | Folmer Graflex Corp. Rochester, N.Y. | | yes | 16mm. and 35mm. | Reading machine | | Long rolls |
-
+{% include table.html tab="48" %}
