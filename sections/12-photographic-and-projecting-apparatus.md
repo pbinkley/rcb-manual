@@ -998,7 +998,7 @@ or purchase.
 
 ## Projector Reading Machines
 
-In Chapter XI, the problem of the
+In [Chapter XI]("11-cost-levels-and-applications-of-microcopying-and-projection-reading.html), the problem of the
 design of the projector was analyzed for
 its bearing on reduction ratio and standardization. In this chapter, the approach
 will be somewhat different. Each make of
