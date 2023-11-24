@@ -599,7 +599,7 @@ hypotheses regarding composition cost:
 first, that the format copy is typed directly from the draft copy without an intervening fair copy; and second, that the 
 fair copy is made on paper and then retyped as format copy on the mimeograph 
 stencil. Labor for operating the duplicating machine is estimated at $.40 per hour. 
-The choice of format would control a variation in area costs of 350% from the mini{%- include columnbreak.html canvas=124 col=2 -%}mum and a corresponding variation in running costs. (See [Table XX](#table_22) on the following page.) 
+The choice of format would control a variation in area costs of 350% from the mini{%- include columnbreak.html canvas=124 col=2 -%}mum and a corresponding variation in running costs. (See [Table XX](#table_20) on the following page.) 
 
 {% include table.html tab="19" %}
 

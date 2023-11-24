@@ -795,8 +795,7 @@ is not actually part of the photo-offset
 process: in preparing a new book by photo-offset, either ordinary raised type composition or typewriting would be used, and 
 the factors affecting these costs are elsewhere discussed. If ordinary linotype composition were resorted to with this process, no saving would be possible unless a 
 considerable number of illustrations appeared; the production of typescript books 
-by photo-offset will be examined in Chapter 
-V. 
+by photo-offset will be examined in [Chapter V](05-the-typescript-book-or-memorandum-reproduction-techniques.html). 
 
 In the present discussion photo-offset is being considered as a reprinting 
 device, and in the case of a reprint of a 
@@ -1012,13 +1011,13 @@ The Hispanic Society has reprinted a rare
 Spanish dictionary in a reduction to one-sixth (one-sixth of its original size.[^n12] The experiment of the New York *Times* with a miniature 
 edition reduced 50% from 7-point type has 
 been mentioned. These experiments together 
-with others are appraised in Chapter X in 
+with others are appraised in [Chapter X](10-reduced-scale-photographic-and-photolithographic-copying-on-paper-for-reading-through-magnifying-glasses.html) in 
 connection with various optical devices for 
 reading. For the present, it is necessary 
 to collect such information as) may be available on the effect of photo-offset reductions of type upon legibility with the
 naked eye. 
 
-[^n11]: See table in Chapter X, page 116. 
+[^n11]: See [table](10-reduced-scale-photographic-and-photolithographic-copying-on-paper-for-reading-through-magnifying-glasses.html#table_37) in [Chapter X](10-reduced-scale-photographic-and-photolithographic-copying-on-paper-for-reading-through-magnifying-glasses.html), [page 116](10-reduced-scale-photographic-and-photolithographic-copying-on-paper-for-reading-through-magnifying-glasses.html#page_116). 
 
 [^n12]: "....the photographs used in reproducing the Covarrubias. *Tesoro de la lengua castellana. o espanola* 
     we beg to report that the photographs used in reproducing the Covarrubias were made at the Hispanic 
@@ -1325,7 +1324,7 @@ been purchased.[^n14]
 The cost of printing surface for 
 the dermaprint process as compared with 
 rotaprint and multilith metal sheets is 
-shown in Table VII below. 
+shown in [Table VII](#table_07) below. 
 
 The supplementary photographic supplies needed for the dermaprint should normally cost more than those for photo-offset, 
 except in the case of the direct method, {% include pagebreak.html canvas=73 %} because the dermaprint must have a positive 
@@ -1336,7 +1335,7 @@ is only half through and must still make a
 positive from his negative.[^15] The cost of 
 making this positive copy can be kept down 
 if it is made by the filmslide process (see 
-Chapter VI). Ordinarily the dermaprint 
+[Chapter VI]("06-blueprinting-photostating-and-allied-techniques.html)). Ordinarily the dermaprint 
 uses just twice as much photographic paper 
 as photo-offset. Moreover, it is not quite 
 certain that the dermaprint can be prepared with a paper negative; if it turns 
