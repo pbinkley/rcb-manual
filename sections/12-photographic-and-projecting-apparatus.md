@@ -1074,24 +1074,30 @@ decision:
 Recordak Corporation   
 550 Madison Avenue   
 New York, New York 
+{: .paraindent }
 
 International Filmbook Corporation   
 Rockefeller Center   
 New York, New York 
+{: .paraindent }
 
 Spencer Lens Company   
 Buffalo, New York   
+{: .paraindent }
 
 Bausch and Lomb Company   
 Rochester, New York 
+{: .paraindent }
 
 Folmer Graflex Corporation (for combination camera and projector)   
 Rochester, New York 
+{: .paraindent }
 
 Dr. R.H. Draeger (U.S. Navy)   
 Care of Bibliofilm Service   
 Department of Agriculture Library   
 Washington, D.C. 
+{: .paraindent }
 
 With the reservation that all information here given should be checked 
 against the developments of the next few 
