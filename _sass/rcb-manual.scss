@@ -67,6 +67,10 @@ h2#table-of-contents ~ ul > li {
     top: -0.5rem;
 }
 
+blockquote { 
+    margin-top: 15px; 
+    font-style: normal;
+}
 blockquote .sidenote,
 blockquote .marginnote {
     margin-right: -82%;
@@ -156,7 +160,7 @@ p {
     margin-bottom: 0;
 }
 
-p.noindent {
+blockquote.noindent>p,li>p,p.noindent {
     text-indent: 0;
 }
 
