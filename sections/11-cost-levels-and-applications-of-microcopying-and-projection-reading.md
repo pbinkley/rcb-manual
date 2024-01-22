@@ -16,7 +16,7 @@ projection. The word "microcopying" would
 be more appropriate if glass should come 
 in as a photographic material. 
 
-## Resolving Power of Emulsion 
+## Resolving Power of Emulsion
 
 The technological limit of reduction of print is fixed by the size of the 
 grain on a photographic emulsion.[^n1] The 
@@ -49,7 +49,7 @@ enlargements to be made. Beyond that, everything runs together.
     within the province of present film development methods." Mr. Pratt hoped to eliminate grain entirely, and to produce clean-cut microcopies at practically any ratio of minification. He suggests 
     that the success of M. Dagron in making microcopies during the siege of Paris was based on a processing technique that has become a lost art because of the lack of demand for its perfection. 
     
-## Reduction Ratio in Copying 
+## Reduction Ratio in Copying
 
 The limit set by the grain of the 
 film to the possibility of making photographic reductions of reading matter can 
@@ -97,7 +97,7 @@ lens and the mechanical perfection of the
 camera; and the workmanship in focusing, 
 lighting, timing the exposure, and developing the image. 
 
-## Process—Positive Emulsion 
+## Process—Positive Emulsion
 
 The most widely used photographic 
 emulsion for microcopying is the one that 
@@ -126,7 +126,7 @@ process positive film to make them a desirable substitute. In this chapter, exce
 photographic emulsion under discussion is 
 the process positive. 
 
-## Camera and Lens System 
+## Camera and Lens System
 
 The efficiency of a camera and 
 lens system in affecting the reduction ratio is a product of three factors: the 
@@ -348,7 +348,7 @@ made must have been the equivalent of some-
 thing between 32 and 39 diameters from 
 newsprint. 
 
-## Cost of Photosensitive Surface 
+## Cost of Photosensitive Surface
 
 The cost of the photographic surface used in microcopying varies between 
 $.14 and $.50 per square foot. The cheapest film is the motion picture nitrate 
@@ -431,7 +431,7 @@ to $.28 a square foot.[^n3] {% include columnbreak.html canvas=278 col=2 %}
 [^n3]: Paper in 70mm. strips sells for twice the price of ordinary photostat rolls, but a simple frame with 
 a razor blade set in it, will cut the paper in these strips, making the low price available. 
 
-## Film or Glass Versus Paper 
+## Film or Glass Versus Paper
 
 Why is it desirable to use a translucent medium in copying? One part of the 
 answer to this question is found in the behavior of light. In discussing the possibilities of reading reduced-size print by 
@@ -457,7 +457,7 @@ increased utilization of light in the projection process, which renders possible
 the greater reduction ratios that are 
 standard in microcopying. 
 
-## Film, Glass or Paper? Film Strips or Rectangles? 
+## Film, Glass or Paper? Film Strips or Rectangles?
 
 The basic comparison of the three {% include pagebreak.html canvas=279 %} 
 
@@ -557,7 +557,7 @@ more of film for copying, and will not
 call for the insertion of a newly photographed item between two items already 
 photographed. 
 
-## Full Use of Area of Moving Picture Film 
+## Full Use of Area of Moving Picture Film
 
 When 16mm., 35mm., or 7Omm. film 
 is used for microcopying, one dimension of 
@@ -619,7 +619,7 @@ price of which would be $.015 to $.0275.
 
 {% include table.html tab="41" %}
 
-## Processing Costs 
+## Processing Costs
 
 The processing costs for microcopies are like the costs of the photographic surface in that they apply to a 
 footage of film strips, or, roughly, an 
@@ -746,7 +746,7 @@ at $.03 for 16mm. film, $.05 for 35mm., to
 include film and processing. Very short 
 runs of a few inches only introduce a special problem which will be separately analyzed. 
 
-## First Costs and Running Costs in Microcopying 
+## First Costs and Running Costs in Microcopying
 
 The application of microcopying to 
 the distribution of reading matter is so 
@@ -986,7 +986,7 @@ for 16mm. film).
 | | $1,672.32 at 21 diameters, 16mm. film; or $.085 per 100 pages (film and processing at $.0225 per foot) | | 
 | | $3,167 at 21 diameters, 16mm. film; or $.16 per 100 pages (film and processing at $.05 per foot) | (Difference of $1,494.68 between high and low processing) |
 
-## Microcopying "Reprint Costs" 
+## Microcopying "Reprint Costs"
 
 Microcopying, like book production, 
 as has been stated, gives rise to both 
@@ -1031,7 +1031,7 @@ it. This quality of microcopying, it must
 be remembered, is present only to the degree that the footage involved in a single 
 order is large enough to obtain low processing prices. 
 
-## Short Footages in Unique Copies 
+## Short Footages in Unique Copies
 
 An application of microcopying 
 that is already developing, and promises 
@@ -1060,7 +1060,7 @@ costs to an entirely new level. Bookkeeping costs would appear, but it seems qui
 probable that on large-scale work the 
 price level could be held down within {% include columnbreak.html canvas=294 col=2 %} striking distance of the price of long-footage orders. 
 
-## Microcopying and Long-Distance Use of Libraries: the "Bibliofilm Service" 
+## Microcopying and Long-Distance Use of Libraries: the "Bibliofilm Service"
 
 The most interesting effort to develop a service of this kind has been made 
 by Mr. Atherton Seidell, Dr. R. H. Draeger 
@@ -1139,7 +1139,7 @@ whether a given volume of a periodical is
 available at one or another of the libraries offering this service, scholars are 
 now able to arrange with speed and certainty to have copied for them periodical articles not accessible in their own institutions. 
 
-## Microcopying and Copyright 
+## Microcopying and Copyright
 
 While these innovations have offered a mechanical means of increasing the {% include columnbreak.html canvas=295 col=2 %} working power of scholars throughout the 
 country, it has been necessary to prepare 
@@ -1218,7 +1218,7 @@ services in lieu of inter-library loans.
 
 The text of the agreement is reproduced herewith: 
 
-## Correspondence and Agreement on the Photographic Copying by Libraries of Copyrighted Material 
+## Correspondence and Agreement on the Photographic Copying by Libraries of Copyrighted Material
 
 May 25, 1935 
 
@@ -1363,7 +1363,7 @@ Joint Committee on Materials for Research
 W. W. Norton, President    
 National Association of Book Publishers {% include columnbreak.html canvas=299 col=1 %} 
 
-## "Publishing" Short Runs of Material by Microcopying 
+## "Publishing" Short Runs of Material by Microcopying
 
 One of the most intricate, and at 
 the same time the most important, of the 
@@ -1519,7 +1519,7 @@ items, arranged in an open order, with new
 items placed between items already in the 
 file.
 
-## The Problem of Standardization of Equipment and Reduction Ratio 
+## The Problem of Standardization of Equipment and Reduction Ratio
 
 A memorandum by Mr. Verneur E. Pratt {% include pagebreak.html canvas=301 col=1 %} of the International Filmbook Corporation, 
 and a series of letters and memoranda by 
@@ -1706,7 +1706,7 @@ There are at present too many unknowns to permit the solution of this intricate 
 least to eliminate some of the unknowns, 
 and to simplify in some measure the problem of standardization. 
 
-## Essentials of Design for Reading Equipment: (a) Length of Line 
+## Essentials of Design for Reading Equipment: (a) Length of Line
 
 Into this labyrinth there are many 
 approaches. The analysis might begin with 
@@ -1757,7 +1757,7 @@ it an image that does not show full lines,
 the two are absolutely incompatible. 
 
 Already there have appeared in the 
-development of microcopying apparatus several outstanding examples of this incompatibility. The Recordak newspaper projector projects an image from a full frame of {% include pagebreak.html canvas=304 %} a l6mm. film or from one quarter of the 
+development of microcopying apparatus several outstanding examples of this incompatibility. The Recordak newspaper projector projects an image from a full frame of {% include pagebreak.html canvas=304 %} a 16mm. film or from one quarter of the 
 "double frame" of a 35mm. film. A newspaper page, copied on the Eastman Recordak 
 machine, is projected and read, a quarter-page at a time. There is no incompatibility here, for the quarter-page of the newspaper holds several columns, and no lines 
 of reading are broken off in the middle. 
@@ -1816,7 +1816,7 @@ if the rolls are long enough; if they should
 copy in the third position their film would 
 be readable in either the Recordak or Filmbook projector. 
 
-## Essentials of Design for Reading Equipment. (b) The Page Rectangle 
+## Essentials of Design for Reading Equipment. (b) The Page Rectangle
 
 Another given quantity, independent 
 of any choice made by the designers of microcopying or reading equipment, is the 
@@ -1902,7 +1902,7 @@ still control the proportions of the film
 with the long side one-third to one-half 
 longer than the short side. 
 
-## Essentials of Design for Reading Equipment (c) the Aperture 
+## Essentials of Design for Reading Equipment (c) the Aperture
 
 The aperture of a lens is usually 
 measured as a diameter of the lens circle: 
@@ -2017,7 +2017,7 @@ the standard dimensions of the film and
 the normal proportions of a page rectangle 
 are fixed quantities. 
 
-## Essentials of Design for Reading Equipment: (d) the Enlargement Ratio 
+## Essentials of Design for Reading Equipment: (d) the Enlargement Ratio
 
 With these apertures accepted as 
 fixed alternatives for reading equipment, 
@@ -2096,18 +2096,6 @@ but only by diminishing. the aperture.
 It might be argued that enlargement {% include pagebreak.html canvas=308 %} 
 
 {% include table.html tab="45" %}
-
-{% include pagebreak.html canvas=309 %} 
-
-- proofed to here
-
-TABLE XLV
-
-Aperture 6 diameters 9 diameters 
-
-Aperture 6 diameters 9 diameters 
-
-Aperture 9 diam, 12 diam. 
 
 {% include pagebreak.html canvas=310 %} ratio can always be increased by bringing 
 the lens nearer to the film, and setting 
@@ -2239,7 +2227,6 @@ be a rule that designers are not encouraged
 to develop apparatus that will not permit 
 the use of either width of film. In connection with the problem of enlargement 
 ratio, a different situation exists. 
-
 {% include columnbreak.html canvas=311 col=2 %} 
 
 III
@@ -2375,7 +2362,7 @@ except such copies made at very high reduction on multiple exposure on 35mm. fil
 Such copies would be legible only in the 
 Recordak and International Filmbook apparatus.
 
-## Film Storage and Durability 
+## Film Storage and Durability
 
 To the extent that microphotography 
 is used merely as a substitute for interlibrary lending, the question of the permanence of the film is not important. There 
@@ -2640,47 +2627,7 @@ basis like ordinary book publishing. Early
 estimates of the cost of the first negative set this cost figure at $.10 a foot, 
 or $284.00 for the original negative. The {% include pagebreak.html canvas=316 %} 
 
-TABLE XLVI 
-
-COSTS OF ACQUIRING OR MAINTAINING ONE YEAR OF A NEWSPAPER FILE OF APPROXIMATELY 18,000 PAGES PER YEAR, BOUND IN 24 VOLUMES 
-
-(*Based on dimensions and typography of the New York Times*) 
-
-I. *Preservation of current file*. (Not applicable to back files) 
-
-|-----|-----|-----:|-----|
-| 1. | Subscription price, unbound, newsprint edition | $18.00 | (perishable) |
-| 2. | Cost of binding | 54.00 | (perishable) |
-| 3. | Newsprint edition, including binding | 72.00 | (perishable) | 
-| 4. | Rag paper edition, including binding | $170.00 | (permanent) |
-| 5. | Cost of storage space for 24 volumes, minimum $48, maximum $72, average (See figures in Chapter II) | $60.00 | | 
-| 6. | Total: for storage and file in permanent form | $230.00 | |
-| 7. | Total for storage: and file in impermanent | $132.00 | |
-| 8. | Cost of treating with Japanese tissue to render a file permanent | $540.00 | |
-| 9. | Total cost of newspaper, binding storage, and Japanese paper treatment. | $672.00 | |
-
-II. *Preservation in photo-offset copy, on good paper, reduced to one-half size* (Applicable to back files) 
-
-| 10. | Twenty-five subscribers' (quotations of 1931) | $1000.008 | to each | 
-| 11. | Fifty subscribers | 540.00 | |
-| 12. | One hundred subscribers | 290.00 | |  
-| 13. | Two hundred subscribers | 165.00 | |
-| 14. | Four hundred subscribers | 102.50 | |
-| 15. | Eight hundred subscribers | 72.00 | | 
-| 16. | Storage space for file (¼ of full size) | $15.00 | |
-
-III. *Preservation in microcopy form.*
-
-| 17. | New York *Times*-Recordak price per year | $120.00 | 
-| 18. | Reduced 16 diameters, 1st position on 35mm. film. perforated on one side, 2840 feet of film |
-| | Price of film (process positive) including processing | | |
-| | At 5½¢ per foot | High ... $156.00 | | 
-| | At 2½¢ per foot | Low ... $71.00 | |
-| 19. | Reduced 20 diameters, 2nd position on same film as 
-above, 1480 feet of film | | |
-| | Price of process positive film including processing | | |
-| | At 5½¢ per foot | High ... $81.00 |
-| | At 2½¢ per foot | Low ... $37.00 | 
+{% include table.html tab="46" %}
 
 cost of this negative is of course distributed among the subscribers to the sets 
 of film, who buy their positive sets at 
@@ -2773,7 +2720,7 @@ a few statements:
 1. No library should at present embark on a large scale plan for the purchase, binding and storage of newspaper files without taking into account the revolutionary implications of microcopying. 
 2. If, as now seems probable, an increasing number of newspapers offer their current issues to libraries in microcopy form at a reasonable price, the chances are all in favor of preferring the microcopies to a wood pulp paper edition on grounds of permanence. 
 
-## Microcopying and Library Cataloguing 
+## Microcopying and Library Cataloguing
 
 Another special use of the microcopying process can be found in the copying 
 of library catalogues. It has been stated 
@@ -2898,7 +2845,7 @@ number of copies of separate library catalogues assembled in one room), with a t
 union list of current acquisitions, made 
 by filing one card for each new title acquired by each of the coöperating institutions. 
 
-## Photography as the Scholar's Amanuensis 
+## Photography as the Scholar's Amanuensis
 
 The analysis of costs and problems 
 in the preceding pages has been devoted 
@@ -2952,7 +2899,7 @@ the technique will automatically tend to
 distinguish between that kind of intellectual labor that is merely the gathering together of documents and that which is the 
 creative analysis of evidence, 
 
-## The Merging of Collecting and Publishing 
+## The Merging of Collecting and Publishing
 
 An even more sweeping change in 
 the pattern of intellectual organization is 
