@@ -85,7 +85,7 @@ than the amount paid for the books by the
 consumer, because the retail dealer's profit of 40% must be included. The commercial 
 publisher's dollar is the consumer's $.60. 
 
-[^n3]: Cf. footnote on page 3. 
+[^n3]: Cf. [footnote](#fn:n2) on [page 3](#page_3). 
 
 The dealer's discount in scholarly 
 publishing is reckoned at 30% by Mr. Bean, 
@@ -103,9 +103,9 @@ These relationships between cost
 and price must receive further analysis, 
 but in the meantime note must be made of 
 the distribution which publishers make of 
-each dollar[^n4] they receive. (See Table I.) 
+each dollar[^n4] they receive. (See [Table I](#table_01).) 
 
-[^n4]: These figures are adopted from those given in Cheney, p. 159, and in Bean, p. 90.. 
+[^n4]: These figures are adopted from those given in Cheney, p. 159, and in Bean, p. 90.
 
 Part of the larger percentage of 
 manufacturing costs found in Mr. Bean's figures may be due to the inclusion of some 
@@ -190,14 +190,15 @@ per copy in quantities of 10,000 copies. Stereotype or electrotype plates
 costing approximately $1.25 per page 
 additional have not been included, although a necessary cost if provision 
 is to be made for additional impressions.[^n6] 
+{:.noindent}
 
-[^n5]: The formula suggested by Dr. Meiner for pricing this hypothetical book runs as follows: 
-    
-    $$ {Selling\ price} = {Manufacturing\ Cost \over {1-(Author's\ royalty + overhead + profit + retailer's\ discount)}} $$
-    
-    The percentages which fill in this formula in ordinary commercial publishing are estimated by Bean as follows: 
-    
-    <table>
+The formula suggested by Dr. Meiner for pricing this hypothetical book runs as follows: 
+
+$$ {Selling\ price} = {Manufacturing\ Cost \over {1-(Author’s\ royalty + overhead + profit + retailer’s\ discount)}} $$
+
+The percentages which fill in this formula in ordinary commercial publishing are estimated by Bean as follows: 
+
+<table>
     <tbody>
       <tr>
         <td>Author’s royalty</td>
@@ -221,13 +222,13 @@ is to be made for additional impressions.[^n6]
       </tr>
     </tbody>
     </table>
-    
-    Consequently, the book described above, with manufacturing cost of $1.30 in lots of 1000, $.40 in lots 
+
+Consequently, the book described above, with manufacturing cost of $1.30 in lots of 1000, $.40 in lots 
     of 10,000, would be priced: 
-    
-    $$ {Selling\ price} = {$1.30 \over {1 - ($.10;.30;.05;.30)}} = {$1.30 \over .25} = $5.20\ ($.013\ per\ page)$$
-    
-    But if the manufacturing cost is \$.40, it would be $$ {$.40 \over .25}=\$1.60\ (\$.004\ per\ page) $$. 
+
+$$ {Selling\ price} = {$1.30 \over {1 - ($.10;.30;.05;.30)}} = {$1.30 \over .25} = $5.20\ ($.013\ per\ page)$$
+
+But if the manufacturing cost is \$.40, it would be $$ {$.40 \over .25}=\$1.60\ (\$.004\ per\ page) $$. 
 
 [^n6]: Cf. Bean, p.72.
   
@@ -345,16 +346,16 @@ copies, and 19% of all non-fiction, titles
 sell over this amount. Of fiction titles 
 the following distribution is normal: 
 
-9 books in 10 sell over 1,000    
-8 books in 10 sell over 1,500    
-7 books in 10 sell over 2,000    
-6 books in 10 sell over 2,500    
-5 books in 10 sell over 4,000    
-4 books in 10 sell over 5,000    
-2 books in 10 sell over 10,000    
-1 book in 10 sells over 20,000 
-
+> 9 books in 10 sell over 1,000    
+  8 books in 10 sell over 1,500    
+  7 books in 10 sell over 2,000    
+  6 books in 10 sell over 2,500    
+  5 books in 10 sell over 4,000    
+  4 books in 10 sell over 5,000    
+  2 books in 10 sell over 10,000    
+  1 book in 10 sells over 20,000 
 {% include pagebreak.html canvas=25 %}
+{:.noindent}
 
 {% include table.html tab="02" %}
 

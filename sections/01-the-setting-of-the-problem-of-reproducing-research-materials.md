@@ -6,7 +6,6 @@ layout: narrative
 ---
 
  {% include pagebreak.html canvas=19 %} Research in the social sciences and humanities is unlike research in
-}
 the natural sciences in that it uses written texts as its principal
 material. The first duty of scholarship is to protect and preserve
 original writings, the loss of which would be irretrievable. Except
