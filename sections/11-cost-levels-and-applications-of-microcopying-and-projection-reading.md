@@ -353,7 +353,7 @@ newsprint.
 The cost of the photographic surface used in microcopying varies between 
 $.14 and $.50 per square foot. The cheapest film is the motion picture nitrate 
 film which sells for $.01 a running foot, 
-45mm. wide; but this is, or ought to be, 
+35mm. wide; but this is, or ought to be, 
 excluded from consideration. No nitrate 
 film should ever be used for copying work, 
 for the cellulose nitrate upon which the 
@@ -904,7 +904,7 @@ the Joint Committee in September, 1935.
 For purposes of calculation it was assumed 
 that the total number of pages would be two 
 million, and the average page size an octavo in twelve-point type. The calculation 
-was made to cover two alternatives in reduction ratio---12 diameters and 21 diameters, and the alternative of using 45mm. 
+was made to cover two alternatives in reduction ratio---12 diameters and 21 diameters, and the alternative of using 35mm. 
 or 16mm. film. The memorandum on cost, 
 while rather elaborate, serves to illustrate the behavior of so many of the variables in microcopying that it is here 
 quoted textually: 
@@ -967,7 +967,7 @@ as follows:
 | | $3,257.50 at 21 diameters, 16mm. film; $.165 per 100 pages | 
 | 20 libraries | $3,840 at 12 diameters, 35mm. film; or $.20 per 100 pages | 
 | | $2,292 at 21 diameters, 16mm. film; or $.115 per 100 pages |
-| 40 libraries | $3,520 at 12 diameters, 45mm. film; or $.17 per 100 pages |
+| 40 libraries | $3,520 at 12 diameters, 35mm. film; or $.17 per 100 pages |
 | | $1,808 at 21 diameters, 16mm. film; or $.09 per 100 pages |
 
 By the time forty libraries are {% include columnbreak.html canvas=293 col=2 %} reached, the cost of film and processing 

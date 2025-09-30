@@ -229,7 +229,7 @@ The camera uses a sixteen and one-half foot length of unperforated 35mm.
 film, taking 100 exposures on a loading. It 
 must be loaded in the dark. The dimensions 
 of the exposure frame are the largest of 
-any used in microcopying: 30mm. x 45mm. 
+any used in microcopying: 30mm. x 35mm. 
 This use of unperforated film lowers the 
 cost per square foot of photosensitive surfact, but the large exposure frame cancels 
 some of this advantage by using more surface than would be necessary with a maximum 
