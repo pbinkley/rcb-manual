@@ -30,8 +30,7 @@ Class II. Cameras designed primarily for document copying.
 1. Ansco Universal copying camera. 
 2. Ludwig camera, made to order (used at Yale University Library, New York Public Library). 
 3. Filmograph (not on the market as apparatus). 
-4. Draeger camera (used at U. S. Bureau of Agriculture for Bibliofilm 
-5. service) 
+4. Draeger camera (used at U. S. Bureau of Agriculture for Bibliofilm service) 
 5. Commercial Recordak (used in copying the NRA and AAA records). 
 6. Newspaper Recordak (sole installation at Rochester). {% include columnbreak.html canvas=321 col=2 %}
 7. Eastman bound—volume copying camera, 16mm. film (in process of development). 
@@ -174,8 +173,7 @@ Laines, Brussels. Cinescopie, like {% include pagebreak.html canvas=323 %}
 {% include table.html tab="47" %}
 
 {% include pagebreak.html canvas=324 %} Photoscopie, issues a general catalogue of 
-film subjects in all fields. The specifications of the Cinescopie camera are interesting. The machine is small: 9½ 
-x 4½ x 6cm. The shutter makes automatically measured exposures up to one second, 
+film subjects in all fields. The specifications of the Cinescopie camera are interesting. The machine is small: 9½ x 4½ x 6cm. The shutter makes automatically measured exposures up to one second, 
 which is not sufficient for document copying. The actual film carrier takes a 
 length of three meters of standard 35mm. 
 film, which means 120 pictures. The film 
