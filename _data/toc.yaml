@@ -41,20 +41,20 @@
       canvas: 43
     - title: "Printing: Analysis of Costs"
       canvas: 43
-    - title: "Multigraph Process"
+    - title: "The Multigraph Process"
       canvas: 44
     - title: "Alternatives to Printing"
       canvas: 59
-    - title: "Reprinting: Photo-Offset Process"
+    - title: "Reprinting: the Photo-offset Process"
       canvas: 59
     - title: "Photo-Offset: Composition Costs"
       canvas: 60
     - title: "Photo-Offset: Area Costs"
       canvas: 60
       subsections:
-        - title: "(a) Photographic Negative"
+        - title: "(a) The Photographic Negative"
           canvas: 60
-        - title: "(b) Preparation of Metal Plate"
+        - title: "(b) The Preparation of the Metal Plate"
           canvas: 63
         - title: "(c) Full Utilization of Metal Plate Surface"
           canvas: 63
