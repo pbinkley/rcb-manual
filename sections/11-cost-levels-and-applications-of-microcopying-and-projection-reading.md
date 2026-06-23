@@ -2097,18 +2097,6 @@ It might be argued that enlargement {% include pagebreak.html canvas=308 %}
 
 {% include table.html tab="45" %}
 
-{% include pagebreak.html canvas=309 %} 
-
-- proofed to here
-
-TABLE XLV
-
-Aperture 6 diameters 9 diameters 
-
-Aperture 6 diameters 9 diameters 
-
-Aperture 9 diam, 12 diam. 
-
 {% include pagebreak.html canvas=310 %} ratio can always be increased by bringing 
 the lens nearer to the film, and setting 
 the screen further from the lens. Thus a 
@@ -2239,7 +2227,6 @@ be a rule that designers are not encouraged
 to develop apparatus that will not permit 
 the use of either width of film. In connection with the problem of enlargement 
 ratio, a different situation exists. 
-
 {% include columnbreak.html canvas=311 col=2 %} 
 
 III
@@ -2640,47 +2627,7 @@ basis like ordinary book publishing. Early
 estimates of the cost of the first negative set this cost figure at $.10 a foot, 
 or $284.00 for the original negative. The {% include pagebreak.html canvas=316 %} 
 
-TABLE XLVI 
-
-COSTS OF ACQUIRING OR MAINTAINING ONE YEAR OF A NEWSPAPER FILE OF APPROXIMATELY 18,000 PAGES PER YEAR, BOUND IN 24 VOLUMES 
-
-(*Based on dimensions and typography of the New York Times*) 
-
-I. *Preservation of current file*. (Not applicable to back files) 
-
-|-----|-----|-----:|-----|
-| 1. | Subscription price, unbound, newsprint edition | $18.00 | (perishable) |
-| 2. | Cost of binding | 54.00 | (perishable) |
-| 3. | Newsprint edition, including binding | 72.00 | (perishable) | 
-| 4. | Rag paper edition, including binding | $170.00 | (permanent) |
-| 5. | Cost of storage space for 24 volumes, minimum $48, maximum $72, average (See figures in Chapter II) | $60.00 | | 
-| 6. | Total: for storage and file in permanent form | $230.00 | |
-| 7. | Total for storage: and file in impermanent | $132.00 | |
-| 8. | Cost of treating with Japanese tissue to render a file permanent | $540.00 | |
-| 9. | Total cost of newspaper, binding storage, and Japanese paper treatment. | $672.00 | |
-
-II. *Preservation in photo-offset copy, on good paper, reduced to one-half size* (Applicable to back files) 
-
-| 10. | Twenty-five subscribers' (quotations of 1931) | $1000.008 | to each | 
-| 11. | Fifty subscribers | 540.00 | |
-| 12. | One hundred subscribers | 290.00 | |  
-| 13. | Two hundred subscribers | 165.00 | |
-| 14. | Four hundred subscribers | 102.50 | |
-| 15. | Eight hundred subscribers | 72.00 | | 
-| 16. | Storage space for file (¼ of full size) | $15.00 | |
-
-III. *Preservation in microcopy form.*
-
-| 17. | New York *Times*-Recordak price per year | $120.00 | 
-| 18. | Reduced 16 diameters, 1st position on 35mm. film. perforated on one side, 2840 feet of film |
-| | Price of film (process positive) including processing | | |
-| | At 5½¢ per foot | High ... $156.00 | | 
-| | At 2½¢ per foot | Low ... $71.00 | |
-| 19. | Reduced 20 diameters, 2nd position on same film as 
-above, 1480 feet of film | | |
-| | Price of process positive film including processing | | |
-| | At 5½¢ per foot | High ... $81.00 |
-| | At 2½¢ per foot | Low ... $37.00 | 
+{% include table.html tab="46" %}
 
 cost of this negative is of course distributed among the subscribers to the sets 
 of film, who buy their positive sets at 
