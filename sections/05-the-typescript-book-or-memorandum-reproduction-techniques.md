@@ -5,7 +5,7 @@ title: "The Typescript Book or Memorandum: Reproduction Techniques"
 layout: narrative
 ---
 
-## I. Carbon Paper Copying 
+## I. Carbon Paper Copying
 
  {% include pagebreak.html canvas=95 %} Carbon paper offers one of the oldest and cheapest means of multiplying typescript in a very few copies. It is constantly used for thesis work. With ordinary skill and an ordinary typewriter, two 
 carbons can be made with high legibility 
@@ -72,7 +72,7 @@ is crossed to the field of the hectograph.
 {% include pagebreak.html canvas=97 %} 
 {% include pagebreak.html canvas=98 %} 
 
-## II. The Hectograph Process 
+## II. The Hectograph Process
 
 In this report the term *hectographing* is used to designate any process by 
 which approximately 100 to 150 copies of a 
@@ -87,7 +87,7 @@ document may be reproduced in methyl-violet {% include pagebreak.html canvas=96 
 
 {% include pagebreak.html canvas=101 %} 
 
-### a) Gelatin Hectograph Process 
+### a) Gelatin Hectograph Process
 
 When a sheet of paper (which we 
 will call a master sheet) bearing a text 
@@ -112,7 +112,7 @@ The gelatin for the rotary models is furnished in the form of films 9″ x 15″
 which are fastened to the drum of the machine as stencils are fastened on the mimeo{%- include columnbreak.html canvas=101 col=2 -%}graph cylinder; the larger, flat-bed equipment employs a roll with a cloth or fiber 
 backing, 9″ to 18″ wide and about 15′ long. 
 
-### b) Liquid Hectograph Process 
+### b) Liquid Hectograph Process
 
 A second type of hectograph equipment dispenses with the gelatin. A piece 
 of hectograph carbon paper is placed behind the master sheet, with the carbon side 
@@ -201,7 +201,7 @@ use of the liquid process.
 
 ## Cost Analysis of Hectographing
 
-### (a) Composition and Running Costs 
+### (a) Composition and Running Costs
 
 Composition and running costs for 
 hectographing require little analysis. Fair 
@@ -244,7 +244,7 @@ regular copy paper it is really not economical.
 
 {% include pagebreak.html canvas=110 %} 
 
-### (b) Area Costs and Legibility 
+### (b) Area Costs and Legibility
 
 Area costs are those of the master 
 sheets ($1.50 to $3.00 per 1000 sheets) 
@@ -317,7 +317,7 @@ product will result.
 
 {% include pagebreak.html canvas=112 %} 
 
-### c) Application of Hectographing to the Problems of Scholarship 
+### c) Application of Hectographing to the Problems of Scholarship
 
 When compared with the average quotation for typing, these figures indicate 
 that the hectograph will distribute the 
@@ -393,7 +393,7 @@ single standard carbon copy is made while
 typing the hectograph master sheet, this 
 copy can be deposited and held for permanence. 
 
-## III. Mimeograph Techniques: Mimeographing and Direct-Typing Offset Printing 
+## III. Mimeograph Techniques: Mimeographing and Direct-Typing Offset Printing
 
 The mimeograph process multiplies 
 typescript by means of a stencil printing 
@@ -439,7 +439,7 @@ therefore, be referred to henceforth in
 this report as the "mimeograph" techniques, 
 and their costs will be analyzed together. 
 
-## Composition Cost Analysis 
+## Composition Cost Analysis
 
 It will be seen that the cost of 
 the printing surface (or the area cost) for 
@@ -459,12 +459,11 @@ work directly from a draft copy to a mimeograph stencil; but this extra format t
 is so often done that most of the quotations presuppose it. 
 
 Precisely because the area cost is 
-Significant in mimeographing, the problem 
+significant in mimeographing, the problem 
 of format must be studied; for it becomes 
 important to lay down as much as possible 
 on a given area, without unduly sacrificing 
-legibility and beauty. But it goes with- 
-out saying that any format differing from {% include columnbreak.html canvas=113 col=2 %} the usual one-column, six-line-to-the-inch, 
+legibility and beauty. But it goes without saying that any format differing from {% include columnbreak.html canvas=113 col=2 %} the usual one-column, six-line-to-the-inch, 
 pica or elite typescript format will be 
 more expensive to prepare. In estimating 
 the average mimeographing costs, therefore, 
@@ -475,7 +474,7 @@ unusual typescript page. The specifications for satisfactory mimeograph formats
 will be discussed in connection with area 
 costs. 
 
-## Area Costs and Format 
+## Area Costs and Format
 
 Mimeograph stencils are of five 
 kinds and are sold in two standard sizes, 
@@ -556,7 +555,7 @@ conclusion that the formats shown in
 [Table XIX](#table_19) are advisable for the number of 
 words per page indicated. 
 
-## Explanation of Sample Pages and Cost Table 
+## Explanation of Sample Pages and Cost Table
 
 In order to exhibit as many as possible of the different varieties of the 
 mimeograph process, the sample pages following have been run off on mimeograph and 
@@ -627,7 +626,7 @@ be a variation of 35% for the maximum and
 
 {% include pagebreak.html canvas=127 %} 
 
-## IV. Photo-Offset from Typescript 
+## IV. Photo-Offset from Typescript
 
 The photo-offset technique has already been described in connection with the 
 reprinting of books out of print. The same 
@@ -656,7 +655,7 @@ of all these intermediate steps be borne?
 Why should the area cost be so greatly increased when the end product is still a 
 typescript book? 
 
-## Justification for Increased Area Cost 
+## Justification for Increased Area Cost
 
 If the text includes illustrations 
 or characters that must be filled in by 
@@ -674,7 +673,7 @@ the normal 10″ spacing of library shelving
 in a way that results in the most efficient 
 use of page areas and bookshelf footage. 
 
-## Photographic Reduction of Typescript: (a) Economies in Type Size 
+## Photographic Reduction of Typescript: (a) Economies in Type Size
 
 Typescript is wasteful of page 
 areas because of the large size of the type. 
@@ -733,7 +732,7 @@ This is the same situation that is encountered in any photographic reproduction
 process in which a reduction of the size of 
 the writing is involved. 
 
-## Photographic Reduction of Typescript: (b) Length of Line and Economy 
+## Photographic Reduction of Typescript: (b) Length of Line and Economy
 
 There is an additional feature that 
 makes this consideration especially important in the case of typescript, and that is 
@@ -785,7 +784,7 @@ cost per word will be the same only if six
 times as much reading matter can be put on 
 the photo-offset page. 
 
-## Specifications for Reproducing the Same Book at the Same Cost by Mimeographing and by Photo-Offset 
+## Specifications for Reproducing the Same Book at the Same Cost by Mimeographing and by Photo-Offset
 
 Cost comparisons between photo-offset and mimeographing as means of reproducing typescript are complicated by the 
 fact that photo-offset is usually shopwork 
@@ -835,7 +834,7 @@ mimeographing, there are other photo-offset
 formats available at costs that increase 
 until they come to exceed the cost of efficiency formats in printing. 
 
-## Photo-Offset Typescript Format: Full Utilization of Printing Surface 
+## Photo-Offset Typescript Format: Full Utilization of Printing Surface
 
 In planning formats for the photo-offset book there must be considered a 
 fixed set of dimensions not those of the 
@@ -1276,7 +1275,7 @@ each format are calculated. These prices
 are sufficiently checked with actual quotations to make them indicative of the general price levels at which photo-offset can 
 be used. (See Figures [XXXIV](#figure_34) and [XXXV](#figure_35).) 
 
-## Photo-Offset from Normal Fair Copy, without Additional Format Typing 
+## Photo-Offset from Normal Fair Copy, without Additional Format Typing
 
 It will often happen that a fair 
 copy of a manuscript has been made in the 
@@ -1405,7 +1404,7 @@ Edwards figures.
 
  {% include pagebreak.html canvas=150 %} The Edwards' model 700-D requires 
 seventy-two pages for the 50,000 words; the 
-Edwards! quotations for typing in this format are $.78 per 1000 words instead of the 
+Edwards' quotations for typing in this format are $.78 per 1000 words instead of the 
 $1.25 which is the average figure. The composition cost is figured at $39.00 for the 
 700-D model with 50,000 words. The price 
 of an edition of 500 copies typed by the 
@@ -1440,7 +1439,7 @@ With these quotations in hand, he
 can divide the work and plan his format to 
 produce maximum legibility at minimum cost. 
 
-## Typing Instructions 
+## Typing Instructions
 
 Since these tables reveal a considerable difference in costs and prices dependent upon the character of a composition cost, instructions for the preparation 
 of a format copy for the photo-offset typescript book are properly a part of this 
@@ -1496,7 +1495,7 @@ final copy is to show the two columns divided by a line. Diagrams, photographs,
 and other non-typescript matter can be fitted into the pages at this stage in the 
 preparatory process. 
 
-## V. The Manuscript Book 
+## V. The Manuscript Book
 
 Our habits of judgment have been so 
 formed that we always expect to see certain 
@@ -1557,7 +1556,7 @@ illustration on the preceding page serves
 to show what might be done in this line. 
 ([Figure XXXVI](#figure_36).) 
 
-## Cost Analysis: Composition Costs 
+## Cost Analysis: Composition Costs
 
 The area and running costs of a 
 manuscript book reproduced by photo-offset 

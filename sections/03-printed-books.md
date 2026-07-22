@@ -123,7 +123,7 @@ of making books in ordinary print type from {% include columnbreak.html canvas=3
 is being converted into a new book, and an 
 old book that is being reprinted. 
 
-## Printing with Raised Type on Cylinder Presses 
+## Printing with Raised Type on Cylinder Presses
 
 From the time of John Gutenberg until that of Ottmar Mergenthaler, the process of printing remained fundamentally the 
 same. Separate types, laboriously set up 
@@ -162,8 +162,7 @@ flat-bed cylinder press. The type as laid
 on the flat surface, with its thousands of 
 slugs and individual types, does not present a true surface, It is, therefore, 
 necessary to prepare the surface of the 
-printing machine cylinder (called the tym- 
-pan sheet) so that even pressure is given 
+printing machine cylinder (called the tympan sheet) so that even pressure is given 
 on every part on the type. This operation 
 which is a most laborious affair if conscientiously done, is called "make-ready." 
 Without careful make-ready, satisfactory {% include pagebreak.html canvas=39 %} results are unobtainable. 
@@ -182,7 +181,7 @@ Without careful make-ready, satisfactory {% include pagebreak.html canvas=39 %} 
 
 {% include figure.html fig="03" %}
 
-## Printing: Composition Costs 
+## Printing: Composition Costs
 
 In printing from raised type on 
 flat-bed cylinder presses, composition 
@@ -277,8 +276,7 @@ particular attention. From a description {% include pagebreak.html canvas=40 %} 
 linotype and intertype, it is obvious that 
 making corrections in the matter already 
 set up is a costly operation, because each 
-error requires the substitution of an en- 
-tire line. With the monotype, corrections 
+error requires the substitution of an entire line. With the monotype, corrections 
 are somewhat cheaper, for only a single 
 letter, already cast, need be substituted. 
 
@@ -313,7 +311,7 @@ the photo-offset process. Some editors affirm that authors are so given to habit
 carelessness that reform in this respect is 
 possible only by changing human nature. 
 
-## Printing: Area Costs 
+## Printing: Area Costs
 
 As in the case of composition costs, 
 it is difficult for the author to control
@@ -434,7 +432,7 @@ The shift from 10-point to 8-point type
 would save one form out of three, or one-{%- include columnbreak.html canvas=43 col=2 -%}third of the area cost in a text of 50,000 
 words.
 
-## Printing: Running Costs 
+## Printing: Running Costs
 
 Running costs are not decisive in 
 small editions. The difference between 
@@ -467,12 +465,12 @@ the electrotype, resulting from coating an
 impression in wax electrolytically with 
 copper. But they have no place in the calculations of costs of small editions. 
 
-## Printing: Analysis of Costs 
+## Printing: Analysis of Costs
 
 In analyzing the composition, the 
 area, and the running costs for producing 
 a book by straight printing, one might 
-take the cost behavior in Chicago as an example. A book of 50,000 words in an edition Of 250, on 128 6″ x 9″ pages, could be 
+take the cost behavior in Chicago as an example. A book of 50,000 words in an edition of 250, on 128 6″ x 9″ pages, could be 
 made for $246.57. Taking these figures as 
 an illustrative sample, it appears that for 
 composing and printing a book, about 50% 
@@ -506,7 +504,7 @@ the regional and urban-rural differentials
 are closed up, small-edition publishing {% include columnbreak.html canvas=44 col=2 %} can be expected to drift to the 
 areas. 
 
-## The Multigraph Process 
+## The Multigraph Process
 
 In multigraphing, the scholar encounters the curious situation that while 
 he is trying to find an economical means of 
@@ -597,8 +595,7 @@ body (note [Figure VI](#figure_06), set in 12-point and
 book composition, would be leaded two 
 points; 8-point type, four points; and 6-point type, used for footnotes, six points. 
 For spacing between paragraphs, a channel 
-of the drum would be left empty. In 10- 
-point composition the loss in compactness 
+of the drum would be left empty. In 10-point composition the loss in compactness 
 over ordinary composition leaded one point 
 is about 30%, and this percentage increases 
 as the size of the type decreases. The waste 
@@ -684,7 +681,7 @@ table is to compare estimates on a newsprint format with estimates on a good sou
 
 {% include pagebreak.html canvas=59 %} 
 
-## Alternatives to Printing 
+## Alternatives to Printing
 
 This is the cost picture that printing presents to the scholar. If the problems of scholarly publishing are not met at 
 this cost level, the alternative to be studied is the use of typescript reproduced by 
@@ -698,7 +695,7 @@ analyzed as devices for reprinting, and
 they will therefore be described in that 
 connection. 
 
-## Reprinting: the Photo-offset Process 
+## Reprinting: the Photo-offset Process
 
 The process known as photolithography, photo-offset, lithoprinting, offset 
 printing, planograph printing, and a number 
@@ -787,7 +784,7 @@ quality (see Figures [XXV](05-the-typescript-book-or-memorandum-reproduction-tec
 been used in reproducing pictures in the 
 chapter on illustrations. 
 
-## Photo-Offset: Composition Costs 
+## Photo-Offset: Composition Costs
 
 The composition of the text from 
 which the photographic negative is produced 
@@ -804,7 +801,7 @@ composition whatever, the old book serving
 as master copy for the photographic part of 
 the process. 
 
-## Photo-Offset: Area Costs 
+## Photo-Offset: Area Costs
 
 In the photo-offset process cost 
 behavior is controlled by the fact that 
@@ -812,10 +809,9 @@ first costs in the shop are essentially
 area costs. It is to the area costs, that 
 is, to the preparation of the photographic 
 negative and to the making of the metal 
-plates, that chief attention must be devot- 
-ed. 
+plates, that chief attention must be devoted. 
 
-### (a) The Photographic Negative 
+### (a) The Photographic Negative
 
 In the preparation of the photographic negative, various kinds of materi{%- include columnbreak.html canvas=60 col=2 -%}als can be used. The photo-offset process 
 was originally developed with wet-plate 
@@ -829,11 +825,9 @@ the camera and be developed and fixed as a
 photographic negative. It would then have 
 its surface strengthened by applications of 
 a liquid rubber solution and collodion. The 
-result would be a "sandwich" of the photo- 
-graphic silver image between two sheets of 
+result would be a "sandwich" of the photographic silver image between two sheets of 
 collodion adhering to the glass plate. Then 
-the photoengraver would soak off the sand- 
-wich with a bath of acetic acid and use it 
+the photoengraver would soak off the sandwich with a bath of acetic acid and use it 
 as a negative in preparing the metal sheet 
 printing surface. More recently it has become the practice to use film rather than 
 wet plate at this stage of the process, and 
@@ -907,7 +901,7 @@ This discount when given runs near to 15%.
 [^n10]:  Figured on basis of quotations given for producing a book of 128 pages, 6″ x 9″, in an edition of fifty, 
     exclusive of paper and binding costs. 
 
-### (b) The Preparation of the Metal Plate 
+### (b) The Preparation of the Metal Plate
 
 However, in computing area costs, 
 the preparation of the metal plate is a 
@@ -918,8 +912,7 @@ the *Standard Book of Estimating for Printers*, and published in the *American P
 for June, 1932 (p. 55), as follows. According to information recently received, these 
 prices hold today. From these figures it
 appears that the price of photo-offset 
-printing surface should be somewhere be- 
-tween $2.14 and $2.41 per 100 square inches. 
+printing surface should be somewhere between $2.14 and $2.41 per 100 square inches. 
 These figures agree roughly with those obtained from certain firms in 1933 and with 
 quotations obtained in 1931. 
 
@@ -970,11 +963,11 @@ reduce the size to one that will fit evenly, or with minimum wastage, on the met
 sheet of the press that will be used on the 
 job. 
 
-### (d) Area Costs and Legibility 
+### (d) Area Costs and Legibility
 
 The principle which permits this 
 economy has wide application. Since the 
-printing surface for the photo-offset process, is prepared. photographically, the material to be reproduced can be enlarged or 
+printing surface for the photo-offset process, is prepared  photographically, the material to be reproduced can be enlarged or 
 reduced to any degree desired. The purchaser buys the use of a certain number of {% include columnbreak.html canvas=64 col=2 %} square inches of printing surface; it is 
 almost immaterial to the printer what is 
 contained within these dimensions. This 
@@ -1000,7 +993,7 @@ the size of the print down to the lowest
 point of legibility. There would seem to 
 be several thresholds: first, the limiting 
 size of the type that can be read without 
-special strain or attention (accordime to 
+special strain or attention (according to 
 Vernon, it is 6-point type); below the 
 there is perhaps the smallest type that can 
 be read without the use of a reading glass; 
@@ -1055,7 +1048,7 @@ with an old book to be copied by photo-offset will find the costs depending on
 the size of the letters rather than the 
 number of words. 
 
-## Photo-Offset: Reprint Economy 
+## Photo-Offset: Reprint Economy
 
 An important cost element that must 
 also be taken into account in evaluating 
@@ -1150,7 +1143,7 @@ If a second printing is cheaply available,
 it is not necessary to risk large first 
 printings that may remain unsold. 
 
-## Photo-Offset: the Outlook for the Future 
+## Photo-Offset: the Outlook for the Future
 
 The development of the photo-offset 
 apparatus as an additional shop equipment for {% include columnbreak.html canvas=68 col=2 %} letterpress printers has already had an important influence on scholarship through 
@@ -1233,7 +1226,7 @@ cost level of the photostat copy and the
 running costs of making copies stand at the 
 cost level of the mimeograph,. 
 
-## Reprint Processes: Dermaprint 
+## Reprint Processes: Dermaprint
 
 The dermaprint is at present the 
 process that tends toward this desideratum. 
